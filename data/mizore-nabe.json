@@ -1,0 +1,171 @@
+{
+    "name": "Mizore Nabe (Hot Pot with Grated Daikon)",
+    "summary": "With napa cabbage, fried tofu, and mushrooms simmered in kombu dashi, Mizore Nabe is a Japanese hot pot cooked with grated daikon.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/12/Mizore-Nabe-5093-IV-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "daikon",
+        "hot pot"
+    ],
+    "ingredients": [
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "kombu",
+            "raw_text": "kombu (dried kelp)"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "napa cabbage",
+            "raw_text": "napa cabbage"
+        },
+        {
+            "name": "mizuna",
+            "raw_text": "mizuna (Japanese mustard green)"
+        },
+        {
+            "name": "carrots",
+            "raw_text": "carrots"
+        },
+        {
+            "name": "Tokyo negi",
+            "raw_text": "Tokyo negi (naga negi; long green onion)"
+        },
+        {
+            "name": "green onion/scallion",
+            "raw_text": "green onion/scallion"
+        },
+        {
+            "name": "shimeji mushrooms",
+            "raw_text": "shimeji mushrooms"
+        },
+        {
+            "name": "shiitake mushrooms",
+            "raw_text": "shiitake mushrooms"
+        },
+        {
+            "name": "aburaage",
+            "raw_text": "aburaage (deep-fried tofu pouch)"
+        },
+        {
+            "name": "kirimochi or homemade mochi",
+            "raw_text": "kirimochi or homemade mochi"
+        },
+        {
+            "name": "daikon radish",
+            "raw_text": "daikon radish"
+        },
+        {
+            "name": "thinly sliced pork loin",
+            "raw_text": "thinly sliced pork loin"
+        },
+        {
+            "name": "ponzu",
+            "raw_text": "ponzu"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "365",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "46",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "33",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "75",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "669",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1519",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "36",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "5166",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "105",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "255",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "name": "Japanese Salted Salmon (Shiojake/Shiozake)",
+    "summary": "In this straightforward recipe for Japanese Salted Salmon (Shiozake/Shiojake), I'll teach you how to cut, salt, and broil your Japanese-style salmon fillets. Enjoy this flavorful salmon\u00a0with crispy skin as a filling for rice balls, in a bento lunchbox, or as the wholesome centerpiece of a traditional Japanese breakfast.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2022/03/Shiozake-Japanese-Salted-Salmon-7127-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "salmon"
+    ],
+    "ingredients": [
+        {
+            "name": "skin-on Japanese-style salmon fillets",
+            "raw_text": "skin-on Japanese-style salmon fillets"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "daikon radish",
+            "raw_text": "daikon radish"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "108",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "41",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "665",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "385",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "30",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "2",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "11",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

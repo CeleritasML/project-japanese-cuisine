@@ -1,0 +1,126 @@
+{
+    "name": "Shiso Pesto Pasta",
+    "summary": "This Shiso Pesto Pasta delivers its sunny character and bold flavor from the homemade green shiso (perilla) pesto sauce. It's one of those light and easy weeknight dishes you want to enjoy all summer long. ",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/06/Shiso-Pesto-Pasta-7190-IV-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "pasta",
+        "shiso"
+    ],
+    "ingredients": [
+        {
+            "name": "pasta",
+            "raw_text": "pasta"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "Shiso Pesto",
+            "raw_text": "Shiso Pesto (homemade)"
+        },
+        {
+            "name": "reserved pasta water",
+            "raw_text": "reserved pasta water"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "Parmigiano-Reggiano",
+            "raw_text": "Parmigiano-Reggiano (Parmesan) cheese"
+        },
+        {
+            "name": "shiso leaves",
+            "raw_text": "shiso leaves (perilla/ooba)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "470",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "75",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "3",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "130",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "252",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "32",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "62",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

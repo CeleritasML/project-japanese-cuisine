@@ -1,0 +1,159 @@
+{
+    "name": "Chicken Scallopini with Lemon Butter Pasta",
+    "summary": "Pasta with chicken breast tenders, apple wood bacon slices, mushrooms, fresh thymes, and cherry tomatoes. Easy and quick meal for busy weeknight!\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2011/10/Chicken-Scallopini-with-Lemon-Butter-Pasta-400x400.jpg",
+    "cuisine": "Italian",
+    "keywords": [
+        "chicken",
+        "pasta"
+    ],
+    "ingredients": [
+        {
+            "name": "chicken tenders",
+            "raw_text": "chicken tenders"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "spaghetti",
+            "raw_text": "spaghetti"
+        },
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "applewood smoked bacon",
+            "raw_text": "applewood smoked bacon"
+        },
+        {
+            "name": "thymes",
+            "raw_text": "thymes"
+        },
+        {
+            "name": "mushrooms",
+            "raw_text": "mushrooms"
+        },
+        {
+            "name": "cherry tomatoes",
+            "raw_text": "cherry tomatoes"
+        },
+        {
+            "name": "heavy whipping cream",
+            "raw_text": "heavy whipping cream"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "lemon",
+            "raw_text": "lemon"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "1434",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "101",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "61",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "88",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "45",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "29",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "333",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "679",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1518",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "2710",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "45",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "158",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

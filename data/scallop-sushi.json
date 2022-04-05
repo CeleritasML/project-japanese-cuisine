@@ -1,0 +1,126 @@
+{
+    "name": "Scallop Sushi",
+    "summary": "Tender and sweet Scallop Sushi! These butterflied scallops are placed on top of sushi rice and garnished with spicy mayo and yuzu tobiko.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2014/02/Scallop-Sushi-400x400.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "scallop",
+        "sushi"
+    ],
+    "ingredients": [
+        {
+            "name": "sushi-grade scallops",
+            "raw_text": "sushi-grade scallops"
+        },
+        {
+            "name": "sushi rice",
+            "raw_text": "sushi rice (cooked and seasoned)"
+        },
+        {
+            "name": "wasabi",
+            "raw_text": "wasabi"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "yuzu-flavored tobiko",
+            "raw_text": "yuzu-flavored tobiko (flying fish roe)"
+        },
+        {
+            "name": "Spicy Mayo",
+            "raw_text": "Spicy Mayo (homemade)"
+        },
+        {
+            "name": "chives",
+            "raw_text": "chives"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "36",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "4",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "60",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "36",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "44",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "2",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "name": "Oyakodon (Chicken and Egg Bowl)",
+    "summary": "Oyakodon is cooked in one pan where the onions, chicken, and egg are simmered in an umami-rich, dashi-based sauce. It is then poured over a bowl of fluffy steamed rice. Simple, delicious, and utterly comforting, this is the kind of one-bowl meal you can cook in less than 30 minutes!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2011/02/Oyakodon-w600-400x400.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "donburi",
+        "over rice"
+    ],
+    "ingredients": [
+        {
+            "name": "boneless, skinless chicken thighs",
+            "raw_text": "boneless, skinless chicken thighs"
+        },
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "dashi",
+            "raw_text": "dashi (Japanese soup stock; click to learn more)"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "mitsuba",
+            "raw_text": "mitsuba (Japanese parsley)"
+        },
+        {
+            "name": "shichimi togarashi",
+            "raw_text": "shichimi togarashi (Japanese seven spice)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "389",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "36",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "32",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "293",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "679",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "448",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "299",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "3",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "50",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

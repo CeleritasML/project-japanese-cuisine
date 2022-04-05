@@ -1,0 +1,126 @@
+{
+    "name": "Hoba Miso with Beef",
+    "summary": "Hoba Miso is a regional dish in Hida Takayama area of Japan. In this recipe, I\u2019ll show you how to re-create this beautiful dish at home.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2015/11/Hoba-Miso-with-Beef-400x400.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "miso",
+        "steak"
+    ],
+    "ingredients": [
+        {
+            "name": "dried hoba leaves",
+            "raw_text": "dried hoba leaves"
+        },
+        {
+            "name": "Tokyo negi",
+            "raw_text": "Tokyo negi (naga negi; long green onion)"
+        },
+        {
+            "name": "shiitake mushrooms",
+            "raw_text": "shiitake mushrooms"
+        },
+        {
+            "name": "well-marbled beef steak",
+            "raw_text": "well-marbled beef steak"
+        },
+        {
+            "name": "green onion/scallion",
+            "raw_text": "green onion/scallion"
+        },
+        {
+            "name": "miso",
+            "raw_text": "miso"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "253",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "22",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "61",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "497",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "337",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "115",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "2",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "20",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

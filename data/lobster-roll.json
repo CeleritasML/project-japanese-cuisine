@@ -1,0 +1,135 @@
+{
+    "name": "Lobster Roll",
+    "summary": "When you're craving for some sweet, succulent lobster meat coated with spicy mayo piled into a buttery toasted bun, here\u2019s the recipe you need to make hassle-free lobster rolls at home.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/10/Lobster-Roll-1561-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "lobster",
+        "sandwich"
+    ],
+    "ingredients": [
+        {
+            "name": "lobster tails with shell",
+            "raw_text": "lobster tails with shell"
+        },
+        {
+            "name": "celery",
+            "raw_text": "celery"
+        },
+        {
+            "name": "chives",
+            "raw_text": "chives"
+        },
+        {
+            "name": "WAFU Spicy Mayonaizu",
+            "raw_text": "WAFU Spicy Mayonaizu"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "New England style split-top hot dog buns",
+            "raw_text": "New England style split-top hot dog buns"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "lemon",
+            "raw_text": "lemon"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "212",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "21",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "66",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "398",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "156",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "214",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "111",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

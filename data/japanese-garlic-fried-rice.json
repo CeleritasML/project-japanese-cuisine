@@ -1,0 +1,142 @@
+{
+    "name": "Japanese Garlic Fried Rice",
+    "summary": "Garlicky and buttery, this simple Japanese Garlic Fried Rice topped with garlic chips is a dish I have cooked many times over the years as one of my go-to rice dishes. This fried rice recipe matches so well with a delicious side like succulent grilled shrimp.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/09/Japanese-Garlic-Fried-Rice-0762-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "fried rice",
+        "garlic rice",
+        "grilled shrimp"
+    ],
+    "ingredients": [
+        {
+            "name": "uncooked Japanese short-grain rice",
+            "raw_text": "uncooked Japanese short-grain rice"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "parsley",
+            "raw_text": "parsley"
+        },
+        {
+            "name": "shrimp",
+            "raw_text": "shrimp"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "482",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "55",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "24",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "60",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "442",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "87",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "302",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "4",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "38",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

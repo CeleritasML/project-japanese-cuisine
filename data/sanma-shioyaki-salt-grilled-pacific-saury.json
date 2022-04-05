@@ -1,0 +1,118 @@
+{
+    "name": "Sanma Shioyaki (Salt-Grilled Pacific Saury)",
+    "summary": "Sanma or Pacific Saury is one of the most well-known seasonal fish representing autumn in Japanese cuisine.\u00a0 It\u2019s usually salted and grilled whole even with intestines intact, and served with grated daikon and soy sauce to intensify the flavor of the fish.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2011/10/Sanma-Shioyaki-e1319438473798-400x399.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "pacific saury",
+        "sanma"
+    ],
+    "ingredients": [
+        {
+            "name": "Pacific saury",
+            "raw_text": "Pacific saury (sanma)"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "daikon radish",
+            "raw_text": "daikon radish"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "lemon",
+            "raw_text": "lemon"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "270",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "31",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "71",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "616",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "681",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "93",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "10",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "43",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "name": "Gyudon (Japanese Beef Bowl)",
+    "summary": "Thinly sliced beef simmered with tender onions, savory-sweet sauce, and egg, Gyudon is synonymous with comfort. It has been a staple in Japanese cuisine for over 150 years! ",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/01/Gyudon-2264-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "beef",
+        "donburi",
+        "rice bowl"
+    ],
+    "ingredients": [
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "green onions/scallions",
+            "raw_text": "green onions/scallions"
+        },
+        {
+            "name": "thinly sliced beef",
+            "raw_text": "thinly sliced beef (chuck or rib eye)"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "pickled red ginger",
+            "raw_text": "pickled red ginger (beni shoga or kizami beni shoga)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "540",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "37",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "33",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "26",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "255",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "901",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "476",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "368",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "4",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "52",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

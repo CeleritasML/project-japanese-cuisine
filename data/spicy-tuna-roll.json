@@ -1,0 +1,134 @@
+{
+    "name": "Spicy Tuna Roll",
+    "summary": "Fiery Spicy Tuna Rolls with sashimi grade tuna tossed in sesame Sriracha sauce, topped with spicy mayo for that extra oomph!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2013/05/Spicy-Tuna-Roll-400x400.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "spicy tuna",
+        "sushi roll"
+    ],
+    "ingredients": [
+        {
+            "name": "sushi rice",
+            "raw_text": "sushi rice (cooked and seasoned)"
+        },
+        {
+            "name": "sashimi-grade tuna",
+            "raw_text": "sashimi-grade tuna"
+        },
+        {
+            "name": "sriracha sauce",
+            "raw_text": "sriracha sauce"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "green onions/scallions",
+            "raw_text": "green onions/scallions"
+        },
+        {
+            "name": "nori",
+            "raw_text": "nori (dried laver seaweed)"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "Spicy Mayo",
+            "raw_text": "Spicy Mayo (homemade)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "268",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "30",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "18",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "22",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "191",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "240",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "1433",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "7",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "95",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

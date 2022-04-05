@@ -1,0 +1,155 @@
+{
+    "name": "Cold Curry Udon",
+    "summary": "Cold Curry Udon is chilled udon soaked in curry soup, topped with sliced pork, boiled egg, sliced onion, julienned cucumber, mizuna leaves, tomatoes, and grilled eggplant. It\u2019s a colorful, nutritious and refreshingly savory summer dish!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/03/Cold-Curry-Udon-4-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "curry udon",
+        "japanese curry",
+        "udon noodle"
+    ],
+    "ingredients": [
+        {
+            "name": "dashi",
+            "raw_text": "dashi (Japanese soup stock; click to learn more)"
+        },
+        {
+            "name": "thinly sliced pork",
+            "raw_text": "thinly sliced pork"
+        },
+        {
+            "name": "udon noodles",
+            "raw_text": "udon noodles"
+        },
+        {
+            "name": "Japanese eggplant",
+            "raw_text": "Japanese eggplant"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "Japanese or Persian cucumber",
+            "raw_text": "Japanese or Persian cucumber"
+        },
+        {
+            "name": "tomato",
+            "raw_text": "tomato"
+        },
+        {
+            "name": "mizuna",
+            "raw_text": "mizuna (Japanese mustard green)"
+        },
+        {
+            "name": "hard-boiled egg",
+            "raw_text": "hard-boiled egg"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "Japanese curry roux",
+            "raw_text": "Japanese curry roux"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "507",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "65",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "26",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "129",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "925",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "703",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "1277",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "25",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "86",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

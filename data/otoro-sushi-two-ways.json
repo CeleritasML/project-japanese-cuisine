@@ -1,0 +1,108 @@
+{
+    "name": "Otoro Sushi Two Ways",
+    "summary": "Otoro Sushi - Enjoy the most valued part of the tuna belly with sushi in two ways, seared and drizzled with yuzu juice or just with a touch of soy sauce. Either way, the sushi literally melts in your mouth!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2014/12/Ootoro-Sushi-400x400.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "sushi",
+        "tuna"
+    ],
+    "ingredients": [
+        {
+            "name": "sushi-grade otoro",
+            "raw_text": "sushi-grade otoro (fatty tuna)"
+        },
+        {
+            "name": "sushi rice pillows",
+            "raw_text": "sushi rice pillows"
+        },
+        {
+            "name": "yuzu",
+            "raw_text": "yuzu"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "wasabi",
+            "raw_text": "wasabi"
+        },
+        {
+            "name": "sushi ginger",
+            "raw_text": "sushi ginger"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "109",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "15",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "17",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "111",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "873",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "5",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

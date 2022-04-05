@@ -1,0 +1,120 @@
+{
+    "name": "Unagi Chazuke (Hitsumabushi)",
+    "summary": "Unagi Chazuke is a popular rice bowl featuring grilled/broiled eel and a hot broth is poured over to enjoy. A perfect meal for busy weeknights!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/01/Unagi-Chazuke-3493-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "donburi",
+        "unagi"
+    ],
+    "ingredients": [
+        {
+            "name": "dashi",
+            "raw_text": "dashi (Japanese soup stock; click to learn more)"
+        },
+        {
+            "name": "kobucha",
+            "raw_text": "kobucha (kombucha)"
+        },
+        {
+            "name": "unagi",
+            "raw_text": "unagi (eel)"
+        },
+        {
+            "name": "Unagi Sauce",
+            "raw_text": "Unagi Sauce (homemade or store bought)"
+        },
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "green onion/scallion",
+            "raw_text": "green onion/scallion"
+        },
+        {
+            "name": "mitsuba",
+            "raw_text": "mitsuba (Japanese parsley)"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "Japanese sansho pepper",
+            "raw_text": "Japanese sansho pepper"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "315",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "40",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "29",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "101",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "957",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "266",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "2782",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "48",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "13",
+            "unit": "mg"
+        }
+    ]
+}

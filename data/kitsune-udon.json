@@ -1,0 +1,141 @@
+{
+    "name": "Kitsune Udon",
+    "summary": "Kitsune Udon is an iconic Japanese noodle soup featuring seasoned fried tofu in dashi broth and topped with pink-swirl narutomaki fish cake and scallions.\u00a0This hearty udon soup is one of the most popular, classic Japanese noodle dishes.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/03/Kitsune-Udon-3765-I.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "noodle soup",
+        "udon noodle"
+    ],
+    "ingredients": [
+        {
+            "name": "dashi",
+            "raw_text": "dashi (Japanese soup stock; click to learn more)"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "usukuchi",
+            "raw_text": "usukuchi (light-colored) soy sauce"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "udon noodles",
+            "raw_text": "udon noodles"
+        },
+        {
+            "name": "Inari age",
+            "raw_text": "Inari age (seasoned fried tofu pouch)"
+        },
+        {
+            "name": "green onion/scallion",
+            "raw_text": "green onion/scallion"
+        },
+        {
+            "name": "narutomaki",
+            "raw_text": "narutomaki (fish cakes)"
+        },
+        {
+            "name": "shichimi togarashi",
+            "raw_text": "shichimi togarashi (Japanese seven spice)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "kombu",
+            "raw_text": "kombu (dried kelp) "
+        },
+        {
+            "name": "katsuobushi",
+            "raw_text": "katsuobushi (dried bonito flakes)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "328",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "57",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "782",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "60",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "60",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "38",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

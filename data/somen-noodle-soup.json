@@ -1,0 +1,167 @@
+{
+    "name": "Somen Noodle Soup (Nyumen)",
+    "summary": "Known as nyumen in Japan, this quick and nourishing Somen Noodle Soup is a regional food of Nara prefecture. It\u2019s cooked in a delicious dashi broth and filled with nutrient-rich ingredients like shiitake mushrooms, vegetables, fish cake, and egg. You'll love its simplicity and comfort! It's ready in just 20 minutes!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2022/01/Somen-Noodle-Soup-4779-I-1-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "egg",
+        "somen"
+    ],
+    "ingredients": [
+        {
+            "name": "dashi",
+            "raw_text": "dashi"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "bok choy",
+            "raw_text": "bok choy"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "shiitake mushrooms",
+            "raw_text": "shiitake mushrooms"
+        },
+        {
+            "name": "kamaboko",
+            "raw_text": "kamaboko (fish cake)"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "dried somen noodles",
+            "raw_text": "dried somen noodles"
+        },
+        {
+            "name": "green onion/scallion",
+            "raw_text": "green onion/scallion"
+        },
+        {
+            "name": "mitsuba",
+            "raw_text": "mitsuba (Japanese parsley)"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "mentsuyu/tsuyu",
+            "raw_text": "mentsuyu/tsuyu (concentrated noodle soup base)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "435",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "71",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "280",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1046",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "329",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "4278",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "15",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "101",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

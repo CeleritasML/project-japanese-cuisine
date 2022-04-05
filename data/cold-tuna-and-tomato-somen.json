@@ -1,0 +1,135 @@
+{
+    "name": "Cold Tuna and Tomato Somen",
+    "summary": "This 15-Minute Cold Tuna and Tomato Somen Noodle is the noodle you need for summertime! With savory tuna, juicy tomatoes, and chilled umami-rich broth, you'd be happily slurping away even on a hot day.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/07/Cold-Tuna-and-Tomato-Somen-9440-NEW-I-1-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "canned tuna",
+        "somen",
+        "tomato"
+    ],
+    "ingredients": [
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "albacore tuna",
+            "raw_text": "albacore tuna (preferably packed in olive oil)"
+        },
+        {
+            "name": "tomato",
+            "raw_text": "tomato"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "shiso leaves",
+            "raw_text": "shiso leaves (perilla/ooba)"
+        },
+        {
+            "name": "dried somen noodles",
+            "raw_text": "dried somen noodles"
+        },
+        {
+            "name": "mentsuyu/tsuyu",
+            "raw_text": "mentsuyu/tsuyu (concentrated noodle soup base)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "444",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "72",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "23",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "13",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "871",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "219",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "562",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "9",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "30",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

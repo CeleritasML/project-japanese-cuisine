@@ -1,0 +1,130 @@
+{
+    "name": "Tonkatsu Bento",
+    "summary": "Bento lunch box with Tonkatsu, tomato, golden kiwi, and broccoli. Yummy Japanese lunchbox to go!\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2012/09/Tonkatsu-Bento-400x400.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "bento"
+    ],
+    "ingredients": [
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "tonkatsu",
+            "raw_text": "tonkatsu"
+        },
+        {
+            "name": "tonkatsu sauce",
+            "raw_text": "tonkatsu sauce"
+        },
+        {
+            "name": "tomatoes",
+            "raw_text": "tomatoes"
+        },
+        {
+            "name": "lettuce",
+            "raw_text": "lettuce"
+        },
+        {
+            "name": "red radish",
+            "raw_text": "red radish"
+        },
+        {
+            "name": "broccoli",
+            "raw_text": "broccoli"
+        },
+        {
+            "name": "salad dressing",
+            "raw_text": "salad dressing"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "527",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "42",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "27",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "27",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "20",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "123",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "274",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "590",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "629",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "18",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "48",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

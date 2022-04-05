@@ -1,0 +1,173 @@
+{
+    "name": "Macaroni Gratin",
+    "summary": "So amazingly rich, creamy, and buttery, this Macaroni Gratin with easy homemade white sauce is true comfort food! Guaranteed to be everyone\u2019s favorite meal for dinner. ",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/10/Macaroni-Gratin-2634-I-2-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "gratin",
+        "pasta"
+    ],
+    "ingredients": [
+        {
+            "name": "shrimp",
+            "raw_text": "shrimp"
+        },
+        {
+            "name": "boneless, skinless chicken thigh",
+            "raw_text": "boneless, skinless chicken thigh"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "cremini mushrooms",
+            "raw_text": "cremini mushrooms"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "whole milk",
+            "raw_text": "whole milk"
+        },
+        {
+            "name": "heavy whipping cream",
+            "raw_text": "heavy whipping cream"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "white pepper powder",
+            "raw_text": "white pepper powder"
+        },
+        {
+            "name": "uncooked elbow macaroni",
+            "raw_text": "uncooked elbow macaroni"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "Gruyere cheese",
+            "raw_text": "Gruyere cheese"
+        },
+        {
+            "name": "Parmigiano-Reggiano",
+            "raw_text": "Parmigiano-Reggiano (Parmesan) cheese"
+        },
+        {
+            "name": "panko",
+            "raw_text": "panko (Japanese breadcrumbs)"
+        },
+        {
+            "name": "chives",
+            "raw_text": "chives"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "870",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "71",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "44",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "44",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "23",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "257",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1009",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "762",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "1298",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "5",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "590",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

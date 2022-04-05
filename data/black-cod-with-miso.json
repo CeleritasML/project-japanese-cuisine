@@ -1,0 +1,136 @@
+{
+    "name": "Miso Cod (Black Cod with Miso)",
+    "summary": "Marinated in saikyo miso and baked to perfection, Black Cod with Miso (Saikyo Yaki) is a beautiful seafood dish that you can pull off at home. With its delicate and buttery texture, the Miso Cod simply melts in your mouth. Just like Nobu's!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/02/Miso-Cod-Black-Cod-with-Miso-2-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "black cod",
+        "miso",
+        "miso cod",
+        "saikyoyaki"
+    ],
+    "ingredients": [
+        {
+            "name": "sablefish",
+            "raw_text": "sablefish (gindara)"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "Saikyo miso",
+            "raw_text": "Saikyo miso (Kyoto-style white miso)"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "white miso",
+            "raw_text": "white miso"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "136",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "27",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "80",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "705",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "411",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "15",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "17",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

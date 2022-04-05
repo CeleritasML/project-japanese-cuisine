@@ -1,0 +1,159 @@
+{
+    "name": "Bone-In Chicken Curry",
+    "summary": "Aromatic, creamy, and packed with complex flavors, this Japanese Bone-In Chicken Curry is delicious right out of the gate! It's extra comforting and characteristically Japanese when you serve it over steamed rice. Since the spices on the milder side, this curry is a please-all favorite, even with small children. ",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/04/Bone-in-Chicken-Curry-6790-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "chicken",
+        "curry"
+    ],
+    "ingredients": [
+        {
+            "name": "bone-in skin-on chicken thighs",
+            "raw_text": "bone-in skin-on chicken thighs"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "onions",
+            "raw_text": "onions"
+        },
+        {
+            "name": "Yukon gold potato",
+            "raw_text": "Yukon gold potato"
+        },
+        {
+            "name": "carrots",
+            "raw_text": "carrots"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "green peas",
+            "raw_text": "green peas"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "Chicken Stock/Broth",
+            "raw_text": "Chicken Stock/Broth (homemade or store bought)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "Japanese curry roux",
+            "raw_text": "Japanese curry roux"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "614",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "30",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "32",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "35",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "167",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1054",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "840",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "4939",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "24",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "92",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

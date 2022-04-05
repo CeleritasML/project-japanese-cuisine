@@ -1,0 +1,193 @@
+{
+    "name": "Vegetarian Japanese Curry",
+    "summary": " {Vegan Adaptable} This vegetarian Japanese curry is loaded with thick, meaty slices of king oyster mushrooms and colorful chunky vegetables such as kabocha, eggplant, and asparagus. With homemade Japanese curry roux, this dish is no doubt our family\u2019s favorite for a bright and flavorful dinner!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/02/Vegetarian-Curry-4360-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "curry",
+        "vegetarian"
+    ],
+    "ingredients": [
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "yukon gold potatoes",
+            "raw_text": "yukon gold potatoes"
+        },
+        {
+            "name": "kabocha",
+            "raw_text": "kabocha"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        },
+        {
+            "name": "bell pepper",
+            "raw_text": "bell pepper"
+        },
+        {
+            "name": "asparagus",
+            "raw_text": "asparagus"
+        },
+        {
+            "name": "Japanese eggplant",
+            "raw_text": "Japanese eggplant"
+        },
+        {
+            "name": "king oyster mushrooms",
+            "raw_text": "king oyster mushrooms (eringi)"
+        },
+        {
+            "name": "shimeji mushrooms",
+            "raw_text": "shimeji mushrooms"
+        },
+        {
+            "name": "button mushrooms",
+            "raw_text": "button mushrooms"
+        },
+        {
+            "name": "tomato",
+            "raw_text": "tomato"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "vegetable stock/broth",
+            "raw_text": "vegetable stock/broth"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "bay leaf",
+            "raw_text": "bay leaf"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "Japanese Curry Roux",
+            "raw_text": "Japanese Curry Roux (homemade or store bought)"
+        },
+        {
+            "name": "apple",
+            "raw_text": "apple"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "Japanese curry powder",
+            "raw_text": "Japanese curry powder"
+        },
+        {
+            "name": "garam masala",
+            "raw_text": "garam masala"
+        },
+        {
+            "name": "cayenne pepper",
+            "raw_text": "cayenne pepper"
+        },
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "552",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "79",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "24",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "30",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "746",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1304",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "7239",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "107",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "80",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "5",
+            "unit": "mg"
+        }
+    ]
+}

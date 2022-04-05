@@ -1,0 +1,209 @@
+{
+    "name": "Meal Prep DIY Bowls",
+    "summary": "Find some time on the weekend to meal prep these healthy, home-cooked DIY Bowls! Not only are they fun, but they can also save so much of your time and money. No more asking yourself what to cook for dinner after a long day!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/09/Meal-Prep-DIY-Bowls-9384I-I-2-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "green onion",
+        "ponzu"
+    ],
+    "ingredients": [
+        {
+            "name": "green onions/scallions",
+            "raw_text": "green onions/scallions"
+        },
+        {
+            "name": "dried red chili pepper",
+            "raw_text": "dried red chili pepper"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "ponzu",
+            "raw_text": "ponzu"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "salmon",
+            "raw_text": "salmon"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "extra-firm tofu",
+            "raw_text": "extra-firm tofu"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "boneless, skinless chicken thighs",
+            "raw_text": "boneless, skinless chicken thighs"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "carb of your choice",
+            "raw_text": "carb of your choice"
+        },
+        {
+            "name": "veggies/mushrooms of your choice",
+            "raw_text": "veggies/mushrooms of your choice"
+        },
+        {
+            "name": "sauce of your choice",
+            "raw_text": "sauce of your choice"
+        },
+        {
+            "name": "garnish of your choice",
+            "raw_text": "garnish of your choice"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "549",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "36",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "47",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "22",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "155",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "792",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "945",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "561",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "11",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "62",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

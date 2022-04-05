@@ -1,0 +1,131 @@
+{
+    "name": "Creamy Miso Pasta with Tofu and Asparagus (Vegan)",
+    "summary": "This Creamy Miso Pasta with Tofu and Asparagus is the comfort food you need this spring! It's wholesome and incredibly flavorful. The best plant-based dinner ready in 20 minutes or less.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/04/Creamy-Miso-Pasta-with-Tofu-and-Asparagus-0711-3-I-1-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "asparagus",
+        "pasta",
+        "soy milk",
+        "tofu"
+    ],
+    "ingredients": [
+        {
+            "name": "fried firm tofu",
+            "raw_text": "fried firm tofu"
+        },
+        {
+            "name": "asparagus",
+            "raw_text": "asparagus"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "spaghetti",
+            "raw_text": "spaghetti"
+        },
+        {
+            "name": "unsweetened soy milk",
+            "raw_text": "unsweetened soy milk"
+        },
+        {
+            "name": "miso",
+            "raw_text": "miso"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "612",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "79",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "30",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "455",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "621",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "558",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "3",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "323",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "5",
+            "unit": "mg"
+        }
+    ]
+}

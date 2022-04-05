@@ -1,0 +1,147 @@
+{
+    "name": "Ume Shiso Pasta",
+    "summary": "If you enjoy Japanese style (wafu) pasta, you'd love this Ume Shiso Pasta where simple ingredients bring out the best of a dish.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/01/Ume-Shiso-Pasta-8504-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "pasta",
+        "umeboshi"
+    ],
+    "ingredients": [
+        {
+            "name": "spaghetti",
+            "raw_text": "spaghetti"
+        },
+        {
+            "name": "shiso leaves",
+            "raw_text": "shiso leaves (perilla/ooba)"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "shimeji mushrooms",
+            "raw_text": "shimeji mushrooms"
+        },
+        {
+            "name": "umeboshi",
+            "raw_text": "umeboshi (Japanese pickled plums)"
+        },
+        {
+            "name": "chicken tenders",
+            "raw_text": "chicken tenders"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "shredded nori seaweed",
+            "raw_text": "shredded nori seaweed (kizami nori)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "711",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "96",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "38",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "64",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "736",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "752",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "550",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "11",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "42",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

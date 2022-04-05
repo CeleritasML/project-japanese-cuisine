@@ -1,0 +1,152 @@
+{
+    "name": "Japanese Pasta with Shrimp and Asparagus",
+    "summary": "Seasoned with soy sauce and flavorful dashi broth, this Japanese-style Pasta with Shrimp and Asparagus is incredibly delicious and ready in less than 30 minutes! It\u2019s also gluten-free!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2017/03/Easy-Wafu-Pasta-with-Shrimp-and-Asparagus-400x400.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "asparagus",
+        "pasta",
+        "shrimp"
+    ],
+    "ingredients": [
+        {
+            "name": "red onion",
+            "raw_text": "red onion"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "asparagus",
+            "raw_text": "asparagus"
+        },
+        {
+            "name": "shrimp",
+            "raw_text": "shrimp"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "dried red chili pepper",
+            "raw_text": "dried red chili pepper"
+        },
+        {
+            "name": "dashi",
+            "raw_text": "dashi (Japanese soup stock; click to learn more)"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "crushed red peppers",
+            "raw_text": "crushed red peppers (red pepper flakes)"
+        },
+        {
+            "name": "gluten-free pasta",
+            "raw_text": "gluten-free pasta"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "585",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "100",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "18",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "23",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "487",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "239",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "921",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "8",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "37",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

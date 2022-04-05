@@ -1,0 +1,179 @@
+{
+    "name": "Tofu and Chicken Burger",
+    "summary": "Japanese tofu and chicken burger made from tofu, ground chicken, and shiitake mushroom with a tasty soy glaze.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2011/09/Chicken-Tofu-Hamburger-Steak-II-e1315516973766-400x399.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "chicken",
+        "tofu"
+    ],
+    "ingredients": [
+        {
+            "name": "medium-firm tofu",
+            "raw_text": "medium-firm tofu (momen tofu)"
+        },
+        {
+            "name": "green onions/scallions",
+            "raw_text": "green onions/scallions"
+        },
+        {
+            "name": "shiitake mushrooms",
+            "raw_text": "shiitake mushrooms"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        },
+        {
+            "name": "ground chicken thigh",
+            "raw_text": "ground chicken thigh"
+        },
+        {
+            "name": "large egg yolk",
+            "raw_text": "large egg yolk"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "shiso leaves",
+            "raw_text": "shiso leaves (perilla/ooba)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "298",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "26",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "159",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "766",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "711",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "92",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "81",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "name": "Sanshoku Bento",
+    "summary": "Artfully arranged with sweet ground chicken, salmon flakes, scrambled egg, and strawberries, this colorful Sanshoku Bento turns a simple school lunch or work lunch exciting.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/08/Sanshoku-Bento-3358-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "bento"
+    ],
+    "ingredients": [
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "soboro don",
+            "raw_text": "soboro don"
+        },
+        {
+            "name": "Japanese Salted Salmon",
+            "raw_text": "Japanese Salted Salmon (homemade or store bought)"
+        },
+        {
+            "name": "shredded nori seaweed",
+            "raw_text": "shredded nori seaweed (kizami nori)"
+        },
+        {
+            "name": "strawberries",
+            "raw_text": "strawberries"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "635",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "48",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "36",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "30",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "300",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "936",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "945",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "18",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "685",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "30",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "55",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

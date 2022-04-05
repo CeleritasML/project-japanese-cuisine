@@ -1,0 +1,146 @@
+{
+    "name": "Braised Carnitas",
+    "summary": "Delicious braised carnitas cooked in the oven!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2011/05/Braised-Carnitas-w600-400x400.jpg",
+    "cuisine": "Mexican",
+    "keywords": [
+        "pork"
+    ],
+    "ingredients": [
+        {
+            "name": "boneless country pork ribs",
+            "raw_text": "boneless country pork ribs"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "beer",
+            "raw_text": "beer"
+        },
+        {
+            "name": "chili powder",
+            "raw_text": "chili powder"
+        },
+        {
+            "name": "paprika",
+            "raw_text": "paprika"
+        },
+        {
+            "name": "cayenne pepper",
+            "raw_text": "cayenne pepper"
+        },
+        {
+            "name": "ground cumin",
+            "raw_text": "ground cumin"
+        },
+        {
+            "name": "bay leaves",
+            "raw_text": "bay leaves"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "502",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "35",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "32",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "131",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "349",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "640",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "250",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "2",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "56",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

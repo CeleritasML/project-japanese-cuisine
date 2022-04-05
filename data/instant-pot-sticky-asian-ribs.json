@@ -1,0 +1,160 @@
+{
+    "name": "Instant Pot Sticky Asian Ribs",
+    "summary": "Make these Sticky Asian Ribs in less than 90 minutes using the Instant Pot! Slathered with caramelized glaze, these ribs are absolutely finger-licking good!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/04/Instant-Pot-Asian-Sticky-Ribs-I-3-500x500.jpg",
+    "cuisine": "American, Japanese",
+    "keywords": [
+        "ribs"
+    ],
+    "ingredients": [
+        {
+            "name": "pork baby back ribs",
+            "raw_text": "pork baby back ribs"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "apple cider vinegar",
+            "raw_text": "apple cider vinegar"
+        },
+        {
+            "name": "liquid smoke",
+            "raw_text": "liquid smoke"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "shichimi togarashi",
+            "raw_text": "shichimi togarashi (Japanese seven spice)"
+        },
+        {
+            "name": "white pepper powder",
+            "raw_text": "white pepper powder"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "brown sugar",
+            "raw_text": "brown sugar"
+        },
+        {
+            "name": "honey",
+            "raw_text": "honey"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "green onion/scallion",
+            "raw_text": "green onion/scallion"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "838",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "65",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "55",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "230",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1319",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "896",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "313",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "142",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

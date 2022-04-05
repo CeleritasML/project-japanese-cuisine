@@ -1,0 +1,139 @@
+{
+    "name": "Yoshinoya Beef Bowl (Gyudon)",
+    "summary": "With savory and juicy sliced beef served over steamed rice, this delicious Yoshinoya Beef Bowl (Gyudon) is a keeper for a weeknight meal!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/01/Gyudon-5228-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "beef",
+        "donburi",
+        "rice bowl"
+    ],
+    "ingredients": [
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "green onion/scallion",
+            "raw_text": "green onion/scallion"
+        },
+        {
+            "name": "dashi",
+            "raw_text": "dashi (Japanese soup stock; click to learn more)"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "thinly sliced beef",
+            "raw_text": "thinly sliced beef (chuck or rib eye)"
+        },
+        {
+            "name": "pickled red ginger",
+            "raw_text": "pickled red ginger (beni shoga or kizami beni shoga)"
+        },
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "onsen tamago",
+            "raw_text": "onsen tamago"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "558",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "39",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "38",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "24",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "104",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "766",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "602",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "86",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "4",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "26",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "5",
+            "unit": "mg"
+        }
+    ]
+}

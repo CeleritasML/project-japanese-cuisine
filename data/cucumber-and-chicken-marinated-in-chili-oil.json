@@ -1,0 +1,137 @@
+{
+    "name": "Cucumber and Chicken Marinated in Chili Oil",
+    "summary": "Easy steamed chicken mixed with cucumber in chili oil (La-yu) dressing, perfect way to start a meal.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/09/Cucumber-and-Chicken-Marinated-in-Chili-Oil-7647-I-2-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "chicken",
+        "cucumber"
+    ],
+    "ingredients": [
+        {
+            "name": "Japanese or Persian cucumbers",
+            "raw_text": "Japanese or Persian cucumbers"
+        },
+        {
+            "name": "boneless, skinless chicken thighs",
+            "raw_text": "boneless, skinless chicken thighs"
+        },
+        {
+            "name": "Korean chili thread",
+            "raw_text": "Korean chili thread"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "la-yu",
+            "raw_text": "la-yu (Japanese chili oil)"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "150",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "88",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "265",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "409",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "153",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "3",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "28",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

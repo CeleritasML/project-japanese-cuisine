@@ -1,0 +1,122 @@
+{
+    "name": "Shio Koji Karaage Bento",
+    "summary": "Delicious Bento Box Idea: Shio Koji Karaage Bento. In this bento box, you have golden crunchy chicken with tamagoyaki (Japanese rolled omelette) and spinach gomaae, along with fruits and grape tomatoes for a colorful lunch.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2014/08/Karaage-Bento-4793-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "bento"
+    ],
+    "ingredients": [
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "shio koji karaage",
+            "raw_text": "shio koji karaage"
+        },
+        {
+            "name": "cherry tomatoes",
+            "raw_text": "cherry tomatoes"
+        },
+        {
+            "name": "Tamagoyaki",
+            "raw_text": "Tamagoyaki (Easy Version)"
+        },
+        {
+            "name": "spinach gomaae",
+            "raw_text": "spinach gomaae"
+        },
+        {
+            "name": "furikake",
+            "raw_text": "furikake (rice seasoning)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "603",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "48",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "26",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "34",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "335",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "770",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "850",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "6048",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "34",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "200",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "7",
+            "unit": "mg"
+        }
+    ]
+}

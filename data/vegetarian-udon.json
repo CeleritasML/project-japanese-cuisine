@@ -1,0 +1,180 @@
+{
+    "name": "Vegetarian Udon",
+    "summary": "There's nothing more nourishing and comforting than a steaming bowl of Vegetarian Udon Noodle Soup! Made with vegan dashi broth and topped with minced mushroom, tofu, crispy fried eggplant, and bok choy, this is going to be your favorite thing to eat all year round.\u00a0\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/10/Vegetarian-Udon-0257-I-1-2-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "eggplant",
+        "mushroom",
+        "udon noodle",
+        "vegan"
+    ],
+    "ingredients": [
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "kombu",
+            "raw_text": "kombu"
+        },
+        {
+            "name": "dried shiitake mushrooms",
+            "raw_text": "dried shiitake mushrooms"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "udon noodles",
+            "raw_text": "udon noodles"
+        },
+        {
+            "name": "Japanese or Chinese eggplant",
+            "raw_text": "Japanese or Chinese eggplant"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        },
+        {
+            "name": "oil",
+            "raw_text": "oil"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "dried shiitake mushrooms",
+            "raw_text": "dried shiitake mushrooms"
+        },
+        {
+            "name": "shiitake mushrooms",
+            "raw_text": "shiitake mushrooms"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "bok choy",
+            "raw_text": "bok choy"
+        },
+        {
+            "name": "fried firm tofu",
+            "raw_text": "fried firm tofu"
+        },
+        {
+            "name": "shichimi togarashi",
+            "raw_text": "shichimi togarashi (Japanese seven spice)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "590",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "66",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "21",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1225",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "408",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "640",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "8",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "187",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

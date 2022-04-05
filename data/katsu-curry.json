@@ -1,0 +1,116 @@
+{
+    "name": "Katsu Curry",
+    "summary": "This recipe shows you how to assemble Japanese Katsu Curry. Rich and flavorful, this curry dish is the ultimate comfort dish! Please read the blog post to see how you can customize your own.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/05/Katsu-Curry-4993-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "chicken katsu",
+        "curry",
+        "tonkatsu"
+    ],
+    "ingredients": [
+        {
+            "name": "your choice of Japanese curry",
+            "raw_text": "your choice of Japanese curry"
+        },
+        {
+            "name": "your choice of katsu",
+            "raw_text": "your choice of katsu (cutlet)"
+        },
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "furkujinzuke",
+            "raw_text": "furkujinzuke (red pickled daikon)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "627",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "64",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "50",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "18",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "214",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "875",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1090",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "5641",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "9",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "75",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "name": "Garlic Onion Chicken",
+    "summary": "Garlic Onion Chicken - Succulent pan-fried chicken smothered in a flavorful and robust garlic onion sauce, this is a weeknight winner! It's quick and easy, and utterly satisfying. Since everything cooks in one pan, clean up is a breeze too.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/11/Garlic-Onion-Chicken-I-1-4632-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "chicken"
+    ],
+    "ingredients": [
+        {
+            "name": "boneless, skin-on chicken thighs",
+            "raw_text": "boneless, skin-on chicken thighs"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "332",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "20",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "22",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "111",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "733",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "304",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "91",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "4",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "25",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "name": "Braised Pork Belly Bento",
+    "summary": "Easy bento idea, braised pork belly bento with tomatoes, tamagoyaki, and furikake over rice. Cook the Pork Belly for a diner and pack it for a lunch!\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2013/03/Kakuni-Bento-400x400.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "bento"
+    ],
+    "ingredients": [
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "braised pork belly",
+            "raw_text": "braised pork belly (kakuni)"
+        },
+        {
+            "name": "Tamagoyaki",
+            "raw_text": "Tamagoyaki (Japanese Rolled Omelette)"
+        },
+        {
+            "name": "broccoli",
+            "raw_text": "broccoli"
+        },
+        {
+            "name": "tomatoes",
+            "raw_text": "tomatoes"
+        },
+        {
+            "name": "furikake",
+            "raw_text": "furikake (rice seasoning)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "587",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "39",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "39",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "250",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "467",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "458",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "960",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "23",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "74",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

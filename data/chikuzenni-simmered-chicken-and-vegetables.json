@@ -1,0 +1,175 @@
+{
+    "name": "Chikuzenni / Nishime (Simmered Chicken and Vegetables)",
+    "summary": "Chikuzenni is a dish with chicken and vegetables simmered in flavorful dashi, mirin, and soy sauce. It's one of the Osechi Ryori (Japanese traditional food) served on New Year's Day.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/12/Chikuzenni-7312-I-2-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "chicken",
+        "osechi",
+        "osechi ryori",
+        "vegetable"
+    ],
+    "ingredients": [
+        {
+            "name": "dried shiitake mushrooms",
+            "raw_text": "dried shiitake mushrooms"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "boneless, skinless chicken thighs",
+            "raw_text": "boneless, skinless chicken thighs"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "taro",
+            "raw_text": "taro (satoimo)"
+        },
+        {
+            "name": "boiled bamboo shoot",
+            "raw_text": "boiled bamboo shoot"
+        },
+        {
+            "name": "gobo",
+            "raw_text": "gobo (burdock root)"
+        },
+        {
+            "name": "lotus root",
+            "raw_text": "lotus root (renkon)"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "konnyaku",
+            "raw_text": "konnyaku (konjac)"
+        },
+        {
+            "name": "snow peas",
+            "raw_text": "snow peas"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "dashi",
+            "raw_text": "dashi (Japanese soup stock; click to learn more)"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "usukuchi",
+            "raw_text": "usukuchi (light-colored) soy sauce"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "240",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "29",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "54",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "546",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "794",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "4835",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "20",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "63",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "name": "Tonteki",
+    "summary": "Tonteki\u00a0is a Japanese pork loin steak dish served in a savory citrusy sauce. \u00a0From start to finish in 15 minutes! \u00a0Inspired by the Japanese drama - Midnight Diner.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2017/05/Tonteki-400x400.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "pork steak"
+    ],
+    "ingredients": [
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "boneless pork loin chops",
+            "raw_text": "boneless pork loin chops (\u00bd-inch thick)"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "ponzu",
+            "raw_text": "ponzu"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "cabbage",
+            "raw_text": "cabbage"
+        },
+        {
+            "name": "tomato",
+            "raw_text": "tomato"
+        },
+        {
+            "name": "parsley",
+            "raw_text": "parsley"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "220",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "37",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "577",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "588",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "624",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "51",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "59",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

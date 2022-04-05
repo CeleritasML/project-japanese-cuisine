@@ -1,0 +1,161 @@
+{
+    "name": "Teppanyaki with Homemade Sauce",
+    "summary": "Here\u2019s the ultimate guide on how to do a true Japanese Teppanyaki at home! With an electric griddle and fresh ingredients, you can easily enjoy the fun of indoor grilling at any time. A homemade Teppanyaki Sauce is a must.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/04/Teppanyaki-Recipe-0111-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "beef",
+        "cabbage",
+        "mushroom"
+    ],
+    "ingredients": [
+        {
+            "name": "cabbage",
+            "raw_text": "cabbage"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "kabocha",
+            "raw_text": "kabocha"
+        },
+        {
+            "name": "bean sprouts",
+            "raw_text": "bean sprouts"
+        },
+        {
+            "name": "shimeji mushrooms",
+            "raw_text": "shimeji mushrooms"
+        },
+        {
+            "name": "king oyster mushroom",
+            "raw_text": "king oyster mushroom"
+        },
+        {
+            "name": "shiitake mushrooms",
+            "raw_text": "shiitake mushrooms"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "boneless beef short ribs",
+            "raw_text": "boneless beef short ribs"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "504",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "28",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "39",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "26",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "100",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "744",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1497",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "7959",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "37",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "79",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "6",
+            "unit": "mg"
+        }
+    ]
+}

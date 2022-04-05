@@ -1,0 +1,133 @@
+{
+    "name": "Butter Shoyu Chicken",
+    "summary": "Glazed with a delicious soy-butter sauce, this Butter Shoyu Chicken will win your family's heart! It is a simple recipe but produces a luxurious result. The chicken is exceptionally moist and tender and so flavorful. Ready in 25 minutes!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/05/Butter-Shoyu-Chicken-6001-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "chicken"
+    ],
+    "ingredients": [
+        {
+            "name": "boneless, skin-on chicken thighs",
+            "raw_text": "boneless, skin-on chicken thighs"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "659",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "38",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "47",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "17",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "17",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "233",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1016",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "476",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "300",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "22",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "name": "Garlic Miso Chicken Bento",
+    "summary": "Delicious garlic miso chicken bento with strawberry, kiwi, and onigiri. Well balanced lunch box to go!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2013/03/Garlic-Miso-Chicken-Bento-400x400.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "bento"
+    ],
+    "ingredients": [
+        {
+            "name": "onigiri",
+            "raw_text": "onigiri (rice ball)"
+        },
+        {
+            "name": "garlic miso chicken",
+            "raw_text": "garlic miso chicken"
+        },
+        {
+            "name": "strawberries",
+            "raw_text": "strawberries"
+        },
+        {
+            "name": "kiwis",
+            "raw_text": "kiwis"
+        },
+        {
+            "name": "cherry tomatoes",
+            "raw_text": "cherry tomatoes"
+        },
+        {
+            "name": "broccoli",
+            "raw_text": "broccoli"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "248",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "38",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "24",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "265",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "377",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "385",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "74",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "41",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

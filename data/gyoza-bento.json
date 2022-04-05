@@ -1,0 +1,134 @@
+{
+    "name": "Gyoza Bento",
+    "summary": "Bento lunch box with Gyoza, tomato, broccoli, Tamagoyaki, Chikuwa cucumber, and Furikake rice. Healthy and Yummy Japanese lunchbox!\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2012/09/Gyoza-Bento-400x400.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "bento"
+    ],
+    "ingredients": [
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "Gyoza",
+            "raw_text": "Gyoza (homemade or store bought)"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "tomatoes",
+            "raw_text": "tomatoes"
+        },
+        {
+            "name": "lettuce",
+            "raw_text": "lettuce"
+        },
+        {
+            "name": "broccoli",
+            "raw_text": "broccoli"
+        },
+        {
+            "name": "Tamagoyaki",
+            "raw_text": "Tamagoyaki (Japanese Rolled Omelette)"
+        },
+        {
+            "name": "chikuwa cucumber",
+            "raw_text": "chikuwa cucumber"
+        },
+        {
+            "name": "furikake",
+            "raw_text": "furikake (rice seasoning)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "349",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "43",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "150",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "620",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "372",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "854",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "24",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "64",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "9",
+            "unit": "mg"
+        }
+    ]
+}

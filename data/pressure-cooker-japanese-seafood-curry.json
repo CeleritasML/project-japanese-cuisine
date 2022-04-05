@@ -1,0 +1,168 @@
+{
+    "name": "Pressure Cooker Japanese Seafood Curry",
+    "summary": "If you love curry, it\u2019s time to try Japanese Seafood Curry packed\u00a0with amazing flavors from the shrimp, squid, scallops, spices, and kombu dashi.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/02/Pressure-Cooker-Japanese-Seafood-Curry-2423-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "instant pot",
+        "japanese curry",
+        "seafood"
+    ],
+    "ingredients": [
+        {
+            "name": "manila clams",
+            "raw_text": "manila clams"
+        },
+        {
+            "name": "onions",
+            "raw_text": "onions"
+        },
+        {
+            "name": "mushrooms",
+            "raw_text": "mushrooms"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        },
+        {
+            "name": "medium-size shrimp",
+            "raw_text": "medium-size shrimp"
+        },
+        {
+            "name": "bay scallop",
+            "raw_text": "bay scallop"
+        },
+        {
+            "name": "calamari",
+            "raw_text": "calamari"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "kombu",
+            "raw_text": "kombu (dried kelp)"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "Japanese curry roux",
+            "raw_text": "Japanese curry roux"
+        },
+        {
+            "name": "white wine",
+            "raw_text": "white wine"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "apple",
+            "raw_text": "apple"
+        },
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "438",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "48",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "27",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "202",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "532",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "612",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "372",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "10",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "109",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

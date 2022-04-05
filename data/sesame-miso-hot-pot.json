@@ -1,0 +1,178 @@
+{
+    "name": "Sesame Miso Hot Pot (Goma Miso Nabe)",
+    "summary": "{Vegan Adaptable} Loaded with vegetables, mushrooms, and tofu, this Japanese Sesame Miso Hot Pot is the perfect dish to whip up when you have friends and family over. The broth is made with kombu and shiitake dashi seasoned with savory miso and sesame seeds. It will warm you right up!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/02/Sesame-Miso-Hot-Pot-8419-I-1-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "hot pot",
+        "miso",
+        "nabe"
+    ],
+    "ingredients": [
+        {
+            "name": "gobo",
+            "raw_text": "gobo (burdock root)"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "napa cabbage",
+            "raw_text": "napa cabbage"
+        },
+        {
+            "name": "green onions/scallions",
+            "raw_text": "green onions/scallions"
+        },
+        {
+            "name": "mizuna",
+            "raw_text": "mizuna (Japanese mustard green)"
+        },
+        {
+            "name": "garlic chives",
+            "raw_text": "garlic chives (Chinese chives or Nira)"
+        },
+        {
+            "name": "shimeji mushrooms",
+            "raw_text": "shimeji mushrooms"
+        },
+        {
+            "name": "maitake mushrooms",
+            "raw_text": "maitake mushrooms"
+        },
+        {
+            "name": "aburaage",
+            "raw_text": "aburaage (deep-fried tofu pouch)"
+        },
+        {
+            "name": "medium-firm tofu",
+            "raw_text": "medium-firm tofu (momen tofu)"
+        },
+        {
+            "name": "thinly sliced pork loin",
+            "raw_text": "thinly sliced pork loin"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "kombu",
+            "raw_text": "kombu (dried kelp)"
+        },
+        {
+            "name": "dried shiitake mushrooms",
+            "raw_text": "dried shiitake mushrooms"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "miso",
+            "raw_text": "miso"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "doubanjiang",
+            "raw_text": "doubanjiang (spicy chili bean sauce/broad bean paste)"
+        },
+        {
+            "name": "shichimi togarashi",
+            "raw_text": "shichimi togarashi (Japanese seven spice)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "441",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "35",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "43",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "75",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "758",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1536",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "7878",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "76",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "451",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "5",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "name": "Japanese Chicken Curry",
+    "summary": "Delicious Japanese\u00a0chicken curry recipe for a weeknight dinner! Tender pieces of chicken, carrots and potatoes cooked in a rich savory curry\u00a0sauce, this Japanese version of curry is a must-have for your family meal.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/10/Japanese-Chicken-Curry-3787-I-1-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "curry roux",
+        "japanese curry"
+    ],
+    "ingredients": [
+        {
+            "name": "boneless, skinless chicken thighs",
+            "raw_text": "boneless, skinless chicken thighs"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "carrots",
+            "raw_text": "carrots"
+        },
+        {
+            "name": "onions",
+            "raw_text": "onions"
+        },
+        {
+            "name": "Yukon gold potatoes",
+            "raw_text": "Yukon gold potatoes"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "apple",
+            "raw_text": "apple"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "Chicken Stock/Broth",
+            "raw_text": "Chicken Stock/Broth (homemade or store bought)"
+        },
+        {
+            "name": "honey",
+            "raw_text": "honey"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "ketchup",
+            "raw_text": "ketchup"
+        },
+        {
+            "name": "Japanese curry roux",
+            "raw_text": "Japanese curry roux"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "fukujinzuke",
+            "raw_text": "fukujinzuke (Japanese red pickled vegetables)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "413",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "57",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "22",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "92",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "554",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "724",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "4192",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "20",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "77",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "name": "Twice Cooked Pork (Hoi Ko Ro)",
+    "summary": "Originated in Sichuan, Twice Cooked Pork became one of the most popular Chinese dishes in Japan. The Japanese version has bell peppers, and it\u2019s less spicy. However, it\u2019s still very flavorful and super easy to make at home!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/02/Twice-Cooked-Pork-Hoi-Ko-Ro-1810-I-1-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "bell pepper",
+        "cabbage",
+        "pork"
+    ],
+    "ingredients": [
+        {
+            "name": "thinly sliced pork loin",
+            "raw_text": "thinly sliced pork loin"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        },
+        {
+            "name": "green bell pepper",
+            "raw_text": "green bell pepper"
+        },
+        {
+            "name": "cabbage",
+            "raw_text": "cabbage"
+        },
+        {
+            "name": "green onion/scallion",
+            "raw_text": "green onion/scallion"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "doubanjiang",
+            "raw_text": "doubanjiang (spicy chili bean sauce/broad bean paste)"
+        },
+        {
+            "name": "tienmienjiang",
+            "raw_text": "tienmienjiang (sweet bean sauce)"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "white pepper",
+            "raw_text": "white pepper"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "332",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "34",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "94",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1074",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "659",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "319",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "35",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "21",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

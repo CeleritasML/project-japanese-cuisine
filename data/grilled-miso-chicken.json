@@ -1,0 +1,131 @@
+{
+    "name": "Grilled Miso Chicken",
+    "summary": "Ginger Miso Marinade has the flavor pyramid covered from top to bottom with garlic & ginger, sesame oil & soy sauce, spicy chili paste, and sweet white miso. Slather on chicken breast and grill it up for an out of this world Grilled Miso Chicken!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/10/Grilled-Miso-Chicken-9273-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "chicken",
+        "miso"
+    ],
+    "ingredients": [
+        {
+            "name": "boneless, skinless chicken breast",
+            "raw_text": "boneless, skinless chicken breast"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        },
+        {
+            "name": "miso",
+            "raw_text": "miso"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "chili paste",
+            "raw_text": "chili paste (Sambal Oelek)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "347",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "50",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "145",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "821",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "878",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "78",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "4",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "22",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

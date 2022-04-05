@@ -1,0 +1,113 @@
+{
+    "name": "Grilled Kukrobuta Pork Chops with Miso Sauce",
+    "summary": "Juicy, moist, and perfectly grilled, these Kurobuta Pork Chops with Miso Sauce are out of this world. The miso sauce is lightly infused with a secret ingredient for a spicy, citrusy kick. When served with steamed rice, you'd get the most flavorful pork chops for dinner. ",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/09/Kurobuta-Pork-Chops-with-Yuzu-Kosho-8793-I-1-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "miso",
+        "pork",
+        "pork chop",
+        "yuzu kosho"
+    ],
+    "ingredients": [
+        {
+            "name": "bone-in pork loin chops",
+            "raw_text": "bone-in pork loin chops (\u00bd inch thick)"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "miso",
+            "raw_text": "miso"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "yuzu kosho",
+            "raw_text": "yuzu kosho (Japanese citrus chili paste)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "82",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1667",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "43",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "7",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "17",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

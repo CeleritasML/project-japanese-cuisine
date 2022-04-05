@@ -1,0 +1,180 @@
+{
+    "name": "Honey Sesame Shirataki Noodles",
+    "summary": "Cold and refreshing Shirataki Noodles with Honey Sesame Dressing. \u00a0Top the noodles with shredded egg crepe, chicken, and cucumber. \u00a0It's a perfect guilt-free summer noodle\u00a0that is\u00a0low in calories. It's gluten-free too!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/01/Honey-Sesame-Shirataki-Noodles-8417-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "gluten free noodle",
+        "konjac yam",
+        "noodle salad"
+    ],
+    "ingredients": [
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "green onions/scallions",
+            "raw_text": "green onions/scallions"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        },
+        {
+            "name": "boneless, skinless chicken breast",
+            "raw_text": "boneless, skinless chicken breast"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "honey",
+            "raw_text": "honey"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "large egg",
+            "raw_text": "large egg (50 g w/o shell)"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "Japanese or Persian cucumber",
+            "raw_text": "Japanese or Persian cucumber"
+        },
+        {
+            "name": "tomato",
+            "raw_text": "tomato"
+        },
+        {
+            "name": "cilantro",
+            "raw_text": "cilantro (coriander)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "shirataki noodles",
+            "raw_text": "shirataki noodles"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "478",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "23",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "44",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "21",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "202",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1063",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "992",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "917",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "14",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "330",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

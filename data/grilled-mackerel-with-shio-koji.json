@@ -1,0 +1,101 @@
+{
+    "name": "Grilled Mackerel with Shio Koji",
+    "summary": "Low in calorie and rich in protein, this dish makes a lean and healthy option for everyday cooking. Marinating the mackerel with Shio Koji allows the flavor to permeate throughout the flesh. Also grilling the fish lends it a crispy light char and leaves the inner fillet meat \u2018melt-in-your-mouth\u2019 tender.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2014/01/Grilled-Mackerel-with-Shio-Koji-400x400.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "mackerel",
+        "shio koji"
+    ],
+    "ingredients": [
+        {
+            "name": "mackerel",
+            "raw_text": "mackerel"
+        },
+        {
+            "name": "shio koji",
+            "raw_text": "shio koji"
+        },
+        {
+            "name": "lemon wedges",
+            "raw_text": "lemon wedges"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "136",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "35",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "422",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "305",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "47",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "2",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "17",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "name": "Tendon (Tempura Rice Bowl)",
+    "summary": "\u00a0Golden crispy shrimp and vegetable tempura served over steamed rice and drizzled with tentsuyu, this Tendon or Tempura Donburi (Rice Bowl) recipe makes a special weekend dinner for your loved ones! Enjoy them piping hot with a bowl of miso soup and refreshing salad.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/08/Ten-Don-Recipe-3164-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "donburi",
+        "tempura"
+    ],
+    "ingredients": [
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "shrimp tempura",
+            "raw_text": "shrimp tempura"
+        },
+        {
+            "name": "vegetable tempura",
+            "raw_text": "vegetable tempura"
+        },
+        {
+            "name": "tempura sauce",
+            "raw_text": "tempura sauce"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "611",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "78",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "27",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "22",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "75",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "626",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "834",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "8535",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "9",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "67",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "6",
+            "unit": "mg"
+        }
+    ]
+}

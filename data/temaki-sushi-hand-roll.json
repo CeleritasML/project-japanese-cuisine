@@ -1,0 +1,112 @@
+{
+    "name": "Temaki Sushi (Hand Roll)",
+    "summary": "Make sushi at home with simple hand rolled sushi called Temaki Sushi. Everyone in the family (or at the party) will have fun rolling the nori sheets around sushi rice and their favorite fillings!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/12/Temaki-Sushi-2121-I-4-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "sashimi",
+        "sushi roll"
+    ],
+    "ingredients": [
+        {
+            "name": "sushi rice",
+            "raw_text": "sushi rice (cooked and seasoned)"
+        },
+        {
+            "name": "nori",
+            "raw_text": "nori (dried laver seaweed)"
+        },
+        {
+            "name": "sashimi-grade fish of your choice",
+            "raw_text": "sashimi-grade fish of your choice"
+        },
+        {
+            "name": "Japanese or Persian cucumbers",
+            "raw_text": "Japanese or Persian cucumbers"
+        },
+        {
+            "name": "shiso leaves",
+            "raw_text": "shiso leaves (perilla/ooba)"
+        },
+        {
+            "name": "kaiware daikon radish sprouts",
+            "raw_text": "kaiware daikon radish sprouts"
+        },
+        {
+            "name": "takuan",
+            "raw_text": "takuan (pickled daikon radish)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "109",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "11",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "17",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "274",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "822",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "4",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "21",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

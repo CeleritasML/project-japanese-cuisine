@@ -1,0 +1,157 @@
+{
+    "name": "Yakisoba (Japanese Stir-Fried Noodles)",
+    "summary": "Yakisoba is a classic Japanese stir-fried noodle dish that\u2019s seasoned with a sweet and savory sauce similar to Worcestershire sauce.\u00a0Use any proteins you like: pork, chicken, shrimp, or calamari. For vegetarians, just swap it with tofu or shiitake mushrooms.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/04/Yakisoba-5416-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "easy",
+        "stir fry noodle"
+    ],
+    "ingredients": [
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "shiitake mushrooms",
+            "raw_text": "shiitake mushrooms"
+        },
+        {
+            "name": "green onions/scallions",
+            "raw_text": "green onions/scallions"
+        },
+        {
+            "name": "cabbage leaves",
+            "raw_text": "cabbage leaves"
+        },
+        {
+            "name": "sliced pork belly",
+            "raw_text": "sliced pork belly"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "yakisoba noodles",
+            "raw_text": "yakisoba noodles"
+        },
+        {
+            "name": "Yakisoba Sauce",
+            "raw_text": "Yakisoba Sauce (homemade or store bought)"
+        },
+        {
+            "name": "Worcestershire sauce",
+            "raw_text": "Worcestershire sauce"
+        },
+        {
+            "name": "oyster sauce",
+            "raw_text": "oyster sauce"
+        },
+        {
+            "name": "ketchup",
+            "raw_text": "ketchup"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "aonori",
+            "raw_text": "aonori (dried green laver seaweed)"
+        },
+        {
+            "name": "pickled red ginger",
+            "raw_text": "pickled red ginger (beni shoga or kizami beni shoga)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "942",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "53",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "20",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "72",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "30",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "129",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "569",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "736",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "3678",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "17",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "91",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

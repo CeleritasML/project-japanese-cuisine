@@ -1,0 +1,153 @@
+{
+    "name": "Japanese Hamburger Steak (Hambagu)",
+    "summary": "Served with a red wine reduction sauce, this Japanese Hamburger Steak (Hambagu) is big on flavors. The meat is juicy and melts in your mouth. It's perfect to make in a hot frying pan either in the kitchen or on the grill!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/06/Japanese-Hamburger-Steak-Hambagu-1214-I-1-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "beef",
+        "pork"
+    ],
+    "ingredients": [
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "ground beef and pork combination",
+            "raw_text": "ground beef and pork combination"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "nutmeg",
+            "raw_text": "nutmeg"
+        },
+        {
+            "name": "panko",
+            "raw_text": "panko (Japanese breadcrumbs)"
+        },
+        {
+            "name": "milk",
+            "raw_text": "milk"
+        },
+        {
+            "name": "large egg",
+            "raw_text": "large egg (50 g w/o shell)"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "red wine",
+            "raw_text": "red wine"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "ketchup",
+            "raw_text": "ketchup"
+        },
+        {
+            "name": "tonkatsu sauce",
+            "raw_text": "tonkatsu sauce"
+        },
+        {
+            "name": "red wine",
+            "raw_text": "red wine"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "286",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "21",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "105",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "494",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "427",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "181",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "3",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "45",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

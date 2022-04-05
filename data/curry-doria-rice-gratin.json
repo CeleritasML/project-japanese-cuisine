@@ -1,0 +1,184 @@
+{
+    "name": "Curry Doria (Rice Gratin)",
+    "summary": "Curry Doria is Japanese rice gratin topped with flavorful curry meat sauce and cheese and baked into perfection in a casserole. It screams comfort food!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/03/Curry-Doria-4571-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "curry",
+        "gratin",
+        "rice gratin"
+    ],
+    "ingredients": [
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "celery stalk",
+            "raw_text": "celery stalk"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "bay leaf",
+            "raw_text": "bay leaf"
+        },
+        {
+            "name": "ground beef",
+            "raw_text": "ground beef"
+        },
+        {
+            "name": "ground pork",
+            "raw_text": "ground pork"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "Japanese curry powder",
+            "raw_text": "Japanese curry powder"
+        },
+        {
+            "name": "chicken or vegetable stock",
+            "raw_text": "chicken or vegetable stock"
+        },
+        {
+            "name": "tonkatsu sauce",
+            "raw_text": "tonkatsu sauce"
+        },
+        {
+            "name": "ketchup",
+            "raw_text": "ketchup"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "Mozzarella cheese",
+            "raw_text": "Mozzarella cheese"
+        },
+        {
+            "name": "Romano cheese",
+            "raw_text": "Romano cheese"
+        },
+        {
+            "name": "panko",
+            "raw_text": "panko (Japanese breadcrumbs)"
+        },
+        {
+            "name": "parsley",
+            "raw_text": "parsley"
+        },
+        {
+            "name": "uncooked Japanese short-grain rice",
+            "raw_text": "uncooked Japanese short-grain rice"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "429",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "24",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "31",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "99",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "581",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "412",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "2957",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "4",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "289",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

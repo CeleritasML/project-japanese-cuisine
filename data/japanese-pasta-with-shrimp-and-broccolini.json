@@ -1,0 +1,134 @@
+{
+    "name": "Japanese-Style Pasta with Shrimp and Broccolini",
+    "summary": "Seasoned with butter, dashi soy sauce, and garlic chili oil, this Japanese-style Pasta with Shrimp and Broccolini is an easy pasta dish everyone will love! It's incredibly flavorful and hearty. Ready in 15 minutes!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/03/Quick-Japanese-Pasta-with-Shrimp-and-Broccolini-0243-I-1-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "broccolini",
+        "pasta",
+        "shrimp"
+    ],
+    "ingredients": [
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "spaghetti",
+            "raw_text": "spaghetti"
+        },
+        {
+            "name": "broccolini",
+            "raw_text": "broccolini"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "shrimp",
+            "raw_text": "shrimp"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "chili oil with crunchy garlic",
+            "raw_text": "chili oil with crunchy garlic"
+        },
+        {
+            "name": "dashi Soy Sauce",
+            "raw_text": "dashi Soy Sauce"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "592",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "80",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "21",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "55",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "866",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "242",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "1051",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "47",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "84",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

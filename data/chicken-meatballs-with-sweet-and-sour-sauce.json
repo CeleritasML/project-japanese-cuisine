@@ -1,0 +1,157 @@
+{
+    "name": "Chicken Meatballs with Sweet and Sour Sauce",
+    "summary": "So juicy, tender, and easy to make, this delicious Chicken Meatballs with Sweet and Sour Sauce is a perfect weeknight meal for busy\u00a0home cooks!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2018/11/Chicken-Meatballs-with-Sweet-and-Sour-Sauce-w800-400x400.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "meatball"
+    ],
+    "ingredients": [
+        {
+            "name": "ground chicken",
+            "raw_text": "ground chicken"
+        },
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "large egg",
+            "raw_text": "large egg (50 g w/o shell)"
+        },
+        {
+            "name": "panko",
+            "raw_text": "panko"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "Water",
+            "raw_text": "Water"
+        },
+        {
+            "name": "ketchup",
+            "raw_text": "ketchup"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "1",
+            "unit": "meatball"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "53",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "29",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "126",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "142",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "21",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "7",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

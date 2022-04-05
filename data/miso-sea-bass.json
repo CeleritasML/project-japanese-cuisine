@@ -1,0 +1,109 @@
+{
+    "name": "Miso Sea Bass",
+    "summary": "Quick and easy buttery miso sea bass recipe, sweet taste of miso and slightly charred flavor goes perfectly.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2012/09/Miso-Chilean-Sea-Bass-400x400.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "fish",
+        "miso"
+    ],
+    "ingredients": [
+        {
+            "name": "MSC-certified Chilean sea bass",
+            "raw_text": "MSC-certified Chilean sea bass"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "miso",
+            "raw_text": "miso"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "230",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "50",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "309",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "18",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "233",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "5",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

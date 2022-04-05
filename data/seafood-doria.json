@@ -1,0 +1,200 @@
+{
+    "name": "Seafood Doria",
+    "summary": "Enjoy your special date night with Seafood Doria, an impressive yet simple Japanese rice gratin dish topped your choice of seafood over buttery rice with cheese.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/11/Seafood-Doria-0786-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "doria",
+        "gratin",
+        "seafood"
+    ],
+    "ingredients": [
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "broccoli",
+            "raw_text": "broccoli"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "Gruyere cheese",
+            "raw_text": "Gruyere cheese"
+        },
+        {
+            "name": "panko",
+            "raw_text": "panko (Japanese breadcrumbs)"
+        },
+        {
+            "name": "Italian parsley",
+            "raw_text": "Italian parsley"
+        },
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "mushrooms",
+            "raw_text": "mushrooms"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "manila clams",
+            "raw_text": "manila clams"
+        },
+        {
+            "name": "baby scallops",
+            "raw_text": "baby scallops"
+        },
+        {
+            "name": "large shrimps",
+            "raw_text": "large shrimps"
+        },
+        {
+            "name": "small calamari",
+            "raw_text": "small calamari"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "white wine",
+            "raw_text": "white wine"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "warm milk",
+            "raw_text": "warm milk"
+        },
+        {
+            "name": "reserved seafood sauce",
+            "raw_text": "reserved seafood sauce"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "766",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "62",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "54",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "32",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "437",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "781",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1411",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "1735",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "143",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "316",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "5",
+            "unit": "mg"
+        }
+    ]
+}

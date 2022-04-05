@@ -1,0 +1,130 @@
+{
+    "name": "Pan-Fried Teriyaki Tofu Bowl",
+    "summary": "Smothered with sweet-savory homemade teriyaki sauce, this crispy Pan-Fried Teriyaki Tofu Bowl is amazingly easy and delicious! It's also a great way to incorporate tofu into your weekly menu rotation. ",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2022/03/Teriyaki-Tofu-Bowl-6768-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "teriyaki sauce",
+        "tofu"
+    ],
+    "ingredients": [
+        {
+            "name": "medium-firm tofu",
+            "raw_text": "medium-firm tofu (momen tofu)"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "green onion/scallion",
+            "raw_text": "green onion/scallion"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "443",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "27",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "21",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "23",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "979",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "191",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "60",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "2",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "269",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

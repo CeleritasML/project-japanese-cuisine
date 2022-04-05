@@ -1,0 +1,150 @@
+{
+    "name": "Mapo Tofu (Mabo Dofu)",
+    "summary": "Japanese-style Mapo Tofu (Mabo Dofu) is incredibly flavorful but less spicy than the Sichuan version. It's a delicious meal ready in 30 minutes that even children can enjoy!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2016/05/Mapo-Tofu-400x400.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "pork",
+        "tofu"
+    ],
+    "ingredients": [
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        },
+        {
+            "name": "green onions/scallions",
+            "raw_text": "green onions/scallions"
+        },
+        {
+            "name": "soft/silken tofu",
+            "raw_text": "soft/silken tofu (kinugoshi tofu)"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "ground pork",
+            "raw_text": "ground pork"
+        },
+        {
+            "name": "doubanjiang",
+            "raw_text": "doubanjiang (spicy chili bean sauce/broad bean paste)"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "miso",
+            "raw_text": "miso"
+        },
+        {
+            "name": "oyster sauce",
+            "raw_text": "oyster sauce"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "263",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "17",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "17",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "41",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "845",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "395",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "180",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "2",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "55",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

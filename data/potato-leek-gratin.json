@@ -1,0 +1,145 @@
+{
+    "name": "Potato-Leek Gratin",
+    "summary": "This simple casserole is loaded with thin slices of creamy potatoes, savory leeks, and generous handfuls of cheese. It's amazingly good that you want to make extra for leftovers!\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/11/Potato-Leek-Gratin-2-2-500x500.jpg",
+    "cuisine": "American",
+    "keywords": [
+        "creamy",
+        "gratin",
+        "leek",
+        "potato"
+    ],
+    "ingredients": [
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "leeks",
+            "raw_text": "leeks"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "thyme",
+            "raw_text": "thyme"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "heavy whipping cream",
+            "raw_text": "heavy whipping cream"
+        },
+        {
+            "name": "Parmigiano-Reggiano",
+            "raw_text": "Parmigiano-Reggiano (Parmesan) cheese"
+        },
+        {
+            "name": "Mexican-style shredded cheese",
+            "raw_text": "Mexican-style shredded cheese"
+        },
+        {
+            "name": "russet potatoes",
+            "raw_text": "russet potatoes"
+        },
+        {
+            "name": "panko",
+            "raw_text": "panko (Japanese breadcrumbs)"
+        },
+        {
+            "name": "green onions/scallions",
+            "raw_text": "green onions/scallions"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "757",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "41",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "38",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "50",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "31",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "161",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1482",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "888",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "2253",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "15",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "998",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

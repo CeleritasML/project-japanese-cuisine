@@ -1,0 +1,118 @@
+{
+    "name": "Teriyaki Salmon Bento",
+    "summary": "Teriyami Salmon on the go - in a bento box! Cook up this easy, sweet & savory teriyaki salmon for dinner the night before, and keep an extra piece to pack in a Japanese-style bento for lunch the next day.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2013/06/Teriyaki-Salmon-Bento-400x400.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "bento"
+    ],
+    "ingredients": [
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "teriyaki salmon",
+            "raw_text": "teriyaki salmon"
+        },
+        {
+            "name": "broccoli",
+            "raw_text": "broccoli"
+        },
+        {
+            "name": "Gyoza",
+            "raw_text": "Gyoza (homemade or store bought)"
+        },
+        {
+            "name": "raspberries",
+            "raw_text": "raspberries"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "345",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "39",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "49",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "467",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "439",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "262",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "32",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "19",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

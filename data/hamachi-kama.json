@@ -1,0 +1,104 @@
+{
+    "name": "Hamachi Kama",
+    "summary": "Also known as yellowtail collar, Hamachi Kama is a fish you will find on menus throughout Japan. All you need are four ingredients to make this traditional rustic dish.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/10/Hamachi-Kama-0641-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "seafood",
+        "yellowtail"
+    ],
+    "ingredients": [
+        {
+            "name": "hamachi kama",
+            "raw_text": "hamachi kama (yellowtail collar)"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "yuzu juice",
+            "raw_text": "yuzu juice (extract)"
+        },
+        {
+            "name": "lemon",
+            "raw_text": "lemon"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "164",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "33",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "58",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "460",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "665",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "167",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "8",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "52",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

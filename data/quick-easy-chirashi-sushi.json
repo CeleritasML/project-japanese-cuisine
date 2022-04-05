@@ -1,0 +1,116 @@
+{
+    "name": "Quick and Easy Chirashi Sushi",
+    "summary": "Chirashi Sushi or 'scattered sushi' is a type of sushi that is commonly made by Japanese home cooks.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/04/Quick-Easy-Chirashi-Sushi-4117-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "sushi"
+    ],
+    "ingredients": [
+        {
+            "name": "uncooked Japanese short-grain rice",
+            "raw_text": "uncooked Japanese short-grain rice"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "chirashi sushi mix",
+            "raw_text": "chirashi sushi mix"
+        },
+        {
+            "name": "kinshi tamago",
+            "raw_text": "kinshi tamago (shredded egg crepe)"
+        },
+        {
+            "name": "ikura",
+            "raw_text": "ikura (salmon roe)"
+        },
+        {
+            "name": "snow peas",
+            "raw_text": "snow peas"
+        },
+        {
+            "name": "shredded nori seaweed",
+            "raw_text": "shredded nori seaweed (kizami nori)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "344",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "64",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "31",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "783",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "68",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "45",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "26",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

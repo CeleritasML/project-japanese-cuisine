@@ -1,0 +1,139 @@
+{
+    "name": "Chirashi Sushi Cake and Temari Sushi",
+    "summary": "Simple Chirashi sushi cake with shredded egg, boiled shrimp, and salmon sashimi. Garnished with salmon roe.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2012/03/Chirashi-Sushi-Cake-IIII-400x400.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "sushi"
+    ],
+    "ingredients": [
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "chirashi sushi mix",
+            "raw_text": "chirashi sushi mix"
+        },
+        {
+            "name": "sakura denbu",
+            "raw_text": "sakura denbu (seasoned cod fish flakes)"
+        },
+        {
+            "name": "kinshi tamago",
+            "raw_text": "kinshi tamago ((shredded) thin egg crepe)"
+        },
+        {
+            "name": "Japanese or Persian cucumbers",
+            "raw_text": "Japanese or Persian cucumbers"
+        },
+        {
+            "name": "sashimi-grade salmon",
+            "raw_text": "sashimi-grade salmon"
+        },
+        {
+            "name": "shrimp",
+            "raw_text": "shrimp"
+        },
+        {
+            "name": "ikura",
+            "raw_text": "ikura (salmon roe)"
+        },
+        {
+            "name": "snow peas",
+            "raw_text": "snow peas"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "1",
+            "unit": "set"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "1053",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "120",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "69",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "17",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "533",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "2607",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1237",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "31",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "537",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "17",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "101",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "8",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "name": "Lily Bulb Tamagotoji",
+    "summary": "Lily Bulb Tamagotoji is an easy and comforting dish where the lily bulbs and eggs are simmered in light dashi broth. It can be served on its own, over steamed rice, or on udon noodles! ",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/02/Lily-Bulb-Tamagotoji-3834-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "egg",
+        "lily bulb"
+    ],
+    "ingredients": [
+        {
+            "name": "lily bulb",
+            "raw_text": "lily bulb"
+        },
+        {
+            "name": "dashi",
+            "raw_text": "dashi (Japanese soup stock; click to learn more)"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "usukuchi",
+            "raw_text": "usukuchi (light-colored) soy sauce"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "mizuna",
+            "raw_text": "mizuna (Japanese mustard green)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "194",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "25",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "186",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "521",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "659",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "399",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "10",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "41",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

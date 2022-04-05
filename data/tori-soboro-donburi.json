@@ -1,0 +1,142 @@
+{
+    "name": "Soboro Don (Ground Chicken Bowl)",
+    "summary": "Soboro Don or Ground Chicken Bowl is your go-to Japanese comfort meal! With seasoned minced chicken, scrambled eggs, and green vegetables on top of fluffy steamed rice, this three-color rice bowl is effortlessly easy to pull together and full of flavor. A favorite among both kids and adults.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/10/Soboro-Don-0349-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "chicken",
+        "donburi",
+        "rice bowl"
+    ],
+    "ingredients": [
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "ground chicken",
+            "raw_text": "ground chicken"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "green peas",
+            "raw_text": "green peas"
+        },
+        {
+            "name": "pickled red ginger",
+            "raw_text": "pickled red ginger (beni shoga or kizami beni shoga)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "575",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "45",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "30",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "28",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "284",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "861",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "731",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "409",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "7",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "41",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

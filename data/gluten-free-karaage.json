@@ -1,0 +1,159 @@
+{
+    "name": "Gluten Free Karaage",
+    "summary": "Crispy and crunchy on the outside and juicy tender meat on the inside, this delicious Gluten Free Karaage (Japanese fried chicken) is for everyone, including ones with gluten intolerant.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2017/12/Gluten-Free-Karaage-w600-400x400.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "chicken karaage",
+        "fried chicken"
+    ],
+    "ingredients": [
+        {
+            "name": "boneless, skin-on chicken thighs",
+            "raw_text": "boneless, skin-on chicken thighs"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        },
+        {
+            "name": "rice flour",
+            "raw_text": "rice flour"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "gluten-free soy sauce",
+            "raw_text": "gluten-free soy sauce"
+        },
+        {
+            "name": "lemon wedges",
+            "raw_text": "lemon wedges"
+        },
+        {
+            "name": "parsley",
+            "raw_text": "parsley"
+        },
+        {
+            "name": "lettuce",
+            "raw_text": "lettuce"
+        },
+        {
+            "name": "shichimi togarashi",
+            "raw_text": "shichimi togarashi (Japanese seven spice)"
+        },
+        {
+            "name": "Japanese mayonnaise",
+            "raw_text": "Japanese mayonnaise"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "864",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "43",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "69",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "33",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "20",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "245",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "872",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "664",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "195",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "32",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

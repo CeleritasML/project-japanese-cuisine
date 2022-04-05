@@ -1,0 +1,163 @@
+{
+    "name": "Hoto Noodle Soup",
+    "summary": "Filled with starchy vegetables, meat, and flat noodles in miso-based dashi broth, this hearty noodle soup called Hoto is a popular regional food from Yamanashi prefecture in Japan.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/03/Hoto-I-1-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "noodle soup"
+    ],
+    "ingredients": [
+        {
+            "name": "iriko or niboshi",
+            "raw_text": "iriko or niboshi (dried baby sardines/anchovies)"
+        },
+        {
+            "name": "kombu",
+            "raw_text": "kombu (dried kelp)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "kabocha",
+            "raw_text": "kabocha"
+        },
+        {
+            "name": "daikon radish",
+            "raw_text": "daikon radish"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "Yukon gold potato",
+            "raw_text": "Yukon gold potato"
+        },
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "napa cabbage",
+            "raw_text": "napa cabbage"
+        },
+        {
+            "name": "leek",
+            "raw_text": "leek"
+        },
+        {
+            "name": "shimeji mushrooms",
+            "raw_text": "shimeji mushrooms"
+        },
+        {
+            "name": "shiitake mushrooms",
+            "raw_text": "shiitake mushrooms"
+        },
+        {
+            "name": "aburaage",
+            "raw_text": "aburaage (deep-fried tofu pouch)"
+        },
+        {
+            "name": "sliced pork loin",
+            "raw_text": "sliced pork loin"
+        },
+        {
+            "name": "hoto noodles",
+            "raw_text": "hoto noodles (uncooked)"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "miso",
+            "raw_text": "miso"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "shichimi togarashi",
+            "raw_text": "shichimi togarashi (Japanese seven spice)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "681",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "112",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "38",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "54",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "924",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1804",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "11916",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "72",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "207",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "8",
+            "unit": "mg"
+        }
+    ]
+}

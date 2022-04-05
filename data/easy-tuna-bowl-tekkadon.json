@@ -1,0 +1,132 @@
+{
+    "name": "Tekka Don (Tuna Bowl)",
+    "summary": "Make Tekka Don at home with sashimi grade tuna marinated in soy sauce, sake, and mirin served over rice, garnish with sesame seeds and nori. Quick and Easy Dinner!\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2014/09/Tekka-Don-IIII-NEW-400x400.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "donburi",
+        "rice bowl",
+        "sashimi",
+        "tuna"
+    ],
+    "ingredients": [
+        {
+            "name": "sashimi-grade tuna",
+            "raw_text": "sashimi-grade tuna (maguro)"
+        },
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "green onion/scallion",
+            "raw_text": "green onion/scallion"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "shredded nori seaweed",
+            "raw_text": "shredded nori seaweed (kizami nori)"
+        },
+        {
+            "name": "shiso leaves",
+            "raw_text": "shiso leaves (perilla/ooba)"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "307",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "29",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "29",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "42",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "526",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "345",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "2651",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "3",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "23",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

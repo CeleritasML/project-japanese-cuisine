@@ -1,0 +1,154 @@
+{
+    "name": "Sushi Rolls (Maki Sushi \u2013 Hosomaki)",
+    "summary": "Learn how to make delicious sushi rolls \u2013 Maki Sushi (Hosomaki) at home with step-by-step instructions and a tutorial video. To get started, you just need a few ingredients like tuna, cucumber, nori, and Japanese short-grain rice.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/01/Sushi-Rolls-Maki-Sushi-\u2013-Hosomaki-1117-I-300x200.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "sushi",
+        "sushi roll"
+    ],
+    "ingredients": [
+        {
+            "name": "uncooked Japanese short-grain rice",
+            "raw_text": "uncooked Japanese short-grain rice"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "kombu",
+            "raw_text": "kombu (dried kelp)"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "Japanese or Persian cucumber",
+            "raw_text": "Japanese or Persian cucumber"
+        },
+        {
+            "name": "sashimi-grade tuna",
+            "raw_text": "sashimi-grade tuna"
+        },
+        {
+            "name": "natto",
+            "raw_text": "natto (fermented soybean)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "nori",
+            "raw_text": "nori (dried laver seaweed)"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "wasabi",
+            "raw_text": "wasabi"
+        },
+        {
+            "name": "sushi ginger",
+            "raw_text": "sushi ginger (gari)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "205",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "40",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "4",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "196",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "115",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "321",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "19",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

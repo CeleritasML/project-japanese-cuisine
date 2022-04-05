@@ -1,0 +1,158 @@
+{
+    "name": "Instant Pot Nishime",
+    "summary": "Simmered in a savory dashi based sauce, Nishime is a classic one-pot vegetable stew to serve in Osechi for the Japanese New Year celebration.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2018/12/Instant-Pot-Nishime-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "Japanese New Year",
+        "nishime",
+        "osechi"
+    ],
+    "ingredients": [
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "dashi packet",
+            "raw_text": "dashi packet"
+        },
+        {
+            "name": "dried shiitake mushrooms",
+            "raw_text": "dried shiitake mushrooms"
+        },
+        {
+            "name": "snow peas",
+            "raw_text": "snow peas"
+        },
+        {
+            "name": "konnyaku",
+            "raw_text": "konnyaku (konjac)"
+        },
+        {
+            "name": "bamboo shoot",
+            "raw_text": "bamboo shoot"
+        },
+        {
+            "name": "lotus root",
+            "raw_text": "lotus root (renkon)"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "taro",
+            "raw_text": "taro (satoimo)"
+        },
+        {
+            "name": "gobo",
+            "raw_text": "gobo (burdock root)"
+        },
+        {
+            "name": "boneless, skinless chicken thigh",
+            "raw_text": "boneless, skinless chicken thigh"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "usukuchi",
+            "raw_text": "usukuchi (light-colored) soy sauce"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "227",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "27",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "54",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "544",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "754",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "4837",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "20",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "65",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

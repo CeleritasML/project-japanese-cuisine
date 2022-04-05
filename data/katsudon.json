@@ -1,0 +1,140 @@
+{
+    "name": "Katsudon",
+    "summary": "Katsudon is a Japanese pork cutlet rice bowl made with Tonkatsu, eggs, and sauteed onions simmered in a sweet and savory sauce. This one bowl wonder is also a true comfort food!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/08/Katsudon-0429-I-1-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "egg",
+        "pork",
+        "rice"
+    ],
+    "ingredients": [
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "green onion/scallion",
+            "raw_text": "green onion/scallion"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "tonkatsu",
+            "raw_text": "tonkatsu"
+        },
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "dashi packet",
+            "raw_text": "dashi packet"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "855",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "55",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "48",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "45",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "30",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "455",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1307",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "745",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "601",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "3",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "103",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "5",
+            "unit": "mg"
+        }
+    ]
+}

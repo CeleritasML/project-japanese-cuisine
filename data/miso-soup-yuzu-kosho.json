@@ -1,0 +1,154 @@
+{
+    "name": "Miso Soup with Yuzu Kosho",
+    "summary": "Cozy up with this bowl of piping hot miso soup with yuzu kosho.\u00a0Yuzu kosho is a\u00a0Japanese citrus pepper paste\u00a0that gives a kick to Japanese dishes like this hearty pork belly miso soup with loads of vegetables.\u00a0After drinking this delicious miso soup, you will be hooked on this combination of miso soup and yuzu kosho!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2018/03/Miso-Soup-with-Yuzu-Kosho-w722-400x400.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "miso soup",
+        "yuzu"
+    ],
+    "ingredients": [
+        {
+            "name": "pork belly",
+            "raw_text": "pork belly"
+        },
+        {
+            "name": "leek",
+            "raw_text": "leek"
+        },
+        {
+            "name": "cabbage leaves",
+            "raw_text": "cabbage leaves"
+        },
+        {
+            "name": "shiitake mushrooms",
+            "raw_text": "shiitake mushrooms"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "green onions/scallions",
+            "raw_text": "green onions/scallions"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "miso",
+            "raw_text": "miso"
+        },
+        {
+            "name": "soft/silken tofu",
+            "raw_text": "soft/silken tofu (kinugoshi tofu)"
+        },
+        {
+            "name": "yuzu kosho",
+            "raw_text": "yuzu kosho (Japanese citrus chili paste)"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "kombu",
+            "raw_text": "kombu (dried kelp)"
+        },
+        {
+            "name": "katsuobushi",
+            "raw_text": "katsuobushi (dried bonito flakes)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "316",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "24",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "20",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "490",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "473",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "3449",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "9",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "147",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

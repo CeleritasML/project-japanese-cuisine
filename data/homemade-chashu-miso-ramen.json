@@ -1,0 +1,187 @@
+{
+    "name": "Miso Ramen",
+    "summary": "You can make delicious Miso Ramen with authentic broth in less than 30 minutes! Please note: Toppings are optional, and their recipes can be found in the hyperlinks. Chashu and Ramen Eggs require prepping one day ahead.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/05/Miso-Ramen-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "chashu",
+        "miso",
+        "ramen",
+        "ramen egg"
+    ],
+    "ingredients": [
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        },
+        {
+            "name": "shallot",
+            "raw_text": "shallot"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "ground pork",
+            "raw_text": "ground pork"
+        },
+        {
+            "name": "doubanjiang",
+            "raw_text": "doubanjiang (spicy chili bean sauce/broad bean paste)"
+        },
+        {
+            "name": "miso",
+            "raw_text": "miso"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "Chicken Stock/Broth",
+            "raw_text": "Chicken Stock/Broth (homemade or store bought)"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "white pepper powder",
+            "raw_text": "white pepper powder"
+        },
+        {
+            "name": "fresh ramen noodles",
+            "raw_text": "fresh ramen noodles"
+        },
+        {
+            "name": "Chashu",
+            "raw_text": "Chashu (homemade or store bought)"
+        },
+        {
+            "name": "spicy bean sprout salad",
+            "raw_text": "spicy bean sprout salad"
+        },
+        {
+            "name": "ramen egg",
+            "raw_text": "ramen egg (ajitsuke tamago)"
+        },
+        {
+            "name": "frozen or canned corn",
+            "raw_text": "frozen or canned corn"
+        },
+        {
+            "name": "nori",
+            "raw_text": "nori (dried laver seaweed)"
+        },
+        {
+            "name": "green onion/scallion",
+            "raw_text": "green onion/scallion"
+        },
+        {
+            "name": "shiraga negi",
+            "raw_text": "shiraga negi"
+        },
+        {
+            "name": "la-yu",
+            "raw_text": "la-yu (Japanese chili oil)"
+        },
+        {
+            "name": "pickled red ginger",
+            "raw_text": "pickled red ginger (beni shoga or kizami beni shoga)"
+        },
+        {
+            "name": "white pepper powder",
+            "raw_text": "white pepper powder"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "433",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "37",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "25",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "65",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1216",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "341",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "112",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "4",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "152",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

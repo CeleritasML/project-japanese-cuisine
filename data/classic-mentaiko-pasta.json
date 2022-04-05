@@ -1,0 +1,140 @@
+{
+    "name": "Classic Mentaiko Pasta",
+    "summary": "An easy and delicious wafu pasta (Japanese fusion), Mentaiko pasta is made with preserved spicy cod/ pollock roe, milk, cream, and spaghetti noodles.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/01/Classic-Mentaiko-Pasta-3616-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "mentaiko",
+        "pasta",
+        "wafu pasta"
+    ],
+    "ingredients": [
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "spaghetti",
+            "raw_text": "spaghetti"
+        },
+        {
+            "name": "spicy salted pollack roe or cod roe",
+            "raw_text": "spicy salted pollack roe or cod roe (karashi mentaiko)"
+        },
+        {
+            "name": "whole milk",
+            "raw_text": "whole milk"
+        },
+        {
+            "name": "heavy whipping cream",
+            "raw_text": "heavy whipping cream"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "shredded nori seaweed",
+            "raw_text": "shredded nori seaweed (kizami nori)"
+        },
+        {
+            "name": "shiso leaves",
+            "raw_text": "shiso leaves (perilla/ooba)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "664",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "88",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "23",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "24",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "219",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "925",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "338",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "850",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "131",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "5",
+            "unit": "mg"
+        }
+    ]
+}

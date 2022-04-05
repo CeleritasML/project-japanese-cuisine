@@ -1,0 +1,119 @@
+{
+    "name": "Wagyu Beef & American Kobe Beef",
+    "summary": "In this post, we\u2019re going to talk about the differences between Japanese Wagyu beef and American Kobe beef. You will also learn some quick tips on how to prepare delicious steak, along with a simple recipe using fried garlic and minimal seasonings.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2015/07/Wagyu-vs-American-Kobe-Beef-VV-w600-400x400.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "beef steak",
+        "wagyu"
+    ],
+    "ingredients": [
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "wagyu",
+            "raw_text": "wagyu"
+        },
+        {
+            "name": "lemon",
+            "raw_text": "lemon"
+        },
+        {
+            "name": "red wine",
+            "raw_text": "red wine"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "1154",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "20",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "71",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "89",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "28",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "26",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "32",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "208",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "184",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1192",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "78",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "66",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "104",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "7",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "name": "Stir-Fried Tomatoes and Eggs",
+    "summary": "Made with simple, everyday ingredients, these Stir-Fried Tomatoes and Eggs are a tasty, satisfying, and comforting dish prepared in under 10 minutes! It's such a perfect vegetarian meal over steamed rice or a colorful side dish to go with your main meal.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2022/02/Stir-Fried-Tomatoes-and-Eggs-6475-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "egg",
+        "tomato"
+    ],
+    "ingredients": [
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "white pepper powder",
+            "raw_text": "white pepper powder"
+        },
+        {
+            "name": "tomatoes",
+            "raw_text": "tomatoes"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "329",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "28",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "279",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "494",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "443",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "1586",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "19",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "57",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

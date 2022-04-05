@@ -1,0 +1,94 @@
+{
+    "name": "Sanma Shioyaki (grilled pacific saury)",
+    "summary": "Sanma\u00a0(\u79cb\u5200\u9b5a) or Pacific Saury is fish that becomes available in fall, and literary means \u201cautumn sword fish\u201d in reference to sanma season and its body shape resembling a sword.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2012/10/Grilled-Sanma-400x400.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "fish",
+        "sanma"
+    ],
+    "ingredients": [
+        {
+            "name": "Pacific saury",
+            "raw_text": "Pacific saury (sanma)"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "daikon radish",
+            "raw_text": "daikon radish"
+        },
+        {
+            "name": "lemon",
+            "raw_text": "lemon"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "211",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "34",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "100",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "102",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "632",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "677",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "12",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

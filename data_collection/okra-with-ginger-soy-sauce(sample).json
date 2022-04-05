@@ -1,0 +1,105 @@
+{
+    "name": "Okra with Ginger Soy Sauce",
+    "summary": "Okra with Ginger Soy Sauce is a quick 3-ingredient side dish that you can whip up when you need one more dish! You can use various kinds of vegetables instead of blanched okra.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2022/03/Okra-with-Ginger-Soy-Sauce-6872-I-500x500.jpg",
+    "cuisine": "Japanese",
+    "keywords": [
+        "ginger",
+        "okra"
+    ],
+    "ingredients": [
+        {
+            "name": "okra",
+            "raw_text": "okra"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "27",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "340",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "192",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "457",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "15",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "52",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

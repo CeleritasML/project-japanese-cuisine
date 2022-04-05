@@ -1,0 +1,163 @@
+{
+    "name": "Japanese Strawberry Shortcake",
+    "summary": "Here\u2019s my moist, airy, and light Japanese strawberry shortcake recipe with homemade whipped cream. This simple and elegant cake is perfect for celebrating all occasions. Detailed step-by-step picture instructions are included.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/02/Japanese-Strawberry-Shortcake-0448-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "cake",
+        "shortcake",
+        "strawberry"
+    ],
+    "ingredients": [
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "whole milk",
+            "raw_text": "whole milk"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "cake flour",
+            "raw_text": "cake flour"
+        },
+        {
+            "name": "butter",
+            "raw_text": "butter"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "liquor of your choice",
+            "raw_text": "liquor of your choice"
+        },
+        {
+            "name": "heavy whipping cream",
+            "raw_text": "heavy whipping cream"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "strawberries",
+            "raw_text": "strawberries"
+        },
+        {
+            "name": "blueberries",
+            "raw_text": "blueberries"
+        },
+        {
+            "name": "mint leaves",
+            "raw_text": "mint leaves"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "1",
+            "unit": "8 inch (20 cm) cake"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "3618",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "316",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "54",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "245",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "146",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "71",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "1519",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "493",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1528",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "198",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "9672",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "272",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "570",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "7",
+            "unit": "mg"
+        }
+    ]
+}

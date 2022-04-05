@@ -1,0 +1,104 @@
+{
+    "name": "Mackerel Pressed Sushi (Saba Oshizushi)",
+    "summary": "Impress your family and friends by learning how to make unique, delicious and beautiful Pressed Sushi (Oshizushi).\u00a0This Mackerel Pressed Sushi is made of three layers: an aburi-style mackerel, shiso, and sushi rice.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/08/Mackerel-Pressed-Sushi-0214-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "mackerel",
+        "sushi"
+    ],
+    "ingredients": [
+        {
+            "name": "uncooked Japanese short-grain rice",
+            "raw_text": "uncooked Japanese short-grain rice"
+        },
+        {
+            "name": "frozen marinated mackerel fillet",
+            "raw_text": "frozen marinated mackerel fillet (shime saba)"
+        },
+        {
+            "name": "shsio leaves",
+            "raw_text": "shsio leaves"
+        },
+        {
+            "name": "Kikkoman\u00ae Seasoned Rice Vinegar",
+            "raw_text": "Kikkoman\u00ae Seasoned Rice Vinegar"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "764",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "131",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "18",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "28",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1022",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "165",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "15",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "7",
+            "unit": "mg"
+        }
+    ]
+}

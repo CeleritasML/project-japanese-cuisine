@@ -1,0 +1,112 @@
+{
+    "name": "Tai Meshi with Leftover Baked Sea Bream",
+    "summary": "This Japanese Sea Bream Rice (Tai Meshi) is an elegant rice dish fit for special occasions. Flavored by a savory broth extracted from sea bream bone and cooked in a donabe, the rice is incredibly fragrant and tastes heavenly. It\u2019s easily one of the most festive things you can serve.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/12/Taimeshi-2713-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "fish",
+        "japanese rice"
+    ],
+    "ingredients": [
+        {
+            "name": "uncooked Japanese short-grain rice",
+            "raw_text": "uncooked Japanese short-grain rice"
+        },
+        {
+            "name": "kombu",
+            "raw_text": "kombu (dried kelp)"
+        },
+        {
+            "name": "sea bream meat",
+            "raw_text": "sea bream meat"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        },
+        {
+            "name": "Japanese sansho pepper",
+            "raw_text": "Japanese sansho pepper"
+        },
+        {
+            "name": "cooked sea bream bone and head",
+            "raw_text": "cooked sea bream bone and head"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "410",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "61",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "27",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "622",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "78",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "5",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

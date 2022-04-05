@@ -1,0 +1,126 @@
+{
+    "name": "Anmitsu",
+    "summary": "Celebrate summer with this delightful\u00a0Japanese dessert called Anmitsu! It's a Japanese wagashi dessert with kanten jelly, fruits, mochi, red bean paste, green tea ice cream and a good drizzle of sweet black sugar syrup.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2014/03/Anmitsu-1-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "wagashi"
+    ],
+    "ingredients": [
+        {
+            "name": "kanten jelly",
+            "raw_text": "kanten jelly"
+        },
+        {
+            "name": "Shiratama Dango/Mochi",
+            "raw_text": "Shiratama Dango/Mochi (homemade)"
+        },
+        {
+            "name": "red bean paste",
+            "raw_text": "red bean paste (anko)"
+        },
+        {
+            "name": "Green Tea Ice Cream",
+            "raw_text": "Green Tea Ice Cream (homemade or store bought)"
+        },
+        {
+            "name": "strawberries",
+            "raw_text": "strawberries"
+        },
+        {
+            "name": "banana",
+            "raw_text": "banana"
+        },
+        {
+            "name": "kiwis",
+            "raw_text": "kiwis"
+        },
+        {
+            "name": "kuromitsu",
+            "raw_text": "kuromitsu (brown sugar syrup)"
+        },
+        {
+            "name": "boiled red endomame peas",
+            "raw_text": "boiled red endomame peas"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "147",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "35",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "24",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "315",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "20",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "47",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "28",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "28",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "5",
+            "unit": "mg"
+        }
+    ]
+}

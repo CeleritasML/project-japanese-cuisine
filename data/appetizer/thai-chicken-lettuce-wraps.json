@@ -1,0 +1,164 @@
+{
+    "name": "Thai Chicken Lettuce Wraps",
+    "summary": "Refreshing Thai Chicken Lettuce Wraps with mint leaves, cilantro, peanuts, daikon and carrot strips! Enjoy with a drizzle of sweet Thai chili sauce!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2014/08/Thai-Chicken-Lettuce-Wraps-400x400.jpg",
+    "cuisine": [
+        "Thai"
+    ],
+    "keywords": [
+        "chicken"
+    ],
+    "ingredients": [
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "boneless, skinless chicken breast",
+            "raw_text": "boneless, skinless chicken breast"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "daikon radish",
+            "raw_text": "daikon radish"
+        },
+        {
+            "name": "butter lettuce",
+            "raw_text": "butter lettuce"
+        },
+        {
+            "name": "peanuts",
+            "raw_text": "peanuts"
+        },
+        {
+            "name": "mint",
+            "raw_text": "mint"
+        },
+        {
+            "name": "cilantro",
+            "raw_text": "cilantro (coriander)"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "green onion/scallion",
+            "raw_text": "green onion/scallion"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        },
+        {
+            "name": "Thai sweet chili sauce",
+            "raw_text": "Thai sweet chili sauce"
+        },
+        {
+            "name": "cilantro",
+            "raw_text": "cilantro (coriander)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "202",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "26",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "73",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "483",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "785",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "4101",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "24",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "55",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

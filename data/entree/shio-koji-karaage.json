@@ -1,0 +1,133 @@
+{
+    "name": "Shio Koji Karaage",
+    "summary": "Delicious bite-size chicken karaage seasoned with the Japanese all purpose seasoning, Shio Koji! Crunchy, tender and flavorful, this is one of my favorite chicken recipes.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2013/12/Shio-Koji-Karaage-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "chicken",
+        "shio koji"
+    ],
+    "ingredients": [
+        {
+            "name": "boneless, skin-on chicken thighs",
+            "raw_text": "boneless, skin-on chicken thighs"
+        },
+        {
+            "name": "shio koji",
+            "raw_text": "shio koji"
+        },
+        {
+            "name": "grated ginger",
+            "raw_text": "grated ginger"
+        },
+        {
+            "name": "grated garlic",
+            "raw_text": "grated garlic"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "lemon wedges",
+            "raw_text": "lemon wedges"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "439",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "20",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "33",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "111",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "508",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "376",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "89",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "20",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "name": "Chocolate Gateau (Chocolate Cake)",
+    "summary": "Moist and rich chocolate gateau (chocolate cake), dusted with powdered sugar and garnished with raspberries.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/01/Chocolate-Gateau-Chocolate-Cake-2224-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "cake",
+        "chocolate"
+    ],
+    "ingredients": [
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "unsweetened cocoa powder",
+            "raw_text": "unsweetened cocoa powder"
+        },
+        {
+            "name": "semi-sweet chocolate bar",
+            "raw_text": "semi-sweet chocolate bar"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "heavy whipping cream",
+            "raw_text": "heavy whipping cream"
+        },
+        {
+            "name": "raspberries",
+            "raw_text": "raspberries"
+        },
+        {
+            "name": "confectioners\u2019 sugar/powdered sugar",
+            "raw_text": "confectioners\u2019 sugar/powdered sugar"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "1",
+            "unit": "8-inch cake"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "2846",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "318",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "53",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "184",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "107",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "55",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "1036",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "502",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "2127",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "38",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "229",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "4404",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "327",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "21",
+            "unit": "mg"
+        }
+    ]
+}

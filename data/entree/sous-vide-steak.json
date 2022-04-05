@@ -1,0 +1,133 @@
+{
+    "name": "Sous Vide Steak - Japanese Style (Wafu Steak)",
+    "summary": "Learn how to achieve perfectly cooked medium rare Japanese-style sous vide steak (Wafu Steak), served with grated daikon, scallion and ponzu sauce.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2016/05/Sous-Vide-Steak-VIII-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "beef",
+        "sous vide",
+        "steak"
+    ],
+    "ingredients": [
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "1-thick",
+            "raw_text": "1-thick (2.5 cm) steak"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "green onion/scallion",
+            "raw_text": "green onion/scallion"
+        },
+        {
+            "name": "daikon radish",
+            "raw_text": "daikon radish"
+        },
+        {
+            "name": "ponzu",
+            "raw_text": "ponzu"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "501",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "46",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "32",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "138",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "481",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "878",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "154",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "25",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "57",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "5",
+            "unit": "mg"
+        }
+    ]
+}

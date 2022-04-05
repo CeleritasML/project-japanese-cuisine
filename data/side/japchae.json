@@ -1,0 +1,212 @@
+{
+    "name": "Japchae",
+    "summary": "Have you tried Japchae (Korean sweet potato noodles stir fried with vegetables and meat)? This recipe will show you how easy it is to cook up this beloved Korean noodle dish at home!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2016/02/Japchae-400x400.jpg",
+    "cuisine": [
+        "Korean"
+    ],
+    "keywords": [
+        "stir fry noodle"
+    ],
+    "ingredients": [
+        {
+            "name": "beef",
+            "raw_text": "beef"
+        },
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "shiitake mushrooms",
+            "raw_text": "shiitake mushrooms"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "bell pepper",
+            "raw_text": "bell pepper"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "fresh spinach",
+            "raw_text": "fresh spinach"
+        },
+        {
+            "name": "Korean sweet potato noodles",
+            "raw_text": "Korean sweet potato noodles"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "Korean soy sauce",
+            "raw_text": "Korean soy sauce"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "Korean soy sauce",
+            "raw_text": "Korean soy sauce"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "502",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "76",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "17",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "89",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "899",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "530",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "6412",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "24",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "107",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

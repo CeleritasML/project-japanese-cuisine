@@ -1,0 +1,124 @@
+{
+    "name": "Kabocha Salad",
+    "summary": "Sweet golden Kabocha Salad (Japanese pumpkin) with sliced cucumber, crispy bacon and tossed with creamy Japanese mayo. This beautiful salad could be your new classic on the holiday table.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/09/Kabocha-Salad-2984-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "kabocha"
+    ],
+    "ingredients": [
+        {
+            "name": "kabocha",
+            "raw_text": "kabocha"
+        },
+        {
+            "name": "Japanese or Persian cucumbers",
+            "raw_text": "Japanese or Persian cucumbers"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "bacon",
+            "raw_text": "bacon"
+        },
+        {
+            "name": "Japanese mayonnaise",
+            "raw_text": "Japanese mayonnaise"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "158",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "12",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "144",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "441",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "1576",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "14",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "35",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

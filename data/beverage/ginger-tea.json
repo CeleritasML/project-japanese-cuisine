@@ -1,0 +1,109 @@
+{
+    "name": "Honey Ginger Tea (Sh\u014dgayu)",
+    "summary": "Sip your way to a healthy start with a warming cup of Sh\u014dgayu, or Honey Ginger Tea! Not only is it a potent cold and flu remedy, but ginger tea also boasts a myriad of health benefits. Learn how to make a simple cup at home and enjoy it all winter long.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2022/01/Japanese-Ginger-Tea-5719-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "ginger"
+    ],
+    "ingredients": [
+        {
+            "name": "grated ginger",
+            "raw_text": "grated ginger"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "honey",
+            "raw_text": "honey"
+        },
+        {
+            "name": "freshly squeezed lemon juice",
+            "raw_text": "freshly squeezed lemon juice"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "3",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "3",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "15",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "34",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

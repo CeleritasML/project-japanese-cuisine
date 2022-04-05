@@ -1,0 +1,137 @@
+{
+    "name": "Sweet and Spicy BBQ Chicken Wings",
+    "summary": "Sweet & Spicy BBQ Chicken wings marinaded in honey, grated apple, garlic, mirin, soy sauce, and my secret - spicy fermented Korean chili paste, Gochujang!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/05/Sweet-and-Spicy-BBQ-Chicken-Wings-9325-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese",
+        "Korean"
+    ],
+    "keywords": [
+        "bbq",
+        "chicken",
+        "chicken wing"
+    ],
+    "ingredients": [
+        {
+            "name": "chicken wings",
+            "raw_text": "chicken wings (flats/drumettes)"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "gochujang",
+            "raw_text": "gochujang (Korean chili paste)"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "green onion/scallion",
+            "raw_text": "green onion/scallion"
+        },
+        {
+            "name": "honey",
+            "raw_text": "honey"
+        },
+        {
+            "name": "apple",
+            "raw_text": "apple"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "463",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "35",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "31",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "141",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "519",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "318",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "306",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "3",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "45",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

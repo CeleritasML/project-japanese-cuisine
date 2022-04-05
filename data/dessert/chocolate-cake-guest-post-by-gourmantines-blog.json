@@ -1,0 +1,140 @@
+{
+    "name": "Chocolate Cake",
+    "summary": "Simple chocolate cake layered with dark chocolate ganache and cherry, enjoy with whipped cream and white chocolate shaving.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2011/12/Chocolate-Cake-By-Gourmantines-Blog-300x200.jpg",
+    "cuisine": [
+        "French"
+    ],
+    "keywords": [
+        "chocolate"
+    ],
+    "ingredients": [
+        {
+            "name": "dark chocolate",
+            "raw_text": "dark chocolate"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "chocolate chips",
+            "raw_text": "chocolate chips"
+        },
+        {
+            "name": "heavy whipping cream",
+            "raw_text": "heavy whipping cream"
+        },
+        {
+            "name": "maraschino cherries",
+            "raw_text": "maraschino cherries"
+        },
+        {
+            "name": "white chocolate",
+            "raw_text": "white chocolate"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "773",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "61",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "56",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "33",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "218",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "95",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "354",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "43",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "1227",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "75",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "5",
+            "unit": "mg"
+        }
+    ]
+}

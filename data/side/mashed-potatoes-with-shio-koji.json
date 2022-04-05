@@ -1,0 +1,126 @@
+{
+    "name": "Creamy Mashed Potatoes with Shio Koji",
+    "summary": "Buttery, creamy, and umami-packed, these Mashed Potatoes with Shio Koji have a Japanese flair to the classic recipe. Be ready to be blown away! Also, get the important tips on how to make the fluffiest, silkiest, and creamiest mashed potatoes.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/11/Mashed-Potatoes-with-Shio-Koji-1081-I-500x500.jpg",
+    "cuisine": [
+        "American"
+    ],
+    "keywords": [
+        "potato"
+    ],
+    "ingredients": [
+        {
+            "name": "russet and Yukon Gold potatoes",
+            "raw_text": "russet and Yukon Gold potatoes"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "heavy whipping cream",
+            "raw_text": "heavy whipping cream"
+        },
+        {
+            "name": "shio koji",
+            "raw_text": "shio koji"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "chives",
+            "raw_text": "chives"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "274",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "32",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "43",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "550",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "725",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "515",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "10",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "35",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

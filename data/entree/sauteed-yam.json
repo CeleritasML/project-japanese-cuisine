@@ -1,0 +1,100 @@
+{
+    "name": "Sauteed Yam",
+    "summary": "This crunchy and toasty\u00a0Saut\u00e9ed Yam absorbs the flavors from soy sauce being charred in the pan. Inspired by the Japanese drama, Midnight Diner.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2017/04/Sauteed-Yam-w722-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "nagaimo"
+    ],
+    "ingredients": [
+        {
+            "name": "nagaimo/yamaimo",
+            "raw_text": "nagaimo/yamaimo (mountain yam)"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "mizuna",
+            "raw_text": "mizuna (Japanese mustard green)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "132",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "393",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "430",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "6",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "17",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

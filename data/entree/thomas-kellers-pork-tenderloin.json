@@ -1,0 +1,176 @@
+{
+    "name": "Thomas Keller\u2019s Pork Tenderloin",
+    "summary": "Juicy and flavorful pork tenderloin. It requires some prep time, but mostly to brine the pork.\u00a0 It's pretty simple cooking yet the flavor was very complex and fabulous!\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2011/10/Thomas-Kellers-Brined-Pork-Tenderloin-400x400.jpg",
+    "cuisine": [
+        "American"
+    ],
+    "keywords": [
+        "pork"
+    ],
+    "ingredients": [
+        {
+            "name": "pork tenderloin",
+            "raw_text": "pork tenderloin"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "honey",
+            "raw_text": "honey"
+        },
+        {
+            "name": "bay leaves",
+            "raw_text": "bay leaves"
+        },
+        {
+            "name": "rosemary",
+            "raw_text": "rosemary"
+        },
+        {
+            "name": "thyme",
+            "raw_text": "thyme"
+        },
+        {
+            "name": "Italian parsley",
+            "raw_text": "Italian parsley"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "peppercorns",
+            "raw_text": "peppercorns"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "saffron",
+            "raw_text": "saffron"
+        },
+        {
+            "name": "basil leaves",
+            "raw_text": "basil leaves"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "thyme",
+            "raw_text": "thyme"
+        },
+        {
+            "name": "rosemary",
+            "raw_text": "rosemary"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "522",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "59",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "27",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "214",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1496",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1182",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "542",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "7",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "65",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

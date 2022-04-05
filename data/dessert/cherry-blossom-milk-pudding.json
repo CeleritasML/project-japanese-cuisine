@@ -1,0 +1,139 @@
+{
+    "name": "Cherry Blossom Milk Pudding",
+    "summary": "Celebrate the cherry blossom season with this delectable cherry blossom milk pudding. The soft silky pudding simply melts in your mouth.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/03/Cherry-Blossom-Milk-Pudding-3669-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "milk pudding",
+        "pudding"
+    ],
+    "ingredients": [
+        {
+            "name": "gelatin sheets",
+            "raw_text": "gelatin sheets"
+        },
+        {
+            "name": "hot water",
+            "raw_text": "hot water"
+        },
+        {
+            "name": "whole milk",
+            "raw_text": "whole milk"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "plain yogurt",
+            "raw_text": "plain yogurt"
+        },
+        {
+            "name": "heavy whipping cream",
+            "raw_text": "heavy whipping cream"
+        },
+        {
+            "name": "salt pickled cherry blossoms",
+            "raw_text": "salt pickled cherry blossoms"
+        },
+        {
+            "name": "gelatin sheet",
+            "raw_text": "gelatin sheet"
+        },
+        {
+            "name": "hot water",
+            "raw_text": "hot water"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "red food coloring",
+            "raw_text": "red food coloring"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "268",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "22",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "69",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "51",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "137",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "20",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "823",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "2",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "117",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

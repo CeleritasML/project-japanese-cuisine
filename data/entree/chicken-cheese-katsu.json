@@ -1,0 +1,139 @@
+{
+    "name": "Chicken Cheese Katsu",
+    "summary": "Coated with crispy Japanese panko and fried to perfection, this Chicken Cheese Katsu is a favorite among kids and adults alike. The melt-in-your-mouth molten cheese filling makes the fried chicken extra special! ",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/01/Chicken-Cheese-Katsu-5743-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "chicken",
+        "panko"
+    ],
+    "ingredients": [
+        {
+            "name": "chicken tenders/tenderloins",
+            "raw_text": "chicken tenders/tenderloins"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "white pepper powder",
+            "raw_text": "white pepper powder"
+        },
+        {
+            "name": "cheese",
+            "raw_text": "cheese"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "panko",
+            "raw_text": "panko (Japanese breadcrumbs)"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "shredded cabbage",
+            "raw_text": "shredded cabbage"
+        },
+        {
+            "name": "cherry tomatoes",
+            "raw_text": "cherry tomatoes"
+        },
+        {
+            "name": "flake sea salt",
+            "raw_text": "flake sea salt"
+        },
+        {
+            "name": "tonkatsu sauce",
+            "raw_text": "tonkatsu sauce"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "575",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "33",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "43",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "23",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "208",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "368",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "304",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "578",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "2",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "251",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

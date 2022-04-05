@@ -1,0 +1,142 @@
+{
+    "name": "Matcha Swiss Roll (Roll Cake)",
+    "summary": "Fluffy sponge cake rolled up with fresh matcha cream in the middle, this Matcha Swiss Roll will be an instant favorite this holiday season!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/12/Matcha-Swiss-Roll-5916-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "green tea",
+        "roll cake"
+    ],
+    "ingredients": [
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "cake flour",
+            "raw_text": "cake flour"
+        },
+        {
+            "name": "baking powder",
+            "raw_text": "baking powder"
+        },
+        {
+            "name": "matcha",
+            "raw_text": "matcha (green tea powder)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "whole milk",
+            "raw_text": "whole milk"
+        },
+        {
+            "name": "heavy whipping cream",
+            "raw_text": "heavy whipping cream"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "matcha",
+            "raw_text": "matcha (green tea powder)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "1",
+            "unit": "whole Swiss roll"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "1830",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "194",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "60",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "88",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "48",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "27",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "992",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "580",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "546",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "121",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "5654",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "395",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "12",
+            "unit": "mg"
+        }
+    ]
+}

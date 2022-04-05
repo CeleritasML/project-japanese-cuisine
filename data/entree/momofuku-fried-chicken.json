@@ -1,0 +1,141 @@
+{
+    "name": "Momofuku Fried Chicken",
+    "summary": "Chicken with amazing sauce made with garlic, ginger, chilipepper, rice vinegar, soy sauce, and sesame oil. Perfect recipe for busy weeknight!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2011/09/Momofuku-Chicken-Wings-III-350x233-1-300x200.jpg",
+    "cuisine": [
+        "Chinese"
+    ],
+    "keywords": [
+        "chicken",
+        "chicken wings"
+    ],
+    "ingredients": [
+        {
+            "name": "chicken wings",
+            "raw_text": "chicken wings (flats/drumettes)"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        },
+        {
+            "name": "chili pepper",
+            "raw_text": "chili pepper"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "461",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "35",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "33",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "141",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "615",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "300",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "272",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "2",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "27",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

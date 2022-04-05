@@ -1,0 +1,108 @@
+{
+    "name": "Ujikintoki (Green Tea Shaved Ice)",
+    "summary": "A traditional Japanese matcha green tea shaved ice dessert, Ujikintoki is a summer must-try recipe! With a simple shaved ice machine, you and your family can enjoy this refreshing treat all summer long. Have fun with topping such as red bean paste, shiratama dango, sweetened condensed milk and green tea ice cream.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2014/07/Ujikintoki-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "matcha",
+        "shaved ice"
+    ],
+    "ingredients": [
+        {
+            "name": "ice",
+            "raw_text": "ice"
+        },
+        {
+            "name": "red bean paste",
+            "raw_text": "red bean paste (anko)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "matcha green tea powder",
+            "raw_text": "matcha green tea powder"
+        },
+        {
+            "name": "hot water",
+            "raw_text": "hot water"
+        },
+        {
+            "name": "Shiratama Dango/Mochi",
+            "raw_text": "Shiratama Dango/Mochi (homemade)"
+        },
+        {
+            "name": "Green Tea Ice Cream",
+            "raw_text": "Green Tea Ice Cream (homemade or store bought)"
+        },
+        {
+            "name": "sweetened condensed milk",
+            "raw_text": "sweetened condensed milk"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "221",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "50",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "48",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "211",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "40",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "190",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "12",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

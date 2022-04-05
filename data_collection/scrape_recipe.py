@@ -36,18 +36,21 @@ def parse_ingredient(html_soup):
 
 
 def parse_nutrition(html_soup):
-    nutritions_div = html_soup.find('div', class_='wprm-nutrition-label-container')
-    nutritions_span = nutritions_div.find_all('span', class_='wprm-nutrition-label-text-nutrition-label')
-    nutritions = []
-    for nu in nutritions_span:
-        val = nu.find_next_sibling()
-        unit = val.find_next_sibling()
-        nu_dict = {
-            'nutrition': nu.get_text().replace(': ', ''),
-            'value': val.get_text(),
-            'unit': unit.get_text(),
-        }
-        nutritions.append(nu_dict)
+    try:
+        nutritions_div = html_soup.find('div', class_='wprm-nutrition-label-container')
+        nutritions_span = nutritions_div.find_all('span', class_='wprm-nutrition-label-text-nutrition-label')
+        nutritions = []
+        for nu in nutritions_span:
+            val = nu.find_next_sibling()
+            unit = val.find_next_sibling()
+            nu_dict = {
+                'nutrition': nu.get_text().replace(': ', ''),
+                'value': val.get_text(),
+                'unit': unit.get_text(),
+            }
+            nutritions.append(nu_dict)
+    except Exception:
+        return []
     return nutritions
 
 
@@ -56,7 +59,7 @@ def parse_additional_info(html_soup):
     additonal = {}
     cuisine = addition_area.find('span', class_='wprm-recipe-cuisine')
     keywords = addition_area.find('span', class_='wprm-recipe-keyword')
-    additonal['cuisine'] = cuisine.get_text()
+    additonal['cuisine'] = cuisine.get_text().split(', ')
     additonal['keywords'] = keywords.get_text().split(', ')
     return additonal
 

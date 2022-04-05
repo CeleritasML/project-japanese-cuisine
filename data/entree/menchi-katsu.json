@@ -1,0 +1,169 @@
+{
+    "name": "Menchi Katsu",
+    "summary": "Breaded in panko breadcrumbs and deep fried to golden color, these Menchi Katsu (Japanese Ground Meat Cutlet) are one of the popular yoshoku foods (western style Japanese food) in Japan.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/04/Menchi-Katsu-Ground-Meat-Cutlet-2213-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "beef",
+        "pork"
+    ],
+    "ingredients": [
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "ground beef and pork combination",
+            "raw_text": "ground beef and pork combination"
+        },
+        {
+            "name": "panko",
+            "raw_text": "panko (Japanese breadcrumbs)"
+        },
+        {
+            "name": "milk",
+            "raw_text": "milk"
+        },
+        {
+            "name": "large egg",
+            "raw_text": "large egg (50 g w/o shell)"
+        },
+        {
+            "name": "nutmeg",
+            "raw_text": "nutmeg"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "panko",
+            "raw_text": "panko (Japanese breadcrumbs)"
+        },
+        {
+            "name": "tonkatsu sauce",
+            "raw_text": "tonkatsu sauce"
+        },
+        {
+            "name": "Worcestershire sauce",
+            "raw_text": "Worcestershire sauce"
+        },
+        {
+            "name": "tonkatsu or Worcestershire sauce + ketchup",
+            "raw_text": "tonkatsu or Worcestershire sauce + ketchup"
+        },
+        {
+            "name": "Tartar Sauce",
+            "raw_text": "Tartar Sauce (homemade)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "477",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "25",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "32",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "27",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "182",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "425",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "506",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "169",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "74",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "5",
+            "unit": "mg"
+        }
+    ]
+}

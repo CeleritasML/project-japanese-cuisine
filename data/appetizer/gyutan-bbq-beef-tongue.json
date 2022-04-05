@@ -1,0 +1,123 @@
+{
+    "name": "Gyutan (BBQ Beef Tongue)",
+    "summary": "Delicious gyutan recipe, barbecue sliced beef tongue marinated in yuzu pepper, onion, sesame oil and soy sauce.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2012/07/Gyutan-BBQ-Beef-Tongue-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "bbq",
+        "beef"
+    ],
+    "ingredients": [
+        {
+            "name": "beef tongue slices",
+            "raw_text": "beef tongue slices"
+        },
+        {
+            "name": "yuzu kosho",
+            "raw_text": "yuzu kosho (Japanese citrus chili paste)"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "yuzu juice",
+            "raw_text": "yuzu juice (extract)"
+        },
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "150",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "50",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "291",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "180",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "1",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "2",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "15",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

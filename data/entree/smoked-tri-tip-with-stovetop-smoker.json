@@ -1,0 +1,87 @@
+{
+    "name": "Smoked Tri-Tip with Stovetop Smoker",
+    "summary": "If you're craving a flavorful, tender, juicy Tri-Tip, you\u2019ve come to the right place. Today we\u2019re going to show you how you can cook up Smoked Tri-Tip with stovetop smoker to perfection. And yes, you can do that over the stove in just 30 mins!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2014/12/Smoked-Tri-Tip-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "beef",
+        "tri-tip"
+    ],
+    "ingredients": [
+        {
+            "name": "tri-tip",
+            "raw_text": "tri-tip"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "dry rub of your choice",
+            "raw_text": "dry rub of your choice"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "475",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "62",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "23",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "197",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "160",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "971",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "73",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "5",
+            "unit": "mg"
+        }
+    ]
+}

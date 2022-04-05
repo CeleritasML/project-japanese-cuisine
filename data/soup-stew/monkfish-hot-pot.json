@@ -1,0 +1,165 @@
+{
+    "name": "Monkfish Hot Pot (Anko Nabe)",
+    "summary": "Experience the warmest communal dining at home with this incredibly flavorful Japanese Monkfish Hot Pot called Anko Nabe. You\u2019ll be blown away by the rich soup broth, and all the fun involved in cooking and eating together. It\u2019s one of our family\u2019s most favorite meals in winter months!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/11/Monkfish-Hot-Pot-Anko-Nabe-1913-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "hot pot",
+        "nabe"
+    ],
+    "ingredients": [
+        {
+            "name": "monkfish",
+            "raw_text": "monkfish (anko)"
+        },
+        {
+            "name": "steamed monk fish liver",
+            "raw_text": "steamed monk fish liver (ankimo)"
+        },
+        {
+            "name": "shiitake mushrooms",
+            "raw_text": "shiitake mushrooms"
+        },
+        {
+            "name": "enoki mushrooms",
+            "raw_text": "enoki mushrooms"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "shungiku",
+            "raw_text": "shungiku (tong ho/garland chrysanthemum)"
+        },
+        {
+            "name": "Tokyo negi",
+            "raw_text": "Tokyo negi (naga negi; long green onion)"
+        },
+        {
+            "name": "napa cabbage",
+            "raw_text": "napa cabbage"
+        },
+        {
+            "name": "medium-firm tofu",
+            "raw_text": "medium-firm tofu (momen tofu)"
+        },
+        {
+            "name": "shirataki noodles",
+            "raw_text": "shirataki noodles"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "kombu",
+            "raw_text": "kombu (dried kelp)"
+        },
+        {
+            "name": "miso",
+            "raw_text": "miso"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "331",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "20",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "37",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "106",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1315",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1089",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "7240",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "23",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "257",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "5",
+            "unit": "mg"
+        }
+    ]
+}

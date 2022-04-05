@@ -1,0 +1,115 @@
+{
+    "name": "Custard Cream (Pastry Cream)",
+    "summary": "Learn how to make homemade custard cream (pastry cream) and use it as a delicious filling for popular Japanese street snacks such as Dorayaki, Taiyaki, and Imagawayaki (Obanyaki)!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2017/08/How-To-Make-Custard-Cream-w600-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "custard",
+        "homemade"
+    ],
+    "ingredients": [
+        {
+            "name": "vanilla bean",
+            "raw_text": "vanilla bean"
+        },
+        {
+            "name": "whole milk",
+            "raw_text": "whole milk"
+        },
+        {
+            "name": "large egg yolks",
+            "raw_text": "large egg yolks"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "cake flour",
+            "raw_text": "cake flour"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "498",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "73",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "17",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "392",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "115",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "354",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "62",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "858",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "303",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

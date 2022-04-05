@@ -1,0 +1,135 @@
+{
+    "name": "Soy Sauce Caramel Ice Cream",
+    "summary": "Homemade vanilla ice cream reaches its new height with a generous drizzle of soy sauce caramel. An interplay of savory, sweet and creative flavors, this Japanese-inspired ice cream is going to have you come back for more!\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/06/Soy-Sauce-Caramel-Ice-Cream-5674-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "ice cream",
+        "soy sauce"
+    ],
+    "ingredients": [
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "heavy whipping cream",
+            "raw_text": "heavy whipping cream"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "heavy whipping cream",
+            "raw_text": "heavy whipping cream"
+        },
+        {
+            "name": "whole milk",
+            "raw_text": "whole milk"
+        },
+        {
+            "name": "large egg yolks",
+            "raw_text": "large egg yolks"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "gelatin",
+            "raw_text": "gelatin"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "vanilla extract",
+            "raw_text": "vanilla extract"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "1",
+            "unit": "QT"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "2741",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "170",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "29",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "221",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "133",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "1330",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1094",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "762",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "153",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "8929",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "3",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "677",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

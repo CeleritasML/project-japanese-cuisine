@@ -1,0 +1,137 @@
+{
+    "name": "Matcha Tiramisu",
+    "summary": "Creamy, rich, and bursting with bold matcha flavors, this irresistible matcha tiramisu consists matcha soaked ladyfingers layered with a light and airy mascarpone custard filling.\u00a0It\u2019s a classic tiramisu dessert with Japanese twist!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/11/Matcha-Tiramisu-6372-I-2-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "green tea",
+        "tiramisu"
+    ],
+    "ingredients": [
+        {
+            "name": "large egg yolks",
+            "raw_text": "large egg yolks"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "marsala wine",
+            "raw_text": "marsala wine"
+        },
+        {
+            "name": "mascarpone cheese",
+            "raw_text": "mascarpone cheese"
+        },
+        {
+            "name": "heavy whipping cream",
+            "raw_text": "heavy whipping cream"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "matcha",
+            "raw_text": "matcha (green tea powder)"
+        },
+        {
+            "name": "ladyfingers",
+            "raw_text": "ladyfingers"
+        },
+        {
+            "name": "matcha",
+            "raw_text": "matcha (green tea powder)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "1",
+            "unit": "8\u00d78 baking dish"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "3837",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "238",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "87",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "273",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "160",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "56",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "1918",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "680",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "657",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "63",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "13338",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "2",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "767",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "21",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "name": "Mitarashi Dango",
+    "summary": "Mitarashi Dango is a traditional Japanese rice dumpling smothered in an irresistibly sweet soy glaze. The dumplings are skewered on a bamboo stick and enjoyed all year round. Make this street snack right in your own kitchen!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/09/Mitarashi-Dango-0689-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "dango",
+        "wagashi"
+    ],
+    "ingredients": [
+        {
+            "name": "joshinko",
+            "raw_text": "joshinko (Japanese rice flour)"
+        },
+        {
+            "name": "shiratamako",
+            "raw_text": "shiratamako (glutinous rice flour/sweet rice flour)"
+        },
+        {
+            "name": "warm water",
+            "raw_text": "warm water"
+        },
+        {
+            "name": "dangoko",
+            "raw_text": "dangoko (Japanese rice dumpling flour)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "192",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "41",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "193",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "49",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "11",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

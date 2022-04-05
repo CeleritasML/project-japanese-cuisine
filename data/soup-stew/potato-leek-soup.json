@@ -1,0 +1,133 @@
+{
+    "name": "Potato & Leek Soup",
+    "summary": "This easy potato leek soup is one of my family's favorite, the flavor of leek blended with potato's texture combined really well.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2011/03/Potato-Leek-Soup-w500-400x400.jpg",
+    "cuisine": [
+        "American"
+    ],
+    "keywords": [
+        "leek",
+        "potato"
+    ],
+    "ingredients": [
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "russet potato",
+            "raw_text": "russet potato"
+        },
+        {
+            "name": "leek",
+            "raw_text": "leek"
+        },
+        {
+            "name": "vegetable stock/broth",
+            "raw_text": "vegetable stock/broth"
+        },
+        {
+            "name": "milk",
+            "raw_text": "milk"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "parsley",
+            "raw_text": "parsley"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "181",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "27",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "204",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "430",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "744",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "6",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "161",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

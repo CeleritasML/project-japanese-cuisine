@@ -1,0 +1,134 @@
+{
+    "name": "Slow Cooker Sriracha Chili Chicken Wings",
+    "summary": "These sticky, sweet, and spicy\u00a0Sriracha Chili Chicken Wings are perfect as\u00a0party appetizers and easy weeknight meals. \u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2016/11/Slow-Cooker-Sriracha-Chili-Chicken-Wings-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "chicken wing",
+        "instant pot",
+        "slow cooker"
+    ],
+    "ingredients": [
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "honey",
+            "raw_text": "honey"
+        },
+        {
+            "name": "sriracha sauce",
+            "raw_text": "sriracha sauce"
+        },
+        {
+            "name": "Thai sweet chili sauce",
+            "raw_text": "Thai sweet chili sauce"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "chicken wings",
+            "raw_text": "chicken wings (flats/drumettes)"
+        },
+        {
+            "name": "cilantro",
+            "raw_text": "cilantro"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "672",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "37",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "34",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "44",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "17",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "179",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "473",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "327",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "37",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "723",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "9",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "30",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

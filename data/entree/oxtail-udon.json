@@ -1,0 +1,136 @@
+{
+    "name": "Oxtail Udon",
+    "summary": "Chewy udon noodles, tender fall-off-the-bone meat, and fried garlic slices in a hearty oxtail broth. This Oxtail Udon is the ultimate comfort food this winter, or all year around!\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2018/01/Oxtail-Udon-w600-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "oxtail",
+        "udon noodle"
+    ],
+    "ingredients": [
+        {
+            "name": "Oxtail Broth and Meat",
+            "raw_text": "Oxtail Broth and Meat (homemade)"
+        },
+        {
+            "name": "udon noodles",
+            "raw_text": "udon noodles"
+        },
+        {
+            "name": "green onions/scallions",
+            "raw_text": "green onions/scallions"
+        },
+        {
+            "name": "fried garlic chips",
+            "raw_text": "fried garlic chips"
+        },
+        {
+            "name": "chili oil with crunchy garlic",
+            "raw_text": "chili oil with crunchy garlic"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "katsuobushi",
+            "raw_text": "katsuobushi (dried bonito flakes)"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "white pepper powder",
+            "raw_text": "white pepper powder"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "655",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "26",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "70",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "28",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "234",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "894",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "37",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "90",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "2",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "60",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "9",
+            "unit": "mg"
+        }
+    ]
+}

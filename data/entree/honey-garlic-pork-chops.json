@@ -1,0 +1,138 @@
+{
+    "name": "Honey Garlic Pork Chops",
+    "summary": "Juicy, sweet, with just a hint of garlic, these succulent oven-baked Honey Garlic Pork Chops are simply irresistible. Its flavorful sauce has all the allure. Serve with a side of roasted vegetables for a worthy weeknight dinner!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/10/Honey-Garlic-Pork-Chops-0587-I-2-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "pork chop"
+    ],
+    "ingredients": [
+        {
+            "name": "boneless pork loin chops",
+            "raw_text": "boneless pork loin chops (\u00bd-inch thick)"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "black pepper",
+            "raw_text": "black pepper"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "honey",
+            "raw_text": "honey"
+        },
+        {
+            "name": "fresh thyme",
+            "raw_text": "fresh thyme"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "458",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "20",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "52",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "150",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "925",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "896",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "20",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "91",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "2",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "26",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

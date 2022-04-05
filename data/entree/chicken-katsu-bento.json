@@ -1,0 +1,132 @@
+{
+    "name": "Chicken Katsu Bento",
+    "summary": "Chicken Katsu Bento served over rice with Tamagoyaki, blackberries, strawberries, and broccoli. Delicious Chicken Katsu for dinner or lunch!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2013/01/Chicken-Katsu-Bento-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "bento"
+    ],
+    "ingredients": [
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "chicken katsu",
+            "raw_text": "chicken katsu"
+        },
+        {
+            "name": "tonkatsu sauce",
+            "raw_text": "tonkatsu sauce"
+        },
+        {
+            "name": "strawberries",
+            "raw_text": "strawberries"
+        },
+        {
+            "name": "blackberries",
+            "raw_text": "blackberries"
+        },
+        {
+            "name": "tomatoes",
+            "raw_text": "tomatoes"
+        },
+        {
+            "name": "broccoli",
+            "raw_text": "broccoli"
+        },
+        {
+            "name": "Tamagoyaki",
+            "raw_text": "Tamagoyaki (Japanese Rolled Omelette)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "424",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "47",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "28",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "223",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "450",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "698",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "881",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "45",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "75",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

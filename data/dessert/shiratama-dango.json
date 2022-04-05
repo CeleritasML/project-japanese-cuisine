@@ -1,0 +1,106 @@
+{
+    "name": "Shiratama Dango",
+    "summary": "If you enjoy wagashi (Japanese confectionery) and wish to make them at home, this post shows you how to make Shiratama Dango that are found in many Japanese sweets. Chewy & gooey in texture, this type of mochi uses glutinous rice flour made from shiratamako or mochiko.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2014/03/Shiratama-Dango-5517-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "dango",
+        "mochi",
+        "wagashi"
+    ],
+    "ingredients": [
+        {
+            "name": "mochiko",
+            "raw_text": "mochiko (glutinous rice flour/sweet rice flour)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "shiratamako",
+            "raw_text": "shiratamako (glutinous rice flour/sweet rice flour)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "13",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "3",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

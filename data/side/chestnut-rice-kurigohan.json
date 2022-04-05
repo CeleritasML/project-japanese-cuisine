@@ -1,0 +1,119 @@
+{
+    "name": "Chestnut Rice (Kuri Gohan)",
+    "summary": "Chestnut rice or Kuri Gohan is a traditional Japanese fall rice recipe. This aromatic chestnut rice with black sesame and a pinch of salt is perfect for fall evenings.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2013/11/Chestnut-Rice-w600-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "chestnut",
+        "japanese rice",
+        "mixed rice"
+    ],
+    "ingredients": [
+        {
+            "name": "uncooked Japanese short-grain rice",
+            "raw_text": "uncooked Japanese short-grain rice"
+        },
+        {
+            "name": "sweet rice/glutinous rice",
+            "raw_text": "sweet rice/glutinous rice (mochigome)"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "chestnuts",
+            "raw_text": "chestnuts"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "toasted black sesame seeds",
+            "raw_text": "toasted black sesame seeds"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "391",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "86",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "227",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "231",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "9",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "14",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "27",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

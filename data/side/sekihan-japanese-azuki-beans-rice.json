@@ -1,0 +1,114 @@
+{
+    "name": "Sekihan (Red Bean Rice)",
+    "summary": "Sekihan literary means \u201cred rice\u201d in Japanese because the rice is red from cooking with Azuki beans. It\u2019s a traditional dish served during the New Year, births of baby, birthdays, festivals, weddings, or any kind of celebration.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/05/Sekihan-7017-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "azuki",
+        "sweet rice"
+    ],
+    "ingredients": [
+        {
+            "name": "azuki beans",
+            "raw_text": "azuki beans"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "sweet rice/glutinous rice",
+            "raw_text": "sweet rice/glutinous rice (mochigome)"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "toasted black sesame seeds",
+            "raw_text": "toasted black sesame seeds"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "356",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "76",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "177",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "220",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "2",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "66",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

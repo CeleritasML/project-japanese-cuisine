@@ -1,0 +1,50 @@
+{
+    "name": "Buckwheat Tea (Sobacha)",
+    "summary": "Brewed from buckwheat grains, this healthy and delicious Buckwheat Tea or Sobacha will be your new favorite drink! A popular tea in Japan, it is a great way to get the many benefits, along with its antioxidant power. Enjoy it cold or warm.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/05/Buckwheat-Tea-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "buckwheat noodles",
+        "soba"
+    ],
+    "ingredients": [
+        {
+            "name": "buckwheat tea",
+            "raw_text": "buckwheat tea"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "buckwheat tea",
+            "raw_text": "buckwheat tea"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "tea bag",
+            "raw_text": "tea bag"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Sodium",
+            "value": "2",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "25",
+            "unit": "mg"
+        }
+    ]
+}

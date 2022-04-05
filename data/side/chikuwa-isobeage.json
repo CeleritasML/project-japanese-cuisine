@@ -1,0 +1,104 @@
+{
+    "name": "Chikuwa Isobeage",
+    "summary": "Chikuwa Isobeage \u2013 fried fish cake coated with tempura batter \u2013 are a classic beer food in Japan. With a crispy exterior and toothsome mouthfeel, they make the best snack or side to go with anything! ",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/03/Chikuwa-Isobeage-5669-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "fish cake"
+    ],
+    "ingredients": [
+        {
+            "name": "chikuwa",
+            "raw_text": "chikuwa (fish cake)"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "aonori",
+            "raw_text": "aonori (dried green laver seaweed)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "279",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "18",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "851",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "17",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "78",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "7",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "10",
+            "unit": "mg"
+        }
+    ]
+}

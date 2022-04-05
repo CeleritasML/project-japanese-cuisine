@@ -1,0 +1,117 @@
+{
+    "name": "Frozen Chocolate Banana",
+    "summary": "A yummy and super easy Frozen Chocolate Banana sprinkled with almonds. Imagine all the fun of dipping bananas into melted chocolate! You'd get the biggest, cutest grins once they are ready to eat.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/03/Frozen-Chocolate-Banana-0808-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "banana",
+        "chocolate"
+    ],
+    "ingredients": [
+        {
+            "name": "bananas",
+            "raw_text": "bananas"
+        },
+        {
+            "name": "dark chocolate chips",
+            "raw_text": "dark chocolate chips"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "almonds",
+            "raw_text": "almonds"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "242",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "28",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "24",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "438",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "40",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "5",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "102",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

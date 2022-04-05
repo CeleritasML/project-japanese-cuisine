@@ -1,0 +1,149 @@
+{
+    "name": "Broiled Salmon and Salmon Onigiri (Rice Ball)",
+    "summary": "This simple broiled fish is best served with yuzu soy sauce.\u00a0 Prepare a small dish with soy sauce and add a few drops of yuzu extract.\u00a0 It's simple yet very delicious and goes well with broiled fish (hamachi, salmon, or aji).",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2011/09/Broiled-Salmon-Salmon-Onigiri-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "japanese rice",
+        "salmon"
+    ],
+    "ingredients": [
+        {
+            "name": "skin-on salmon fillets",
+            "raw_text": "skin-on salmon fillets"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "yuzu juice",
+            "raw_text": "yuzu juice (extract)"
+        },
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "broiled salmon",
+            "raw_text": "broiled salmon"
+        },
+        {
+            "name": "grated ginger",
+            "raw_text": "grated ginger"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "shiso leaves",
+            "raw_text": "shiso leaves (perilla/ooba)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "606",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "61",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "41",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "20",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "94",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "796",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "925",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "69",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "101",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "5",
+            "unit": "mg"
+        }
+    ]
+}

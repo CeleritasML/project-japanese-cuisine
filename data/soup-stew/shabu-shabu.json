@@ -1,0 +1,155 @@
+{
+    "name": "Shabu-Shabu",
+    "summary": "Shabu-Shabu is a popular Japanese-style hot pot where the meat and assorted vegetables are cooked in a flavorful broth called kombu dashi. Everyone at the table takes part in the communal cooking and enjoys the ingredients with different dipping sauces. It's intimate yet casual, and a whole lot of fun!\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2018/12/Shabu-Shabu-I-2-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "hot pot",
+        "shabu shabu"
+    ],
+    "ingredients": [
+        {
+            "name": "kombu",
+            "raw_text": "kombu (dried kelp)"
+        },
+        {
+            "name": "udon noodles",
+            "raw_text": "udon noodles"
+        },
+        {
+            "name": "napa cabbage",
+            "raw_text": "napa cabbage"
+        },
+        {
+            "name": "shungiku",
+            "raw_text": "shungiku (tong ho/garland chrysanthemum)"
+        },
+        {
+            "name": "Tokyo negi",
+            "raw_text": "Tokyo negi (naga negi; long green onion)"
+        },
+        {
+            "name": "enoki mushrooms",
+            "raw_text": "enoki mushrooms"
+        },
+        {
+            "name": "shimeji mushrooms",
+            "raw_text": "shimeji mushrooms"
+        },
+        {
+            "name": "shiitake mushrooms",
+            "raw_text": "shiitake mushrooms"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "medium-firm tofu",
+            "raw_text": "medium-firm tofu (momen tofu)"
+        },
+        {
+            "name": "thinly sliced beef",
+            "raw_text": "thinly sliced beef (chuck or rib eye)"
+        },
+        {
+            "name": "daikon radish",
+            "raw_text": "daikon radish"
+        },
+        {
+            "name": "green onions/scallions",
+            "raw_text": "green onions/scallions"
+        },
+        {
+            "name": "shichimi togarashi",
+            "raw_text": "shichimi togarashi (Japanese seven spice)"
+        },
+        {
+            "name": "Sesame Dipping Sauce",
+            "raw_text": "Sesame Dipping Sauce (homemade or store bought)"
+        },
+        {
+            "name": "ponzu",
+            "raw_text": "ponzu"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "477",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "35",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "38",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "21",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "69",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "178",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1036",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "3133",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "31",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "238",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "5",
+            "unit": "mg"
+        }
+    ]
+}

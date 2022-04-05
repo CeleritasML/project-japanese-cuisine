@@ -1,0 +1,134 @@
+{
+    "name": "Castella Cake",
+    "summary": "Treat yourself with this super moist Japanese sponge cake with a hint of sweetness from honey! Made with only 4 ingredients, Japanese Castella Cake is a very popular confectionary in Japan. Try this delicious cake for your weekend baking project. It makes the perfect holiday or hostess gift too.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/07/Castella-0010-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "moist cake",
+        "sponge cake"
+    ],
+    "ingredients": [
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "bread flour",
+            "raw_text": "bread flour"
+        },
+        {
+            "name": "honey",
+            "raw_text": "honey"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "honey",
+            "raw_text": "honey"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "1",
+            "unit": "loaf"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "1116",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "215",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "31",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "558",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "218",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "335",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "142",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "812",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "106",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

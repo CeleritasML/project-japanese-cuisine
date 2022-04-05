@@ -1,0 +1,132 @@
+{
+    "name": "Meyer Lemon Chiffon Cake",
+    "summary": "Take advantage of the citrus season and make this delicate Meyer Lemon Chiffon Cake cake that guarantee to brighten up your day!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/01/Meyer-Lemon-Chiffon-Cake-2103-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "chiffon cake",
+        "lemon cake"
+    ],
+    "ingredients": [
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "Meyer lemons",
+            "raw_text": "Meyer lemons"
+        },
+        {
+            "name": "cake flour",
+            "raw_text": "cake flour"
+        },
+        {
+            "name": "baking powder",
+            "raw_text": "baking powder"
+        },
+        {
+            "name": "confectioners\u2019 sugar/powdered sugar",
+            "raw_text": "confectioners\u2019 sugar/powdered sugar"
+        },
+        {
+            "name": "confectioners\u2019 sugar/powdered sugar",
+            "raw_text": "confectioners\u2019 sugar/powdered sugar"
+        },
+        {
+            "name": "Meyer lemon",
+            "raw_text": "Meyer lemon"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "7",
+            "unit": "inch cake"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "1492",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "224",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "28",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "58",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "39",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "558",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "642",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "381",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "162",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "822",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "45",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "352",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

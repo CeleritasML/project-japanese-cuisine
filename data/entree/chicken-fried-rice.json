@@ -1,0 +1,134 @@
+{
+    "name": "Chicken Fried Rice",
+    "summary": "Chicken Fried Rice is a popular western-style rice dish cooked with sweet and tangy ketchup-based sauce. This classic dish brings a nostalgic vibe to many Japanese reminiscing on their childhood memories.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/11/Chicken-Fried-Rice-Midnight-Diner-5334-I-2-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "fried rice"
+    ],
+    "ingredients": [
+        {
+            "name": "chicken thigh",
+            "raw_text": "chicken thigh"
+        },
+        {
+            "name": "green peas",
+            "raw_text": "green peas"
+        },
+        {
+            "name": "mushrooms",
+            "raw_text": "mushrooms"
+        },
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "ketchup",
+            "raw_text": "ketchup"
+        },
+        {
+            "name": "tomato paste",
+            "raw_text": "tomato paste"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "555",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "70",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "22",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "21",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "98",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "534",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "720",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "839",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "15",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "37",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "5",
+            "unit": "mg"
+        }
+    ]
+}

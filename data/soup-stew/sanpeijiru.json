@@ -1,0 +1,135 @@
+{
+    "name": "Sanpeijiru (Japanese Salmon Soup)",
+    "summary": "A popular soup from Hokkaido, Sanpeijiru features salted salmon and a variety of root vegetables and cooked in kombu dashi broth. You'd enjoy this delicate and tasty soup on a cold day!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2016/02/Sanpei-jiru-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "salmon"
+    ],
+    "ingredients": [
+        {
+            "name": "salmon scraps",
+            "raw_text": "salmon scraps"
+        },
+        {
+            "name": "Japanese Salted Salmon",
+            "raw_text": "Japanese Salted Salmon (homemade or store bought)"
+        },
+        {
+            "name": "kombu",
+            "raw_text": "kombu (dried kelp)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "daikon radish",
+            "raw_text": "daikon radish"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "Tokyo negi",
+            "raw_text": "Tokyo negi (naga negi; long green onion)"
+        },
+        {
+            "name": "potatoes",
+            "raw_text": "potatoes"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "418",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "23",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "45",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "117",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "408",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1633",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "2695",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "29",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "89",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

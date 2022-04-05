@@ -1,0 +1,105 @@
+{
+    "name": "Nameko Mushroom Miso Soup",
+    "summary": "With an earthy, nutty flavor, and a wonderfully creamy texture, this Nameko Mushroom Miso Soup is a perfect way to welcome autumn!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/09/Nameko-Mushroom-Miso-Soup-9176-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "miso"
+    ],
+    "ingredients": [
+        {
+            "name": "dashi",
+            "raw_text": "dashi (Japanese soup stock; click to learn more)"
+        },
+        {
+            "name": "nameko mushrooms",
+            "raw_text": "nameko mushrooms"
+        },
+        {
+            "name": "soft/silken tofu",
+            "raw_text": "soft/silken tofu (kinugoshi tofu)"
+        },
+        {
+            "name": "hatcho miso",
+            "raw_text": "hatcho miso"
+        },
+        {
+            "name": "miso",
+            "raw_text": "miso"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "63",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "457",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "219",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "10",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "24",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

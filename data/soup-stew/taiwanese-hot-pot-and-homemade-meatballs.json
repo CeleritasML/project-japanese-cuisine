@@ -1,0 +1,257 @@
+{
+    "name": "Taiwanese Hot Pot with Homemade Meatballs",
+    "summary": "Taiwanese hot pot and homemade meatballs recipe, the perfect comfort food for a cold winter day.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2014/02/Taiwanese-Hot-Pot-Homemade-Meatballs-400x400.jpg",
+    "cuisine": [
+        "Taiwanese"
+    ],
+    "keywords": [
+        "hot pot",
+        "nabe"
+    ],
+    "ingredients": [
+        {
+            "name": "ground pork",
+            "raw_text": "ground pork"
+        },
+        {
+            "name": "green onion/scallion",
+            "raw_text": "green onion/scallion"
+        },
+        {
+            "name": "Tokyo negi",
+            "raw_text": "Tokyo negi (naga negi; long green onion)"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        },
+        {
+            "name": "large egg yolk",
+            "raw_text": "large egg yolk"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "Taiwanese BBQ Sauce",
+            "raw_text": "Taiwanese BBQ Sauce"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "green onions/scallions",
+            "raw_text": "green onions/scallions"
+        },
+        {
+            "name": "cilantro",
+            "raw_text": "cilantro (coriander)"
+        },
+        {
+            "name": "Chicken Stock/Broth",
+            "raw_text": "Chicken Stock/Broth (homemade or store bought)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "green onions/scallions",
+            "raw_text": "green onions/scallions"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        },
+        {
+            "name": "homemade meatballs",
+            "raw_text": "homemade meatballs"
+        },
+        {
+            "name": "thinly sliced beef",
+            "raw_text": "thinly sliced beef (chuck or rib eye)"
+        },
+        {
+            "name": "dumpling",
+            "raw_text": "dumpling"
+        },
+        {
+            "name": "fish balls",
+            "raw_text": "fish balls"
+        },
+        {
+            "name": "shrimp",
+            "raw_text": "shrimp"
+        },
+        {
+            "name": "napa cabbage",
+            "raw_text": "napa cabbage"
+        },
+        {
+            "name": "shungiku",
+            "raw_text": "shungiku (tong ho/garland chrysanthemum)"
+        },
+        {
+            "name": "Tokyo negi",
+            "raw_text": "Tokyo negi (naga negi; long green onion)"
+        },
+        {
+            "name": "carrots",
+            "raw_text": "carrots"
+        },
+        {
+            "name": "fresh corn",
+            "raw_text": "fresh corn"
+        },
+        {
+            "name": "enoki mushrooms",
+            "raw_text": "enoki mushrooms"
+        },
+        {
+            "name": "shiitake mushrooms",
+            "raw_text": "shiitake mushrooms"
+        },
+        {
+            "name": "maitake mushrooms",
+            "raw_text": "maitake mushrooms"
+        },
+        {
+            "name": "button mushrooms",
+            "raw_text": "button mushrooms"
+        },
+        {
+            "name": "medium-firm tofu",
+            "raw_text": "medium-firm tofu (momen tofu)"
+        },
+        {
+            "name": "aburaage",
+            "raw_text": "aburaage (deep-fried tofu pouch)"
+        },
+        {
+            "name": "kirimochi or homemade mochi",
+            "raw_text": "kirimochi or homemade mochi"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "974",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "56",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "70",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "54",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "22",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "233",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "812",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1735",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "26",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "5975",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "48",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "348",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "7",
+            "unit": "mg"
+        }
+    ]
+}

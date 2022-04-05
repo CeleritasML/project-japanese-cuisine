@@ -1,0 +1,128 @@
+{
+    "name": "Nougat Semifreddo",
+    "summary": "Italian dessert made with Torrone (nougat), a very popular sweet during Christmas holidays in Italy. Garnish with chocolate sauce and enjoy!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2011/12/Nougat-semifreddo-Nami-cover-400x399.jpg",
+    "cuisine": [
+        "Italian"
+    ],
+    "keywords": [
+        "nougat"
+    ],
+    "ingredients": [
+        {
+            "name": "white hard nougat",
+            "raw_text": "white hard nougat"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "whipping cream",
+            "raw_text": "whipping cream"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "dark chocolate",
+            "raw_text": "dark chocolate"
+        },
+        {
+            "name": "milk",
+            "raw_text": "milk"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "296",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "39",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "107",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "71",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "83",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "35",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "576",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "42",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

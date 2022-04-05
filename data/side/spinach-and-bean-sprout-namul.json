@@ -1,0 +1,110 @@
+{
+    "name": "Spinach and Bean Sprout Namul",
+    "summary": "The Korean Spinach Namul and Bean Sprout Namul are two popular side dishes among meal prep menus in Japan. Enjoyed in a bento box or as a side to your dinner, these vegetable side dishes are not only appetizing but also very easy and quick to prepare.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/02/Spinach-and-Bean-Sprout-Namul-I-1-500x500.jpg",
+    "cuisine": [
+        "Korean"
+    ],
+    "keywords": [
+        "bean sprout",
+        "namul",
+        "spinach"
+    ],
+    "ingredients": [
+        {
+            "name": "spinach",
+            "raw_text": "spinach"
+        },
+        {
+            "name": "bean sprout",
+            "raw_text": "bean sprout"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "red chili pepper",
+            "raw_text": "red chili pepper"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "131",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "357",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "743",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "8216",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "74",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "107",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

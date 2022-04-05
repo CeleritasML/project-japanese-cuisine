@@ -1,0 +1,145 @@
+{
+    "name": "Ozoni (Japanese New Year Mochi Soup \u2013 Kanto Style)",
+    "summary": "Ozoni (Japanese New Year Mochi Soup) is one of the popular Osechi Ryori dishes. This clear dashi based mochi soup with chicken and seasonal vegetables is enjoyed in Kanto region (Eastern Japan).",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/12/Ozoni-Kanto-Style-0587-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "mochi soup",
+        "ozoni"
+    ],
+    "ingredients": [
+        {
+            "name": "chicken thigh",
+            "raw_text": "chicken thigh"
+        },
+        {
+            "name": "komatsuna",
+            "raw_text": "komatsuna"
+        },
+        {
+            "name": "kirimochi or homemade mochi",
+            "raw_text": "kirimochi or homemade mochi"
+        },
+        {
+            "name": "yuzu zest",
+            "raw_text": "yuzu zest"
+        },
+        {
+            "name": "mitsuba",
+            "raw_text": "mitsuba (Japanese parsley)"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "dashi",
+            "raw_text": "dashi (Japanese soup stock; click to learn more)"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "216",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "28",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "39",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "563",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "216",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "26",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "31",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "10",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "47",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

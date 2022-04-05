@@ -1,0 +1,188 @@
+{
+    "name": "Thomas Keller\u2019s Clam Chowder",
+    "summary": "Creamy clam stew made with smoked bacon and fresh clams, serve it in a sourdough bread bowl. This clam chowder is comforting, filling and amazingly delicious!\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2012/01/Thomas-Kellers-Clam-Chowder-400x400.jpg",
+    "cuisine": [
+        "American"
+    ],
+    "keywords": [
+        "clam"
+    ],
+    "ingredients": [
+        {
+            "name": "littleneck clams",
+            "raw_text": "littleneck clams"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "thick wood smoked bacon",
+            "raw_text": "thick wood smoked bacon"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "onions",
+            "raw_text": "onions"
+        },
+        {
+            "name": "leek",
+            "raw_text": "leek"
+        },
+        {
+            "name": "potatoes",
+            "raw_text": "potatoes"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "whole milk",
+            "raw_text": "whole milk"
+        },
+        {
+            "name": "heavy whipping cream",
+            "raw_text": "heavy whipping cream"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "shallots",
+            "raw_text": "shallots"
+        },
+        {
+            "name": "thyme",
+            "raw_text": "thyme"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "dry white wine",
+            "raw_text": "dry white wine"
+        },
+        {
+            "name": "chives",
+            "raw_text": "chives"
+        },
+        {
+            "name": "peppercorns",
+            "raw_text": "peppercorns"
+        },
+        {
+            "name": "bay leaf",
+            "raw_text": "bay leaf"
+        },
+        {
+            "name": "thyme",
+            "raw_text": "thyme"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "890",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "48",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "69",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "39",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "22",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "225",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "465",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1063",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "2708",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "36",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "283",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

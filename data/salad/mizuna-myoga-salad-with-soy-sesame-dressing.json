@@ -1,0 +1,110 @@
+{
+    "name": "Mizuna Myoga Salad",
+    "summary": "Crisp, bright, and refreshing, this Mizuna Myoga Salad brings new flavor and texture to the dinner table! The homemade sesame ponzu dressing ties everything all together. It's so lovely that I could eat this all season long.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/09/Mizuna-Myoga-Salad-7730-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "mizuna",
+        "myoga",
+        "shiso"
+    ],
+    "ingredients": [
+        {
+            "name": "mizuna",
+            "raw_text": "mizuna (Japanese mustard green)"
+        },
+        {
+            "name": "myoga ginger",
+            "raw_text": "myoga ginger"
+        },
+        {
+            "name": "shiso leaves",
+            "raw_text": "shiso leaves (perilla/ooba)"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "ponzu",
+            "raw_text": "ponzu"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "41",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "255",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "154",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "1072",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "25",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "61",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

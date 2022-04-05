@@ -1,0 +1,129 @@
+{
+    "name": "Menchi Katsu Sandwich",
+    "summary": "Japanese Menchi Katsu Sandwich is made of irresistible ground meat cutlet topped with thinly shredded cabbage and homemade tartar sauce sandwiched in brioche buns.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2018/08/Menchi-Katsu-Sandwich-w600-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "menchi katsu",
+        "sandwich"
+    ],
+    "ingredients": [
+        {
+            "name": "buns",
+            "raw_text": "buns"
+        },
+        {
+            "name": "salted butter",
+            "raw_text": "salted butter"
+        },
+        {
+            "name": "menchi katsu",
+            "raw_text": "menchi katsu"
+        },
+        {
+            "name": "shredded cabbage",
+            "raw_text": "shredded cabbage"
+        },
+        {
+            "name": "Tartar Sauce",
+            "raw_text": "Tartar Sauce (homemade)"
+        },
+        {
+            "name": "tonkatsu sauce",
+            "raw_text": "tonkatsu sauce"
+        },
+        {
+            "name": "pickles",
+            "raw_text": "pickles"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "474",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "48",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "22",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "21",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "102",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "682",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "317",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "252",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "13",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "60",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "13",
+            "unit": "mg"
+        }
+    ]
+}

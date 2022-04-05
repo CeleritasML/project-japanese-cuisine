@@ -1,0 +1,141 @@
+{
+    "name": "Kale Soup",
+    "summary": "Warm and hearty Kale soup with yukon potatoes and onion, garnished with Cr\u00e8me Fra\u00eeche and mint.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2012/09/Kale-Soup-400x400.jpg",
+    "cuisine": [
+        "American"
+    ],
+    "keywords": [
+        "kale",
+        "potato"
+    ],
+    "ingredients": [
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "Yukon gold potatoes",
+            "raw_text": "Yukon gold potatoes"
+        },
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "baby kale",
+            "raw_text": "baby kale"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "Chicken Stock/Broth",
+            "raw_text": "Chicken Stock/Broth (homemade or store bought)"
+        },
+        {
+            "name": "cr\u00e8me fra\u00eeche",
+            "raw_text": "cr\u00e8me fra\u00eeche"
+        },
+        {
+            "name": "mint leaves",
+            "raw_text": "mint leaves"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "292",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "34",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "17",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "39",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "67",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1099",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "10535",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "148",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "247",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

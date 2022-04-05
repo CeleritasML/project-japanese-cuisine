@@ -1,0 +1,145 @@
+{
+    "name": "Slow Cooker Chicken Wings",
+    "summary": "Cooked in a savory soy sauce broth with daikon, these Slow Cooker Chicken Wings give you plenty of hands-off time but surprisingly moist and tender meat.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2015/02/Slow-Cooker-Chicken-Wings-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "daikon",
+        "wings"
+    ],
+    "ingredients": [
+        {
+            "name": "daikon radish",
+            "raw_text": "daikon radish"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "chicken wings",
+            "raw_text": "chicken wings (flats/drumettes)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "hard-boiled eggs",
+            "raw_text": "hard-boiled eggs"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "466",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "32",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "30",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "235",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "659",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "622",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "385",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "34",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "81",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

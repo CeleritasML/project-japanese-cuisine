@@ -1,0 +1,97 @@
+{
+    "name": "Sweet Red Bean Paste (Tsubuan and Koshian)",
+    "summary": "Making Sweet Red Bean Paste (Anko) from scratch is easier than you think. You only need azuki beans, sugar, water, and salt. Here, I'll show you the two varieties: Tsubuan (chunky paste) and Koshian (fine paste). Once you master the basic Anko recipe, you'll be able to make many delicious Japanese sweets at home.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/03/How-to-Make-Anko-0498-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "bean paste",
+        "sweet red bean"
+    ],
+    "ingredients": [
+        {
+            "name": "azuki beans",
+            "raw_text": "azuki beans"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "1",
+            "unit": "Tbsp"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "45",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "19",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "84",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "1",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "4",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

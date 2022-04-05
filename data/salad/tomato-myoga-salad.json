@@ -1,0 +1,109 @@
+{
+    "name": "Tomato Myoga Salad",
+    "summary": "Tomato Myoga Salad dressed with a simple vinaigrette made of sesame oil, rice vinegar, soy sauce, and toasted sesame seeds. This fast and refreshing salad is an ode to Japanese summer.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/09/Tomato-Myoga-Salad-8131-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "myoga",
+        "tomato"
+    ],
+    "ingredients": [
+        {
+            "name": "tomatoes",
+            "raw_text": "tomatoes"
+        },
+        {
+            "name": "myoga ginger",
+            "raw_text": "myoga ginger"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "43",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "26",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "305",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "1041",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "17",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "18",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

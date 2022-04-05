@@ -1,0 +1,119 @@
+{
+    "name": "Asparagus Beef Roll Bento",
+    "summary": "Asparagus beef bento with edamame, tomatoes, and Onigiri (Japanese rice ball). If you want to make quick and easy and pretty bentos, then mastering using multi-colors!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2013/01/Asparagus-Beef-Roll-Bento-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "bento"
+    ],
+    "ingredients": [
+        {
+            "name": "onigiri",
+            "raw_text": "onigiri (rice ball)"
+        },
+        {
+            "name": "asparagus beef rolls",
+            "raw_text": "asparagus beef rolls"
+        },
+        {
+            "name": "edamame",
+            "raw_text": "edamame"
+        },
+        {
+            "name": "oranges",
+            "raw_text": "oranges"
+        },
+        {
+            "name": "grapes",
+            "raw_text": "grapes"
+        },
+        {
+            "name": "cherry tomatoes",
+            "raw_text": "cherry tomatoes"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "420",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "54",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "36",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "552",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "781",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "17",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "10372",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "52",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "74",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

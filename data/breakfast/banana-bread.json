@@ -1,0 +1,154 @@
+{
+    "name": "Banana Bread",
+    "summary": "The secret to great homemade banana bread is having a tried and tested, go-to recipe. Here I share a classic recipe that I have been using for years. The result: Fresh baked banana bread that is always flavorful and moist with the perfect amount of sweetness!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2015/02/Banana-Bread-400x400.jpg",
+    "cuisine": [
+        "American"
+    ],
+    "keywords": [
+        "banana",
+        "bread"
+    ],
+    "ingredients": [
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "baking soda",
+            "raw_text": "baking soda"
+        },
+        {
+            "name": "baking powder",
+            "raw_text": "baking powder"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "pure vanilla extract",
+            "raw_text": "pure vanilla extract"
+        },
+        {
+            "name": "ripe bananas",
+            "raw_text": "ripe bananas"
+        },
+        {
+            "name": "raisins",
+            "raw_text": "raisins"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "1",
+            "unit": "loaf"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "2671",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "362",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "39",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "124",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "68",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "32",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "630",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1484",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "2079",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "18",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "159",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "3841",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "41",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "257",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "13",
+            "unit": "mg"
+        }
+    ]
+}

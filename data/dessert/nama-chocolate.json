@@ -1,0 +1,96 @@
+{
+    "name": "Nama Chocolate",
+    "summary": "Rich, smooth, and decadent homemade Nama Chocolate! Made with chocolate and fresh cream, this ROYCE's copycat chocolate is truly a special treat. It's one of the\u00a0most popular gifts from Japan, but you can easily make it at home.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/02/Nama-Chocolate-I-2-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "chocolate"
+    ],
+    "ingredients": [
+        {
+            "name": "good quality dark chocolate",
+            "raw_text": "good quality dark chocolate (70% cacao)"
+        },
+        {
+            "name": "heavy whipping cream",
+            "raw_text": "heavy whipping cream"
+        },
+        {
+            "name": "liqueur of your choice",
+            "raw_text": "liqueur of your choice"
+        },
+        {
+            "name": "Dutch-processed cocoa powder",
+            "raw_text": "Dutch-processed cocoa powder"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "17",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "7",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "2",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "4",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "73",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "3",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

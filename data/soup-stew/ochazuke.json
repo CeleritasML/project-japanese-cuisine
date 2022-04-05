@@ -1,0 +1,141 @@
+{
+    "name": "Ochazuke",
+    "summary": "Craving for a dish that is light yet comforting? This easy, homemade 0chazuke with green tea, steamed rice, and simple savory ingredients will hit the right spot.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/01/Ochazuke-9037-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "rice soup"
+    ],
+    "ingredients": [
+        {
+            "name": "Japanese Salted Salmon",
+            "raw_text": "Japanese Salted Salmon (homemade or store bought)"
+        },
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "bubu arare",
+            "raw_text": "bubu arare (crispy puffed rice pallets)"
+        },
+        {
+            "name": "shredded nori seaweed",
+            "raw_text": "shredded nori seaweed (kizami nori)"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "mitsuba",
+            "raw_text": "mitsuba (Japanese parsley)"
+        },
+        {
+            "name": "wasabi",
+            "raw_text": "wasabi"
+        },
+        {
+            "name": "dashi",
+            "raw_text": "dashi (Japanese soup stock; click to learn more)"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "Japanese green tea leaves",
+            "raw_text": "Japanese green tea leaves"
+        },
+        {
+            "name": "hot water",
+            "raw_text": "hot water"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "335",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "60",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "19",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "414",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "423",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "109",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "3",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "21",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

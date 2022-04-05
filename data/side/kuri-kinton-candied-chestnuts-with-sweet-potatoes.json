@@ -1,0 +1,121 @@
+{
+    "name": "Kuri Kinton (Candied Chestnuts & Sweet Potatoes)",
+    "summary": "Kuri Kinton or Candied Chestnuts and Sweet Potatoes are a special Japanese New Year dish that symbolizes economic fortune and wealth. Let's make this for a prosperous year ahead!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/12/Kuri-Kinton-7093-IV-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "chestnut",
+        "osechi",
+        "osechi ryori",
+        "sweet potato"
+    ],
+    "ingredients": [
+        {
+            "name": "Japanese sweet potato",
+            "raw_text": "Japanese sweet potato (satsumaimo)"
+        },
+        {
+            "name": "kuri kanroni",
+            "raw_text": "kuri kanroni (chestnuts in heavy syrup)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "syrup from kuri kanroni",
+            "raw_text": "syrup from kuri kanroni"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "kuchinashi no mi",
+            "raw_text": "kuchinashi no mi (dried gardenia pods)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "189",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "44",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "142",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "281",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "31",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "11823",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "2",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "25",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

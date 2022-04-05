@@ -1,0 +1,119 @@
+{
+    "name": "Custard Pudding",
+    "summary": "Skip the oven and steam the custard pudding on the stove top! In 10 minutes, you have a soft, rich, creamy Japanese Custard Pudding that will impress your dinner guests or wow your family.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2013/05/Custard-Pudding-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "custard pudding",
+        "purin"
+    ],
+    "ingredients": [
+        {
+            "name": "whole milk",
+            "raw_text": "whole milk"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "pure vanilla extract",
+            "raw_text": "pure vanilla extract"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "hot water",
+            "raw_text": "hot water"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "145",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "17",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "146",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "80",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "133",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "17",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "301",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "92",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

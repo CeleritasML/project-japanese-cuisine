@@ -1,0 +1,132 @@
+{
+    "name": "Ozoni (Japanese New Year Mochi Soup \u2013 Kansai Style)",
+    "summary": "Ozoni is a special miso-based soup enjoyed in the morning on New Year\u2019s Day in Japan. The soup usually includes mochi (rice cake), and the preparation varies by region and household.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/12/Ozoni-Kansai-Style-2198-II-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "Japanese New Year",
+        "mochi soup",
+        "ozoni"
+    ],
+    "ingredients": [
+        {
+            "name": "kombu",
+            "raw_text": "kombu (dried kelp)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "taro",
+            "raw_text": "taro (satoimo)"
+        },
+        {
+            "name": "daikon radish",
+            "raw_text": "daikon radish"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "komatsuna",
+            "raw_text": "komatsuna"
+        },
+        {
+            "name": "Saikyo miso",
+            "raw_text": "Saikyo miso (Kyoto-style white miso)"
+        },
+        {
+            "name": "soft/silken tofu",
+            "raw_text": "soft/silken tofu (kinugoshi tofu)"
+        },
+        {
+            "name": "round mochi",
+            "raw_text": "round mochi (rice cake)"
+        },
+        {
+            "name": "yuzu zest",
+            "raw_text": "yuzu zest"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "222",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "45",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "515",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "526",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "29",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "5052",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "10",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "98",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

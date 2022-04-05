@@ -1,0 +1,125 @@
+{
+    "name": "Blueberry Frozen Yogurt",
+    "summary": "The blueberry frozen yogurt came out really delicious and refreshing by using fresh blueberries. \u00a0If your\u00a0blueberries\u00a0are not as sweet, then consider adding a little more sugar or honey before churning.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2012/07/Blueberry-Frozen-Yogurt-400x400.jpg",
+    "cuisine": [
+        "American"
+    ],
+    "keywords": [
+        "blueberry",
+        "ice cream"
+    ],
+    "ingredients": [
+        {
+            "name": "blueberries",
+            "raw_text": "blueberries"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "lemon juice",
+            "raw_text": "lemon juice"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "whole plain yogurt",
+            "raw_text": "whole plain yogurt"
+        },
+        {
+            "name": "whole milk",
+            "raw_text": "whole milk"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "1",
+            "unit": "QT"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "1139",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "239",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "20",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "17",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "60",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "508",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1106",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "218",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "803",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "57",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "612",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

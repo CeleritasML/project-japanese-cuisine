@@ -1,0 +1,113 @@
+{
+    "name": "Chocolate Covered Strawberries",
+    "summary": "Make delicious white chocolate covered strawberries at home, this easy dessert recipe is perfect for parties!\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2012/02/Chocolate-Covered-Strawberries-400x400.jpg",
+    "cuisine": [
+        "American"
+    ],
+    "keywords": [
+        "chocolate",
+        "strawberry"
+    ],
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "raw_text": "strawberries"
+        },
+        {
+            "name": "white chocolate",
+            "raw_text": "white chocolate"
+        },
+        {
+            "name": "dark chocolate",
+            "raw_text": "dark chocolate"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "70",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "2",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "8",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "69",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "5",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "7",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "21",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

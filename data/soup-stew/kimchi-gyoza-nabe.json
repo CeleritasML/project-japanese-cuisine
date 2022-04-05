@@ -1,0 +1,177 @@
+{
+    "name": "Kimchi Gyoza Nabe",
+    "summary": "Kimchi Gyoza Nabe is a Japanese hot pot filled with succulent Japanese dumplings, spicy kimchi, tender vegetables, and hearty mushrooms.\u00a0 It's a simmering bowl of savory deliciousness!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2018/06/Kimchi-Gyoza-Nabe-w600-400x400.jpg",
+    "cuisine": [
+        "Japanese",
+        "Korean"
+    ],
+    "keywords": [
+        "gyoza",
+        "hotpot"
+    ],
+    "ingredients": [
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "Tokyo negi",
+            "raw_text": "Tokyo negi (naga negi; long green onion)"
+        },
+        {
+            "name": "napa cabbage",
+            "raw_text": "napa cabbage"
+        },
+        {
+            "name": "daikon radish",
+            "raw_text": "daikon radish"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "chives",
+            "raw_text": "chives"
+        },
+        {
+            "name": "shimeji mushrooms",
+            "raw_text": "shimeji mushrooms"
+        },
+        {
+            "name": "shiitake mushrooms",
+            "raw_text": "shiitake mushrooms"
+        },
+        {
+            "name": "soft/silken tofu",
+            "raw_text": "soft/silken tofu (kinugoshi tofu)"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "Gyoza",
+            "raw_text": "Gyoza (homemade or store bought)"
+        },
+        {
+            "name": "kimchi",
+            "raw_text": "kimchi"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "gochujang",
+            "raw_text": "gochujang (Korean chili paste)"
+        },
+        {
+            "name": "gochugaru",
+            "raw_text": "gochugaru (Korean pepper flakes)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "Chicken Stock/Broth",
+            "raw_text": "Chicken Stock/Broth (homemade or store bought)"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "miso",
+            "raw_text": "miso"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "391",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "40",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "22",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "25",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1065",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "942",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "4744",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "39",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "257",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "8",
+            "unit": "mg"
+        }
+    ]
+}

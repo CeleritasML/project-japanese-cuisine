@@ -1,0 +1,119 @@
+{
+    "name": "Cranberry Brie Bites",
+    "summary": "These\u00a0Cranberry Brie Bites\u00a0are going to make a deliciously festive addition to your holiday gathering! With melted brie stuffed inside puff pastry, topped with cranberry sauce, candied pecans, and sea salt, they are the easiest yet impressive appetizer of the season. Make more because they will be gone in seconds!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/11/Cranberry-Brie-Bites-1119-I-500x500.jpg",
+    "cuisine": [
+        "American"
+    ],
+    "keywords": [
+        "Brie cheese",
+        "cranberry",
+        "nuts"
+    ],
+    "ingredients": [
+        {
+            "name": "Brie cheese",
+            "raw_text": "Brie cheese"
+        },
+        {
+            "name": "frozen puff pastry",
+            "raw_text": "frozen puff pastry"
+        },
+        {
+            "name": "cranberry sauce",
+            "raw_text": "cranberry sauce"
+        },
+        {
+            "name": "candied pecans",
+            "raw_text": "candied pecans"
+        },
+        {
+            "name": "roasted walnuts",
+            "raw_text": "roasted walnuts"
+        },
+        {
+            "name": "cooking spray",
+            "raw_text": "cooking spray"
+        },
+        {
+            "name": "flake sea salt",
+            "raw_text": "flake sea salt"
+        },
+        {
+            "name": "fresh thyme",
+            "raw_text": "fresh thyme"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "95",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "5",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "61",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "20",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "31",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "12",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

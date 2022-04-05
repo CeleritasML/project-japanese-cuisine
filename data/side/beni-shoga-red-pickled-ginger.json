@@ -1,0 +1,99 @@
+{
+    "name": "Red Pickled Ginger (Beni Shoga)",
+    "summary": "Beni Shoga or Red Pickled Ginger is made with julienned young ginger that has been pickled in plum vinegar. It is a refreshing palate cleanser and appealing garnish for Japanese street foods such as yakisoba noodles, takoyaki, and okonomiyaki. You will need only 2 ingredients for this easy pickle!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/05/Beni-Shoga-9448-V-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "ume plum vinegar",
+        "young ginger"
+    ],
+    "ingredients": [
+        {
+            "name": "young ginger",
+            "raw_text": "young ginger"
+        },
+        {
+            "name": "ume plum vinegar",
+            "raw_text": "ume plum vinegar"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "1",
+            "unit": "cup"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "159",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "35",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "2546",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "824",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "10",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "32",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

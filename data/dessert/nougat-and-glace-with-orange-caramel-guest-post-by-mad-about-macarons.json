@@ -1,0 +1,176 @@
+{
+    "name": "Nougat Glac\u00e9 Choux with Orange Caramel",
+    "summary": "Ice cream sandwich with warmed Orange caramel. Decorate with the nuts and candied fruit and serve with a chilled glass of Muscat and let the toes curl in front of the fire!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2011/12/Nougat-400x400.jpg",
+    "cuisine": [
+        "French"
+    ],
+    "keywords": [
+        "nougat"
+    ],
+    "ingredients": [
+        {
+            "name": "hazelnuts",
+            "raw_text": "hazelnuts"
+        },
+        {
+            "name": "pecans or walnuts",
+            "raw_text": "pecans or walnuts"
+        },
+        {
+            "name": "candied fruit",
+            "raw_text": "candied fruit"
+        },
+        {
+            "name": "large egg white",
+            "raw_text": "large egg white"
+        },
+        {
+            "name": "honey",
+            "raw_text": "honey"
+        },
+        {
+            "name": "whipping cream",
+            "raw_text": "whipping cream"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "milk",
+            "raw_text": "milk"
+        },
+        {
+            "name": "orange flower water",
+            "raw_text": "orange flower water"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "salted butter",
+            "raw_text": "salted butter"
+        },
+        {
+            "name": "whipping cream",
+            "raw_text": "whipping cream"
+        },
+        {
+            "name": "orange rind",
+            "raw_text": "orange rind (peel)"
+        },
+        {
+            "name": "Cointreau",
+            "raw_text": "Cointreau"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "766",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "56",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "56",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "30",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "236",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "240",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "246",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "36",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "1737",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "112",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

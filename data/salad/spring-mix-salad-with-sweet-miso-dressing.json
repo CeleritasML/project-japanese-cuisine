@@ -1,0 +1,131 @@
+{
+    "name": "Spring Mix Salad with Sweet Miso Dressing",
+    "summary": "A bright refreshing Spring Mix Salad with Miso Dressing. It has creamy avocado, heirloom tomatoes, sliced radishes, and fresh mint leaves in it too. A sure win salad for your grilling menu.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2017/08/Spring-Mix-Salad-with-Sweet-Miso-Dressing-9044-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "green salad",
+        "miso dressing"
+    ],
+    "ingredients": [
+        {
+            "name": "spring mix salad",
+            "raw_text": "spring mix salad"
+        },
+        {
+            "name": "avocado",
+            "raw_text": "avocado"
+        },
+        {
+            "name": "red radish",
+            "raw_text": "red radish"
+        },
+        {
+            "name": "cherry tomatoes",
+            "raw_text": "cherry tomatoes"
+        },
+        {
+            "name": "mint leaves",
+            "raw_text": "mint leaves"
+        },
+        {
+            "name": "radish sprouts",
+            "raw_text": "radish sprouts"
+        },
+        {
+            "name": "M1nute Miso",
+            "raw_text": "M1nute Miso (liquid miso)"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "234",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "350",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "680",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "849",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "34",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "80",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

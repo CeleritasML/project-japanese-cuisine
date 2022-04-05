@@ -1,0 +1,107 @@
+{
+    "name": "Azuki Red Bean Ice Cream",
+    "summary": "Learn to make authentic Azuki Red Bean Ice Cream just like what you\u2019d find in Japan! It\u2019s the perfect treat for a hot day and only takes 3 ingredients to make.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/12/Red-Bean-Ice-Cream-1224-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "azuki",
+        "ice cream"
+    ],
+    "ingredients": [
+        {
+            "name": "whole milk",
+            "raw_text": "whole milk"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "red bean paste",
+            "raw_text": "red bean paste (anko)"
+        },
+        {
+            "name": "toasted black sesame seeds",
+            "raw_text": "toasted black sesame seeds"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "1",
+            "unit": "cup"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "432",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "38",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "10",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "100",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "137",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "69",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "160",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "52",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "143",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

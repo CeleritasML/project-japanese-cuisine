@@ -1,0 +1,110 @@
+{
+    "name": "Ankimo",
+    "summary": "Known as the foie gras of the sea, Ankimo is steamed monkfish liver, which is considered a delicacy in Japan. This dish is often offered as an appetizer in Japanese restaurants, but you can easily make it at home if you can find packaged ankimo in your local grocery store.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2018/12/Ankimo-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "liver",
+        "monkfish"
+    ],
+    "ingredients": [
+        {
+            "name": "ankimo",
+            "raw_text": "ankimo"
+        },
+        {
+            "name": "shiso leaves",
+            "raw_text": "shiso leaves (perilla/ooba)"
+        },
+        {
+            "name": "dried wakame seaweed",
+            "raw_text": "dried wakame seaweed"
+        },
+        {
+            "name": "ponzu",
+            "raw_text": "ponzu"
+        },
+        {
+            "name": "daikon radish",
+            "raw_text": "daikon radish"
+        },
+        {
+            "name": "ichimi togarashi",
+            "raw_text": "ichimi togarashi (Japanese chili pepper)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "436",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "29",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "349",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "37",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "18",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "3",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "12",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

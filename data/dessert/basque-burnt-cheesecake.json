@@ -1,0 +1,127 @@
+{
+    "name": "Basque Burnt Cheesecake",
+    "summary": "Creamy on the inside and caramelized on the outside, this Basque Burnt Cheesecake is easier than it looks to make at home. Baked at a high temperature, the cheesecake's iconic rich dark top is a showstopper! Follow my tips and tricks for a foolproof recipe.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/12/Basque-Burnt-Cheesecake-2520-500x500.jpg",
+    "cuisine": [
+        "American"
+    ],
+    "keywords": [
+        "cheesecake"
+    ],
+    "ingredients": [
+        {
+            "name": "cream cheese",
+            "raw_text": "cream cheese"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "cake flour",
+            "raw_text": "cake flour"
+        },
+        {
+            "name": "cornstarch",
+            "raw_text": "cornstarch"
+        },
+        {
+            "name": "heavy whipping cream",
+            "raw_text": "heavy whipping cream"
+        },
+        {
+            "name": "lemon juice",
+            "raw_text": "lemon juice"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "6",
+            "unit": "inch cake"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "3043",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "141",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "52",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "258",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "147",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "1383",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1901",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1043",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "116",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "10402",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "7",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "687",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "5",
+            "unit": "mg"
+        }
+    ]
+}

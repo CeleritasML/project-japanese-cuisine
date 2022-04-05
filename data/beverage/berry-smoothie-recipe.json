@@ -1,0 +1,125 @@
+{
+    "name": "Berry Smoothie",
+    "summary": "Enjoy a healthy berry smoothie made with Greek yogurt, baby kale, banana, chia seeds, and almond milk.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2014/07/Blueberry-Smoothie-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "almond milk",
+        "smoothie"
+    ],
+    "ingredients": [
+        {
+            "name": "baby kale",
+            "raw_text": "baby kale"
+        },
+        {
+            "name": "ripe banana",
+            "raw_text": "ripe banana"
+        },
+        {
+            "name": "frozen mixed berries",
+            "raw_text": "frozen mixed berries"
+        },
+        {
+            "name": "non-fat Greek yogurt",
+            "raw_text": "non-fat Greek yogurt"
+        },
+        {
+            "name": "chia seeds",
+            "raw_text": "chia seeds"
+        },
+        {
+            "name": "almond milk",
+            "raw_text": "almond milk"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "155",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "28",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "227",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "461",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "3422",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "47",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "287",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

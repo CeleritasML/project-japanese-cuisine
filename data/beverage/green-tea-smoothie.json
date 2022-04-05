@@ -1,0 +1,108 @@
+{
+    "name": "Matcha Green Tea Smoothie",
+    "summary": "Start your morning with this delicious and refreshing green tea smoothie made with banana, almond milk, and matcha powder.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2014/05/Green-Tea-Smoothie-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "green tea powder",
+        "matcha",
+        "smoothie"
+    ],
+    "ingredients": [
+        {
+            "name": "banana",
+            "raw_text": "banana"
+        },
+        {
+            "name": "ice cubes",
+            "raw_text": "ice cubes"
+        },
+        {
+            "name": "unsweetened almond milk",
+            "raw_text": "unsweetened almond milk"
+        },
+        {
+            "name": "matcha",
+            "raw_text": "matcha (green tea powder)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "72",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "124",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "211",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "138",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "5",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "117",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

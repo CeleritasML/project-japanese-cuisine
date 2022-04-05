@@ -1,0 +1,120 @@
+{
+    "name": "Daikon and Cucumber Salad with Shio Koji",
+    "summary": "For a light & refreshing healthy side dish, try this Daikon and Cucumber Salad with Shio Koji. A natural seasoning made with malted rice, salt & water, shio koji enhances the umami flavor of this simple salad.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2014/01/Daikon-and-Cucumber-Salad-with-Shio-Koji-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "cucumber",
+        "daikon",
+        "pickle"
+    ],
+    "ingredients": [
+        {
+            "name": "daikon radish",
+            "raw_text": "daikon radish"
+        },
+        {
+            "name": "Japanese or Persian cucumbers",
+            "raw_text": "Japanese or Persian cucumbers"
+        },
+        {
+            "name": "carrots",
+            "raw_text": "carrots"
+        },
+        {
+            "name": "shio koji",
+            "raw_text": "shio koji"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "red chili",
+            "raw_text": "red chili"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "75",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "395",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "463",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "2946",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "60",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "48",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

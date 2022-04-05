@@ -1,0 +1,170 @@
+{
+    "name": "Meyer Lemon Pound Cake",
+    "summary": "Citrus and sweet combination! When I saw fresh Meyer lemons at the grocery store, I couldn't resist and knew I should make a Meyer Lemon Pound Cake!\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/01/Meyer-Lemon-Pound-Cake-2677-I-500x500.jpg",
+    "cuisine": [
+        "American"
+    ],
+    "keywords": [
+        "cake",
+        "lemon"
+    ],
+    "ingredients": [
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "baking powder",
+            "raw_text": "baking powder"
+        },
+        {
+            "name": "baking soda",
+            "raw_text": "baking soda"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "Meyer lemons",
+            "raw_text": "Meyer lemons"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "large egg",
+            "raw_text": "large egg (50 g w/o shell)"
+        },
+        {
+            "name": "pure vanilla extract",
+            "raw_text": "pure vanilla extract"
+        },
+        {
+            "name": "fat-free plain yogurt",
+            "raw_text": "fat-free plain yogurt"
+        },
+        {
+            "name": "low-fat buttermilk",
+            "raw_text": "low-fat buttermilk"
+        },
+        {
+            "name": "confectioners\u2019 sugar/powdered sugar",
+            "raw_text": "confectioners\u2019 sugar/powdered sugar"
+        },
+        {
+            "name": "Meyer lemon juice",
+            "raw_text": "Meyer lemon juice"
+        },
+        {
+            "name": "Meyer lemon zest",
+            "raw_text": "Meyer lemon zest"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "1",
+            "unit": "loaf"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "2148",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "371",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "36",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "60",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "36",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "331",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1087",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "757",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "224",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "1959",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "25",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "540",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "10",
+            "unit": "mg"
+        }
+    ]
+}

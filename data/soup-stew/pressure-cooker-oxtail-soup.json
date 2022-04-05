@@ -1,0 +1,176 @@
+{
+    "name": "Pressure Cooker Oxtail Soup",
+    "summary": "With the help of a pressure cooker, Oxtail Soup (Hong Kong Style\u00a0Borscht) can be prepared in much less time! \u00a0This hearty and flavorful tomato-based soup is cooked\u00a0with oxtail and stew beef, onion, carrot, tomatoes, potatoes, and cabbage.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/04/Pressure-Cooker-Oxtail-Soup-6805-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "instant pot",
+        "oxtail stew"
+    ],
+    "ingredients": [
+        {
+            "name": "oxtails",
+            "raw_text": "oxtails"
+        },
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "celery stalks",
+            "raw_text": "celery stalks"
+        },
+        {
+            "name": "carrots",
+            "raw_text": "carrots"
+        },
+        {
+            "name": "cabbage",
+            "raw_text": "cabbage"
+        },
+        {
+            "name": "tomatoes",
+            "raw_text": "tomatoes"
+        },
+        {
+            "name": "Yukon gold potatoes",
+            "raw_text": "Yukon gold potatoes"
+        },
+        {
+            "name": "stew beef",
+            "raw_text": "stew beef (chuck cut into bite-size cubes)"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "beef stock/broth",
+            "raw_text": "beef stock/broth"
+        },
+        {
+            "name": "tomato paste",
+            "raw_text": "tomato paste"
+        },
+        {
+            "name": "paprika",
+            "raw_text": "paprika"
+        },
+        {
+            "name": "dried basil",
+            "raw_text": "dried basil"
+        },
+        {
+            "name": "bay leaves",
+            "raw_text": "bay leaves"
+        },
+        {
+            "name": "brown sugar",
+            "raw_text": "brown sugar"
+        },
+        {
+            "name": "white wine vinegar",
+            "raw_text": "white wine vinegar"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "879",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "41",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "89",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "40",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "290",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1267",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1244",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "18",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "6566",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "54",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "147",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "13",
+            "unit": "mg"
+        }
+    ]
+}

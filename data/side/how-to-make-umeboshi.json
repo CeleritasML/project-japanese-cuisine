@@ -1,0 +1,90 @@
+{
+    "name": "Umeboshi (Japanese Sour Salted Plums)",
+    "summary": "Learn how to make Umeboshi (Japanese pickled plum), a century-old superfood known for its intensely sour and salty taste! You'll need just salt, ripen ume plums, and red shiso leaves. ",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/04/Umeboshi-7432-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "ume plum"
+    ],
+    "ingredients": [
+        {
+            "name": "ume plum",
+            "raw_text": "ume plum"
+        },
+        {
+            "name": "coarse sea salt",
+            "raw_text": "coarse sea salt"
+        },
+        {
+            "name": "shochu",
+            "raw_text": "shochu"
+        },
+        {
+            "name": "red shiso leaves",
+            "raw_text": "red shiso leaves (perilla)"
+        },
+        {
+            "name": "coarse sea salt",
+            "raw_text": "coarse sea salt"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "1",
+            "unit": "jar"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "857",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "237",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "21",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "69824",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "7214",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "76",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "161",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "180",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "403",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "19",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "name": "Kabocha Pie",
+    "summary": "Try something different for the holidays this year with this rich and creamy Kabocha Pie\u00a0with dollop of freshly whipped cream and a hint of rum.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/11/Kabocha-Squash-Pie-3481-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "homemade pie",
+        "pumpkin pie"
+    ],
+    "ingredients": [
+        {
+            "name": "kabocha",
+            "raw_text": "kabocha"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "large egg yolk",
+            "raw_text": "large egg yolk"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "brown sugar",
+            "raw_text": "brown sugar"
+        },
+        {
+            "name": "pumpkin pie spice",
+            "raw_text": "pumpkin pie spice"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "rum",
+            "raw_text": "rum"
+        },
+        {
+            "name": "heavy whipping cream",
+            "raw_text": "heavy whipping cream"
+        },
+        {
+            "name": "pie crust",
+            "raw_text": "pie crust"
+        },
+        {
+            "name": "heavy whipping cream",
+            "raw_text": "heavy whipping cream"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "1",
+            "unit": "9-inch pie"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "3005",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "295",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "43",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "194",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "102",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "65",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "1024",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1600",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "4638",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "22",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "126",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "21372",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "142",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "711",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "15",
+            "unit": "mg"
+        }
+    ]
+}

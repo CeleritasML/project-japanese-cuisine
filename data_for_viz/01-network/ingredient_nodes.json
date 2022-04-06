@@ -1,75 +1,63 @@
 [
     {
         "type": "ingredient",
+        "id": "i_oil",
+        "name": "oil",
+        "freq": 354
+    },
+    {
+        "type": "ingredient",
+        "id": "i_dashi",
+        "name": "dashi",
+        "freq": 78
+    },
+    {
+        "type": "ingredient",
+        "id": "i_cornstarch",
+        "name": "cornstarch",
+        "freq": 69
+    },
+    {
+        "type": "ingredient",
+        "id": "i_shichimi togarashi",
+        "name": "shichimi togarashi",
+        "freq": 37
+    },
+    {
+        "type": "ingredient",
         "id": "i_tofu",
         "name": "tofu",
         "freq": 37
     },
     {
         "type": "ingredient",
-        "id": "i_cornstarch",
-        "name": "cornstarch",
-        "freq": 87
-    },
-    {
-        "type": "ingredient",
-        "id": "i_oil",
-        "name": "oil",
-        "freq": 462
-    },
-    {
-        "type": "ingredient",
-        "id": "i_dashi",
-        "name": "dashi",
-        "freq": 80
-    },
-    {
-        "type": "ingredient",
-        "id": "i_soy sauce",
-        "name": "soy sauce",
-        "freq": 346
+        "id": "i_daikon radish",
+        "name": "daikon radish",
+        "freq": 47
     },
     {
         "type": "ingredient",
         "id": "i_mirin",
         "name": "mirin",
-        "freq": 185
-    },
-    {
-        "type": "ingredient",
-        "id": "i_daikon radish",
-        "name": "daikon radish",
-        "freq": 48
+        "freq": 178
     },
     {
         "type": "ingredient",
         "id": "i_green onion",
         "name": "green onion",
-        "freq": 160
+        "freq": 151
+    },
+    {
+        "type": "ingredient",
+        "id": "i_soy sauce",
+        "name": "soy sauce",
+        "freq": 316
     },
     {
         "type": "ingredient",
         "id": "i_katsuobushi",
         "name": "katsuobushi",
-        "freq": 41
-    },
-    {
-        "type": "ingredient",
-        "id": "i_shichimi togarashi",
-        "name": "shichimi togarashi",
-        "freq": 38
-    },
-    {
-        "type": "ingredient",
-        "id": "i_shiso leaves",
-        "name": "shiso leaves",
-        "freq": 45
-    },
-    {
-        "type": "ingredient",
-        "id": "i_seaweed",
-        "name": "seaweed",
-        "freq": 32
+        "freq": 39
     },
     {
         "type": "ingredient",
@@ -79,15 +67,15 @@
     },
     {
         "type": "ingredient",
-        "id": "i_chicken wings",
-        "name": "chicken wings",
-        "freq": 11
+        "id": "i_seaweed",
+        "name": "seaweed",
+        "freq": 32
     },
     {
         "type": "ingredient",
-        "id": "i_sugar",
-        "name": "sugar",
-        "freq": 455
+        "id": "i_shiso leaves",
+        "name": "shiso leaves",
+        "freq": 45
     },
     {
         "type": "ingredient",
@@ -97,21 +85,9 @@
     },
     {
         "type": "ingredient",
-        "id": "i_garlic",
-        "name": "garlic",
-        "freq": 123
-    },
-    {
-        "type": "ingredient",
         "id": "i_sesame seed",
         "name": "sesame seed",
-        "freq": 125
-    },
-    {
-        "type": "ingredient",
-        "id": "i_honey",
-        "name": "honey",
-        "freq": 33
+        "freq": 118
     },
     {
         "type": "ingredient",
@@ -121,21 +97,39 @@
     },
     {
         "type": "ingredient",
-        "id": "i_salt",
-        "name": "salt",
-        "freq": 535
+        "id": "i_chicken wings",
+        "name": "chicken wings",
+        "freq": 11
     },
     {
         "type": "ingredient",
-        "id": "i_miso",
-        "name": "miso",
-        "freq": 81
+        "id": "i_honey",
+        "name": "honey",
+        "freq": 31
+    },
+    {
+        "type": "ingredient",
+        "id": "i_garlic",
+        "name": "garlic",
+        "freq": 115
+    },
+    {
+        "type": "ingredient",
+        "id": "i_sugar",
+        "name": "sugar",
+        "freq": 357
     },
     {
         "type": "ingredient",
         "id": "i_vinegar",
         "name": "vinegar",
-        "freq": 114
+        "freq": 102
+    },
+    {
+        "type": "ingredient",
+        "id": "i_miso",
+        "name": "miso",
+        "freq": 78
     },
     {
         "type": "ingredient",
@@ -145,39 +139,45 @@
     },
     {
         "type": "ingredient",
+        "id": "i_salt",
+        "name": "salt",
+        "freq": 433
+    },
+    {
+        "type": "ingredient",
         "id": "i_pork",
         "name": "pork",
-        "freq": 80
-    },
-    {
-        "type": "ingredient",
-        "id": "i_ginger",
-        "name": "ginger",
-        "freq": 121
-    },
-    {
-        "type": "ingredient",
-        "id": "i_Tokyo negi",
-        "name": "Tokyo negi",
-        "freq": 34
+        "freq": 78
     },
     {
         "type": "ingredient",
         "id": "i_egg",
         "name": "egg",
-        "freq": 152
-    },
-    {
-        "type": "ingredient",
-        "id": "i_sake",
-        "name": "sake",
-        "freq": 252
+        "freq": 142
     },
     {
         "type": "ingredient",
         "id": "i_red pepper",
         "name": "red pepper",
-        "freq": 29
+        "freq": 27
+    },
+    {
+        "type": "ingredient",
+        "id": "i_ginger",
+        "name": "ginger",
+        "freq": 118
+    },
+    {
+        "type": "ingredient",
+        "id": "i_Tokyo negi",
+        "name": "Tokyo negi",
+        "freq": 32
+    },
+    {
+        "type": "ingredient",
+        "id": "i_sake",
+        "name": "sake",
+        "freq": 219
     },
     {
         "type": "ingredient",
@@ -193,45 +193,27 @@
     },
     {
         "type": "ingredient",
-        "id": "i_black pepper",
-        "name": "black pepper",
-        "freq": 232
-    },
-    {
-        "type": "ingredient",
         "id": "i_butter",
         "name": "butter",
-        "freq": 146
+        "freq": 121
     },
     {
         "type": "ingredient",
-        "id": "i_mushrooms",
-        "name": "mushrooms",
-        "freq": 131
+        "id": "i_black pepper",
+        "name": "black pepper",
+        "freq": 208
+    },
+    {
+        "type": "ingredient",
+        "id": "i_uni",
+        "name": "uni",
+        "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_water",
         "name": "water",
-        "freq": 350
-    },
-    {
-        "type": "ingredient",
-        "id": "i_chicken thighs",
-        "name": "chicken thighs",
-        "freq": 48
-    },
-    {
-        "type": "ingredient",
-        "id": "i_carrot",
-        "name": "carrot",
-        "freq": 108
-    },
-    {
-        "type": "ingredient",
-        "id": "i_ginkgo nuts",
-        "name": "ginkgo nuts",
-        "freq": 3
+        "freq": 261
     },
     {
         "type": "ingredient",
@@ -241,21 +223,45 @@
     },
     {
         "type": "ingredient",
+        "id": "i_large egg",
+        "name": "large egg",
+        "freq": 72
+    },
+    {
+        "type": "ingredient",
+        "id": "i_mushrooms",
+        "name": "mushrooms",
+        "freq": 88
+    },
+    {
+        "type": "ingredient",
+        "id": "i_ginkgo nuts",
+        "name": "ginkgo nuts",
+        "freq": 3
+    },
+    {
+        "type": "ingredient",
+        "id": "i_chicken thighs",
+        "name": "chicken thighs",
+        "freq": 47
+    },
+    {
+        "type": "ingredient",
         "id": "i_mitsuba",
         "name": "mitsuba",
         "freq": 23
     },
     {
         "type": "ingredient",
-        "id": "i_large egg",
-        "name": "large egg",
-        "freq": 78
+        "id": "i_carrot",
+        "name": "carrot",
+        "freq": 108
     },
     {
         "type": "ingredient",
-        "id": "i_uni",
-        "name": "uni",
-        "freq": 3
+        "id": "i_usukuchi",
+        "name": "usukuchi",
+        "freq": 19
     },
     {
         "type": "ingredient",
@@ -271,9 +277,9 @@
     },
     {
         "type": "ingredient",
-        "id": "i_usukuchi",
-        "name": "usukuchi",
-        "freq": 20
+        "id": "i_mint",
+        "name": "mint",
+        "freq": 10
     },
     {
         "type": "ingredient",
@@ -285,19 +291,7 @@
         "type": "ingredient",
         "id": "i_cucumber",
         "name": "cucumber",
-        "freq": 54
-    },
-    {
-        "type": "ingredient",
-        "id": "i_cilantro",
-        "name": "cilantro",
-        "freq": 17
-    },
-    {
-        "type": "ingredient",
-        "id": "i_mint",
-        "name": "mint",
-        "freq": 12
+        "freq": 52
     },
     {
         "type": "ingredient",
@@ -307,15 +301,9 @@
     },
     {
         "type": "ingredient",
-        "id": "i_panko",
-        "name": "panko",
-        "freq": 43
-    },
-    {
-        "type": "ingredient",
-        "id": "i_flour",
-        "name": "flour",
-        "freq": 153
+        "id": "i_cilantro",
+        "name": "cilantro",
+        "freq": 16
     },
     {
         "type": "ingredient",
@@ -325,15 +313,27 @@
     },
     {
         "type": "ingredient",
+        "id": "i_panko",
+        "name": "panko",
+        "freq": 42
+    },
+    {
+        "type": "ingredient",
+        "id": "i_flour",
+        "name": "flour",
+        "freq": 139
+    },
+    {
+        "type": "ingredient",
         "id": "i_Thai sweet chili sauce",
         "name": "Thai sweet chili sauce",
         "freq": 4
     },
     {
         "type": "ingredient",
-        "id": "i_frozen puff pastry",
-        "name": "frozen puff pastry",
-        "freq": 6
+        "id": "i_thyme",
+        "name": "thyme",
+        "freq": 11
     },
     {
         "type": "ingredient",
@@ -343,9 +343,9 @@
     },
     {
         "type": "ingredient",
-        "id": "i_thyme",
-        "name": "thyme",
-        "freq": 14
+        "id": "i_frozen puff pastry",
+        "name": "frozen puff pastry",
+        "freq": 6
     },
     {
         "type": "ingredient",
@@ -381,13 +381,13 @@
         "type": "ingredient",
         "id": "i_white pepper powder",
         "name": "white pepper powder",
-        "freq": 33
+        "freq": 29
     },
     {
         "type": "ingredient",
         "id": "i_lemon",
         "name": "lemon",
-        "freq": 41
+        "freq": 35
     },
     {
         "type": "ingredient",
@@ -397,15 +397,15 @@
     },
     {
         "type": "ingredient",
-        "id": "i_yuzu juice",
-        "name": "yuzu juice",
-        "freq": 7
-    },
-    {
-        "type": "ingredient",
         "id": "i_onion",
         "name": "onion",
         "freq": 102
+    },
+    {
+        "type": "ingredient",
+        "id": "i_yuzu juice",
+        "name": "yuzu juice",
+        "freq": 7
     },
     {
         "type": "ingredient",
@@ -439,27 +439,27 @@
     },
     {
         "type": "ingredient",
-        "id": "i_corn",
-        "name": "corn",
-        "freq": 11
-    },
-    {
-        "type": "ingredient",
         "id": "i_wasabi",
         "name": "wasabi",
         "freq": 10
     },
     {
         "type": "ingredient",
-        "id": "i_lemon wedges",
-        "name": "lemon wedges",
-        "freq": 5
+        "id": "i_corn",
+        "name": "corn",
+        "freq": 11
     },
     {
         "type": "ingredient",
         "id": "i_Japanese mayonnaise",
         "name": "Japanese mayonnaise",
-        "freq": 35
+        "freq": 34
+    },
+    {
+        "type": "ingredient",
+        "id": "i_lemon wedges",
+        "name": "lemon wedges",
+        "freq": 5
     },
     {
         "type": "ingredient",
@@ -475,15 +475,21 @@
     },
     {
         "type": "ingredient",
+        "id": "i_Gyoza Wrappers",
+        "name": "Gyoza Wrappers",
+        "freq": 4
+    },
+    {
+        "type": "ingredient",
         "id": "i_napa cabbage",
         "name": "napa cabbage",
         "freq": 20
     },
     {
         "type": "ingredient",
-        "id": "i_Gyoza Wrappers",
-        "name": "Gyoza Wrappers",
-        "freq": 4
+        "id": "i_parsley",
+        "name": "parsley",
+        "freq": 26
     },
     {
         "type": "ingredient",
@@ -493,21 +499,15 @@
     },
     {
         "type": "ingredient",
-        "id": "i_parsley",
-        "name": "parsley",
-        "freq": 27
+        "id": "i_kombu",
+        "name": "kombu",
+        "freq": 42
     },
     {
         "type": "ingredient",
         "id": "i_Japanese turnips",
         "name": "Japanese turnips",
         "freq": 3
-    },
-    {
-        "type": "ingredient",
-        "id": "i_kombu",
-        "name": "kombu",
-        "freq": 43
     },
     {
         "type": "ingredient",
@@ -519,13 +519,13 @@
         "type": "ingredient",
         "id": "i_salmon",
         "name": "salmon",
-        "freq": 27
+        "freq": 25
     },
     {
         "type": "ingredient",
         "id": "i_lemon juice",
         "name": "lemon juice",
-        "freq": 27
+        "freq": 24
     },
     {
         "type": "ingredient",
@@ -537,13 +537,7 @@
         "type": "ingredient",
         "id": "i_matcha",
         "name": "matcha",
-        "freq": 35
-    },
-    {
-        "type": "ingredient",
-        "id": "i_wonton wrappers",
-        "name": "wonton wrappers",
-        "freq": 3
+        "freq": 26
     },
     {
         "type": "ingredient",
@@ -553,14 +547,26 @@
     },
     {
         "type": "ingredient",
+        "id": "i_wonton wrappers",
+        "name": "wonton wrappers",
+        "freq": 3
+    },
+    {
+        "type": "ingredient",
         "id": "i_sriracha sauce",
         "name": "sriracha sauce",
-        "freq": 8
+        "freq": 7
     },
     {
         "type": "ingredient",
         "id": "i_chicken drumettes",
         "name": "chicken drumettes",
+        "freq": 3
+    },
+    {
+        "type": "ingredient",
+        "id": "i_shiraga negi",
+        "name": "shiraga negi",
         "freq": 3
     },
     {
@@ -571,21 +577,9 @@
     },
     {
         "type": "ingredient",
-        "id": "i_shiraga negi",
-        "name": "shiraga negi",
-        "freq": 3
-    },
-    {
-        "type": "ingredient",
-        "id": "i_rice",
-        "name": "rice",
-        "freq": 129
-    },
-    {
-        "type": "ingredient",
-        "id": "i_avocado",
-        "name": "avocado",
-        "freq": 15
+        "id": "i_tuna",
+        "name": "tuna",
+        "freq": 12
     },
     {
         "type": "ingredient",
@@ -595,9 +589,9 @@
     },
     {
         "type": "ingredient",
-        "id": "i_nori",
-        "name": "nori",
-        "freq": 25
+        "id": "i_avocado",
+        "name": "avocado",
+        "freq": 10
     },
     {
         "type": "ingredient",
@@ -607,9 +601,15 @@
     },
     {
         "type": "ingredient",
-        "id": "i_tuna",
-        "name": "tuna",
-        "freq": 12
+        "id": "i_nori",
+        "name": "nori",
+        "freq": 25
+    },
+    {
+        "type": "ingredient",
+        "id": "i_rice",
+        "name": "rice",
+        "freq": 124
     },
     {
         "type": "ingredient",
@@ -631,27 +631,27 @@
     },
     {
         "type": "ingredient",
+        "id": "i_milk",
+        "name": "milk",
+        "freq": 37
+    },
+    {
+        "type": "ingredient",
         "id": "i_chia seeds",
         "name": "chia seeds",
         "freq": 3
     },
     {
         "type": "ingredient",
-        "id": "i_milk",
-        "name": "milk",
-        "freq": 40
+        "id": "i_unsweetened cocoa powder",
+        "name": "unsweetened cocoa powder",
+        "freq": 6
     },
     {
         "type": "ingredient",
         "id": "i_banana",
         "name": "banana",
         "freq": 9
-    },
-    {
-        "type": "ingredient",
-        "id": "i_unsweetened cocoa powder",
-        "name": "unsweetened cocoa powder",
-        "freq": 6
     },
     {
         "type": "ingredient",
@@ -663,7 +663,7 @@
         "type": "ingredient",
         "id": "i_whipped cream",
         "name": "whipped cream",
-        "freq": 11
+        "freq": 9
     },
     {
         "type": "ingredient",
@@ -679,12 +679,6 @@
     },
     {
         "type": "ingredient",
-        "id": "i_zest of 2 lemons",
-        "name": "zest of 2 lemons",
-        "freq": 3
-    },
-    {
-        "type": "ingredient",
         "id": "i_Simple Syrup",
         "name": "Simple Syrup",
         "freq": 4
@@ -693,19 +687,13 @@
         "type": "ingredient",
         "id": "i_wine",
         "name": "wine",
-        "freq": 19
-    },
-    {
-        "type": "ingredient",
-        "id": "i_",
-        "name": "",
-        "freq": 3
+        "freq": 17
     },
     {
         "type": "ingredient",
         "id": "i_shochu",
         "name": "shochu",
-        "freq": 4
+        "freq": 3
     },
     {
         "type": "ingredient",
@@ -717,25 +705,19 @@
         "type": "ingredient",
         "id": "i_lime",
         "name": "lime",
-        "freq": 6
+        "freq": 5
     },
     {
         "type": "ingredient",
         "id": "i_strawberries",
         "name": "strawberries",
-        "freq": 24
-    },
-    {
-        "type": "ingredient",
-        "id": "i_instant yeast",
-        "name": "instant yeast",
-        "freq": 6
+        "freq": 22
     },
     {
         "type": "ingredient",
         "id": "i_whole milk",
         "name": "whole milk",
-        "freq": 46
+        "freq": 44
     },
     {
         "type": "ingredient",
@@ -747,13 +729,19 @@
         "type": "ingredient",
         "id": "i_toasted black sesame seeds",
         "name": "toasted black sesame seeds",
-        "freq": 19
+        "freq": 18
     },
     {
         "type": "ingredient",
-        "id": "i_shokupan",
-        "name": "shokupan",
-        "freq": 10
+        "id": "i_instant yeast",
+        "name": "instant yeast",
+        "freq": 6
+    },
+    {
+        "type": "ingredient",
+        "id": "i_red radish",
+        "name": "red radish",
+        "freq": 8
     },
     {
         "type": "ingredient",
@@ -765,31 +753,31 @@
         "type": "ingredient",
         "id": "i_cherry tomatoes",
         "name": "cherry tomatoes",
-        "freq": 21
+        "freq": 20
     },
     {
         "type": "ingredient",
-        "id": "i_red radish",
-        "name": "red radish",
-        "freq": 8
+        "id": "i_shokupan",
+        "name": "shokupan",
+        "freq": 5
     },
     {
         "type": "ingredient",
         "id": "i_baking soda",
         "name": "baking soda",
-        "freq": 55
-    },
-    {
-        "type": "ingredient",
-        "id": "i_pure vanilla extract",
-        "name": "pure vanilla extract",
-        "freq": 34
+        "freq": 46
     },
     {
         "type": "ingredient",
         "id": "i_raisins",
         "name": "raisins",
         "freq": 6
+    },
+    {
+        "type": "ingredient",
+        "id": "i_pure vanilla extract",
+        "name": "pure vanilla extract",
+        "freq": 32
     },
     {
         "type": "ingredient",
@@ -813,7 +801,7 @@
         "type": "ingredient",
         "id": "i_heavy whipping cream",
         "name": "heavy whipping cream",
-        "freq": 54
+        "freq": 49
     },
     {
         "type": "ingredient",
@@ -837,18 +825,6 @@
         "type": "ingredient",
         "id": "i_chocolate",
         "name": "chocolate",
-        "freq": 8
-    },
-    {
-        "type": "ingredient",
-        "id": "i_aburaage",
-        "name": "aburaage",
-        "freq": 22
-    },
-    {
-        "type": "ingredient",
-        "id": "i_boiled bamboo shoot",
-        "name": "boiled bamboo shoot",
         "freq": 7
     },
     {
@@ -856,6 +832,18 @@
         "id": "i_snap peas",
         "name": "snap peas",
         "freq": 3
+    },
+    {
+        "type": "ingredient",
+        "id": "i_aburaage",
+        "name": "aburaage",
+        "freq": 20
+    },
+    {
+        "type": "ingredient",
+        "id": "i_boiled bamboo shoot",
+        "name": "boiled bamboo shoot",
+        "freq": 7
     },
     {
         "type": "ingredient",
@@ -873,13 +861,7 @@
         "type": "ingredient",
         "id": "i_cheese",
         "name": "cheese",
-        "freq": 17
-    },
-    {
-        "type": "ingredient",
-        "id": "i_chocolate syrup",
-        "name": "chocolate syrup",
-        "freq": 3
+        "freq": 16
     },
     {
         "type": "ingredient",
@@ -939,7 +921,7 @@
         "type": "ingredient",
         "id": "i_shiratamako",
         "name": "shiratamako",
-        "freq": 11
+        "freq": 9
     },
     {
         "type": "ingredient",
@@ -949,20 +931,8 @@
     },
     {
         "type": "ingredient",
-        "id": "i_rosemary",
-        "name": "rosemary",
-        "freq": 3
-    },
-    {
-        "type": "ingredient",
         "id": "i_apricot jam",
         "name": "apricot jam",
-        "freq": 3
-    },
-    {
-        "type": "ingredient",
-        "id": "i_cinnamon powder",
-        "name": "cinnamon powder",
         "freq": 3
     },
     {
@@ -1033,21 +1003,9 @@
     },
     {
         "type": "ingredient",
-        "id": "i_bay leaf",
-        "name": "bay leaf",
-        "freq": 23
-    },
-    {
-        "type": "ingredient",
-        "id": "i_beef",
-        "name": "beef",
-        "freq": 28
-    },
-    {
-        "type": "ingredient",
-        "id": "i_red bell pepper",
-        "name": "red bell pepper",
-        "freq": 5
+        "id": "i_oyster sauce",
+        "name": "oyster sauce",
+        "freq": 12
     },
     {
         "type": "ingredient",
@@ -1057,9 +1015,21 @@
     },
     {
         "type": "ingredient",
-        "id": "i_oyster sauce",
-        "name": "oyster sauce",
-        "freq": 12
+        "id": "i_beef",
+        "name": "beef",
+        "freq": 28
+    },
+    {
+        "type": "ingredient",
+        "id": "i_bay leaf",
+        "name": "bay leaf",
+        "freq": 23
+    },
+    {
+        "type": "ingredient",
+        "id": "i_red bell pepper",
+        "name": "red bell pepper",
+        "freq": 5
     },
     {
         "type": "ingredient",
@@ -1101,19 +1071,19 @@
         "type": "ingredient",
         "id": "i_chicken stock",
         "name": "chicken stock",
-        "freq": 35
+        "freq": 34
     },
     {
         "type": "ingredient",
         "id": "i_ginger juice",
         "name": "ginger juice",
-        "freq": 4
+        "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_noodles",
         "name": "noodles",
-        "freq": 40
+        "freq": 39
     },
     {
         "type": "ingredient",
@@ -1135,26 +1105,20 @@
     },
     {
         "type": "ingredient",
+        "id": "i_curry",
+        "name": "curry",
+        "freq": 12
+    },
+    {
+        "type": "ingredient",
         "id": "i_onions",
         "name": "onions",
         "freq": 6
     },
     {
         "type": "ingredient",
-        "id": "i_curry",
-        "name": "curry",
-        "freq": 15
-    },
-    {
-        "type": "ingredient",
         "id": "i_chili powder",
         "name": "chili powder",
-        "freq": 3
-    },
-    {
-        "type": "ingredient",
-        "id": "i_cayenne pepper",
-        "name": "cayenne pepper",
         "freq": 3
     },
     {
@@ -1165,9 +1129,15 @@
     },
     {
         "type": "ingredient",
+        "id": "i_cayenne pepper",
+        "name": "cayenne pepper",
+        "freq": 3
+    },
+    {
+        "type": "ingredient",
         "id": "i_shio koji",
         "name": "shio koji",
-        "freq": 10
+        "freq": 9
     },
     {
         "type": "ingredient",
@@ -1177,21 +1147,15 @@
     },
     {
         "type": "ingredient",
-        "id": "i_Tamagoyaki",
-        "name": "Tamagoyaki",
-        "freq": 12
-    },
-    {
-        "type": "ingredient",
         "id": "i_broccoli",
         "name": "broccoli",
         "freq": 17
     },
     {
         "type": "ingredient",
-        "id": "i_soy sause",
-        "name": "soy sause",
-        "freq": 4
+        "id": "i_Tamagoyaki",
+        "name": "Tamagoyaki",
+        "freq": 12
     },
     {
         "type": "ingredient",
@@ -1203,7 +1167,7 @@
         "type": "ingredient",
         "id": "i_pickled red ginger",
         "name": "pickled red ginger",
-        "freq": 18
+        "freq": 17
     },
     {
         "type": "ingredient",
@@ -1243,15 +1207,15 @@
     },
     {
         "type": "ingredient",
-        "id": "i_ketchup",
-        "name": "ketchup",
-        "freq": 20
-    },
-    {
-        "type": "ingredient",
         "id": "i_tomato paste",
         "name": "tomato paste",
         "freq": 8
+    },
+    {
+        "type": "ingredient",
+        "id": "i_ketchup",
+        "name": "ketchup",
+        "freq": 20
     },
     {
         "type": "ingredient",
@@ -1267,15 +1231,15 @@
     },
     {
         "type": "ingredient",
-        "id": "i_spaghetti",
-        "name": "spaghetti",
-        "freq": 14
-    },
-    {
-        "type": "ingredient",
         "id": "i_bacon",
         "name": "bacon",
         "freq": 8
+    },
+    {
+        "type": "ingredient",
+        "id": "i_spaghetti",
+        "name": "spaghetti",
+        "freq": 14
     },
     {
         "type": "ingredient",
@@ -1339,14 +1303,14 @@
     },
     {
         "type": "ingredient",
-        "id": "i_Spicy Mayo",
-        "name": "Spicy Mayo",
+        "id": "i_Unagi Sauce",
+        "name": "Unagi Sauce",
         "freq": 3
     },
     {
         "type": "ingredient",
-        "id": "i_Unagi Sauce",
-        "name": "Unagi Sauce",
+        "id": "i_Spicy Mayo",
+        "name": "Spicy Mayo",
         "freq": 3
     },
     {
@@ -1417,15 +1381,15 @@
     },
     {
         "type": "ingredient",
-        "id": "i_iceberg lettuce",
-        "name": "iceberg lettuce",
-        "freq": 5
-    },
-    {
-        "type": "ingredient",
         "id": "i_imitation crab meat",
         "name": "imitation crab meat",
         "freq": 4
+    },
+    {
+        "type": "ingredient",
+        "id": "i_iceberg lettuce",
+        "name": "iceberg lettuce",
+        "freq": 5
     },
     {
         "type": "ingredient",
@@ -1441,15 +1405,15 @@
     },
     {
         "type": "ingredient",
-        "id": "i_Worcestershire sauce",
-        "name": "Worcestershire sauce",
-        "freq": 12
-    },
-    {
-        "type": "ingredient",
         "id": "i_fukujinzuke",
         "name": "fukujinzuke",
         "freq": 3
+    },
+    {
+        "type": "ingredient",
+        "id": "i_Worcestershire sauce",
+        "name": "Worcestershire sauce",
+        "freq": 11
     },
     {
         "type": "ingredient",

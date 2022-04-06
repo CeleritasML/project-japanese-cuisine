@@ -20,44 +20,40 @@ for dirpath, dirnames, filenames in os.walk(path):
     for filename in filenames:
         json_names.append(os.path.join(dirpath, filename))
 
+ing_counter = defaultdict(int)
+all_json = {}
+
+# read everything to python object
+for name in json_names:
+    with open(name, 'r') as f:
+        j = json.load(f)
+        ings_cleaned = []
+        for i in j['ingredients']:
+            i_name_clean = i['name'].replace(' ', '')
+            if i_name_clean in synonym:
+                i_name_clean = synonym[i_name_clean]
+            ings_cleaned.append(i_name_clean)
+        ings_cleaned = set(ings_cleaned)
+        # count ingredient occurrence
+        for i in ings_cleaned:
+            ing_counter[i] += 1
+        all_json[j['name']] = ings_cleaned
+
 recipes = []
 ingredients = []
 links = []
 
-ing_counter = defaultdict(int)
-
-for name in json_names:
-    with open(name, 'r') as f:
-        j = json.load(f)
-        ings = j['ingredients']
-        for i in j['ingredients']:
-            i_name_clean = i['name'].replace(' ', '')
-            if i_name_clean in synonym:
-                i_name_clean = synonym[i_name_clean]
-            # count ingredient occurrence
-            ing_counter[i_name_clean] += 1
-
-# add nodes
-for name in json_names:
-    with open(name, 'r') as f:
-        j = json.load(f)
-        rec = j['name']
-        ings = j['ingredients']
-        # add recipe node
-        recipes.append({'type': 'recipe',
-                        'id': f'r_{rec}',
-                        'name': rec,
-                        'freq': len(ings)})
-        for i in j['ingredients']:
-            i_name_clean = i['name'].replace(' ', '')
-            if i_name_clean in synonym:
-                i_name_clean = synonym[i_name_clean]
-            freq = ing_counter[i_name_clean]
-            # if occurrence too low, skip
-            if freq < 3:
-                continue
-            # add recipe-ingredient edge
-            links.append({'source': f'i_{i_name_clean}', 'target': f'r_{rec}', 'value': 1})
+for rec, ings in all_json.items():
+    # only keep ingredients with more than 3 occurrence
+    ings = [i for i in ings if ing_counter[i] >= 3]
+    if len(ings) == 0:
+        continue
+    recipes.append({'type': 'recipe',
+                    'id': f'r_{rec}',
+                    'name': rec,
+                    'freq': len(ings)})
+    for i in ings:
+        links.append({'source': f'i_{i}', 'target': f'r_{rec}', 'value': 1})
 
 # add ingredient node
 for name, freq in ing_counter.items():
@@ -83,3 +79,6 @@ single_json = {
 }
 with open('data.json', 'w') as f:
     json.dump(single_json, f, indent=4)
+
+with open('data_no_indent.json', 'w') as f:
+    json.dump(single_json, f)

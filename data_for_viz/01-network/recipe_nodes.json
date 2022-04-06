@@ -1,0 +1,4730 @@
+[
+    {
+        "type": "recipe",
+        "id": "r_Agedashi Tofu",
+        "name": "Agedashi Tofu",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Ankimo",
+        "name": "Ankimo",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Sweet and Spicy BBQ Chicken Wings",
+        "name": "Sweet and Spicy BBQ Chicken Wings",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_BBQ King Crab",
+        "name": "BBQ King Crab",
+        "freq": 3
+    },
+    {
+        "type": "recipe",
+        "id": "r_Boiled Squid with Miso Vinaigrette",
+        "name": "Boiled Squid with Miso Vinaigrette",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Braised Pork Belly (Kakuni)",
+        "name": "Braised Pork Belly (Kakuni)",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Burrata and Ikura Crostini",
+        "name": "Burrata and Ikura Crostini",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Butter Soy Sauce Scallops",
+        "name": "Butter Soy Sauce Scallops",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chawanmushi (Savory Steamed Egg Custard)",
+        "name": "Chawanmushi (Savory Steamed Egg Custard)",
+        "freq": 16
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chawanmushi with Matsutake Mushroom",
+        "name": "Chawanmushi with Matsutake Mushroom",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chawanmushi with Shrimp",
+        "name": "Chawanmushi with Shrimp",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Cheese Tart",
+        "name": "Cheese Tart",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chicken Spring Rolls",
+        "name": "Chicken Spring Rolls",
+        "freq": 19
+    },
+    {
+        "type": "recipe",
+        "id": "r_Coconut Shrimp",
+        "name": "Coconut Shrimp",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Cranberry Brie Bites",
+        "name": "Cranberry Brie Bites",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Datemaki (Sweet Rolled Omelette)",
+        "name": "Datemaki (Sweet Rolled Omelette)",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Edamame",
+        "name": "Edamame",
+        "freq": 3
+    },
+    {
+        "type": "recipe",
+        "id": "r_Egg Tofu (Tamago Tofu)",
+        "name": "Egg Tofu (Tamago Tofu)",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Eggplant Agebitashi",
+        "name": "Eggplant Agebitashi",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Eggplant with Sesame Ponzu Sauce",
+        "name": "Eggplant with Sesame Ponzu Sauce",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Fresh Spring Rolls with Yakiniku",
+        "name": "Fresh Spring Rolls with Yakiniku",
+        "freq": 20
+    },
+    {
+        "type": "recipe",
+        "id": "r_Fried Chicken Wings",
+        "name": "Fried Chicken Wings",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Garlic Soy Marinated Albacore",
+        "name": "Garlic Soy Marinated Albacore",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Grilled Little Neck Clams",
+        "name": "Grilled Little Neck Clams",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Grilled Oysters with Ponzu Sauce",
+        "name": "Grilled Oysters with Ponzu Sauce",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Gyutan (BBQ Beef Tongue)",
+        "name": "Gyutan (BBQ Beef Tongue)",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Ham Katsu",
+        "name": "Ham Katsu",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Instant Pot Chawanmushi",
+        "name": "Instant Pot Chawanmushi",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Grilled Eggplant (Yaki Nasu)",
+        "name": "Japanese Grilled Eggplant (Yaki Nasu)",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Sake Steamed Clams",
+        "name": "Japanese Sake Steamed Clams",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Hiyayakko (Japanese Chilled Tofu)",
+        "name": "Hiyayakko (Japanese Chilled Tofu)",
+        "freq": 17
+    },
+    {
+        "type": "recipe",
+        "id": "r_Kamaboko with Salmon Roe",
+        "name": "Kamaboko with Salmon Roe",
+        "freq": 3
+    },
+    {
+        "type": "recipe",
+        "id": "r_Karaage (Japanese Fried Chicken)",
+        "name": "Karaage (Japanese Fried Chicken)",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Karashi Renkon (Lotus Root with Japanese Mustard)",
+        "name": "Karashi Renkon (Lotus Root with Japanese Mustard)",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Miso Dengaku (Tofu, Eggplant, Daikon & Konnyaku)",
+        "name": "Miso Dengaku (Tofu, Eggplant, Daikon & Konnyaku)",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Momofuku Fried Chicken",
+        "name": "Momofuku Fried Chicken",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Nagoya Style Fried Chicken Wings",
+        "name": "Nagoya Style Fried Chicken Wings",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Napa Cabbage Gyoza",
+        "name": "Napa Cabbage Gyoza",
+        "freq": 16
+    },
+    {
+        "type": "recipe",
+        "id": "r_Octopus Carpaccio",
+        "name": "Octopus Carpaccio",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pickled Chrysanthemum Turnip (Kikka Kabu)",
+        "name": "Pickled Chrysanthemum Turnip (Kikka Kabu)",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Salmon Kombu Roll",
+        "name": "Salmon Kombu Roll",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Saut\u00e9ed Abalone",
+        "name": "Saut\u00e9ed Abalone",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Seared Tuna Sashimi (Aburi Toro)",
+        "name": "Seared Tuna Sashimi (Aburi Toro)",
+        "freq": 3
+    },
+    {
+        "type": "recipe",
+        "id": "r_Shishamo Wrap",
+        "name": "Shishamo Wrap",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Shrimp Egg Rolls",
+        "name": "Shrimp Egg Rolls",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pork Shumai (Steamed Pork Dumplings)",
+        "name": "Pork Shumai (Steamed Pork Dumplings)",
+        "freq": 16
+    },
+    {
+        "type": "recipe",
+        "id": "r_Slow Cooker Sriracha Chili Chicken Wings",
+        "name": "Slow Cooker Sriracha Chili Chicken Wings",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Spicy Miso Chicken",
+        "name": "Spicy Miso Chicken",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Spring Rolls with Sesame Ponzu Vinaigrette",
+        "name": "Spring Rolls with Sesame Ponzu Vinaigrette",
+        "freq": 18
+    },
+    {
+        "type": "recipe",
+        "id": "r_Tazukuri (Candied Sardines)",
+        "name": "Tazukuri (Candied Sardines)",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Teba Shio (Salted Chicken Wings)",
+        "name": "Teba Shio (Salted Chicken Wings)",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Temari Sushi",
+        "name": "Temari Sushi",
+        "freq": 25
+    },
+    {
+        "type": "recipe",
+        "id": "r_Thai Chicken Lettuce Wraps",
+        "name": "Thai Chicken Lettuce Wraps",
+        "freq": 16
+    },
+    {
+        "type": "recipe",
+        "id": "r_Tsukune",
+        "name": "Tsukune",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Tuna Poke",
+        "name": "Tuna Poke",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Tuna Tataki",
+        "name": "Tuna Tataki",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Amazake",
+        "name": "Amazake",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Berry Smoothie",
+        "name": "Berry Smoothie",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Buckwheat Tea (Sobacha)",
+        "name": "Buckwheat Tea (Sobacha)",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Masala Chai",
+        "name": "Masala Chai",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chocolate Banana Smoothie",
+        "name": "Chocolate Banana Smoothie",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Cold Brew Coffee",
+        "name": "Cold Brew Coffee",
+        "freq": 2
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Cream Soda",
+        "name": "Japanese Cream Soda",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Eggnog",
+        "name": "Eggnog",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Honey Ginger Tea (Sh\u014dgayu)",
+        "name": "Honey Ginger Tea (Sh\u014dgayu)",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Matcha Green Tea Latte",
+        "name": "Matcha Green Tea Latte",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_Matcha Green Tea Smoothie",
+        "name": "Matcha Green Tea Smoothie",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_Homemade Lemonade (Classic, Thyme, and Mint)",
+        "name": "Homemade Lemonade (Classic, Thyme, and Mint)",
+        "freq": 18
+    },
+    {
+        "type": "recipe",
+        "id": "r_How to Cold Brew Green Tea",
+        "name": "How to Cold Brew Green Tea",
+        "freq": 2
+    },
+    {
+        "type": "recipe",
+        "id": "r_Cold Brew Hojicha",
+        "name": "Cold Brew Hojicha",
+        "freq": 2
+    },
+    {
+        "type": "recipe",
+        "id": "r_How To Make Matcha (Japanese Green Tea)",
+        "name": "How To Make Matcha (Japanese Green Tea)",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_Iced Green Tea Latte",
+        "name": "Iced Green Tea Latte",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Iced Coffee",
+        "name": "Japanese Iced Coffee",
+        "freq": 3
+    },
+    {
+        "type": "recipe",
+        "id": "r_Mango Coconut Smoothie",
+        "name": "Mango Coconut Smoothie",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Mulled Cider (With Wine) & Homemade Mulling Spices",
+        "name": "Mulled Cider (With Wine) & Homemade Mulling Spices",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Plum Wine",
+        "name": "Plum Wine",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pumpkin Smoothie",
+        "name": "Pumpkin Smoothie",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Aka Shiso Juice (Red Perilla Juice)",
+        "name": "Aka Shiso Juice (Red Perilla Juice)",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Royal Milk Tea",
+        "name": "Royal Milk Tea",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Sake Mojito",
+        "name": "Sake Mojito",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Strawberry Banana Smoothie",
+        "name": "Strawberry Banana Smoothie",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Strawberry Mango Smoothie",
+        "name": "Strawberry Mango Smoothie",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Watermelon Juice",
+        "name": "Watermelon Juice",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Yuzu Cocktail (Yuzu Chuhai)",
+        "name": "Japanese Yuzu Cocktail (Yuzu Chuhai)",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Anpan",
+        "name": "Anpan",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Avocado Toast",
+        "name": "Avocado Toast",
+        "freq": 47
+    },
+    {
+        "type": "recipe",
+        "id": "r_Banana Bread",
+        "name": "Banana Bread",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Caramelized Banana Muffins",
+        "name": "Caramelized Banana Muffins",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Blueberry Creme Fraiche Scones",
+        "name": "Blueberry Creme Fraiche Scones",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Buttermilk Pancakes",
+        "name": "Buttermilk Pancakes",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Curry Bread",
+        "name": "Curry Bread",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Homemade Fruit Granola (Furugura)",
+        "name": "Homemade Fruit Granola (Furugura)",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_The Best French Toast",
+        "name": "The Best French Toast",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Fruitcake",
+        "name": "Fruitcake",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Green Tea Steamed Cake",
+        "name": "Green Tea Steamed Cake",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Salted Salmon (Shiojake/Shiozake)",
+        "name": "Japanese Salted Salmon (Shiojake/Shiozake)",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_How to Make Perfect Hard Boiled Eggs",
+        "name": "How to Make Perfect Hard Boiled Eggs",
+        "freq": 1
+    },
+    {
+        "type": "recipe",
+        "id": "r_How To Make Perfect Soft-Boiled Eggs (Hanjuku Tamago)",
+        "name": "How To Make Perfect Soft-Boiled Eggs (Hanjuku Tamago)",
+        "freq": 3
+    },
+    {
+        "type": "recipe",
+        "id": "r_Mango Coconut Smoothie",
+        "name": "Mango Coconut Smoothie",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Matcha Souffle Pancake",
+        "name": "Matcha Souffle Pancake",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Melon Pan",
+        "name": "Melon Pan",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Miso Soup with Yuzu Kosho",
+        "name": "Miso Soup with Yuzu Kosho",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Nutella Banana Bread",
+        "name": "Nutella Banana Bread",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Ogura Toast",
+        "name": "Ogura Toast",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Onsen Tamago (Japanese Slow-Cooked Eggs)",
+        "name": "Onsen Tamago (Japanese Slow-Cooked Eggs)",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Quick and Easy Tamagoyaki",
+        "name": "Quick and Easy Tamagoyaki",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_Red Bean Pancake",
+        "name": "Red Bean Pancake",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Rice Porridge (Okayu)",
+        "name": "Japanese Rice Porridge (Okayu)",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Fluffy Japanese Souffl\u00e9 Pancakes",
+        "name": "Fluffy Japanese Souffl\u00e9 Pancakes",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Spinach and Feta Turnovers",
+        "name": "Spinach and Feta Turnovers",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Steamed Cake",
+        "name": "Steamed Cake",
+        "freq": 22
+    },
+    {
+        "type": "recipe",
+        "id": "r_Strawberry Sauce (Strawberry Compote)",
+        "name": "Strawberry Sauce (Strawberry Compote)",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Vegetable Miso Soup",
+        "name": "Vegetable Miso Soup",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Almond Cookies",
+        "name": "Almond Cookies",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Anmitsu",
+        "name": "Anmitsu",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Banana Bread",
+        "name": "Banana Bread",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Basque Burnt Cheesecake",
+        "name": "Basque Burnt Cheesecake",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_The Best Homemade Crepes",
+        "name": "The Best Homemade Crepes",
+        "freq": 18
+    },
+    {
+        "type": "recipe",
+        "id": "r_Black Sesame Ice Cream",
+        "name": "Black Sesame Ice Cream",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Blueberry Cake",
+        "name": "Blueberry Cake",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Blueberry Cheesecake",
+        "name": "Blueberry Cheesecake",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Blueberry Frozen Yogurt",
+        "name": "Blueberry Frozen Yogurt",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Butter Cookies (Homemade Hato Sabure)",
+        "name": "Butter Cookies (Homemade Hato Sabure)",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Castella Cake",
+        "name": "Castella Cake",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Cherry Bars",
+        "name": "Cherry Bars",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Cherry Blossom Cookies",
+        "name": "Cherry Blossom Cookies",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Cherry Blossom Madeleines",
+        "name": "Cherry Blossom Madeleines",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Cherry Blossom Milk Pudding",
+        "name": "Cherry Blossom Milk Pudding",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Cherry Clafoutis",
+        "name": "Cherry Clafoutis",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Cherry Ice Cream",
+        "name": "Cherry Ice Cream",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chocolate Almond Toffee",
+        "name": "Chocolate Almond Toffee",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chocolate Cake",
+        "name": "Chocolate Cake",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chocolate Chiffon Cake",
+        "name": "Chocolate Chiffon Cake",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chocolate Chip Cookies with Nutella",
+        "name": "Chocolate Chip Cookies with Nutella",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chocolate Covered Strawberries",
+        "name": "Chocolate Covered Strawberries",
+        "freq": 3
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chocolate Gateau (Chocolate Cake)",
+        "name": "Chocolate Gateau (Chocolate Cake)",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chocolate Ice Cream",
+        "name": "Chocolate Ice Cream",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chocolate Souffle",
+        "name": "Chocolate Souffle",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Coconut Macaroons",
+        "name": "Coconut Macaroons",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Coffee Ice Cream",
+        "name": "Coffee Ice Cream",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Coffee Jelly",
+        "name": "Coffee Jelly",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_Custard Cream (Pastry Cream)",
+        "name": "Custard Cream (Pastry Cream)",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Custard Pudding",
+        "name": "Custard Pudding",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Daifuku Mochi",
+        "name": "Daifuku Mochi",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Dorayaki (Japanese Red Bean Pancake)",
+        "name": "Dorayaki (Japanese Red Bean Pancake)",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Earl Grey Chiffon Cake",
+        "name": "Earl Grey Chiffon Cake",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Easy Apple Pie",
+        "name": "Easy Apple Pie",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Easy Apple Tart",
+        "name": "Easy Apple Tart",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Flamb\u00e9ed Pear Purses with Caramel Sauce and Gan\u00e2che",
+        "name": "Flamb\u00e9ed Pear Purses with Caramel Sauce and Gan\u00e2che",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Frozen Chocolate Banana",
+        "name": "Frozen Chocolate Banana",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_Fruit Jelly",
+        "name": "Fruit Jelly",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_Fruit Popsicles",
+        "name": "Fruit Popsicles",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Fruitcake",
+        "name": "Fruitcake",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Green Tea Chiffon Cake",
+        "name": "Green Tea Chiffon Cake",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Green Tea Chocolate",
+        "name": "Green Tea Chocolate",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_Green Tea Cookie (Vegan)",
+        "name": "Green Tea Cookie (Vegan)",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Green Tea Creme Brulee",
+        "name": "Green Tea Creme Brulee",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Matcha Green Tea Donuts",
+        "name": "Matcha Green Tea Donuts",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Matcha Green Tea Ice Cream",
+        "name": "Matcha Green Tea Ice Cream",
+        "freq": 19
+    },
+    {
+        "type": "recipe",
+        "id": "r_Green Tea Madeleines",
+        "name": "Green Tea Madeleines",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Green Tea Mochi",
+        "name": "Green Tea Mochi",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Green Tea Pudding",
+        "name": "Green Tea Pudding",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Green Tea souffle",
+        "name": "Green Tea souffle",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Matcha Green Tea Cookies",
+        "name": "Matcha Green Tea Cookies",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Hanami Dango",
+        "name": "Hanami Dango",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_How To Make Kanten Jelly",
+        "name": "How To Make Kanten Jelly",
+        "freq": 3
+    },
+    {
+        "type": "recipe",
+        "id": "r_Sweet Red Bean Paste (Tsubuan and Koshian)",
+        "name": "Sweet Red Bean Paste (Tsubuan and Koshian)",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_Imagawayaki (Obanyaki)",
+        "name": "Imagawayaki (Obanyaki)",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Instant Pot Kabocha Flan",
+        "name": "Instant Pot Kabocha Flan",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Strawberry Shortcake",
+        "name": "Japanese Strawberry Shortcake",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Sweet Potato (Dessert)",
+        "name": "Japanese Sweet Potato (Dessert)",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Kabocha Pie",
+        "name": "Kabocha Pie",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Kashiwa Mochi",
+        "name": "Kashiwa Mochi",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Lavender Madeleines",
+        "name": "Lavender Madeleines",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Lychee Coconut Sorbet",
+        "name": "Lychee Coconut Sorbet",
+        "freq": 3
+    },
+    {
+        "type": "recipe",
+        "id": "r_Mango Ice Cream",
+        "name": "Mango Ice Cream",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Mango Lassi Popsicles",
+        "name": "Mango Lassi Popsicles",
+        "freq": 3
+    },
+    {
+        "type": "recipe",
+        "id": "r_Manju",
+        "name": "Manju",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Matcha and White Chocolate Truffles",
+        "name": "Matcha and White Chocolate Truffles",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Matcha Basque Burnt Cheesecake",
+        "name": "Matcha Basque Burnt Cheesecake",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Matcha Gateau au Chocolat",
+        "name": "Matcha Gateau au Chocolat",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Matcha Marble Pound Cake",
+        "name": "Matcha Marble Pound Cake",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Matcha Mille Crepe Cake",
+        "name": "Matcha Mille Crepe Cake",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Matcha Swiss Roll (Roll Cake)",
+        "name": "Matcha Swiss Roll (Roll Cake)",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Matcha Tiramisu",
+        "name": "Matcha Tiramisu",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Matcha Vegan Panna Cotta",
+        "name": "Matcha Vegan Panna Cotta",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Matcha Zenzai",
+        "name": "Matcha Zenzai",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Meyer Lemon Chiffon Cake",
+        "name": "Meyer Lemon Chiffon Cake",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Meyer Lemon Cookies (Sables)",
+        "name": "Meyer Lemon Cookies (Sables)",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Meyer Lemon Pound Cake",
+        "name": "Meyer Lemon Pound Cake",
+        "freq": 16
+    },
+    {
+        "type": "recipe",
+        "id": "r_Mini Fruit Puff Pastry with Lemon Glaze",
+        "name": "Mini Fruit Puff Pastry with Lemon Glaze",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Miso Butter Cookies",
+        "name": "Miso Butter Cookies",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Mitarashi Dango",
+        "name": "Mitarashi Dango",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Mizu Yokan",
+        "name": "Mizu Yokan",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Mochi Ice Cream",
+        "name": "Mochi Ice Cream",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Nama Chocolate",
+        "name": "Nama Chocolate",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_No-Bake Creme Caramel (Japanese Purin)",
+        "name": "No-Bake Creme Caramel (Japanese Purin)",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Nougat Glac\u00e9 Choux with Orange Caramel",
+        "name": "Nougat Glac\u00e9 Choux with Orange Caramel",
+        "freq": 19
+    },
+    {
+        "type": "recipe",
+        "id": "r_Nougat Semifreddo",
+        "name": "Nougat Semifreddo",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Ohagi (Botamochi)",
+        "name": "Ohagi (Botamochi)",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Orange Chiffon Cake",
+        "name": "Orange Chiffon Cake",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Orange Jelly",
+        "name": "Orange Jelly",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Panettone Bread Pudding",
+        "name": "Panettone Bread Pudding",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Fruit Parfait (Strawberry Parfait & Chocolate Banana Parfait)",
+        "name": "Fruit Parfait (Strawberry Parfait & Chocolate Banana Parfait)",
+        "freq": 19
+    },
+    {
+        "type": "recipe",
+        "id": "r_5 Ingredient Peanut Butter Chocolate Chip Cookies",
+        "name": "5 Ingredient Peanut Butter Chocolate Chip Cookies",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pear and Almond Tart",
+        "name": "Pear and Almond Tart",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pineapple Sorbet",
+        "name": "Pineapple Sorbet",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pineapple Upside Down Cake",
+        "name": "Pineapple Upside Down Cake",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pon de Ring Donut",
+        "name": "Pon de Ring Donut",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Purin Dora",
+        "name": "Purin Dora",
+        "freq": 17
+    },
+    {
+        "type": "recipe",
+        "id": "r_Azuki Red Bean Ice Cream",
+        "name": "Azuki Red Bean Ice Cream",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_Sakura Mochi",
+        "name": "Sakura Mochi",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Sata Andagi",
+        "name": "Sata Andagi",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Black Sesame Cookies",
+        "name": "Black Sesame Cookies",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Sesame Cupcakes with Honey Meringue Frosting",
+        "name": "Sesame Cupcakes with Honey Meringue Frosting",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Shiratama Dango",
+        "name": "Shiratama Dango",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Cheesecake",
+        "name": "Japanese Cheesecake",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Soy Sauce Caramel Ice Cream",
+        "name": "Soy Sauce Caramel Ice Cream",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Strawberry Cheesecake Ice Cream",
+        "name": "Strawberry Cheesecake Ice Cream",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Strawberry Mochi (Ichigo Daifuku)",
+        "name": "Strawberry Mochi (Ichigo Daifuku)",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Strawberry Frozen Yogurt",
+        "name": "Strawberry Frozen Yogurt",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Sweet Potato Pie",
+        "name": "Sweet Potato Pie",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Taiyaki",
+        "name": "Taiyaki",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Taro Tapioca Dessert Soup",
+        "name": "Taro Tapioca Dessert Soup",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_Sweet Tart Crust",
+        "name": "Sweet Tart Crust",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Tofu Pudding (Blancmange)",
+        "name": "Tofu Pudding (Blancmange)",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Tsukimi Dango",
+        "name": "Tsukimi Dango",
+        "freq": 3
+    },
+    {
+        "type": "recipe",
+        "id": "r_Twinkie Minions",
+        "name": "Twinkie Minions",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Ujikintoki (Green Tea Shaved Ice)",
+        "name": "Ujikintoki (Green Tea Shaved Ice)",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Ume Shaved Ice",
+        "name": "Ume Shaved Ice",
+        "freq": 3
+    },
+    {
+        "type": "recipe",
+        "id": "r_Warabi Mochi",
+        "name": "Warabi Mochi",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_White Bean Paste (Shiroan)",
+        "name": "White Bean Paste (Shiroan)",
+        "freq": 3
+    },
+    {
+        "type": "recipe",
+        "id": "r_Yatsuhashi",
+        "name": "Yatsuhashi",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Yuzu Ice Cream",
+        "name": "Yuzu Ice Cream",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Yuzu Sorbet",
+        "name": "Yuzu Sorbet",
+        "freq": 3
+    },
+    {
+        "type": "recipe",
+        "id": "r_Zenzai (Oshiruko) \u2013 Red Bean Soup with Mochi",
+        "name": "Zenzai (Oshiruko) \u2013 Red Bean Soup with Mochi",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Albacore Tuna Bowl",
+        "name": "Albacore Tuna Bowl",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Arroz a la Cubana",
+        "name": "Arroz a la Cubana",
+        "freq": 18
+    },
+    {
+        "type": "recipe",
+        "id": "r_Asian Pork Chop with Ginger Soy Sauce",
+        "name": "Asian Pork Chop with Ginger Soy Sauce",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Asparagus Beef Roll Bento",
+        "name": "Asparagus Beef Roll Bento",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Baked Croquette",
+        "name": "Baked Croquette",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Baked Katsudon (Japanese Crispy Baked Cutlet Rice Bowl)",
+        "name": "Baked Katsudon (Japanese Crispy Baked Cutlet Rice Bowl)",
+        "freq": 17
+    },
+    {
+        "type": "recipe",
+        "id": "r_Baked Tonkatsu",
+        "name": "Baked Tonkatsu",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_BBQ Pork Belly",
+        "name": "BBQ Pork Belly",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Lemon Chicken",
+        "name": "Lemon Chicken",
+        "freq": 16
+    },
+    {
+        "type": "recipe",
+        "id": "r_Beef Donburi with Shiso Garlic Soy Sauce",
+        "name": "Beef Donburi with Shiso Garlic Soy Sauce",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Beef and Green Pepper Stir Fry (Chinjao Rosu)",
+        "name": "Beef and Green Pepper Stir Fry (Chinjao Rosu)",
+        "freq": 17
+    },
+    {
+        "type": "recipe",
+        "id": "r_BBQ Short Ribs",
+        "name": "BBQ Short Ribs",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Beef Teriyaki",
+        "name": "Beef Teriyaki",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Beef Udon",
+        "name": "Beef Udon",
+        "freq": 18
+    },
+    {
+        "type": "recipe",
+        "id": "r_Miso Cod (Black Cod with Miso)",
+        "name": "Miso Cod (Black Cod with Miso)",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Black Sesame Dan Dan Noodles",
+        "name": "Black Sesame Dan Dan Noodles",
+        "freq": 25
+    },
+    {
+        "type": "recipe",
+        "id": "r_Bone-In Chicken Curry",
+        "name": "Bone-In Chicken Curry",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Braised Carnitas",
+        "name": "Braised Carnitas",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Braised Herb Chicken with Shio Koji",
+        "name": "Braised Herb Chicken with Shio Koji",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Braised Pork Belly Bento",
+        "name": "Braised Pork Belly Bento",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Bulgogi (Korean Grilled Beef)",
+        "name": "Bulgogi (Korean Grilled Beef)",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Bulgogi Onigirazu",
+        "name": "Bulgogi Onigirazu",
+        "freq": 38
+    },
+    {
+        "type": "recipe",
+        "id": "r_Buri Daikon (Simmered Yellowtail and Daikon)",
+        "name": "Buri Daikon (Simmered Yellowtail and Daikon)",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Butadon (Pork Donburi)",
+        "name": "Butadon (Pork Donburi)",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Butter Shoyu Chicken",
+        "name": "Butter Shoyu Chicken",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_California Roll",
+        "name": "California Roll",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Cantonese Steamed Fish",
+        "name": "Cantonese Steamed Fish",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Carrot Beef Rolls",
+        "name": "Carrot Beef Rolls",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Catfish Kabayaki",
+        "name": "Catfish Kabayaki",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Broiled Salmon and Salmon Onigiri (Rice Ball)",
+        "name": "Broiled Salmon and Salmon Onigiri (Rice Ball)",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Champon",
+        "name": "Champon",
+        "freq": 24
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chashu Fried Rice",
+        "name": "Chashu Fried Rice",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chicken Adobo",
+        "name": "Chicken Adobo",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chicken Cacciatore",
+        "name": "Chicken Cacciatore",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chicken Cheese Katsu",
+        "name": "Chicken Cheese Katsu",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chicken Fried Rice",
+        "name": "Chicken Fried Rice",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chicken Karaage with Sweet Chili Sauce",
+        "name": "Chicken Karaage with Sweet Chili Sauce",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chicken Katsu Bento",
+        "name": "Chicken Katsu Bento",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chicken Katsu Don",
+        "name": "Chicken Katsu Don",
+        "freq": 17
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chicken Katsu Onigirazu",
+        "name": "Chicken Katsu Onigirazu",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chicken Katsu",
+        "name": "Chicken Katsu",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chicken Meatball Bento",
+        "name": "Chicken Meatball Bento",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chicken Meatballs with Sweet and Sour Sauce",
+        "name": "Chicken Meatballs with Sweet and Sour Sauce",
+        "freq": 16
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chicken Meatballs",
+        "name": "Chicken Meatballs",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chicken Nanban Bento",
+        "name": "Chicken Nanban Bento",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chicken Nanban (Fried Chicken with Tartar Sauce)",
+        "name": "Chicken Nanban (Fried Chicken with Tartar Sauce)",
+        "freq": 17
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chicken Scallopini with Lemon Butter Pasta",
+        "name": "Chicken Scallopini with Lemon Butter Pasta",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chicken Shiso Gyoza with Yuzu Kosho & Ponzu Sauce",
+        "name": "Chicken Shiso Gyoza with Yuzu Kosho & Ponzu Sauce",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chicken Teriyaki Bento",
+        "name": "Chicken Teriyaki Bento",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chicken Teriyaki",
+        "name": "Chicken Teriyaki",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Tofu and Chicken Burger",
+        "name": "Tofu and Chicken Burger",
+        "freq": 20
+    },
+    {
+        "type": "recipe",
+        "id": "r_Garlic Onion Chicken",
+        "name": "Garlic Onion Chicken",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chikuzenni / Nishime (Simmered Chicken and Vegetables)",
+        "name": "Chikuzenni / Nishime (Simmered Chicken and Vegetables)",
+        "freq": 21
+    },
+    {
+        "type": "recipe",
+        "id": "r_Karaage Rice Bowl",
+        "name": "Karaage Rice Bowl",
+        "freq": 20
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chirashi Sushi Cake and Temari Sushi",
+        "name": "Chirashi Sushi Cake and Temari Sushi",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chirashi Sushi",
+        "name": "Chirashi Sushi",
+        "freq": 36
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chukadon (Chinese-Style Rice Bowl)",
+        "name": "Chukadon (Chinese-Style Rice Bowl)",
+        "freq": 24
+    },
+    {
+        "type": "recipe",
+        "id": "r_Clam Pasta",
+        "name": "Clam Pasta",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Classic Mentaiko Pasta",
+        "name": "Classic Mentaiko Pasta",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Cold Curry Udon",
+        "name": "Cold Curry Udon",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Cold Tanuki Udon",
+        "name": "Cold Tanuki Udon",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Cold Tuna and Tomato Somen",
+        "name": "Cold Tuna and Tomato Somen",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Creamy Crab Croquette",
+        "name": "Creamy Crab Croquette",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Creamy Miso Pasta with Tofu and Asparagus (Vegan)",
+        "name": "Creamy Miso Pasta with Tofu and Asparagus (Vegan)",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Creamy Mushroom and Bacon Pasta",
+        "name": "Creamy Mushroom and Bacon Pasta",
+        "freq": 17
+    },
+    {
+        "type": "recipe",
+        "id": "r_Baked Chicken Katsu",
+        "name": "Baked Chicken Katsu",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Crispy Chicken Katsu Sandwich",
+        "name": "Crispy Chicken Katsu Sandwich",
+        "freq": 16
+    },
+    {
+        "type": "recipe",
+        "id": "r_Crispy Baked Salmon Nuggets",
+        "name": "Crispy Baked Salmon Nuggets",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Crispy Tonkatsu Donburi",
+        "name": "Crispy Tonkatsu Donburi",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Croquette Sandwich",
+        "name": "Croquette Sandwich",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Cucumber and Chicken Marinated in Chili Oil",
+        "name": "Cucumber and Chicken Marinated in Chili Oil",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Cucumber Wrapped Sushi",
+        "name": "Cucumber Wrapped Sushi",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Curry Doria (Rice Gratin)",
+        "name": "Curry Doria (Rice Gratin)",
+        "freq": 21
+    },
+    {
+        "type": "recipe",
+        "id": "r_Curry Ramen from Netflix Midnight Diner: Tokyo Stories",
+        "name": "Curry Ramen from Netflix Midnight Diner: Tokyo Stories",
+        "freq": 2
+    },
+    {
+        "type": "recipe",
+        "id": "r_Curry Udon",
+        "name": "Curry Udon",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Cute Octopus Sausage Bento",
+        "name": "Cute Octopus Sausage Bento",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Dragon Rolls",
+        "name": "Dragon Rolls",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Easy Japanese Fried Rice (Yakimeshi)",
+        "name": "Easy Japanese Fried Rice (Yakimeshi)",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Easy Paella-Inspired Rice Casserole",
+        "name": "Easy Paella-Inspired Rice Casserole",
+        "freq": 18
+    },
+    {
+        "type": "recipe",
+        "id": "r_Tekka Don (Tuna Bowl)",
+        "name": "Tekka Don (Tuna Bowl)",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Pasta with Shrimp and Asparagus",
+        "name": "Japanese Pasta with Shrimp and Asparagus",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Spicy Shrimp Stir Fry (Ebi Chili)",
+        "name": "Spicy Shrimp Stir Fry (Ebi Chili)",
+        "freq": 18
+    },
+    {
+        "type": "recipe",
+        "id": "r_Ebi Fry Bento",
+        "name": "Ebi Fry Bento",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Ebi Fry (Japanese Fried Shrimp)",
+        "name": "Ebi Fry (Japanese Fried Shrimp)",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Ebi Katsu Burger (Shrimp Cutlet Burger)",
+        "name": "Ebi Katsu Burger (Shrimp Cutlet Burger)",
+        "freq": 16
+    },
+    {
+        "type": "recipe",
+        "id": "r_Egg Salad Sandwich Bento",
+        "name": "Egg Salad Sandwich Bento",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Eggplant Parmesan Spaghetti with Meat Sauce",
+        "name": "Eggplant Parmesan Spaghetti with Meat Sauce",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Eggplant Unagi Donburi",
+        "name": "Eggplant Unagi Donburi",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Fried Chicken with Scallion Soy Sauce (Yurinchi)",
+        "name": "Fried Chicken with Scallion Soy Sauce (Yurinchi)",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Fried Lotus Root with Pork",
+        "name": "Fried Lotus Root with Pork",
+        "freq": 17
+    },
+    {
+        "type": "recipe",
+        "id": "r_Futomaki (Maki Sushi / Ehomaki)",
+        "name": "Futomaki (Maki Sushi / Ehomaki)",
+        "freq": 23
+    },
+    {
+        "type": "recipe",
+        "id": "r_Garlic Miso Chicken Bento",
+        "name": "Garlic Miso Chicken Bento",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Garlic Miso Chicken Wings",
+        "name": "Garlic Miso Chicken Wings",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Ginger Pork Onigirazu",
+        "name": "Ginger Pork Onigirazu",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Ginger Pork Rolls with Eggplant",
+        "name": "Ginger Pork Rolls with Eggplant",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Ginger Pork (Shogayaki)",
+        "name": "Ginger Pork (Shogayaki)",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Gluten-Free Baked Chicken Katsu",
+        "name": "Gluten-Free Baked Chicken Katsu",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Gluten Free Karaage",
+        "name": "Gluten Free Karaage",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Gluten Free Tempura",
+        "name": "Gluten Free Tempura",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Gobo and Miso Takikomi Gohan",
+        "name": "Gobo and Miso Takikomi Gohan",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Goya Champuru",
+        "name": "Goya Champuru",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Grilled Kukrobuta Pork Chops with Miso Sauce",
+        "name": "Grilled Kukrobuta Pork Chops with Miso Sauce",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Grilled Lemongrass Chicken",
+        "name": "Grilled Lemongrass Chicken",
+        "freq": 16
+    },
+    {
+        "type": "recipe",
+        "id": "r_Grilled Mackerel (Saba Shioyaki)",
+        "name": "Grilled Mackerel (Saba Shioyaki)",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Grilled Mackerel with Shio Koji",
+        "name": "Grilled Mackerel with Shio Koji",
+        "freq": 3
+    },
+    {
+        "type": "recipe",
+        "id": "r_Grilled Miso Chicken",
+        "name": "Grilled Miso Chicken",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Sanma Shioyaki (grilled pacific saury)",
+        "name": "Sanma Shioyaki (grilled pacific saury)",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Gyoza Bento",
+        "name": "Gyoza Bento",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Gyoza with Wings",
+        "name": "Gyoza with Wings",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Gyoza",
+        "name": "Gyoza",
+        "freq": 18
+    },
+    {
+        "type": "recipe",
+        "id": "r_Gyudon Bento",
+        "name": "Gyudon Bento",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Gyudon (Japanese Beef Bowl)",
+        "name": "Gyudon (Japanese Beef Bowl)",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Ham Katsu",
+        "name": "Ham Katsu",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Hamachi Kama",
+        "name": "Hamachi Kama",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Hamachi (Yellowtail) Teriyaki with Yuzu Kosho",
+        "name": "Hamachi (Yellowtail) Teriyaki with Yuzu Kosho",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Hamburger Steak Bento",
+        "name": "Hamburger Steak Bento",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Hamburger Steak (Hambagu)",
+        "name": "Japanese Hamburger Steak (Hambagu)",
+        "freq": 16
+    },
+    {
+        "type": "recipe",
+        "id": "r_Harumaki (Japanese Spring Rolls)",
+        "name": "Harumaki (Japanese Spring Rolls)",
+        "freq": 28
+    },
+    {
+        "type": "recipe",
+        "id": "r_Hiroshima-style Okonomiyaki",
+        "name": "Hiroshima-style Okonomiyaki",
+        "freq": 16
+    },
+    {
+        "type": "recipe",
+        "id": "r_Hiyashi Chuka (Cold Ramen)",
+        "name": "Hiyashi Chuka (Cold Ramen)",
+        "freq": 24
+    },
+    {
+        "type": "recipe",
+        "id": "r_Hiyashi Chuka with Sesame Miso Sauce",
+        "name": "Hiyashi Chuka with Sesame Miso Sauce",
+        "freq": 17
+    },
+    {
+        "type": "recipe",
+        "id": "r_Hoba Miso with Beef",
+        "name": "Hoba Miso with Beef",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Miso Ramen",
+        "name": "Miso Ramen",
+        "freq": 24
+    },
+    {
+        "type": "recipe",
+        "id": "r_Honey Garlic Pork Chops",
+        "name": "Honey Garlic Pork Chops",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Honey Glazed Shrimps with Asian Coleslaw",
+        "name": "Honey Glazed Shrimps with Asian Coleslaw",
+        "freq": 34
+    },
+    {
+        "type": "recipe",
+        "id": "r_Honey Sesame Shirataki Noodles",
+        "name": "Honey Sesame Shirataki Noodles",
+        "freq": 20
+    },
+    {
+        "type": "recipe",
+        "id": "r_Honey Soy Sauce Chicken Bento",
+        "name": "Honey Soy Sauce Chicken Bento",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Honey Soy Chicken",
+        "name": "Honey Soy Chicken",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Hoto Noodle Soup",
+        "name": "Hoto Noodle Soup",
+        "freq": 20
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Salted Salmon (Shiojake/Shiozake)",
+        "name": "Japanese Salted Salmon (Shiojake/Shiozake)",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_How To Make Cute Bento",
+        "name": "How To Make Cute Bento",
+        "freq": 19
+    },
+    {
+        "type": "recipe",
+        "id": "r_Inari Sushi",
+        "name": "Inari Sushi",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Instant Pot Nishime",
+        "name": "Instant Pot Nishime",
+        "freq": 17
+    },
+    {
+        "type": "recipe",
+        "id": "r_Instant Pot Sticky Asian Ribs",
+        "name": "Instant Pot Sticky Asian Ribs",
+        "freq": 18
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Baked Sea Bream",
+        "name": "Japanese Baked Sea Bream",
+        "freq": 3
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Beef Curry",
+        "name": "Japanese Beef Curry",
+        "freq": 22
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Egg Sandwich (Tamago Sando)",
+        "name": "Japanese Egg Sandwich (Tamago Sando)",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Panko Fried Oysters (Kaki Fry) with Homemade Tartar Sauce",
+        "name": "Japanese Panko Fried Oysters (Kaki Fry) with Homemade Tartar Sauce",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Fried Rice with Edamame, Tofu and Hijiki Seaweed",
+        "name": "Japanese Fried Rice with Edamame, Tofu and Hijiki Seaweed",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Garlic Fried Rice",
+        "name": "Japanese Garlic Fried Rice",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese-Style Pasta with Shrimp and Broccolini",
+        "name": "Japanese-Style Pasta with Shrimp and Broccolini",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Pork Roast",
+        "name": "Japanese Pork Roast",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese style Mushroom & Tuna Pasta",
+        "name": "Japanese style Mushroom & Tuna Pasta",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Kabocha Croquettes",
+        "name": "Kabocha Croquettes",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Kabocha Gratin",
+        "name": "Kabocha Gratin",
+        "freq": 22
+    },
+    {
+        "type": "recipe",
+        "id": "r_Kabocha Pork Stir Fry",
+        "name": "Kabocha Pork Stir Fry",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Kakiage Don",
+        "name": "Kakiage Don",
+        "freq": 22
+    },
+    {
+        "type": "recipe",
+        "id": "r_Karaage Bento",
+        "name": "Karaage Bento",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Karaage (Japanese Fried Chicken)",
+        "name": "Karaage (Japanese Fried Chicken)",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Katsu Sando",
+        "name": "Katsu Sando",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Katsudon",
+        "name": "Katsudon",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Keema Curry",
+        "name": "Keema Curry",
+        "freq": 16
+    },
+    {
+        "type": "recipe",
+        "id": "r_Ketchup Spaghetti (Napolitan)",
+        "name": "Ketchup Spaghetti (Napolitan)",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Kinmedai Nitsuke (Braised Alfonsino)",
+        "name": "Kinmedai Nitsuke (Braised Alfonsino)",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Kitsune Udon",
+        "name": "Kitsune Udon",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Korokke Bento",
+        "name": "Korokke Bento",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Korokke (Potato & Meat Croquette)",
+        "name": "Korokke (Potato & Meat Croquette)",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Kushikatsu (Kushiage)",
+        "name": "Kushikatsu (Kushiage)",
+        "freq": 21
+    },
+    {
+        "type": "recipe",
+        "id": "r_Lily Bulb Tamagotoji",
+        "name": "Lily Bulb Tamagotoji",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Lobster Roll",
+        "name": "Lobster Roll",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Loco Moco",
+        "name": "Loco Moco",
+        "freq": 24
+    },
+    {
+        "type": "recipe",
+        "id": "r_Mackerel Pressed Sushi (Saba Oshizushi)",
+        "name": "Mackerel Pressed Sushi (Saba Oshizushi)",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Mapo Eggplant (Mabo Nasu)",
+        "name": "Mapo Eggplant (Mabo Nasu)",
+        "freq": 18
+    },
+    {
+        "type": "recipe",
+        "id": "r_Mapo Tofu (Mabo Dofu)",
+        "name": "Mapo Tofu (Mabo Dofu)",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Mashed Potato Teriyaki Pork Rolls",
+        "name": "Mashed Potato Teriyaki Pork Rolls",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Meal Prep DIY Bowls",
+        "name": "Meal Prep DIY Bowls",
+        "freq": 30
+    },
+    {
+        "type": "recipe",
+        "id": "r_Meat Doria (Rice Gratin)",
+        "name": "Meat Doria (Rice Gratin)",
+        "freq": 21
+    },
+    {
+        "type": "recipe",
+        "id": "r_Menchi Katsu Sandwich",
+        "name": "Menchi Katsu Sandwich",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Menchi Katsu",
+        "name": "Menchi Katsu",
+        "freq": 17
+    },
+    {
+        "type": "recipe",
+        "id": "r_Mentaiko Udon (Spicy Cod Roe Udon)",
+        "name": "Mentaiko Udon (Spicy Cod Roe Udon)",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Mirin Salmon",
+        "name": "Mirin Salmon",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Miso Butter Pasta with Tuna and Cabbage",
+        "name": "Miso Butter Pasta with Tuna and Cabbage",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Miso Butter Salmon",
+        "name": "Miso Butter Salmon",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Miso Chicken",
+        "name": "Miso Chicken",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Miso Ginger Pork",
+        "name": "Miso Ginger Pork",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Miso-Marinated Hamachi Bowl",
+        "name": "Miso-Marinated Hamachi Bowl",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Miso Pork and Eggplant Stir Fry",
+        "name": "Miso Pork and Eggplant Stir Fry",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Miso Salmon",
+        "name": "Miso Salmon",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Miso Sea Bass",
+        "name": "Miso Sea Bass",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Miso Soup with Yuzu Kosho",
+        "name": "Miso Soup with Yuzu Kosho",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Mizore Nabe (Hot Pot with Grated Daikon)",
+        "name": "Mizore Nabe (Hot Pot with Grated Daikon)",
+        "freq": 18
+    },
+    {
+        "type": "recipe",
+        "id": "r_Mizutaki (Japanese Chicken Hot Pot)",
+        "name": "Mizutaki (Japanese Chicken Hot Pot)",
+        "freq": 17
+    },
+    {
+        "type": "recipe",
+        "id": "r_Momofuku Fried Chicken",
+        "name": "Momofuku Fried Chicken",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Croquettes (Mom's Korokke)",
+        "name": "Japanese Croquettes (Mom's Korokke)",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Mom\u2019s Shrimp Ball",
+        "name": "Mom\u2019s Shrimp Ball",
+        "freq": 16
+    },
+    {
+        "type": "recipe",
+        "id": "r_Mosaic Sushi",
+        "name": "Mosaic Sushi",
+        "freq": 23
+    },
+    {
+        "type": "recipe",
+        "id": "r_Miso Katsu",
+        "name": "Miso Katsu",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Creamy Pasta with Napa Cabbage and Bacon",
+        "name": "Creamy Pasta with Napa Cabbage and Bacon",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Negi Miso Chicken",
+        "name": "Negi Miso Chicken",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Avocado & Negitoro Donburi",
+        "name": "Avocado & Negitoro Donburi",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Nikujaga (Japanese Meat and Potato Stew)",
+        "name": "Nikujaga (Japanese Meat and Potato Stew)",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Nikuman (Steamed Pork Buns)",
+        "name": "Nikuman (Steamed Pork Buns)",
+        "freq": 20
+    },
+    {
+        "type": "recipe",
+        "id": "r_Niratama Donburi (Chive and Egg Rice Bowl)",
+        "name": "Niratama Donburi (Chive and Egg Rice Bowl)",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Okinawa Soba",
+        "name": "Okinawa Soba",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Okonomiyaki",
+        "name": "Okonomiyaki",
+        "freq": 22
+    },
+    {
+        "type": "recipe",
+        "id": "r_Omurice (Japanese Omelette Rice)",
+        "name": "Omurice (Japanese Omelette Rice)",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Omurice (Omelette Rice)",
+        "name": "Omurice (Omelette Rice)",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Sweet and Sour Chicken (Ootoya Tori Kurozu-An)",
+        "name": "Sweet and Sour Chicken (Ootoya Tori Kurozu-An)",
+        "freq": 21
+    },
+    {
+        "type": "recipe",
+        "id": "r_Orange Teriyaki Chicken Wings",
+        "name": "Orange Teriyaki Chicken Wings",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Oroshi Soba",
+        "name": "Oroshi Soba",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Otoro Sushi Two Ways",
+        "name": "Otoro Sushi Two Ways",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Oxtail Udon",
+        "name": "Oxtail Udon",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Oyakodon (Chicken and Egg Bowl)",
+        "name": "Oyakodon (Chicken and Egg Bowl)",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Piggy Spam Musubi Bento",
+        "name": "Piggy Spam Musubi Bento",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Poke Bowl",
+        "name": "Poke Bowl",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pork Curry Donburi",
+        "name": "Pork Curry Donburi",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pork Shabu Shabu and Cold Somen Noodles with Sesame Miso Sauce",
+        "name": "Pork Shabu Shabu and Cold Somen Noodles with Sesame Miso Sauce",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Potato-Leek Gratin",
+        "name": "Potato-Leek Gratin",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Potato Salad Pork Roll",
+        "name": "Potato Salad Pork Roll",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pressure Cooker Japanese Curry",
+        "name": "Pressure Cooker Japanese Curry",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pressure Cooker Nikujaga",
+        "name": "Pressure Cooker Nikujaga",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pressure Cooker Pork Belly (Kakuni)",
+        "name": "Pressure Cooker Pork Belly (Kakuni)",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Instant Pot Short Ribs (Pressure Cooker)",
+        "name": "Instant Pot Short Ribs (Pressure Cooker)",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pressure Cooker Spaghetti Bolognese",
+        "name": "Pressure Cooker Spaghetti Bolognese",
+        "freq": 21
+    },
+    {
+        "type": "recipe",
+        "id": "r_Quick and Easy Chirashi Sushi",
+        "name": "Quick and Easy Chirashi Sushi",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Rafute",
+        "name": "Rafute",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Reverse Sear Steak on Traeger with Smoked Garlic",
+        "name": "Reverse Sear Steak on Traeger with Smoked Garlic",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Saba Misoni (Mackerel Simmered in Miso)",
+        "name": "Saba Misoni (Mackerel Simmered in Miso)",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Salmon in Foil",
+        "name": "Salmon in Foil",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Salmon Fried Rice",
+        "name": "Salmon Fried Rice",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Hokkaido Salmon Hot Pot (Ishikari Nabe)",
+        "name": "Hokkaido Salmon Hot Pot (Ishikari Nabe)",
+        "freq": 21
+    },
+    {
+        "type": "recipe",
+        "id": "r_Salmon Sashimi Bowl (Donburi) with Ikura",
+        "name": "Salmon Sashimi Bowl (Donburi) with Ikura",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Salmon Kasuzuke (Sake Lees Marinated Salmon)",
+        "name": "Salmon Kasuzuke (Sake Lees Marinated Salmon)",
+        "freq": 3
+    },
+    {
+        "type": "recipe",
+        "id": "r_Salmon Nanbanzuke",
+        "name": "Salmon Nanbanzuke",
+        "freq": 16
+    },
+    {
+        "type": "recipe",
+        "id": "r_Salmon Potato Gratin",
+        "name": "Salmon Potato Gratin",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Sanma Shioyaki (Salt-Grilled Pacific Saury)",
+        "name": "Sanma Shioyaki (Salt-Grilled Pacific Saury)",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Sanma Teriyaki",
+        "name": "Sanma Teriyaki",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Sanshoku Bento",
+        "name": "Sanshoku Bento",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Santa Maria Tri Tip",
+        "name": "Santa Maria Tri Tip",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Sara Udon",
+        "name": "Sara Udon",
+        "freq": 26
+    },
+    {
+        "type": "recipe",
+        "id": "r_Sauteed Yam",
+        "name": "Sauteed Yam",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Scallop Sushi",
+        "name": "Scallop Sushi",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Seafood Doria",
+        "name": "Seafood Doria",
+        "freq": 25
+    },
+    {
+        "type": "recipe",
+        "id": "r_Seared Scallops",
+        "name": "Seared Scallops",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Sesame Miso Hot Pot (Goma Miso Nabe)",
+        "name": "Sesame Miso Hot Pot (Goma Miso Nabe)",
+        "freq": 22
+    },
+    {
+        "type": "recipe",
+        "id": "r_Shio Koji Chicken",
+        "name": "Shio Koji Chicken",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_Shio Koji Karaage Bento",
+        "name": "Shio Koji Karaage Bento",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Shio Koji Karaage",
+        "name": "Shio Koji Karaage",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Shio Koji Salmon",
+        "name": "Shio Koji Salmon",
+        "freq": 2
+    },
+    {
+        "type": "recipe",
+        "id": "r_Shiso Garlic Pasta",
+        "name": "Shiso Garlic Pasta",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Shiso Pesto Pasta",
+        "name": "Shiso Pesto Pasta",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Shogayaki (Ginger Pork) Bento",
+        "name": "Shogayaki (Ginger Pork) Bento",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Easy Shrimp and Celery Stir-Fry",
+        "name": "Easy Shrimp and Celery Stir-Fry",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Shrimp Fried Rice",
+        "name": "Shrimp Fried Rice",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Shrimp Tempura",
+        "name": "Shrimp Tempura",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pork Shumai (Steamed Pork Dumplings)",
+        "name": "Pork Shumai (Steamed Pork Dumplings)",
+        "freq": 16
+    },
+    {
+        "type": "recipe",
+        "id": "r_Simmered Beef with Ginger (Shigureni)",
+        "name": "Simmered Beef with Ginger (Shigureni)",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Simmered Shrimp",
+        "name": "Simmered Shrimp",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Chicken Curry",
+        "name": "Japanese Chicken Curry",
+        "freq": 18
+    },
+    {
+        "type": "recipe",
+        "id": "r_Slow Cooker Chicken Wings",
+        "name": "Slow Cooker Chicken Wings",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Smoked Baby Back Ribs",
+        "name": "Smoked Baby Back Ribs",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Smoked Miso Butter Turkey Breast",
+        "name": "Smoked Miso Butter Turkey Breast",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Smoked Tri-Tip with Stovetop Smoker",
+        "name": "Smoked Tri-Tip with Stovetop Smoker",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_Smoked Wagyu Brisket",
+        "name": "Smoked Wagyu Brisket",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_Soba Noodle Soup",
+        "name": "Soba Noodle Soup",
+        "freq": 16
+    },
+    {
+        "type": "recipe",
+        "id": "r_Soboro Bento",
+        "name": "Soboro Bento",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Somen Noodle Soup (Nyumen)",
+        "name": "Somen Noodle Soup (Nyumen)",
+        "freq": 17
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Cold Somen Noodles",
+        "name": "Japanese Cold Somen Noodles",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Sour Cabbage Meat Rolls (Sarma)",
+        "name": "Sour Cabbage Meat Rolls (Sarma)",
+        "freq": 19
+    },
+    {
+        "type": "recipe",
+        "id": "r_Sous Vide Steak - Japanese Style (Wafu Steak)",
+        "name": "Sous Vide Steak - Japanese Style (Wafu Steak)",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Soy-Glazed Eggplant Donburi",
+        "name": "Soy-Glazed Eggplant Donburi",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Teriyaki Steak Rolls",
+        "name": "Teriyaki Steak Rolls",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Spaghetti Meat Sauce",
+        "name": "Spaghetti Meat Sauce",
+        "freq": 17
+    },
+    {
+        "type": "recipe",
+        "id": "r_Spam Onigirazu",
+        "name": "Spam Onigirazu",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Spanish Mackerel with Yuzu",
+        "name": "Spanish Mackerel with Yuzu",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Spicy Miso Chicken",
+        "name": "Spicy Miso Chicken",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Spicy Shoyu Ramen",
+        "name": "Spicy Shoyu Ramen",
+        "freq": 21
+    },
+    {
+        "type": "recipe",
+        "id": "r_Spicy Tuna Roll",
+        "name": "Spicy Tuna Roll",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Spicy Tuna",
+        "name": "Spicy Tuna",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Stir Fried Shrimp & Asparagus in Black Bean Sauce",
+        "name": "Stir Fried Shrimp & Asparagus in Black Bean Sauce",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Stir-Fried Tomatoes and Eggs",
+        "name": "Stir-Fried Tomatoes and Eggs",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Stir Fry Miso Eggplant",
+        "name": "Stir Fry Miso Eggplant",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Stir-Fried Vegetables (Yasai Itame)",
+        "name": "Stir-Fried Vegetables (Yasai Itame)",
+        "freq": 16
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Stuffed Cabbage Rolls",
+        "name": "Japanese Stuffed Cabbage Rolls",
+        "freq": 21
+    },
+    {
+        "type": "recipe",
+        "id": "r_Sushi Rolls (Maki Sushi \u2013 Hosomaki)",
+        "name": "Sushi Rolls (Maki Sushi \u2013 Hosomaki)",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Sweet and Sour Chicken Bento",
+        "name": "Sweet and Sour Chicken Bento",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Taco Rice",
+        "name": "Taco Rice",
+        "freq": 19
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pickled Mustard Greens Fried Rice (Takana Chahan)",
+        "name": "Pickled Mustard Greens Fried Rice (Takana Chahan)",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Tan-Men",
+        "name": "Tan-Men",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Temaki Sushi (Hand Roll)",
+        "name": "Temaki Sushi (Hand Roll)",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Tempura Bento",
+        "name": "Tempura Bento",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Tempura",
+        "name": "Tempura",
+        "freq": 17
+    },
+    {
+        "type": "recipe",
+        "id": "r_Tendon (Tempura Rice Bowl)",
+        "name": "Tendon (Tempura Rice Bowl)",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_Teppanyaki with Homemade Sauce",
+        "name": "Teppanyaki with Homemade Sauce",
+        "freq": 19
+    },
+    {
+        "type": "recipe",
+        "id": "r_Teriyaki Burger",
+        "name": "Teriyaki Burger",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Teriyaki Chicken Quesadilla",
+        "name": "Teriyaki Chicken Quesadilla",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Teriyaki Pork Balls",
+        "name": "Teriyaki Pork Balls",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Teriyaki Pork Donburi",
+        "name": "Teriyaki Pork Donburi",
+        "freq": 16
+    },
+    {
+        "type": "recipe",
+        "id": "r_Teriyaki Salmon Bento",
+        "name": "Teriyaki Salmon Bento",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Teriyaki Salmon Onigirazu",
+        "name": "Teriyaki Salmon Onigirazu",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Teriyaki Salmon",
+        "name": "Teriyaki Salmon",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pan-Fried Teriyaki Tofu Bowl",
+        "name": "Pan-Fried Teriyaki Tofu Bowl",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Teriyaki Tofu",
+        "name": "Teriyaki Tofu",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Teriyaki Wings",
+        "name": "Teriyaki Wings",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Thomas Keller\u2019s Pork Tenderloin",
+        "name": "Thomas Keller\u2019s Pork Tenderloin",
+        "freq": 19
+    },
+    {
+        "type": "recipe",
+        "id": "r_Tofu Pizza",
+        "name": "Tofu Pizza",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Tomato Bacon Pasta",
+        "name": "Tomato Bacon Pasta",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Tonkatsu Bento",
+        "name": "Tonkatsu Bento",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Tonkatsu (Japanese Pork Cutlet)",
+        "name": "Tonkatsu (Japanese Pork Cutlet)",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Tonteki",
+        "name": "Tonteki",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Soboro Don (Ground Chicken Bowl)",
+        "name": "Soboro Don (Ground Chicken Bowl)",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Toshikoshi Soba (New Year\u2019s Eve Soba Noodle Soup)",
+        "name": "Toshikoshi Soba (New Year\u2019s Eve Soba Noodle Soup)",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Traeger Baby Back Ribs",
+        "name": "Traeger Baby Back Ribs",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Tsukemen (Dipping Ramen Noodles)",
+        "name": "Tsukemen (Dipping Ramen Noodles)",
+        "freq": 20
+    },
+    {
+        "type": "recipe",
+        "id": "r_Twice Cooked Pork (Hoi Ko Ro)",
+        "name": "Twice Cooked Pork (Hoi Ko Ro)",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Udon Noodle Soup (Kake Udon)",
+        "name": "Udon Noodle Soup (Kake Udon)",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Ume Miso Chicken",
+        "name": "Ume Miso Chicken",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_Ume Shiso Pasta",
+        "name": "Ume Shiso Pasta",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Unagi Chazuke (Hitsumabushi)",
+        "name": "Unagi Chazuke (Hitsumabushi)",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Unadon (Unagi Don)",
+        "name": "Unadon (Unagi Don)",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Vegan Poke Bowl",
+        "name": "Vegan Poke Bowl",
+        "freq": 17
+    },
+    {
+        "type": "recipe",
+        "id": "r_Vegetable Gyoza",
+        "name": "Vegetable Gyoza",
+        "freq": 25
+    },
+    {
+        "type": "recipe",
+        "id": "r_Vegetable Tempura",
+        "name": "Vegetable Tempura",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Vegetarian Japanese Curry",
+        "name": "Vegetarian Japanese Curry",
+        "freq": 26
+    },
+    {
+        "type": "recipe",
+        "id": "r_Vegetarian Ramen \u2013 Spicy Soy Milk Ramen",
+        "name": "Vegetarian Ramen \u2013 Spicy Soy Milk Ramen",
+        "freq": 22
+    },
+    {
+        "type": "recipe",
+        "id": "r_Wafu Hambagu (Japanese Hamburger Steak)",
+        "name": "Wafu Hambagu (Japanese Hamburger Steak)",
+        "freq": 17
+    },
+    {
+        "type": "recipe",
+        "id": "r_Wagyu Beef & American Kobe Beef",
+        "name": "Wagyu Beef & American Kobe Beef",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Wanpaku Sandwich",
+        "name": "Wanpaku Sandwich",
+        "freq": 24
+    },
+    {
+        "type": "recipe",
+        "id": "r_Yaki Udon",
+        "name": "Yaki Udon",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Yakisoba Pan (Yakisoba Dog)",
+        "name": "Yakisoba Pan (Yakisoba Dog)",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Yakisoba with Malony Glass Noodles",
+        "name": "Yakisoba with Malony Glass Noodles",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Shio Koji Yakisoba",
+        "name": "Shio Koji Yakisoba",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Yakisoba (Japanese Stir-Fried Noodles)",
+        "name": "Yakisoba (Japanese Stir-Fried Noodles)",
+        "freq": 17
+    },
+    {
+        "type": "recipe",
+        "id": "r_Yakitori-Style Grilled Vegetable (Homemade Yakitori Sauce)",
+        "name": "Yakitori-Style Grilled Vegetable (Homemade Yakitori Sauce)",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Yakitori (Chicken Skewers) with Homemade Yakitori Sauce",
+        "name": "Yakitori (Chicken Skewers) with Homemade Yakitori Sauce",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Yellowtail Roll",
+        "name": "Yellowtail Roll",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Yellowtail Teriyaki",
+        "name": "Yellowtail Teriyaki",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Yoshinoya Beef Bowl (Gyudon)",
+        "name": "Yoshinoya Beef Bowl (Gyudon)",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Zaru Soba (Cold Soba Noodles)",
+        "name": "Zaru Soba (Cold Soba Noodles)",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Apple Salad",
+        "name": "Japanese Apple Salad",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Apple Walnut Salad",
+        "name": "Apple Walnut Salad",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Arugula Salad with Fennel and Navel Orange",
+        "name": "Arugula Salad with Fennel and Navel Orange",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Arugula Salad",
+        "name": "Arugula Salad",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Asian Coleslaw with Sesame Dressing",
+        "name": "Asian Coleslaw with Sesame Dressing",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Broccolini Gomaae",
+        "name": "Broccolini Gomaae",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Caesar Salad with Homemade Croutons",
+        "name": "Caesar Salad with Homemade Croutons",
+        "freq": 16
+    },
+    {
+        "type": "recipe",
+        "id": "r_Carrot Ginger Dressing",
+        "name": "Carrot Ginger Dressing",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Kani Salad",
+        "name": "Japanese Kani Salad",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Daikon Salad with Ume Plum Dressing",
+        "name": "Daikon Salad with Ume Plum Dressing",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Easy Carrot Salad",
+        "name": "Easy Carrot Salad",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Eggplant and Myoga Salad",
+        "name": "Eggplant and Myoga Salad",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Gobo Salad (Japanese Burdock Salad)",
+        "name": "Gobo Salad (Japanese Burdock Salad)",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Green Bean Shiraae (Mashed Tofu Salad)",
+        "name": "Green Bean Shiraae (Mashed Tofu Salad)",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Green Salad with Blood Orange Vinaigrette",
+        "name": "Green Salad with Blood Orange Vinaigrette",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Harusame Salad (Japanese Glass Noodle Salad)",
+        "name": "Harusame Salad (Japanese Glass Noodle Salad)",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Cucumber Salad",
+        "name": "Japanese Cucumber Salad",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Macaroni Salad",
+        "name": "Japanese Macaroni Salad",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Potato Salad",
+        "name": "Japanese Potato Salad",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_4 Easy Japanese Salad Dressings",
+        "name": "4 Easy Japanese Salad Dressings",
+        "freq": 27
+    },
+    {
+        "type": "recipe",
+        "id": "r_Kabocha Salad",
+        "name": "Kabocha Salad",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Massaged Kale Salad with Mango",
+        "name": "Massaged Kale Salad with Mango",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Mizuna Myoga Salad",
+        "name": "Mizuna Myoga Salad",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Octopus Salad (Tako Su)",
+        "name": "Octopus Salad (Tako Su)",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pork Shabu Salad with Ponzu Dressing & Egg Drop Soup",
+        "name": "Pork Shabu Salad with Ponzu Dressing & Egg Drop Soup",
+        "freq": 20
+    },
+    {
+        "type": "recipe",
+        "id": "r_Instant Pot Potato Salad",
+        "name": "Instant Pot Potato Salad",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Roasted Cauliflower Kale Salad with Miso Tahini Dressing",
+        "name": "Roasted Cauliflower Kale Salad with Miso Tahini Dressing",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Seafood Salad with Vinaigrette",
+        "name": "Seafood Salad with Vinaigrette",
+        "freq": 19
+    },
+    {
+        "type": "recipe",
+        "id": "r_Seaweed Salad",
+        "name": "Seaweed Salad",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Sesame Dressing",
+        "name": "Japanese Sesame Dressing",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Shabu Shabu Salad",
+        "name": "Shabu Shabu Salad",
+        "freq": 16
+    },
+    {
+        "type": "recipe",
+        "id": "r_Shrimp and Broccoli Salad",
+        "name": "Shrimp and Broccoli Salad",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Smashed Cucumber Salad with Ume Dressing",
+        "name": "Smashed Cucumber Salad with Ume Dressing",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Smoked Salmon Salad with Lemon Vinaigrette",
+        "name": "Smoked Salmon Salad with Lemon Vinaigrette",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Soba Noodle Salad",
+        "name": "Soba Noodle Salad",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Spicy Bean Sprout Salad",
+        "name": "Spicy Bean Sprout Salad",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Spinach Salad with Asian Salad Dressing",
+        "name": "Spinach Salad with Asian Salad Dressing",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Spinach Salad with Sesame Dressing (Horenso Gomaae)",
+        "name": "Japanese Spinach Salad with Sesame Dressing (Horenso Gomaae)",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Cucumber Salad with Sesame Soy Vinaigrette",
+        "name": "Japanese Cucumber Salad with Sesame Soy Vinaigrette",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Spring Mix Salad with Sweet Miso Dressing",
+        "name": "Spring Mix Salad with Sweet Miso Dressing",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Steak Salad with Shoyu Dressing",
+        "name": "Steak Salad with Shoyu Dressing",
+        "freq": 18
+    },
+    {
+        "type": "recipe",
+        "id": "r_Strawberry Dressing",
+        "name": "Strawberry Dressing",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Cucumber Salad (Sunomono)",
+        "name": "Japanese Cucumber Salad (Sunomono)",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Tofu Salad with Sesame Ponzu Dressing",
+        "name": "Tofu Salad with Sesame Ponzu Dressing",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Tomato Myoga Salad",
+        "name": "Tomato Myoga Salad",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Ume Miso Dressing",
+        "name": "Ume Miso Dressing",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_Wafu Dressing (Japanese Salad Dressing)",
+        "name": "Wafu Dressing (Japanese Salad Dressing)",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Warm Mushroom Salad with Sesame Dressing",
+        "name": "Warm Mushroom Salad with Sesame Dressing",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Yuzu Miso Dressing",
+        "name": "Yuzu Miso Dressing",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Asparagus with Miso Dressing (Karashi Sumisoae)",
+        "name": "Asparagus with Miso Dressing (Karashi Sumisoae)",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Baby Sardine Tsukudani",
+        "name": "Baby Sardine Tsukudani",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Bacon-Wrapped Asparagus",
+        "name": "Bacon-Wrapped Asparagus",
+        "freq": 3
+    },
+    {
+        "type": "recipe",
+        "id": "r_Bamboo Rice (Takenoko Gohan)",
+        "name": "Bamboo Rice (Takenoko Gohan)",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Bean Sprout Salad",
+        "name": "Bean Sprout Salad",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Red Pickled Ginger (Beni Shoga)",
+        "name": "Red Pickled Ginger (Beni Shoga)",
+        "freq": 2
+    },
+    {
+        "type": "recipe",
+        "id": "r_Bitter Melon Salad",
+        "name": "Bitter Melon Salad",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Broccoli Blanched with Sesame Oil",
+        "name": "Broccoli Blanched with Sesame Oil",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Cherry Blossom Rice Balls",
+        "name": "Cherry Blossom Rice Balls",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chestnut Rice (Kuri Gohan)",
+        "name": "Chestnut Rice (Kuri Gohan)",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chikuwa Cucumber",
+        "name": "Chikuwa Cucumber",
+        "freq": 2
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chikuwa Isobeage",
+        "name": "Chikuwa Isobeage",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chrysanthemum Greens and Tofu Salad (Shungiku Shiraae)",
+        "name": "Chrysanthemum Greens and Tofu Salad (Shungiku Shiraae)",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Daikon and Cucumber Salad with Shio Koji",
+        "name": "Daikon and Cucumber Salad with Shio Koji",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Daikon Leaves Furikake",
+        "name": "Daikon Leaves Furikake",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Bread Machine Dinner Rolls",
+        "name": "Bread Machine Dinner Rolls",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Easy Orange Ginger Cranberry Sauce",
+        "name": "Easy Orange Ginger Cranberry Sauce",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_4 Easy Soy Sauce Pickles",
+        "name": "4 Easy Soy Sauce Pickles",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Ginger Rice",
+        "name": "Ginger Rice",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Gluten-Free Korean Veggie Pancake",
+        "name": "Gluten-Free Korean Veggie Pancake",
+        "freq": 16
+    },
+    {
+        "type": "recipe",
+        "id": "r_Green Bean Gomaae (Sesame Sauce)",
+        "name": "Green Bean Gomaae (Sesame Sauce)",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Green Beans with Yuzu Vinaigrette",
+        "name": "Green Beans with Yuzu Vinaigrette",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Grilled Corn with Honey Miso Butter",
+        "name": "Grilled Corn with Honey Miso Butter",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Ham Flower",
+        "name": "Ham Flower",
+        "freq": 2
+    },
+    {
+        "type": "recipe",
+        "id": "r_Hijiki Seaweed Salad",
+        "name": "Hijiki Seaweed Salad",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chashu (Japanese Braised Pork Belly)",
+        "name": "Chashu (Japanese Braised Pork Belly)",
+        "freq": 16
+    },
+    {
+        "type": "recipe",
+        "id": "r_How to Cook Rice in Donabe",
+        "name": "How to Cook Rice in Donabe",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_How To Cook Japanese Rice in a Pot on the Stove",
+        "name": "How To Cook Japanese Rice in a Pot on the Stove",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_How To Enjoy Japanese Mochi",
+        "name": "How To Enjoy Japanese Mochi",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_How To Make Octopus Sausage",
+        "name": "How To Make Octopus Sausage",
+        "freq": 2
+    },
+    {
+        "type": "recipe",
+        "id": "r_How To Make Rice in a Rice Cooker",
+        "name": "How To Make Rice in a Rice Cooker",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_How To Make Perfect Soft-Boiled Eggs (Hanjuku Tamago)",
+        "name": "How To Make Perfect Soft-Boiled Eggs (Hanjuku Tamago)",
+        "freq": 3
+    },
+    {
+        "type": "recipe",
+        "id": "r_How to Make Sushi Rice (for Sushi Recipes)",
+        "name": "How to Make Sushi Rice (for Sushi Recipes)",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Umeboshi (Japanese Sour Salted Plums)",
+        "name": "Umeboshi (Japanese Sour Salted Plums)",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_How to Cook Brown Rice (Instant Pot Brown Rice)",
+        "name": "How to Cook Brown Rice (Instant Pot Brown Rice)",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Instant Pot Kuromame",
+        "name": "Instant Pot Kuromame",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_How to Make Japanese Rice in an Instant Pot",
+        "name": "How to Make Japanese Rice in an Instant Pot",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_Instant Pot Takikomi Gohan",
+        "name": "Instant Pot Takikomi Gohan",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Beef Tendon Stew",
+        "name": "Japanese Beef Tendon Stew",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Corn Rice",
+        "name": "Japanese Corn Rice",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Sticky Rice with Chicken and Vegetables (Okowa)",
+        "name": "Japanese Sticky Rice with Chicken and Vegetables (Okowa)",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Sweet Potato Rice (Satsumaimo Gohan)",
+        "name": "Japanese Sweet Potato Rice (Satsumaimo Gohan)",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Sweet Rolled Omelet (Tamagoyaki)",
+        "name": "Japanese Sweet Rolled Omelet (Tamagoyaki)",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Turnips with Soboro Ankake Sauce",
+        "name": "Japanese Turnips with Soboro Ankake Sauce",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japchae",
+        "name": "Japchae",
+        "freq": 28
+    },
+    {
+        "type": "recipe",
+        "id": "r_Kazunoko (Herring Roe)",
+        "name": "Kazunoko (Herring Roe)",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Kinpira Gobo (Braised Burdock Root)",
+        "name": "Kinpira Gobo (Braised Burdock Root)",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Kinpira Renkon (Lotus Root)",
+        "name": "Kinpira Renkon (Lotus Root)",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Korean Pancake",
+        "name": "Korean Pancake",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Kuri Kinton (Candied Chestnuts & Sweet Potatoes)",
+        "name": "Kuri Kinton (Candied Chestnuts & Sweet Potatoes)",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Kuromame (Sweet Black Soybeans)",
+        "name": "Kuromame (Sweet Black Soybeans)",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Mame Gohan (Green Pea Rice)",
+        "name": "Mame Gohan (Green Pea Rice)",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Maple and Miso Glazed Roasted Carrots",
+        "name": "Maple and Miso Glazed Roasted Carrots",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Creamy Mashed Potatoes with Shio Koji",
+        "name": "Creamy Mashed Potatoes with Shio Koji",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Matsutake Gohan (Wild Pine Mushroom Rice)",
+        "name": "Matsutake Gohan (Wild Pine Mushroom Rice)",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Miso Butter Mushrooms in Foil",
+        "name": "Miso Butter Mushrooms in Foil",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Miso-Glazed Eggplant",
+        "name": "Miso-Glazed Eggplant",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_All-Purpose Miso Meat Sauce (Niku Miso)",
+        "name": "All-Purpose Miso Meat Sauce (Niku Miso)",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Miso Yaki Onigiri",
+        "name": "Miso Yaki Onigiri",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Myoga Amazuzuke (Sweet Pickled Japanese Ginger)",
+        "name": "Myoga Amazuzuke (Sweet Pickled Japanese Ginger)",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_Myoga Shiso Rice",
+        "name": "Myoga Shiso Rice",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Myoga Yukari Rice (Mazegohan)",
+        "name": "Myoga Yukari Rice (Mazegohan)",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_Namasu (Daikon and Carrot Salad)",
+        "name": "Namasu (Daikon and Carrot Salad)",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Nanakusa Gayu (Seven Herb Rice Porridge)",
+        "name": "Nanakusa Gayu (Seven Herb Rice Porridge)",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_Okura Ohitashi (Japanese Okra Salad)",
+        "name": "Okura Ohitashi (Japanese Okra Salad)",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Okra with Ginger Soy Sauce",
+        "name": "Okra with Ginger Soy Sauce",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_Onigiri (Japanese Rice Balls)",
+        "name": "Onigiri (Japanese Rice Balls)",
+        "freq": 17
+    },
+    {
+        "type": "recipe",
+        "id": "r_Onsen Tamago (Japanese Slow-Cooked Eggs)",
+        "name": "Onsen Tamago (Japanese Slow-Cooked Eggs)",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pearl Balls",
+        "name": "Pearl Balls",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Pickled Cucumbers",
+        "name": "Japanese Pickled Cucumbers",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pickled Cucumbers and Myoga",
+        "name": "Pickled Cucumbers and Myoga",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pickled Cucumbers with Ginger",
+        "name": "Pickled Cucumbers with Ginger",
+        "freq": 3
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pickled Daikon with Shio Koji",
+        "name": "Pickled Daikon with Shio Koji",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pickled Daikon",
+        "name": "Pickled Daikon",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pickled Sushi Ginger (Gari)",
+        "name": "Pickled Sushi Ginger (Gari)",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pickled Lotus Root (Su Renkon)",
+        "name": "Pickled Lotus Root (Su Renkon)",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pickled Tomatoes",
+        "name": "Pickled Tomatoes",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pickled Turnip with Yuzu",
+        "name": "Pickled Turnip with Yuzu",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pickled Watermelon Rind",
+        "name": "Pickled Watermelon Rind",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Plum Rice Ball",
+        "name": "Plum Rice Ball",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Popovers with Strawberry Butter",
+        "name": "Popovers with Strawberry Butter",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pounded Burdock Root with Sesame Sauce (Tataki Gobo)",
+        "name": "Pounded Burdock Root with Sesame Sauce (Tataki Gobo)",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Quick and Easy Tamagoyaki",
+        "name": "Quick and Easy Tamagoyaki",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_Roasted Miso Garlic Cauliflower",
+        "name": "Roasted Miso Garlic Cauliflower",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Sansai Gohan (Rice with Mountain Vegetables)",
+        "name": "Sansai Gohan (Rice with Mountain Vegetables)",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Sauteed Spinach Recipe",
+        "name": "Sauteed Spinach Recipe",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Sekihan (Red Bean Rice)",
+        "name": "Sekihan (Red Bean Rice)",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Shibazuke Pickles",
+        "name": "Shibazuke Pickles",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Simmered Bamboo Shoots",
+        "name": "Simmered Bamboo Shoots",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Simmered Fried Tofu and Greens",
+        "name": "Simmered Fried Tofu and Greens",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Simmered Kabocha",
+        "name": "Japanese Simmered Kabocha",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Simmered Kabocha with Shio Koji",
+        "name": "Simmered Kabocha with Shio Koji",
+        "freq": 3
+    },
+    {
+        "type": "recipe",
+        "id": "r_Simmered Kiriboshi Daikon",
+        "name": "Simmered Kiriboshi Daikon",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Kombu Tsukudani (Simmered Kombu)",
+        "name": "Kombu Tsukudani (Simmered Kombu)",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Simmered Koyadofu",
+        "name": "Simmered Koyadofu",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Simmered Sweet Potatoes with Lemon",
+        "name": "Simmered Sweet Potatoes with Lemon",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_Simmered Taro (Satoimo no Nimono)",
+        "name": "Simmered Taro (Satoimo no Nimono)",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Spicy Japanese Pickled Cucumbers",
+        "name": "Spicy Japanese Pickled Cucumbers",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Spinach and Bean Sprout Namul",
+        "name": "Spinach and Bean Sprout Namul",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Spinach Ohitashi (Japanese Spinach Salad with Savory Broth)",
+        "name": "Spinach Ohitashi (Japanese Spinach Salad with Savory Broth)",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Spinach with Sesame Miso Sauce",
+        "name": "Spinach with Sesame Miso Sauce",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Steamed Vegetables with Miso Sesame Sauce (Mushi Nabe)",
+        "name": "Steamed Vegetables with Miso Sesame Sauce (Mushi Nabe)",
+        "freq": 20
+    },
+    {
+        "type": "recipe",
+        "id": "r_Summer Vegetables Baked in Parchment Paper",
+        "name": "Summer Vegetables Baked in Parchment Paper",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Sweet Onion Takikomi Gohan",
+        "name": "Sweet Onion Takikomi Gohan",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Tai Meshi with Leftover Baked Sea Bream",
+        "name": "Tai Meshi with Leftover Baked Sea Bream",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Takikomi Gohan (Japanese Mixed Rice)",
+        "name": "Takikomi Gohan (Japanese Mixed Rice)",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Tamagoyaki (Japanese Rolled Omelette)",
+        "name": "Tamagoyaki (Japanese Rolled Omelette)",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Tenmusu (Tempura Shrimp Rice Ball)",
+        "name": "Tenmusu (Tempura Shrimp Rice Ball)",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Amazuzuke (Sweet Vinegar Pickling)",
+        "name": "Amazuzuke (Sweet Vinegar Pickling)",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Tsukemono - Kasuzuke (Sake Lees Pickling)",
+        "name": "Tsukemono - Kasuzuke (Sake Lees Pickling)",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Tsukemono - Misozuke (Miso Pickling)",
+        "name": "Tsukemono - Misozuke (Miso Pickling)",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Pickled Cabbage",
+        "name": "Japanese Pickled Cabbage",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Tsukemono \u2013 Shiozuke (Salt Pickling)",
+        "name": "Tsukemono \u2013 Shiozuke (Salt Pickling)",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Tsukemono \u2013 Shoyuzuke (Soy Sauce Pickling)",
+        "name": "Tsukemono \u2013 Shoyuzuke (Soy Sauce Pickling)",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Ume Miso and Shiso Onigiri",
+        "name": "Ume Miso and Shiso Onigiri",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Ume Shiso Rice",
+        "name": "Ume Shiso Rice",
+        "freq": 4
+    },
+    {
+        "type": "recipe",
+        "id": "r_Yaki Onigiri (Grilled Rice Ball)",
+        "name": "Yaki Onigiri (Grilled Rice Ball)",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Oxtail Soup - Hong Kong Style Borscht",
+        "name": "Oxtail Soup - Hong Kong Style Borscht",
+        "freq": 19
+    },
+    {
+        "type": "recipe",
+        "id": "r_Bouillabaisse (French Seafood Stew)",
+        "name": "Bouillabaisse (French Seafood Stew)",
+        "freq": 21
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chanko Nabe (Sumo Stew)",
+        "name": "Chanko Nabe (Sumo Stew)",
+        "freq": 27
+    },
+    {
+        "type": "recipe",
+        "id": "r_Chicken Corn Chowder",
+        "name": "Chicken Corn Chowder",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Cioppino",
+        "name": "Cioppino",
+        "freq": 29
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Clam Miso Soup",
+        "name": "Japanese Clam Miso Soup",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Coconut Curry",
+        "name": "Coconut Curry",
+        "freq": 16
+    },
+    {
+        "type": "recipe",
+        "id": "r_Corn Potage (Japanese Corn Soup)",
+        "name": "Corn Potage (Japanese Corn Soup)",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Creamy Roasted Cauliflower Soup",
+        "name": "Creamy Roasted Cauliflower Soup",
+        "freq": 19
+    },
+    {
+        "type": "recipe",
+        "id": "r_Hayashi Rice",
+        "name": "Hayashi Rice",
+        "freq": 21
+    },
+    {
+        "type": "recipe",
+        "id": "r_Homemade Instant Miso Soup",
+        "name": "Homemade Instant Miso Soup",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Miso Soup",
+        "name": "Miso Soup",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Hot Pot for One",
+        "name": "Hot Pot for One",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Hot Tofu (Yudofu)",
+        "name": "Hot Tofu (Yudofu)",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Instant Pot Cream Stew",
+        "name": "Instant Pot Cream Stew",
+        "freq": 19
+    },
+    {
+        "type": "recipe",
+        "id": "r_Instant Pot Tonjiru",
+        "name": "Instant Pot Tonjiru",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Clear Clam Soup (Ushio-jiru)",
+        "name": "Japanese Clear Clam Soup (Ushio-jiru)",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Glass Noodle Soup (Harusame Soup)",
+        "name": "Japanese Glass Noodle Soup (Harusame Soup)",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Kabocha Miso Soup",
+        "name": "Kabocha Miso Soup",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Kabocha Soup",
+        "name": "Kabocha Soup",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Kakitamajiru (Japanese Egg Drop Soup)",
+        "name": "Kakitamajiru (Japanese Egg Drop Soup)",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Kale Soup",
+        "name": "Kale Soup",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Kare Kare",
+        "name": "Kare Kare",
+        "freq": 16
+    },
+    {
+        "type": "recipe",
+        "id": "r_Kenchinjiru",
+        "name": "Kenchinjiru",
+        "freq": 17
+    },
+    {
+        "type": "recipe",
+        "id": "r_Kimchi Jjigae (Kimchi Stew)",
+        "name": "Kimchi Jjigae (Kimchi Stew)",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Kimchi Gyoza Nabe",
+        "name": "Kimchi Gyoza Nabe",
+        "freq": 20
+    },
+    {
+        "type": "recipe",
+        "id": "r_Kimchi Nabe",
+        "name": "Kimchi Nabe",
+        "freq": 23
+    },
+    {
+        "type": "recipe",
+        "id": "r_Kimchi Soup with Malony Glass Noodles",
+        "name": "Kimchi Soup with Malony Glass Noodles",
+        "freq": 13
+    },
+    {
+        "type": "recipe",
+        "id": "r_Matsutake Clear Soup (Suimono)",
+        "name": "Matsutake Clear Soup (Suimono)",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Mille-Feuille Nabe",
+        "name": "Mille-Feuille Nabe",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Miso Nikomi Udon",
+        "name": "Miso Nikomi Udon",
+        "freq": 12
+    },
+    {
+        "type": "recipe",
+        "id": "r_Miso Soup with Yuzu Kosho",
+        "name": "Miso Soup with Yuzu Kosho",
+        "freq": 15
+    },
+    {
+        "type": "recipe",
+        "id": "r_Monkfish Hot Pot (Anko Nabe)",
+        "name": "Monkfish Hot Pot (Anko Nabe)",
+        "freq": 16
+    },
+    {
+        "type": "recipe",
+        "id": "r_Nabeyaki Udon",
+        "name": "Nabeyaki Udon",
+        "freq": 22
+    },
+    {
+        "type": "recipe",
+        "id": "r_Nameko Mushroom Miso Soup",
+        "name": "Nameko Mushroom Miso Soup",
+        "freq": 5
+    },
+    {
+        "type": "recipe",
+        "id": "r_Ochazuke",
+        "name": "Ochazuke",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Oden (Japanese Fish Cake Stew)",
+        "name": "Oden (Japanese Fish Cake Stew)",
+        "freq": 18
+    },
+    {
+        "type": "recipe",
+        "id": "r_Oxtail Oden (Japanese Fish Cake Stew)",
+        "name": "Oxtail Oden (Japanese Fish Cake Stew)",
+        "freq": 14
+    },
+    {
+        "type": "recipe",
+        "id": "r_Ozoni (Japanese New Year Mochi Soup \u2013 Kansai Style)",
+        "name": "Ozoni (Japanese New Year Mochi Soup \u2013 Kansai Style)",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Ozoni (Japanese New Year Mochi Soup \u2013 Kanto Style)",
+        "name": "Ozoni (Japanese New Year Mochi Soup \u2013 Kanto Style)",
+        "freq": 11
+    },
+    {
+        "type": "recipe",
+        "id": "r_Potato & Leek Soup",
+        "name": "Potato & Leek Soup",
+        "freq": 8
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pressure Cooker Oxtail Broth",
+        "name": "Pressure Cooker Oxtail Broth",
+        "freq": 7
+    },
+    {
+        "type": "recipe",
+        "id": "r_Pressure Cooker Oxtail Soup",
+        "name": "Pressure Cooker Oxtail Soup",
+        "freq": 20
+    },
+    {
+        "type": "recipe",
+        "id": "r_Sanpeijiru (Japanese Salmon Soup)",
+        "name": "Sanpeijiru (Japanese Salmon Soup)",
+        "freq": 10
+    },
+    {
+        "type": "recipe",
+        "id": "r_Shabu-Shabu",
+        "name": "Shabu-Shabu",
+        "freq": 16
+    },
+    {
+        "type": "recipe",
+        "id": "r_Shrimp and Pork Wonton Soup",
+        "name": "Shrimp and Pork Wonton Soup",
+        "freq": 19
+    },
+    {
+        "type": "recipe",
+        "id": "r_Sapporo Soup Curry",
+        "name": "Sapporo Soup Curry",
+        "freq": 31
+    },
+    {
+        "type": "recipe",
+        "id": "r_Soy Milk Hot Pot",
+        "name": "Soy Milk Hot Pot",
+        "freq": 21
+    },
+    {
+        "type": "recipe",
+        "id": "r_Sukiyaki",
+        "name": "Sukiyaki",
+        "freq": 17
+    },
+    {
+        "type": "recipe",
+        "id": "r_Taiwanese Hot Pot with Homemade Meatballs",
+        "name": "Taiwanese Hot Pot with Homemade Meatballs",
+        "freq": 39
+    },
+    {
+        "type": "recipe",
+        "id": "r_Thomas Keller\u2019s Clam Chowder",
+        "name": "Thomas Keller\u2019s Clam Chowder",
+        "freq": 22
+    },
+    {
+        "type": "recipe",
+        "id": "r_Tonjiru (Pork and Vegetable Miso Soup)",
+        "name": "Tonjiru (Pork and Vegetable Miso Soup)",
+        "freq": 17
+    },
+    {
+        "type": "recipe",
+        "id": "r_Vegan Miso Soup",
+        "name": "Vegan Miso Soup",
+        "freq": 6
+    },
+    {
+        "type": "recipe",
+        "id": "r_Vegetable Miso Soup",
+        "name": "Vegetable Miso Soup",
+        "freq": 9
+    },
+    {
+        "type": "recipe",
+        "id": "r_Japanese Cream Stew (White Stew)",
+        "name": "Japanese Cream Stew (White Stew)",
+        "freq": 22
+    },
+    {
+        "type": "recipe",
+        "id": "r_Yosenabe (Japanese Hot Pot)",
+        "name": "Yosenabe (Japanese Hot Pot)",
+        "freq": 20
+    },
+    {
+        "type": "recipe",
+        "id": "r_Zosui (Japanese Rice Soup)",
+        "name": "Zosui (Japanese Rice Soup)",
+        "freq": 11
+    }
+]

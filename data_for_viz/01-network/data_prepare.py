@@ -75,3 +75,11 @@ with open('ingredient_nodes.json', 'w') as f:
     json.dump(ingredients, f, indent=4)
 with open('edges.json', 'w') as f:
     json.dump(links, f, indent=4)
+
+single_json = {
+    'recipes': recipes,
+    'ingredients': ingredients,
+    'links': links
+}
+with open('data.json', 'w') as f:
+    json.dump(single_json, f, indent=4)

@@ -46,13 +46,10 @@ const nodeColor = d => {
 };
 
 const baseGroup = svg.append("g");
-function zoomed() {
-    baseGroup.attr("transform", d3.event.transform);
-}
 
 const zoom = d3.zoom()
     .scaleExtent([0.2, 8])
-    .on("zoom", zoomed);
+    .on("zoom", ({transform}) => baseGroup.attr("transform", transform));
 
 svg.call(zoom);
 let ifClicked = false;

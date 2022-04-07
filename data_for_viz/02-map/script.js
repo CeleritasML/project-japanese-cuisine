@@ -13,8 +13,8 @@ var path = d3.geoPath()
 
 // Data and color scale
 var data = d3.map();
-var colorScheme = d3.schemeBlues[7];
-colorScheme.unshift("#eee")
+var colorScheme = d3.schemeYlOrRd[7];
+colorScheme.unshift("#95A19D")
 var colorScale = d3.scaleThreshold()
     .domain([1, 2, 6, 11, 26, 51, 76])
     .range(colorScheme);
@@ -26,15 +26,17 @@ var g = svg.append("g")
 g.append("text")
     .attr("class", "caption")
     .attr("x", 0)
-    .attr("y", -6)
-    .text("Dishes");
+    .attr("y", -5)
+    .text("Dishes")
+    .style("font", "12px Roboto Mono");
 var labels = ['0', '1', '2-5', '6-10', '11-25', '26-50', '51-75', '76+'];
 var legend = d3.legendColor()
     .labels(function (d) { return labels[d.i]; })
-    .shapePadding(4)
+    .shapePadding(5)
     .scale(colorScale);
 svg.select(".legendThreshold")
-    .call(legend);
+    .call(legend)
+    .style("font", "12px Roboto Mono");
 
 // Connection as constants:
 
@@ -67,7 +69,7 @@ var toolTip = d3.select("body")
     .style("padding", "0 10px")
     .style("background", "#fff")
     .style("opacity", 0)
-    .style("font-family", "Open Sans")
+    .style("font-family", "Roboto")
     .style("z-index", 1000);
 
 function ready(error, topo) {
@@ -100,8 +102,7 @@ function ready(error, topo) {
             tempColor = this.style.fill;
 
             if (d.total != 0) {
-                    toolTip.html("Country: " + d.properties.name + "<br>" +
-                                "Count: " + d.total)
+                    toolTip.html(d.properties.name + "<br>" + d.total)
                 } else {
                     toolTip.html("")
                 }
@@ -124,6 +125,8 @@ function ready(error, topo) {
         .append("path")
         .attr("d", function(d){ return path(d)})
         .style("fill", "none")
-        .style("stroke", "orange")
-        .style("stroke-width", 3)
+        .style("stroke", "#C9D9D3")
+        .style("opacity", 0.5)
+        .style("stroke-width", 2)
+        .style("stroke-linejoin", "round")
 }

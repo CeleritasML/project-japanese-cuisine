@@ -3,1518 +3,1771 @@
         "type": "ingredient",
         "id": "i_oil",
         "name": "oil",
+        "category": "condiment (liquid)",
         "freq": 354
     },
     {
         "type": "ingredient",
         "id": "i_dashi",
         "name": "dashi",
+        "category": "processed food",
         "freq": 78
     },
     {
         "type": "ingredient",
         "id": "i_cornstarch",
         "name": "cornstarch",
+        "category": "carbonhydrates",
         "freq": 69
     },
     {
         "type": "ingredient",
         "id": "i_shichimi togarashi",
         "name": "shichimi togarashi",
+        "category": "condiment (powder)",
         "freq": 37
     },
     {
         "type": "ingredient",
         "id": "i_tofu",
         "name": "tofu",
+        "category": "carbonhydrates",
         "freq": 37
     },
     {
         "type": "ingredient",
         "id": "i_daikon radish",
         "name": "daikon radish",
+        "category": "vegetable",
         "freq": 47
     },
     {
         "type": "ingredient",
         "id": "i_mirin",
         "name": "mirin",
+        "category": "condiment (liquid)",
         "freq": 178
     },
     {
         "type": "ingredient",
         "id": "i_green onion",
         "name": "green onion",
+        "category": "vegetable",
         "freq": 151
     },
     {
         "type": "ingredient",
         "id": "i_soy sauce",
         "name": "soy sauce",
+        "category": "condiment (liquid)",
         "freq": 316
     },
     {
         "type": "ingredient",
         "id": "i_katsuobushi",
         "name": "katsuobushi",
+        "category": "processed food",
         "freq": 39
     },
     {
         "type": "ingredient",
         "id": "i_ponzu",
         "name": "ponzu",
+        "category": "condiment (liquid)",
         "freq": 25
     },
     {
         "type": "ingredient",
         "id": "i_seaweed",
         "name": "seaweed",
+        "category": "other",
         "freq": 32
     },
     {
         "type": "ingredient",
         "id": "i_shiso leaves",
         "name": "shiso leaves",
+        "category": "other",
         "freq": 45
     },
     {
         "type": "ingredient",
         "id": "i_gochujang",
         "name": "gochujang",
+        "category": "condiment (liquid)",
         "freq": 7
     },
     {
         "type": "ingredient",
         "id": "i_sesame seed",
         "name": "sesame seed",
+        "category": "condiment (powder)",
         "freq": 118
     },
     {
         "type": "ingredient",
         "id": "i_apple",
         "name": "apple",
+        "category": "fruit",
         "freq": 6
     },
     {
         "type": "ingredient",
         "id": "i_chicken wings",
         "name": "chicken wings",
+        "category": "protein",
         "freq": 11
     },
     {
         "type": "ingredient",
         "id": "i_honey",
         "name": "honey",
+        "category": "condiment (liquid)",
         "freq": 31
     },
     {
         "type": "ingredient",
         "id": "i_garlic",
         "name": "garlic",
+        "category": "condiment (bulk)",
         "freq": 115
     },
     {
         "type": "ingredient",
         "id": "i_sugar",
         "name": "sugar",
+        "category": "condiment (powder)",
         "freq": 357
     },
     {
         "type": "ingredient",
         "id": "i_vinegar",
         "name": "vinegar",
+        "category": "condiment (liquid)",
         "freq": 102
     },
     {
         "type": "ingredient",
         "id": "i_miso",
         "name": "miso",
+        "category": "condiment (liquid)",
         "freq": 78
     },
     {
         "type": "ingredient",
         "id": "i_mustard",
         "name": "mustard",
+        "category": "condiment (powder)",
         "freq": 21
     },
     {
         "type": "ingredient",
         "id": "i_salt",
         "name": "salt",
+        "category": "condiment (powder)",
         "freq": 432
     },
     {
         "type": "ingredient",
         "id": "i_pork",
         "name": "pork",
+        "category": "protein",
         "freq": 78
     },
     {
         "type": "ingredient",
         "id": "i_egg",
         "name": "egg",
+        "category": "processed food",
         "freq": 141
     },
     {
         "type": "ingredient",
         "id": "i_red pepper",
         "name": "red pepper",
+        "category": "condiment (powder)",
         "freq": 27
     },
     {
         "type": "ingredient",
         "id": "i_ginger",
         "name": "ginger",
+        "category": "condiment (bulk)",
         "freq": 118
     },
     {
         "type": "ingredient",
         "id": "i_Tokyo negi",
         "name": "Tokyo negi",
+        "category": "vegetable",
         "freq": 32
     },
     {
         "type": "ingredient",
         "id": "i_sake",
         "name": "sake",
+        "category": "beverage",
         "freq": 219
     },
     {
         "type": "ingredient",
         "id": "i_ikura",
         "name": "ikura",
+        "category": "protein",
         "freq": 12
     },
     {
         "type": "ingredient",
         "id": "i_yuzu kosho",
         "name": "yuzu kosho",
+        "category": "condiment (bulk)",
         "freq": 18
     },
     {
         "type": "ingredient",
         "id": "i_butter",
         "name": "butter",
+        "category": "condiment (liquid)",
         "freq": 121
     },
     {
         "type": "ingredient",
         "id": "i_black pepper",
         "name": "black pepper",
+        "category": "condiment (powder)",
         "freq": 208
     },
     {
         "type": "ingredient",
         "id": "i_uni",
         "name": "uni",
+        "category": "other",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_water",
         "name": "water",
+        "category": "beverage",
         "freq": 255
     },
     {
         "type": "ingredient",
         "id": "i_kamaboko",
         "name": "kamaboko",
+        "category": "processed food",
         "freq": 11
     },
     {
         "type": "ingredient",
         "id": "i_large egg",
         "name": "large egg",
+        "category": "other",
         "freq": 72
     },
     {
         "type": "ingredient",
         "id": "i_mushrooms",
         "name": "mushrooms",
+        "category": "mushroom/fungus",
         "freq": 88
     },
     {
         "type": "ingredient",
         "id": "i_ginkgo nuts",
         "name": "ginkgo nuts",
+        "category": "other",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_chicken thighs",
         "name": "chicken thighs",
+        "category": "protein",
         "freq": 47
     },
     {
         "type": "ingredient",
         "id": "i_mitsuba",
         "name": "mitsuba",
+        "category": "vegetable",
         "freq": 23
     },
     {
         "type": "ingredient",
         "id": "i_carrot",
         "name": "carrot",
+        "category": "vegetable",
         "freq": 108
     },
     {
         "type": "ingredient",
         "id": "i_usukuchi",
         "name": "usukuchi",
+        "category": "condiment (liquid)",
         "freq": 19
     },
     {
         "type": "ingredient",
         "id": "i_shrimp",
         "name": "shrimp",
+        "category": "protein",
         "freq": 31
     },
     {
         "type": "ingredient",
         "id": "i_narutomaki",
         "name": "narutomaki",
+        "category": "condiment (bulk)",
         "freq": 5
     },
     {
         "type": "ingredient",
         "id": "i_mint",
         "name": "mint",
+        "category": "condiment (bulk)",
         "freq": 10
     },
     {
         "type": "ingredient",
         "id": "i_chicken breast",
         "name": "chicken breast",
+        "category": "protein",
         "freq": 12
     },
     {
         "type": "ingredient",
         "id": "i_cucumber",
         "name": "cucumber",
+        "category": "vegetable",
         "freq": 51
     },
     {
         "type": "ingredient",
         "id": "i_la-yu",
         "name": "la-yu",
+        "category": "condiment (liquid)",
         "freq": 13
     },
     {
         "type": "ingredient",
         "id": "i_cilantro",
         "name": "cilantro",
+        "category": "vegetable",
         "freq": 16
     },
     {
         "type": "ingredient",
         "id": "i_paprika",
         "name": "paprika",
+        "category": "condiment (powder)",
         "freq": 7
     },
     {
         "type": "ingredient",
         "id": "i_panko",
         "name": "panko",
+        "category": "carbonhydrates",
         "freq": 42
     },
     {
         "type": "ingredient",
         "id": "i_flour",
         "name": "flour",
+        "category": "carbonhydrates",
         "freq": 139
     },
     {
         "type": "ingredient",
         "id": "i_Thai sweet chili sauce",
         "name": "Thai sweet chili sauce",
+        "category": "condiment (liquid)",
         "freq": 4
     },
     {
         "type": "ingredient",
         "id": "i_thyme",
         "name": "thyme",
+        "category": "condiment (bulk)",
         "freq": 11
     },
     {
         "type": "ingredient",
         "id": "i_roasted walnuts",
         "name": "roasted walnuts",
+        "category": "processed food",
         "freq": 6
     },
     {
         "type": "ingredient",
         "id": "i_frozen puff pastry",
         "name": "frozen puff pastry",
+        "category": "processed food",
         "freq": 6
     },
     {
         "type": "ingredient",
         "id": "i_edamame",
         "name": "edamame",
+        "category": "vegetable",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_eggplant",
         "name": "eggplant",
+        "category": "vegetable",
         "freq": 20
     },
     {
         "type": "ingredient",
         "id": "i_kobucha",
         "name": "kobucha",
+        "category": "beverage",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_red leaf lettuce",
         "name": "red leaf lettuce",
+        "category": "vegetable",
         "freq": 4
     },
     {
         "type": "ingredient",
         "id": "i_gochugaru",
         "name": "gochugaru",
+        "category": "condiment (powder)",
         "freq": 6
     },
     {
         "type": "ingredient",
         "id": "i_white pepper powder",
         "name": "white pepper powder",
+        "category": "condiment (powder)",
         "freq": 29
     },
     {
         "type": "ingredient",
         "id": "i_lemon",
         "name": "lemon",
+        "category": "fruit",
         "freq": 35
     },
     {
         "type": "ingredient",
         "id": "i_yuzu-flavored tobiko",
         "name": "yuzu-flavored tobiko",
+        "category": "protein",
         "freq": 4
     },
     {
         "type": "ingredient",
         "id": "i_onion",
         "name": "onion",
+        "category": "other",
         "freq": 102
     },
     {
         "type": "ingredient",
         "id": "i_yuzu juice",
         "name": "yuzu juice",
+        "category": "condiment (liquid)",
         "freq": 7
     },
     {
         "type": "ingredient",
         "id": "i_ham",
         "name": "ham",
+        "category": "protein",
         "freq": 14
     },
     {
         "type": "ingredient",
         "id": "i_Tonkatsu sauce",
         "name": "Tonkatsu sauce",
+        "category": "condiment (liquid)",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_Korean chili thread",
         "name": "Korean chili thread",
+        "category": "condiment (bulk)",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_manila clams",
         "name": "manila clams",
+        "category": "protein",
         "freq": 6
     },
     {
         "type": "ingredient",
         "id": "i_tomato",
         "name": "tomato",
+        "category": "vegetable",
         "freq": 40
     },
     {
         "type": "ingredient",
         "id": "i_wasabi",
         "name": "wasabi",
+        "category": "condiment (bulk)",
         "freq": 10
     },
     {
         "type": "ingredient",
         "id": "i_corn",
         "name": "corn",
+        "category": "carbonhydrates",
         "freq": 11
     },
     {
         "type": "ingredient",
         "id": "i_Japanese mayonnaise",
         "name": "Japanese mayonnaise",
+        "category": "condiment (liquid)",
         "freq": 34
     },
     {
         "type": "ingredient",
         "id": "i_lemon wedges",
         "name": "lemon wedges",
+        "category": "condiment (bulk)",
         "freq": 5
     },
     {
         "type": "ingredient",
         "id": "i_lotus root",
         "name": "lotus root",
+        "category": "vegetable",
         "freq": 13
     },
     {
         "type": "ingredient",
         "id": "i_konnyaku",
         "name": "konnyaku",
+        "category": "carbonhydrates",
         "freq": 12
     },
     {
         "type": "ingredient",
         "id": "i_Gyoza Wrappers",
         "name": "Gyoza Wrappers",
+        "category": "carbonhydrates",
         "freq": 4
     },
     {
         "type": "ingredient",
         "id": "i_napa cabbage",
         "name": "napa cabbage",
+        "category": "vegetable",
         "freq": 20
     },
     {
         "type": "ingredient",
         "id": "i_parsley",
         "name": "parsley",
+        "category": "vegetable",
         "freq": 26
     },
     {
         "type": "ingredient",
         "id": "i_octopus sashimi",
         "name": "octopus sashimi",
+        "category": "processed food",
         "freq": 5
     },
     {
         "type": "ingredient",
         "id": "i_kombu",
         "name": "kombu",
+        "category": "other",
         "freq": 42
     },
     {
         "type": "ingredient",
         "id": "i_Japanese turnips",
         "name": "Japanese turnips",
+        "category": "vegetable",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_dried kanpyo",
         "name": "dried kanpyo",
+        "category": "vegetable",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_salmon",
         "name": "salmon",
+        "category": "protein",
         "freq": 24
     },
     {
         "type": "ingredient",
         "id": "i_lemon juice",
         "name": "lemon juice",
+        "category": "beverage",
         "freq": 24
     },
     {
         "type": "ingredient",
         "id": "i_yuzu",
         "name": "yuzu",
+        "category": "fruit",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_matcha",
         "name": "matcha",
+        "category": "processed food",
         "freq": 25
     },
     {
         "type": "ingredient",
         "id": "i_green peas",
         "name": "green peas",
+        "category": "vegetable",
         "freq": 8
     },
     {
         "type": "ingredient",
         "id": "i_wonton wrappers",
         "name": "wonton wrappers",
+        "category": "carbonhydrates",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_sriracha sauce",
         "name": "sriracha sauce",
+        "category": "condiment (liquid)",
         "freq": 7
     },
     {
         "type": "ingredient",
         "id": "i_chicken drumettes",
         "name": "chicken drumettes",
+        "category": "condiment (powder)",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_shiraga negi",
         "name": "shiraga negi",
+        "category": "vegetable",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_celery",
         "name": "celery",
+        "category": "vegetable",
         "freq": 16
     },
     {
         "type": "ingredient",
         "id": "i_tuna",
         "name": "tuna",
+        "category": "protein",
         "freq": 12
     },
     {
         "type": "ingredient",
         "id": "i_sakura denbu",
         "name": "sakura denbu",
+        "category": "condiment (bulk)",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_avocado",
         "name": "avocado",
+        "category": "fruit",
         "freq": 10
     },
     {
         "type": "ingredient",
         "id": "i_chives",
         "name": "chives",
+        "category": "vegetable",
         "freq": 12
     },
     {
         "type": "ingredient",
         "id": "i_nori",
         "name": "nori",
+        "category": "other",
         "freq": 25
     },
     {
         "type": "ingredient",
         "id": "i_rice",
         "name": "rice",
+        "category": "carbonhydrates",
         "freq": 122
     },
     {
         "type": "ingredient",
         "id": "i_yellowtail",
         "name": "yellowtail",
+        "category": "protein",
         "freq": 7
     },
     {
         "type": "ingredient",
         "id": "i_chicken",
         "name": "chicken",
+        "category": "protein",
         "freq": 6
     },
     {
         "type": "ingredient",
         "id": "i_yogurt",
         "name": "yogurt",
+        "category": "beverage",
         "freq": 11
     },
     {
         "type": "ingredient",
         "id": "i_milk",
         "name": "milk",
+        "category": "beverage",
         "freq": 37
     },
     {
         "type": "ingredient",
         "id": "i_chia seeds",
         "name": "chia seeds",
+        "category": "condiment (powder)",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_unsweetened cocoa powder",
         "name": "unsweetened cocoa powder",
+        "category": "condiment (powder)",
         "freq": 6
     },
     {
         "type": "ingredient",
         "id": "i_banana",
         "name": "banana",
+        "category": "fruit",
         "freq": 9
     },
     {
         "type": "ingredient",
         "id": "i_ice",
         "name": "ice",
+        "category": "beverage",
         "freq": 13
     },
     {
         "type": "ingredient",
         "id": "i_whipped cream",
         "name": "whipped cream",
+        "category": "condiment (liquid)",
         "freq": 9
     },
     {
         "type": "ingredient",
         "id": "i_club soda",
         "name": "club soda",
+        "category": "beverage",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_rum",
         "name": "rum",
+        "category": "beverage",
         "freq": 4
     },
     {
         "type": "ingredient",
         "id": "i_Simple Syrup",
         "name": "Simple Syrup",
+        "category": "condiment (liquid)",
         "freq": 4
     },
     {
         "type": "ingredient",
         "id": "i_wine",
         "name": "wine",
+        "category": "beverage",
         "freq": 17
     },
     {
         "type": "ingredient",
         "id": "i_shochu",
         "name": "shochu",
+        "category": "beverage",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_maple syrup",
         "name": "maple syrup",
+        "category": "condiment (liquid)",
         "freq": 11
     },
     {
         "type": "ingredient",
         "id": "i_lime",
         "name": "lime",
+        "category": "fruit",
         "freq": 5
     },
     {
         "type": "ingredient",
         "id": "i_strawberries",
         "name": "strawberries",
+        "category": "other",
         "freq": 22
     },
     {
         "type": "ingredient",
         "id": "i_whole milk",
         "name": "whole milk",
+        "category": "other",
         "freq": 44
     },
     {
         "type": "ingredient",
         "id": "i_red bean paste",
         "name": "red bean paste",
+        "category": "other",
         "freq": 23
     },
     {
         "type": "ingredient",
         "id": "i_toasted black sesame seeds",
         "name": "toasted black sesame seeds",
+        "category": "condiment (bulk)",
         "freq": 17
     },
     {
         "type": "ingredient",
         "id": "i_instant yeast",
         "name": "instant yeast",
+        "category": "condiment (powder)",
         "freq": 6
     },
     {
         "type": "ingredient",
         "id": "i_red radish",
         "name": "red radish",
+        "category": "vegetable",
         "freq": 7
     },
     {
         "type": "ingredient",
         "id": "i_furikake",
         "name": "furikake",
+        "category": "processed food",
         "freq": 9
     },
     {
         "type": "ingredient",
         "id": "i_cherry tomatoes",
         "name": "cherry tomatoes",
+        "category": "fruit",
         "freq": 20
     },
     {
         "type": "ingredient",
         "id": "i_shokupan",
         "name": "shokupan",
+        "category": "processed food",
         "freq": 5
     },
     {
         "type": "ingredient",
         "id": "i_baking soda",
         "name": "baking soda",
+        "category": "carbonhydrates",
         "freq": 46
     },
     {
         "type": "ingredient",
         "id": "i_raisins",
         "name": "raisins",
+        "category": "fruit",
         "freq": 6
     },
     {
         "type": "ingredient",
         "id": "i_pure vanilla extract",
         "name": "pure vanilla extract",
+        "category": "condiment (liquid)",
         "freq": 32
     },
     {
         "type": "ingredient",
         "id": "i_Nutella",
         "name": "Nutella",
+        "category": "condiment (liquid)",
         "freq": 4
     },
     {
         "type": "ingredient",
         "id": "i_blueberries",
         "name": "blueberries",
+        "category": "fruit",
         "freq": 10
     },
     {
         "type": "ingredient",
         "id": "i_almond extract",
         "name": "almond extract",
+        "category": "condiment (liquid)",
         "freq": 6
     },
     {
         "type": "ingredient",
         "id": "i_heavy whipping cream",
         "name": "heavy whipping cream",
+        "category": "processed food",
         "freq": 49
     },
     {
         "type": "ingredient",
         "id": "i_leek",
         "name": "leek",
+        "category": "vegetable",
         "freq": 6
     },
     {
         "type": "ingredient",
         "id": "i_cabbage",
         "name": "cabbage",
+        "category": "vegetable",
         "freq": 34
     },
     {
         "type": "ingredient",
         "id": "i_umeboshi",
         "name": "umeboshi",
+        "category": "other",
         "freq": 8
     },
     {
         "type": "ingredient",
         "id": "i_chocolate",
         "name": "chocolate",
+        "category": "carbonhydrates",
         "freq": 7
     },
     {
         "type": "ingredient",
         "id": "i_snap peas",
         "name": "snap peas",
+        "category": "vegetable",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_aburaage",
         "name": "aburaage",
+        "category": "processed food",
         "freq": 20
     },
     {
         "type": "ingredient",
         "id": "i_boiled bamboo shoot",
         "name": "boiled bamboo shoot",
+        "category": "vegetable",
         "freq": 7
     },
     {
         "type": "ingredient",
         "id": "i_Shiratama Dango/Mochi",
         "name": "Shiratama Dango/Mochi",
+        "category": "carbonhydrates",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_kiwis",
         "name": "kiwis",
+        "category": "fruit",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_cheese",
         "name": "cheese",
+        "category": "protein",
         "freq": 16
     },
     {
         "type": "ingredient",
         "id": "i_cherries",
         "name": "cherries",
+        "category": "fruit",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_salt pickled cherry blossoms",
         "name": "salt pickled cherry blossoms",
+        "category": "condiment (bulk)",
         "freq": 4
     },
     {
         "type": "ingredient",
         "id": "i_gelatin sheet",
         "name": "gelatin sheet",
+        "category": "protein",
         "freq": 5
     },
     {
         "type": "ingredient",
         "id": "i_red food coloring",
         "name": "red food coloring",
+        "category": "condiment (powder)",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_white chocolate",
         "name": "white chocolate",
+        "category": "condiment (bulk)",
         "freq": 5
     },
     {
         "type": "ingredient",
         "id": "i_vanilla extract",
         "name": "vanilla extract",
+        "category": "condiment (liquid)",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_raspberries",
         "name": "raspberries",
+        "category": "fruit",
         "freq": 4
     },
     {
         "type": "ingredient",
         "id": "i_half and half",
         "name": "half and half",
+        "category": "condiment (liquid)",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_kanten powder",
         "name": "kanten powder",
+        "category": "condiment (powder)",
         "freq": 5
     },
     {
         "type": "ingredient",
         "id": "i_shiratamako",
         "name": "shiratamako",
+        "category": "condiment (powder)",
         "freq": 9
     },
     {
         "type": "ingredient",
         "id": "i_mochiko",
         "name": "mochiko",
+        "category": "carbonhydrates",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_apricot jam",
         "name": "apricot jam",
+        "category": "condiment (liquid)",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_pineapple",
         "name": "pineapple",
+        "category": "fruit",
         "freq": 4
     },
     {
         "type": "ingredient",
         "id": "i_matcha green tea powder",
         "name": "matcha green tea powder",
+        "category": "condiment (powder)",
         "freq": 4
     },
     {
         "type": "ingredient",
         "id": "i_joshinko",
         "name": "joshinko",
+        "category": "condiment (powder)",
         "freq": 4
     },
     {
         "type": "ingredient",
         "id": "i_bean",
         "name": "bean",
+        "category": "vegetable",
         "freq": 20
     },
     {
         "type": "ingredient",
         "id": "i_kabocha",
         "name": "kabocha",
+        "category": "vegetable",
         "freq": 19
     },
     {
         "type": "ingredient",
         "id": "i_edible gold leaf flakes",
         "name": "edible gold leaf flakes",
+        "category": "condiment (powder)",
         "freq": 4
     },
     {
         "type": "ingredient",
         "id": "i_kinako",
         "name": "kinako",
+        "category": "condiment (powder)",
         "freq": 4
     },
     {
         "type": "ingredient",
         "id": "i_oranges",
         "name": "oranges",
+        "category": "fruit",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_potato",
         "name": "potato",
+        "category": "carbonhydrates",
         "freq": 32
     },
     {
         "type": "ingredient",
         "id": "i_taro",
         "name": "taro",
+        "category": "carbonhydrates",
         "freq": 7
     },
     {
         "type": "ingredient",
         "id": "i_kirimochi or homemade mochi",
         "name": "kirimochi or homemade mochi",
+        "category": "carbonhydrates",
         "freq": 6
     },
     {
         "type": "ingredient",
         "id": "i_oyster sauce",
         "name": "oyster sauce",
+        "category": "condiment (liquid)",
         "freq": 12
     },
     {
         "type": "ingredient",
         "id": "i_tomato sauce",
         "name": "tomato sauce",
+        "category": "condiment (liquid)",
         "freq": 4
     },
     {
         "type": "ingredient",
         "id": "i_beef",
         "name": "beef",
+        "category": "protein",
         "freq": 28
     },
     {
         "type": "ingredient",
         "id": "i_bay leaf",
         "name": "bay leaf",
+        "category": "condiment (bulk)",
         "freq": 23
     },
     {
         "type": "ingredient",
         "id": "i_red bell pepper",
         "name": "red bell pepper",
+        "category": "vegetable",
         "freq": 5
     },
     {
         "type": "ingredient",
         "id": "i_shallot",
         "name": "shallot",
+        "category": "vegetable",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_onigiri",
         "name": "onigiri",
+        "category": "processed food",
         "freq": 5
     },
     {
         "type": "ingredient",
         "id": "i_grapes",
         "name": "grapes",
+        "category": "fruit",
         "freq": 5
     },
     {
         "type": "ingredient",
         "id": "i_tonkatsu sauce",
         "name": "tonkatsu sauce",
+        "category": "condiment (liquid)",
         "freq": 22
     },
     {
         "type": "ingredient",
         "id": "i_garlic powder",
         "name": "garlic powder",
+        "category": "condiment (powder)",
         "freq": 5
     },
     {
         "type": "ingredient",
         "id": "i_green bell pepper",
         "name": "green bell pepper",
+        "category": "condiment (powder)",
         "freq": 4
     },
     {
         "type": "ingredient",
         "id": "i_chicken stock",
         "name": "chicken stock",
+        "category": "protein",
         "freq": 34
     },
     {
         "type": "ingredient",
         "id": "i_ginger juice",
         "name": "ginger juice",
+        "category": "condiment (liquid)",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_noodles",
         "name": "noodles",
+        "category": "carbonhydrates",
         "freq": 39
     },
     {
         "type": "ingredient",
         "id": "i_mentsuyu/tsuyu",
         "name": "mentsuyu/tsuyu",
+        "category": "condiment (liquid)",
         "freq": 15
     },
     {
         "type": "ingredient",
         "id": "i_doubanjiang",
         "name": "doubanjiang",
+        "category": "condiment (liquid)",
         "freq": 11
     },
     {
         "type": "ingredient",
         "id": "i_bok choy",
         "name": "bok choy",
+        "category": "vegetable",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_curry",
         "name": "curry",
+        "category": "condiment (powder)",
         "freq": 12
     },
     {
         "type": "ingredient",
         "id": "i_onions",
         "name": "onions",
+        "category": "vegetable",
         "freq": 6
     },
     {
         "type": "ingredient",
         "id": "i_chili powder",
         "name": "chili powder",
+        "category": "condiment (powder)",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_ground cumin",
         "name": "ground cumin",
+        "category": "condiment (bulk)",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_cayenne pepper",
         "name": "cayenne pepper",
+        "category": "vegetable",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_shio koji",
         "name": "shio koji",
+        "category": "processed food",
         "freq": 8
     },
     {
         "type": "ingredient",
         "id": "i_dried oregano",
         "name": "dried oregano",
+        "category": "condiment (powder)",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_broccoli",
         "name": "broccoli",
+        "category": "vegetable",
         "freq": 17
     },
     {
         "type": "ingredient",
         "id": "i_Tamagoyaki",
         "name": "Tamagoyaki",
+        "category": "processed food",
         "freq": 12
     },
     {
         "type": "ingredient",
         "id": "i_spinach",
         "name": "spinach",
+        "category": "vegetable",
         "freq": 7
     },
     {
         "type": "ingredient",
         "id": "i_pickled red ginger",
         "name": "pickled red ginger",
+        "category": "condiment (bulk)",
         "freq": 17
     },
     {
         "type": "ingredient",
         "id": "i_avocados",
         "name": "avocados",
+        "category": "fruit",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_Japanese sansho pepper",
         "name": "Japanese sansho pepper",
+        "category": "condiment (powder)",
         "freq": 7
     },
     {
         "type": "ingredient",
         "id": "i_squid",
         "name": "squid",
+        "category": "protein",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_Chashu",
         "name": "Chashu",
+        "category": "protein",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_vegetable stock/broth",
         "name": "vegetable stock/broth",
+        "category": "beverage",
         "freq": 6
     },
     {
         "type": "ingredient",
         "id": "i_shredded cabbage",
         "name": "shredded cabbage",
+        "category": "vegetable",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_tomato paste",
         "name": "tomato paste",
+        "category": "condiment (liquid)",
         "freq": 8
     },
     {
         "type": "ingredient",
         "id": "i_ketchup",
         "name": "ketchup",
+        "category": "condiment (liquid)",
         "freq": 20
     },
     {
         "type": "ingredient",
         "id": "i_chicken tenders",
         "name": "chicken tenders",
+        "category": "protein",
         "freq": 5
     },
     {
         "type": "ingredient",
         "id": "i_frozen mixed vegetables",
         "name": "frozen mixed vegetables",
+        "category": "processed food",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_bacon",
         "name": "bacon",
+        "category": "protein",
         "freq": 8
     },
     {
         "type": "ingredient",
         "id": "i_spaghetti",
         "name": "spaghetti",
+        "category": "carbonhydrates",
         "freq": 14
     },
     {
         "type": "ingredient",
         "id": "i_lettuce",
         "name": "lettuce",
+        "category": "vegetable",
         "freq": 9
     },
     {
         "type": "ingredient",
         "id": "i_gobo",
         "name": "gobo",
+        "category": "vegetable",
         "freq": 18
     },
     {
         "type": "ingredient",
         "id": "i_snow peas",
         "name": "snow peas",
+        "category": "vegetable",
         "freq": 9
     },
     {
         "type": "ingredient",
         "id": "i_unagi",
         "name": "unagi",
+        "category": "protein",
         "freq": 6
     },
     {
         "type": "ingredient",
         "id": "i_Japanese eggplant",
         "name": "Japanese eggplant",
+        "category": "other",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_mizuna",
         "name": "mizuna",
+        "category": "vegetable",
         "freq": 11
     },
     {
         "type": "ingredient",
         "id": "i_asparagus",
         "name": "asparagus",
+        "category": "vegetable",
         "freq": 10
     },
     {
         "type": "ingredient",
         "id": "i_unsweetened soy milk",
         "name": "unsweetened soy milk",
+        "category": "beverage",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_Tartar Sauce",
         "name": "Tartar Sauce",
+        "category": "condiment (liquid)",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_kaiware daikon radish sprouts",
         "name": "kaiware daikon radish sprouts",
+        "category": "vegetable",
         "freq": 4
     },
     {
         "type": "ingredient",
         "id": "i_Unagi Sauce",
         "name": "Unagi Sauce",
+        "category": "condiment (liquid)",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_Spicy Mayo",
         "name": "Spicy Mayo",
+        "category": "condiment (liquid)",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_red onion",
         "name": "red onion",
+        "category": "vegetable",
         "freq": 7
     },
     {
         "type": "ingredient",
         "id": "i_Parmigiano-Reggiano",
         "name": "Parmigiano-Reggiano",
+        "category": "protein",
         "freq": 12
     },
     {
         "type": "ingredient",
         "id": "i_basil",
         "name": "basil",
+        "category": "vegetable",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_sushi ginger",
         "name": "sushi ginger",
+        "category": "condiment (bulk)",
         "freq": 6
     },
     {
         "type": "ingredient",
         "id": "i_mackerel",
         "name": "mackerel",
+        "category": "protein",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_Gyoza",
         "name": "Gyoza",
+        "category": "carbonhydrates",
         "freq": 4
     },
     {
         "type": "ingredient",
         "id": "i_nutmeg",
         "name": "nutmeg",
+        "category": "condiment (bulk)",
         "freq": 5
     },
     {
         "type": "ingredient",
         "id": "i_garlic chives",
         "name": "garlic chives",
+        "category": "vegetable",
         "freq": 5
     },
     {
         "type": "ingredient",
         "id": "i_tenkasu/agedama",
         "name": "tenkasu/agedama",
+        "category": "condiment (bulk)",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_aonori",
         "name": "aonori",
+        "category": "condiment (powder)",
         "freq": 7
     },
     {
         "type": "ingredient",
         "id": "i_imitation crab meat",
         "name": "imitation crab meat",
+        "category": "protein",
         "freq": 4
     },
     {
         "type": "ingredient",
         "id": "i_iceberg lettuce",
         "name": "iceberg lettuce",
+        "category": "vegetable",
         "freq": 5
     },
     {
         "type": "ingredient",
         "id": "i_pork baby back ribs",
         "name": "pork baby back ribs",
+        "category": "protein",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_beef stock/broth",
         "name": "beef stock/broth",
+        "category": "processed food",
         "freq": 6
     },
     {
         "type": "ingredient",
         "id": "i_fukujinzuke",
         "name": "fukujinzuke",
+        "category": "condiment (bulk)",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_Worcestershire sauce",
         "name": "Worcestershire sauce",
+        "category": "condiment (liquid)",
         "freq": 11
     },
     {
         "type": "ingredient",
         "id": "i_tonkatsu",
         "name": "tonkatsu",
+        "category": "processed food",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_reserved pasta water",
         "name": "reserved pasta water",
+        "category": "condiment (liquid)",
         "freq": 4
     },
     {
         "type": "ingredient",
         "id": "i_okra",
         "name": "okra",
+        "category": "vegetable",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_yuzu zest",
         "name": "yuzu zest",
+        "category": "condiment (bulk)",
         "freq": 9
     },
     {
         "type": "ingredient",
         "id": "i_green beans",
         "name": "green beans",
+        "category": "carbonhydrates",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_dried basil",
         "name": "dried basil",
+        "category": "condiment (bulk)",
         "freq": 4
     },
     {
         "type": "ingredient",
         "id": "i_shungiku",
         "name": "shungiku",
+        "category": "vegetable",
         "freq": 8
     },
     {
         "type": "ingredient",
         "id": "i_Italian parsley",
         "name": "Italian parsley",
+        "category": "condiment (bulk)",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_onion powder",
         "name": "onion powder",
+        "category": "condiment (powder)",
         "freq": 4
     },
     {
         "type": "ingredient",
         "id": "i_komatsuna",
         "name": "komatsuna",
+        "category": "vegetable",
         "freq": 5
     },
     {
         "type": "ingredient",
         "id": "i_myoga ginger",
         "name": "myoga ginger",
+        "category": "condiment (bulk)",
         "freq": 10
     },
     {
         "type": "ingredient",
         "id": "i_shrimp tempura",
         "name": "shrimp tempura",
+        "category": "processed food",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_red cabbage",
         "name": "red cabbage",
+        "category": "vegetable",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_fennel bulb",
         "name": "fennel bulb",
+        "category": "vegetable",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_cauliflower",
         "name": "cauliflower",
+        "category": "vegetable",
         "freq": 4
     },
     {
         "type": "ingredient",
         "id": "i_large ears of corn",
         "name": "large ears of corn",
+        "category": "vegetable",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_oxtails",
         "name": "oxtails",
+        "category": "protein",
         "freq": 3
     },
     {
         "type": "ingredient",
         "id": "i_kimchi",
         "name": "kimchi",
+        "category": "condiment (bulk)",
         "freq": 3
     }
 ]

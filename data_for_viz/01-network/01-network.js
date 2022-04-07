@@ -28,6 +28,51 @@ data.ingredients.forEach(d => {
     nodesById[d.id] = {...d};
 })
 
+const recipeDict = {
+    "appetizer": {"index": 1, "color": "#fbf8cc"},
+    "beverage": {"index": 2, "color": "#fde4cf"},
+    "breakfast": {"index": 3, "color": "#ffcfd2"},
+    "dessert": {"index": 4, "color": "#f1c0e8"},
+    "entree": {"index": 5, "color": "#cfbaf0"},
+    "salad": {"index": 6, "color": "#a3c4f3"},
+    "side": {"index": 7, "color": "#90dbf4"},
+    "soup-stew": {"index": 8, "color": "#8eecf5"}
+}
+
+const ingredientDict = {
+    "condiment (powder)": {"index": 1, "color": "#023047"},
+    "condiment (bulk)": {"index": 2, "color": "#264653"},
+    "condiment (liquid)": {"index": 3, "color": "#005f73"},
+    "protein": {"index": 4, "color": "#0a9396"},
+    "vegetable": {"index": 5, "color": "#94d2bd"},
+    "fruit": {"index": 6, "color": "#e9d8a6"},
+    "mushroom/fungus": {"index": 7, "color": "#ee9b00"},
+    "carbonhydrates": {"index": 8, "color": "#ca6702"},
+    "processed food": {"index": 9, "color": "#bb3e03"},
+    "beverage": {"index": 10, "color": "#ae2012"},
+    "other": {"index": 11, "color": "#9b2226"}
+}
+
+const recipeColor = (category) => {
+    if (!(category in recipeDict)) return "#cfbaf0";
+    return recipeDict[category]["color"];
+}
+
+const recipeIndex = (category) => {
+    if (!(category in recipeDict)) return 8;
+    return recipeDict[category]["index"];
+}
+
+const ingredientColor = (category) => {
+    if (!(category in ingredientDict)) return "#cfbaf0";
+    return ingredientDict[category]["color"];
+}
+
+const ingredientIndex = (category) => {
+    if (!(category in ingredientDict)) return 11;
+    return ingredientDict[category]["index"];
+}
+
 const isConnectedAsSource = (a, b) => linkedByIndex[`${a},${b}`];
 const isConnectedAsTarget = (a, b) => linkedByIndex[`${b},${a}`];
 const isConnected = (a, b) => isConnectedAsTarget(a, b) || isConnectedAsSource(a, b) || a === b;
@@ -40,9 +85,12 @@ const nodeRadius = d => {
 };
 const nodeColor = d => {
     if (d.type === "recipe") {
-        return "blue";
+        return recipeColor(d.category);
     }
-    return "red";
+    if (d.type === "ingredient") {
+        return ingredientColor(d.category);
+    }
+    return "#FFFFFF";
 };
 
 const baseGroup = svg.append("g");
@@ -55,7 +103,7 @@ svg.call(zoom);
 let ifClicked = false;
 
 const simulation = d3.forceSimulation()
-    .force("link", d3.forceLink().id(function(d) { return d.id; }).strength(0.1))
+    .force("link", d3.forceLink().id(function(d) { return d.id; }).strength(0.01))
     .force("charge", d3.forceManyBody())
     .force("center", d3.forceCenter(width / 2, height / 2))
     .force("x", d3.forceX(d => {
@@ -64,7 +112,15 @@ const simulation = d3.forceSimulation()
         }
         return width - width / 5;
     }).strength(2))
-    .force("y", d3.forceY(height/2).strength(0.1))
+    .force("y", d3.forceY(d => {
+        if (d.type === "recipe") {
+            return recipeIndex(d.category) / 9 * height;
+        }
+        if (d.type === "ingredient") {
+            return ingredientIndex(d.category) / 12 * height;
+        }
+        return height / 2;
+    }).strength(1))
     .force("collide", d3.forceCollide().radius(d => nodeRadius(d) + 1).iterations(2));
 
 const link = baseGroup.append("g")
@@ -75,7 +131,7 @@ const link = baseGroup.append("g")
     .style('stroke', d => {
         return "grey";
     })
-    .style('stroke-width', 0.1)
+    .style('stroke-width', 0.05)
     .style("stroke-opacity", 0.5);
 
 const node = baseGroup.append("g")
@@ -117,10 +173,12 @@ const mouseOverFunction = (e, d) => {
             if (d.type === "recipe") {
                 return `<strong>Type:</strong> <span>${d.type}</span>` + '<br>'
                     + `<strong>Name:</strong> <span>${d.name}</span>` + '<br>'
+                    + `<strong>Category:</strong> <span>${d.category}</span>` + '<br>'
                     + `<strong>Number of Ingredients:</strong> <span>${d.freq}</span>`;
             }
             return `<strong>Type:</strong> <span>${d.type}</span>` + '<br>'
                 + `<strong>Name:</strong> <span>${d.name}</span>` + '<br>'
+                + `<strong>Category:</strong> <span>${d.category}</span>` + '<br>'
                 + `<strong>Occurrence:</strong> <span>${d.freq}</span>`;
         });
 

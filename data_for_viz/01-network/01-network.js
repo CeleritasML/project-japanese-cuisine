@@ -36,7 +36,7 @@ const nodeRadius = d => {
     if (d.type === "recipe") {
         return 0.5 * d.freq;
     }
-    return 0.05 * d.freq;
+    return 2 * Math.log(d.freq);
 };
 const nodeColor = d => {
     if (d.type === "recipe") {
@@ -63,7 +63,7 @@ const simulation = d3.forceSimulation()
             return width / 5;
         }
         return width - width / 5;
-    }).strength(0.95))
+    }).strength(2))
     .force("y", d3.forceY(height/2).strength(0.1))
     .force("collide", d3.forceCollide().radius(d => nodeRadius(d) + 1).iterations(2));
 
@@ -75,6 +75,7 @@ const link = baseGroup.append("g")
     .style('stroke', d => {
         return "grey";
     })
+    .style('stroke-width', 0.1)
     .style("stroke-opacity", 0.5);
 
 const node = baseGroup.append("g")

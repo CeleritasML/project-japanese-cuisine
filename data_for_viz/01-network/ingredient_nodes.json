@@ -141,7 +141,7 @@
         "type": "ingredient",
         "id": "i_salt",
         "name": "salt",
-        "freq": 433
+        "freq": 432
     },
     {
         "type": "ingredient",
@@ -153,7 +153,7 @@
         "type": "ingredient",
         "id": "i_egg",
         "name": "egg",
-        "freq": 142
+        "freq": 141
     },
     {
         "type": "ingredient",
@@ -213,7 +213,7 @@
         "type": "ingredient",
         "id": "i_water",
         "name": "water",
-        "freq": 261
+        "freq": 255
     },
     {
         "type": "ingredient",
@@ -291,7 +291,7 @@
         "type": "ingredient",
         "id": "i_cucumber",
         "name": "cucumber",
-        "freq": 52
+        "freq": 51
     },
     {
         "type": "ingredient",
@@ -411,7 +411,7 @@
         "type": "ingredient",
         "id": "i_ham",
         "name": "ham",
-        "freq": 15
+        "freq": 14
     },
     {
         "type": "ingredient",
@@ -519,7 +519,7 @@
         "type": "ingredient",
         "id": "i_salmon",
         "name": "salmon",
-        "freq": 25
+        "freq": 24
     },
     {
         "type": "ingredient",
@@ -537,7 +537,7 @@
         "type": "ingredient",
         "id": "i_matcha",
         "name": "matcha",
-        "freq": 26
+        "freq": 25
     },
     {
         "type": "ingredient",
@@ -609,7 +609,7 @@
         "type": "ingredient",
         "id": "i_rice",
         "name": "rice",
-        "freq": 124
+        "freq": 122
     },
     {
         "type": "ingredient",
@@ -729,7 +729,7 @@
         "type": "ingredient",
         "id": "i_toasted black sesame seeds",
         "name": "toasted black sesame seeds",
-        "freq": 18
+        "freq": 17
     },
     {
         "type": "ingredient",
@@ -741,7 +741,7 @@
         "type": "ingredient",
         "id": "i_red radish",
         "name": "red radish",
-        "freq": 8
+        "freq": 7
     },
     {
         "type": "ingredient",
@@ -1137,7 +1137,7 @@
         "type": "ingredient",
         "id": "i_shio koji",
         "name": "shio koji",
-        "freq": 9
+        "freq": 8
     },
     {
         "type": "ingredient",
@@ -1336,12 +1336,6 @@
         "id": "i_sushi ginger",
         "name": "sushi ginger",
         "freq": 6
-    },
-    {
-        "type": "ingredient",
-        "id": "i_chikuwa",
-        "name": "chikuwa",
-        "freq": 3
     },
     {
         "type": "ingredient",

@@ -125,16 +125,6 @@
         "value": 1
     },
     {
-        "source": "i_ponzu",
-        "target": "r_BBQ King Crab",
-        "value": 1
-    },
-    {
-        "source": "i_green onion",
-        "target": "r_BBQ King Crab",
-        "value": 1
-    },
-    {
         "source": "i_vinegar",
         "target": "r_Boiled Squid with Miso Vinaigrette",
         "value": 1
@@ -447,16 +437,6 @@
     {
         "source": "i_kamaboko",
         "target": "r_Chawanmushi with Shrimp",
-        "value": 1
-    },
-    {
-        "source": "i_water",
-        "target": "r_Cheese Tart",
-        "value": 1
-    },
-    {
-        "source": "i_large egg",
-        "target": "r_Cheese Tart",
         "value": 1
     },
     {
@@ -1750,16 +1730,6 @@
         "value": 1
     },
     {
-        "source": "i_green onion",
-        "target": "r_Seared Tuna Sashimi (Aburi Toro)",
-        "value": 1
-    },
-    {
-        "source": "i_yuzu",
-        "target": "r_Seared Tuna Sashimi (Aburi Toro)",
-        "value": 1
-    },
-    {
         "source": "i_oil",
         "target": "r_Shishamo Wrap",
         "value": 1
@@ -2471,11 +2441,6 @@
     },
     {
         "source": "i_water",
-        "target": "r_Buckwheat Tea (Sobacha)",
-        "value": 1
-    },
-    {
-        "source": "i_water",
         "target": "r_Masala Chai",
         "value": 1
     },
@@ -2512,26 +2477,6 @@
     {
         "source": "i_whipped cream",
         "target": "r_Chocolate Banana Smoothie",
-        "value": 1
-    },
-    {
-        "source": "i_ice",
-        "target": "r_Japanese Cream Soda",
-        "value": 1
-    },
-    {
-        "source": "i_club soda",
-        "target": "r_Japanese Cream Soda",
-        "value": 1
-    },
-    {
-        "source": "i_rum",
-        "target": "r_Eggnog",
-        "value": 1
-    },
-    {
-        "source": "i_whipped cream",
-        "target": "r_Eggnog",
         "value": 1
     },
     {
@@ -2621,21 +2566,6 @@
     },
     {
         "source": "i_water",
-        "target": "r_Cold Brew Hojicha",
-        "value": 1
-    },
-    {
-        "source": "i_water",
-        "target": "r_How To Make Matcha (Japanese Green Tea)",
-        "value": 1
-    },
-    {
-        "source": "i_matcha",
-        "target": "r_How To Make Matcha (Japanese Green Tea)",
-        "value": 1
-    },
-    {
-        "source": "i_water",
         "target": "r_Iced Green Tea Latte",
         "value": 1
     },
@@ -2665,16 +2595,6 @@
         "value": 1
     },
     {
-        "source": "i_water",
-        "target": "r_Japanese Iced Coffee",
-        "value": 1
-    },
-    {
-        "source": "i_ice",
-        "target": "r_Japanese Iced Coffee",
-        "value": 1
-    },
-    {
         "source": "i_banana",
         "target": "r_Mango Coconut Smoothie",
         "value": 1
@@ -2687,16 +2607,6 @@
     {
         "source": "i_chia seeds",
         "target": "r_Mango Coconut Smoothie",
-        "value": 1
-    },
-    {
-        "source": "i_wine",
-        "target": "r_Mulled Cider (With Wine) & Homemade Mulling Spices",
-        "value": 1
-    },
-    {
-        "source": "i_shochu",
-        "target": "r_Plum Wine",
         "value": 1
     },
     {
@@ -3225,16 +3135,6 @@
         "value": 1
     },
     {
-        "source": "i_maple syrup",
-        "target": "r_Homemade Fruit Granola (Furugura)",
-        "value": 1
-    },
-    {
-        "source": "i_salt",
-        "target": "r_Homemade Fruit Granola (Furugura)",
-        "value": 1
-    },
-    {
         "source": "i_egg",
         "target": "r_The Best French Toast",
         "value": 1
@@ -3352,11 +3252,6 @@
     {
         "source": "i_salt",
         "target": "r_Japanese Salted Salmon (Shiojake/Shiozake)",
-        "value": 1
-    },
-    {
-        "source": "i_egg",
-        "target": "r_How to Make Perfect Hard Boiled Eggs",
         "value": 1
     },
     {
@@ -5100,11 +4995,6 @@
         "value": 1
     },
     {
-        "source": "i_oil",
-        "target": "r_Frozen Chocolate Banana",
-        "value": 1
-    },
-    {
         "source": "i_water",
         "target": "r_Fruit Jelly",
         "value": 1
@@ -5192,16 +5082,6 @@
     {
         "source": "i_heavy whipping cream",
         "target": "r_Green Tea Chocolate",
-        "value": 1
-    },
-    {
-        "source": "i_matcha",
-        "target": "r_Green Tea Cookie (Vegan)",
-        "value": 1
-    },
-    {
-        "source": "i_sugar",
-        "target": "r_Green Tea Cookie (Vegan)",
         "value": 1
     },
     {
@@ -5800,16 +5680,6 @@
         "value": 1
     },
     {
-        "source": "i_yogurt",
-        "target": "r_Mango Lassi Popsicles",
-        "value": 1
-    },
-    {
-        "source": "i_Simple Syrup",
-        "target": "r_Mango Lassi Popsicles",
-        "value": 1
-    },
-    {
         "source": "i_water",
         "target": "r_Manju",
         "value": 1
@@ -6390,11 +6260,6 @@
         "value": 1
     },
     {
-        "source": "i_heavy whipping cream",
-        "target": "r_Nama Chocolate",
-        "value": 1
-    },
-    {
         "source": "i_water",
         "target": "r_No-Bake Creme Caramel (Japanese Purin)",
         "value": 1
@@ -6652,16 +6517,6 @@
     {
         "source": "i_whipped cream",
         "target": "r_Fruit Parfait (Strawberry Parfait & Chocolate Banana Parfait)",
-        "value": 1
-    },
-    {
-        "source": "i_sugar",
-        "target": "r_5 Ingredient Peanut Butter Chocolate Chip Cookies",
-        "value": 1
-    },
-    {
-        "source": "i_large egg",
-        "target": "r_5 Ingredient Peanut Butter Chocolate Chip Cookies",
         "value": 1
     },
     {
@@ -7305,16 +7160,6 @@
         "value": 1
     },
     {
-        "source": "i_taro",
-        "target": "r_Taro Tapioca Dessert Soup",
-        "value": 1
-    },
-    {
-        "source": "i_sugar",
-        "target": "r_Taro Tapioca Dessert Soup",
-        "value": 1
-    },
-    {
         "source": "i_butter",
         "target": "r_Sweet Tart Crust",
         "value": 1
@@ -7375,16 +7220,6 @@
         "value": 1
     },
     {
-        "source": "i_kabocha",
-        "target": "r_Tsukimi Dango",
-        "value": 1
-    },
-    {
-        "source": "i_water",
-        "target": "r_Tsukimi Dango",
-        "value": 1
-    },
-    {
         "source": "i_water",
         "target": "r_Ujikintoki (Green Tea Shaved Ice)",
         "value": 1
@@ -7427,16 +7262,6 @@
     {
         "source": "i_sugar",
         "target": "r_Warabi Mochi",
-        "value": 1
-    },
-    {
-        "source": "i_sugar",
-        "target": "r_White Bean Paste (Shiroan)",
-        "value": 1
-    },
-    {
-        "source": "i_salt",
-        "target": "r_White Bean Paste (Shiroan)",
         "value": 1
     },
     {
@@ -11280,16 +11105,6 @@
         "value": 1
     },
     {
-        "source": "i_Japanese mayonnaise",
-        "target": "r_Croquette Sandwich",
-        "value": 1
-    },
-    {
-        "source": "i_tonkatsu sauce",
-        "target": "r_Croquette Sandwich",
-        "value": 1
-    },
-    {
         "source": "i_oil",
         "target": "r_Cucumber and Chicken Marinated in Chili Oil",
         "value": 1
@@ -12716,11 +12531,6 @@
     },
     {
         "source": "i_rice",
-        "target": "r_Gobo and Miso Takikomi Gohan",
-        "value": 1
-    },
-    {
-        "source": "i_chikuwa",
         "target": "r_Gobo and Miso Takikomi Gohan",
         "value": 1
     },
@@ -14502,11 +14312,6 @@
     {
         "source": "i_pork baby back ribs",
         "target": "r_Instant Pot Sticky Asian Ribs",
-        "value": 1
-    },
-    {
-        "source": "i_salt",
-        "target": "r_Japanese Baked Sea Bream",
         "value": 1
     },
     {
@@ -19085,16 +18890,6 @@
         "value": 1
     },
     {
-        "source": "i_salmon",
-        "target": "r_Salmon Kasuzuke (Sake Lees Marinated Salmon)",
-        "value": 1
-    },
-    {
-        "source": "i_salt",
-        "target": "r_Salmon Kasuzuke (Sake Lees Marinated Salmon)",
-        "value": 1
-    },
-    {
         "source": "i_oil",
         "target": "r_Salmon Nanbanzuke",
         "value": 1
@@ -19282,16 +19077,6 @@
     {
         "source": "i_salmon",
         "target": "r_Sanshoku Bento",
-        "value": 1
-    },
-    {
-        "source": "i_oil",
-        "target": "r_Santa Maria Tri Tip",
-        "value": 1
-    },
-    {
-        "source": "i_black pepper",
-        "target": "r_Santa Maria Tri Tip",
         "value": 1
     },
     {
@@ -19757,16 +19542,6 @@
     {
         "source": "i_soy sauce",
         "target": "r_Shio Koji Karaage",
-        "value": 1
-    },
-    {
-        "source": "i_shio koji",
-        "target": "r_Shio Koji Salmon",
-        "value": 1
-    },
-    {
-        "source": "i_salmon",
-        "target": "r_Shio Koji Salmon",
         "value": 1
     },
     {
@@ -20282,26 +20057,6 @@
     {
         "source": "i_flour",
         "target": "r_Smoked Miso Butter Turkey Breast",
-        "value": 1
-    },
-    {
-        "source": "i_black pepper",
-        "target": "r_Smoked Tri-Tip with Stovetop Smoker",
-        "value": 1
-    },
-    {
-        "source": "i_salt",
-        "target": "r_Smoked Tri-Tip with Stovetop Smoker",
-        "value": 1
-    },
-    {
-        "source": "i_black pepper",
-        "target": "r_Smoked Wagyu Brisket",
-        "value": 1
-    },
-    {
-        "source": "i_salt",
-        "target": "r_Smoked Wagyu Brisket",
         "value": 1
     },
     {
@@ -21700,16 +21455,6 @@
         "value": 1
     },
     {
-        "source": "i_rice",
-        "target": "r_Tendon (Tempura Rice Bowl)",
-        "value": 1
-    },
-    {
-        "source": "i_shrimp tempura",
-        "target": "r_Tendon (Tempura Rice Bowl)",
-        "value": 1
-    },
-    {
         "source": "i_oil",
         "target": "r_Teppanyaki with Homemade Sauce",
         "value": 1
@@ -22902,16 +22647,6 @@
     {
         "source": "i_soy sauce",
         "target": "r_Udon Noodle Soup (Kake Udon)",
-        "value": 1
-    },
-    {
-        "source": "i_salt",
-        "target": "r_Ume Miso Chicken",
-        "value": 1
-    },
-    {
-        "source": "i_chicken thighs",
-        "target": "r_Ume Miso Chicken",
         "value": 1
     },
     {
@@ -26545,27 +26280,12 @@
         "value": 1
     },
     {
-        "source": "i_chikuwa",
-        "target": "r_Chikuwa Cucumber",
-        "value": 1
-    },
-    {
-        "source": "i_cucumber",
-        "target": "r_Chikuwa Cucumber",
-        "value": 1
-    },
-    {
         "source": "i_oil",
         "target": "r_Chikuwa Isobeage",
         "value": 1
     },
     {
         "source": "i_water",
-        "target": "r_Chikuwa Isobeage",
-        "value": 1
-    },
-    {
-        "source": "i_chikuwa",
         "target": "r_Chikuwa Isobeage",
         "value": 1
     },
@@ -26990,16 +26710,6 @@
         "value": 1
     },
     {
-        "source": "i_ham",
-        "target": "r_Ham Flower",
-        "value": 1
-    },
-    {
-        "source": "i_red radish",
-        "target": "r_Ham Flower",
-        "value": 1
-    },
-    {
         "source": "i_oil",
         "target": "r_Hijiki Seaweed Salad",
         "value": 1
@@ -27091,21 +26801,6 @@
     },
     {
         "source": "i_water",
-        "target": "r_How to Cook Rice in Donabe",
-        "value": 1
-    },
-    {
-        "source": "i_rice",
-        "target": "r_How To Cook Japanese Rice in a Pot on the Stove",
-        "value": 1
-    },
-    {
-        "source": "i_water",
-        "target": "r_How To Cook Japanese Rice in a Pot on the Stove",
-        "value": 1
-    },
-    {
-        "source": "i_water",
         "target": "r_How To Enjoy Japanese Mochi",
         "value": 1
     },
@@ -27140,16 +26835,6 @@
         "value": 1
     },
     {
-        "source": "i_toasted black sesame seeds",
-        "target": "r_How To Make Octopus Sausage",
-        "value": 1
-    },
-    {
-        "source": "i_water",
-        "target": "r_How To Make Rice in a Rice Cooker",
-        "value": 1
-    },
-    {
         "source": "i_water",
         "target": "r_How to Make Sushi Rice (for Sushi Recipes)",
         "value": 1
@@ -27180,26 +26865,6 @@
         "value": 1
     },
     {
-        "source": "i_shochu",
-        "target": "r_Umeboshi (Japanese Sour Salted Plums)",
-        "value": 1
-    },
-    {
-        "source": "i_salt",
-        "target": "r_Umeboshi (Japanese Sour Salted Plums)",
-        "value": 1
-    },
-    {
-        "source": "i_water",
-        "target": "r_How to Cook Brown Rice (Instant Pot Brown Rice)",
-        "value": 1
-    },
-    {
-        "source": "i_salt",
-        "target": "r_How to Cook Brown Rice (Instant Pot Brown Rice)",
-        "value": 1
-    },
-    {
         "source": "i_water",
         "target": "r_Instant Pot Kuromame",
         "value": 1
@@ -27222,16 +26887,6 @@
     {
         "source": "i_soy sauce",
         "target": "r_Instant Pot Kuromame",
-        "value": 1
-    },
-    {
-        "source": "i_rice",
-        "target": "r_How to Make Japanese Rice in an Instant Pot",
-        "value": 1
-    },
-    {
-        "source": "i_water",
-        "target": "r_How to Make Japanese Rice in an Instant Pot",
         "value": 1
     },
     {
@@ -29037,16 +28692,6 @@
     {
         "source": "i_katsuobushi",
         "target": "r_Japanese Simmered Kabocha",
-        "value": 1
-    },
-    {
-        "source": "i_kabocha",
-        "target": "r_Simmered Kabocha with Shio Koji",
-        "value": 1
-    },
-    {
-        "source": "i_water",
-        "target": "r_Simmered Kabocha with Shio Koji",
         "value": 1
     },
     {

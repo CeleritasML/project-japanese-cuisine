@@ -34,6 +34,9 @@ for name in json_names:
                 i_name_clean = synonym[i_name_clean]
             ings_cleaned.append(i_name_clean)
         ings_cleaned = set(ings_cleaned)
+        # skip recipe with less than 3 ingredients
+        if len(ings_cleaned) < 3:
+            continue
         # count ingredient occurrence
         for i in ings_cleaned:
             ing_counter[i] += 1
@@ -46,7 +49,7 @@ links = []
 for rec, ings in all_json.items():
     # only keep ingredients with more than 3 occurrence
     ings = [i for i in ings if ing_counter[i] >= 3]
-    if len(ings) == 0:
+    if len(ings) < 3:
         continue
     recipes.append({'type': 'recipe',
                     'id': f'r_{rec}',

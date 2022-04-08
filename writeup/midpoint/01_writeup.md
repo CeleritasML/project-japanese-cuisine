@@ -72,8 +72,8 @@ In detail, we include more visual encodings to make the visualization more easy-
 - **Recipe split**: By using d3-force, recipe nodes with different category (appetizer, breakfast,…) are restricted around different height of the screen.
 - **Ingredient spilt**: By using d3-force, ingredient nodes with different category ( vegetable, protein,…) are also restricted around different height of the screen.
 - **Color of node*: The nodes are colored according to their category. And to better distinguish recipe/ingredient, they use two different color palettes.
-- **Hover tooltip**: Tooltips are added to every nodes to show the detail information of the node, see `intercation` part.
-- **Click action**: On clicking, the node been clicked and its adjacent nodes are highlighted while other nodes are set to low opacity, see `intercation` part.
+- **Hover tooltip**: Tooltips are added to every nodes to show the detail information of the node, see `interaction` part.
+- **Click action**: On clicking, the node been clicked and its adjacent nodes are highlighted while other nodes are set to low opacity, see `interaction` part.
 
 ## Progress
 

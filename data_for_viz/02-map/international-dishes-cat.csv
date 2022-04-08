@@ -1,0 +1,11 @@
+name,code,dessert,entree,breakfast,beverage,salad,side,soup-stew,appetizer
+United States,USA,28,13,8,7,6,5,4,3
+"Korea, Republic Of",KOR,0,2,0,0,0,5,2,1
+France,FRA,4,0,0,0,1,0,1,0
+Italy,ITA,1,4,0,0,0,0,0,0
+China,CHN,2,3,0,0,0,1,1,1
+Philippines,PHL,0,3,0,0,0,0,1,0
+India,IND,0,0,0,1,0,0,0,0
+Mexico,MEX,0,1,0,0,0,0,0,0
+Taiwan,TWN,0,0,0,0,0,0,1,0
+Thailand,THA,0,1,0,0,0,0,1,1

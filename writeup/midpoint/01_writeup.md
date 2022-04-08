@@ -2,16 +2,16 @@
 
 Author: Jingsong Gao
 
-## Design Rational
+## Design Rationale
 
 ### interaction
 
-By using d3.js, users are able to interact with the visualization by:
+By using d3.js, we allow users to interact with the visualization by:
 
-- zoom in/out the network to change the visual scale
-- drag the network to translate the visualization
-- click on nodes to show the adjacent nodes (recipe node only have adjacent ingredient nodes, vice versa)
-- hover on nodes to show the detail information of nodes(type of node, name of recipe/ingredient, category, degree of node)
+- zooming in/out the network to change the visual scale
+- dragging the network to translate the visualization
+- clicking on nodes to show the adjacent nodes (recipe node only have adjacent ingredient nodes, vice versa)
+- hovering on nodes to show the detail information of nodes(type of node, name of recipe/ingredient, category, degree of node)
 
 ### data abstraction
 
@@ -19,7 +19,7 @@ By using d3.js, users are able to interact with the visualization by:
 
 The dataset used in this visualization is a single JSON file with the structure below.
 
-```
+```json
 {
     "recipes": [
         {
@@ -89,11 +89,11 @@ This core network visualization successfully enables user to explore the relatio
 
 ### todo list
 
-- Add legends for node colors
-- Tweak positions of node groups
-- Add selection of multiple nodes or a node group
-- Add search bar to locate nodes by name/category
-- Tweak styles
+- [ ] Add legends for node colors
+- [ ] Tweak positions of node groups
+- [ ] Add selection of multiple nodes or a node group
+- [ ] Add search bar to locate nodes by name/category
+- [ ] Tweak styles
 
 ## Screenshots
 

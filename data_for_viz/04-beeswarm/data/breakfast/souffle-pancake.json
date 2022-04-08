@@ -1,0 +1,147 @@
+{
+    "name": "Fluffy Japanese Souffl\u00e9 Pancakes",
+    "summary": "These Fluffy Japanese Souffl\u00e9 Pancakes are like eating cottony clouds, but even better with homemade whipped cream and fresh berries!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/02/Fluffy-Japanese-Souffle-Pancakes-2-I-2-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "souffle pancake"
+    ],
+    "ingredients": [
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "whole milk",
+            "raw_text": "whole milk"
+        },
+        {
+            "name": "pure vanilla extract",
+            "raw_text": "pure vanilla extract"
+        },
+        {
+            "name": "cake flour",
+            "raw_text": "cake flour"
+        },
+        {
+            "name": "baking powder",
+            "raw_text": "baking powder"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "heavy whipping cream",
+            "raw_text": "heavy whipping cream"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "confectioners\u2019 sugar/powdered sugar",
+            "raw_text": "confectioners\u2019 sugar/powdered sugar"
+        },
+        {
+            "name": "fresh berries",
+            "raw_text": "fresh berries"
+        },
+        {
+            "name": "maple syrup",
+            "raw_text": "maple syrup"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "168",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "18",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "125",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "122",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "67",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "192",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "69",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

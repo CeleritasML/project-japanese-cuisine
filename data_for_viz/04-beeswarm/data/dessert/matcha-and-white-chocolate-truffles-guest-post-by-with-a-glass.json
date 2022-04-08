@@ -1,0 +1,121 @@
+{
+    "name": "Matcha and White Chocolate Truffles",
+    "summary": "Slightly bitter, typical matcha taste, mellowed by the buttery creaminess of chocolate. Easy to make at home!\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2011/11/Matcha-and-White-Chocolate-Truffles-400x400.png",
+    "cuisine": [
+        "American"
+    ],
+    "keywords": [
+        "chocolate",
+        "coconut",
+        "matcha"
+    ],
+    "ingredients": [
+        {
+            "name": "white chocolate",
+            "raw_text": "white chocolate"
+        },
+        {
+            "name": "liquid cream \"medium/coffee cream\"",
+            "raw_text": "liquid cream \"medium/coffee cream\""
+        },
+        {
+            "name": "matcha",
+            "raw_text": "matcha (green tea powder)"
+        },
+        {
+            "name": "unsweetened cocoa powder",
+            "raw_text": "unsweetened cocoa powder"
+        },
+        {
+            "name": "ground almonds",
+            "raw_text": "ground almonds"
+        },
+        {
+            "name": "desiccated coconut",
+            "raw_text": "desiccated coconut"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "67",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "8",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "9",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "36",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "96",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "20",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

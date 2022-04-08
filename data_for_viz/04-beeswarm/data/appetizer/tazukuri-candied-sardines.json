@@ -1,0 +1,129 @@
+{
+    "name": "Tazukuri (Candied Sardines)",
+    "summary": "Toasted baby sardines and sesame seeds coated in a sweet honey soy sauce glaze, Tazukuri is a crispy savory snack commonly served as part of Osechi Ryori. They are also great little bites to enjoy with a cold beer!\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/12/Tazukuri-3757-III-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "iriko",
+        "osechi",
+        "osechi ryori"
+    ],
+    "ingredients": [
+        {
+            "name": "tazukuri",
+            "raw_text": "tazukuri (dried baby sardines/anchovies)"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "honey",
+            "raw_text": "honey"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "red chili pepper",
+            "raw_text": "red chili pepper"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "92",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "72",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "313",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "210",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "107",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "16",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "272",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

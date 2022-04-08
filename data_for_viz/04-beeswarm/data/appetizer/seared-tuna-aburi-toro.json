@@ -1,0 +1,108 @@
+{
+    "name": "Seared Tuna Sashimi (Aburi Toro)",
+    "summary": "Mouthwatering seared Otoro tuna recipe, super fatty tuna belly seared with blow torch, enjoy with yuzu extract and garnish with green onion.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2011/11/Seared-Tuna-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "fatty tuna",
+        "sashimi"
+    ],
+    "ingredients": [
+        {
+            "name": "sashimi-grade super fatty tuna belly",
+            "raw_text": "sashimi-grade super fatty tuna belly (otoro)"
+        },
+        {
+            "name": "green onion/scallion",
+            "raw_text": "green onion/scallion"
+        },
+        {
+            "name": "yuzu",
+            "raw_text": "yuzu"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "246",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "40",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "65",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "66",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "437",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "3721",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "15",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

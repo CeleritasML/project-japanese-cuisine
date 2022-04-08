@@ -1,0 +1,124 @@
+{
+    "name": "Sata Andagi",
+    "summary": "Only 3 ingredients to make a deliciously sweet Okinawan treat called Sata Andagi. It\u2019s a type of deep fried doughnut popular in Okinawa that is the winning combination of crispy and cakey!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2018/05/Sata-Andagi-w600-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "black sugar",
+        "okinawan food"
+    ],
+    "ingredients": [
+        {
+            "name": "large egg",
+            "raw_text": "large egg (50 g w/o shell)"
+        },
+        {
+            "name": "black sugar",
+            "raw_text": "black sugar"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "cake flour",
+            "raw_text": "cake flour"
+        },
+        {
+            "name": "baking powder",
+            "raw_text": "baking powder"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "140",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "23",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "80",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "30",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "34",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "36",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

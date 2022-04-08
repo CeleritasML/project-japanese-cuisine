@@ -1,0 +1,142 @@
+{
+    "name": "Instant Pot Short Ribs (Pressure Cooker)",
+    "summary": "Favorite Instant Pot Short Ribs Recipe. Boneless short ribs are cooked with daikon and carrots in a savory sauce until moist and tender. A beautiful dinner gets done in 30 mins!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2015/12/Pressure-Cooker-Short-Ribs-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "boneless short rib",
+        "instant pot"
+    ],
+    "ingredients": [
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "daikon radish",
+            "raw_text": "daikon radish"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "green onion/scallion",
+            "raw_text": "green onion/scallion"
+        },
+        {
+            "name": "boneless beef short ribs",
+            "raw_text": "boneless beef short ribs"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "brown sugar",
+            "raw_text": "brown sugar"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "626",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "23",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "54",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "32",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "156",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "871",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1457",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "7935",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "32",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "91",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "7",
+            "unit": "mg"
+        }
+    ]
+}

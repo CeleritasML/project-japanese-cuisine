@@ -1,0 +1,113 @@
+{
+    "name": "Bacon-Wrapped Asparagus",
+    "summary": "For a quick delicious bento side dish, try this bacon wrapped asparagus. Roll them up with a toothpick, it will be the favorite item to devour on.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2013/09/Bacon-Wrapped-Asparagus-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "asparagus",
+        "bacon"
+    ],
+    "ingredients": [
+        {
+            "name": "asparagus",
+            "raw_text": "asparagus"
+        },
+        {
+            "name": "bacon",
+            "raw_text": "bacon"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "47",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "7",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "73",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "34",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "49",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "2",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

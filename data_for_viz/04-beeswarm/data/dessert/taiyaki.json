@@ -1,0 +1,128 @@
+{
+    "name": "Taiyaki",
+    "summary": "A classic street vendor snack in Japan, Taiyaki is a warm fish-shape cake with red bean filling. This waffle-like Japanese snack is very popular at street fairs and festivals in Japan. In this recipe, I'll show you how you can make fresh hot Taiyaki at home.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/03/Taiyaki-9851-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "cake",
+        "red bean paste"
+    ],
+    "ingredients": [
+        {
+            "name": "cake flour",
+            "raw_text": "cake flour"
+        },
+        {
+            "name": "baking powder",
+            "raw_text": "baking powder"
+        },
+        {
+            "name": "baking soda",
+            "raw_text": "baking soda"
+        },
+        {
+            "name": "large egg",
+            "raw_text": "large egg (50 g w/o shell)"
+        },
+        {
+            "name": "whole milk",
+            "raw_text": "whole milk"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "red bean paste",
+            "raw_text": "red bean paste (anko)"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "232",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "41",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "41",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "355",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "181",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "120",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "106",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

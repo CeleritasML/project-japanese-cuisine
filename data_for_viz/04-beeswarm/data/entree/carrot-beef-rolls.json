@@ -1,0 +1,114 @@
+{
+    "name": "Carrot Beef Rolls",
+    "summary": "Simple Japanese home cooking recipe on how to make carrot beef rolls. Super yummy over rice or as a side dish!\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/03/Carrot-Beef-Rolls-5803-I-3-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "beef",
+        "carrot"
+    ],
+    "ingredients": [
+        {
+            "name": "thinly sliced beef",
+            "raw_text": "thinly sliced beef (chuck or rib eye)"
+        },
+        {
+            "name": "carrots",
+            "raw_text": "carrots"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "307",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "17",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "52",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "778",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "552",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "14222",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "5",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "38",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "name": "Inari Sushi",
+    "summary": "Made of vinegared rice tucked inside little deep-fried tofu pockets, Inari sushi is easily one of the easiest sushi to make at home.\u00a0It's vegetarian and vegan friendly too!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/12/Inari-Sushi-5294-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "sushi"
+    ],
+    "ingredients": [
+        {
+            "name": "uncooked Japanese short-grain rice",
+            "raw_text": "uncooked Japanese short-grain rice"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "kombu",
+            "raw_text": "kombu (dried kelp)"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "Inari age",
+            "raw_text": "Inari age (seasoned fried tofu pouch)"
+        },
+        {
+            "name": "sushi ginger",
+            "raw_text": "sushi ginger (gari)"
+        },
+        {
+            "name": "shiso leaves",
+            "raw_text": "shiso leaves"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "98",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "18",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "124",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "25",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "1",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "11",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

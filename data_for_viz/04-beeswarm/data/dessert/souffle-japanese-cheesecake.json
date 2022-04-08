@@ -1,0 +1,144 @@
+{
+    "name": "Japanese Cheesecake",
+    "summary": "Light and fluffy, Japanese Cheesecake is a delicious gift for a real cheesecake lover. It\u2019s a melt-in-your-mouth combination of creamy cheesecake and airy souffl\u00e9. A second (or more) serving is a guarantee!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/11/Japanese-Cheesecake-4631-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "cheesecake",
+        "souffle"
+    ],
+    "ingredients": [
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "cream cheese",
+            "raw_text": "cream cheese"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "heavy whipping cream",
+            "raw_text": "heavy whipping cream"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "cake flour",
+            "raw_text": "cake flour"
+        },
+        {
+            "name": "lemon",
+            "raw_text": "lemon"
+        },
+        {
+            "name": "lemon juice",
+            "raw_text": "lemon juice"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "apricot jam",
+            "raw_text": "apricot jam"
+        },
+        {
+            "name": "hot water",
+            "raw_text": "hot water"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "9",
+            "unit": "inch cake"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "3560",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "266",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "70",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "252",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "142",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "1838",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1488",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1137",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "189",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "10053",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "21",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "631",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "8",
+            "unit": "mg"
+        }
+    ]
+}

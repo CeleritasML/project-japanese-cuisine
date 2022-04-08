@@ -1,0 +1,134 @@
+{
+    "name": "Green Tea Chiffon Cake",
+    "summary": "Made with eggs, sugar, vegetable oil, cake flour, and green tea powder, this matcha green tea chiffon cake is moist and spongy. Perfect for a light afternoon snack!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/01/Green-Tea-Chiffon-Cake-2136-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "chiffon cake",
+        "green tea powder",
+        "matcha"
+    ],
+    "ingredients": [
+        {
+            "name": "large egg yolks",
+            "raw_text": "large egg yolks"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "cake flour",
+            "raw_text": "cake flour"
+        },
+        {
+            "name": "matcha",
+            "raw_text": "matcha (green tea powder)"
+        },
+        {
+            "name": "baking powder",
+            "raw_text": "baking powder"
+        },
+        {
+            "name": "large egg white",
+            "raw_text": "large egg white"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "1",
+            "unit": "17-cm cake"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "1173",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "143",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "33",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "52",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "24",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "553",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "616",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "294",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "86",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "1237",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "328",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "name": "Pickled Daikon",
+    "summary": "Marinated in rice vinegar, sake, chili pepper, sugar, and salt, this easy Japanese Pickled Daikon recipe makes the best accompaniment to many of your main dishes. It's tangy, slightly sweet and refreshingly crunchy.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/08/Pickled-Daikon-1642-I-2-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "daikon",
+        "pickle",
+        "tukemono"
+    ],
+    "ingredients": [
+        {
+            "name": "daikon radish",
+            "raw_text": "daikon radish"
+        },
+        {
+            "name": "dried red chili pepper",
+            "raw_text": "dried red chili pepper"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "34",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "296",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "173",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "22",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "17",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "21",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

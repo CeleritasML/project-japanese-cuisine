@@ -1,0 +1,110 @@
+{
+    "name": "Pounded Burdock Root with Sesame Sauce (Tataki Gobo)",
+    "summary": "Dressed in a delicious sesame sauce, this Pounded Burdock Root (Tataki Gobo) is a popular dish appeared in Osechi, Japanese New Year Food, which is said to bring good luck.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2018/12/Tataki-Gobo-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "burdock root",
+        "gobo",
+        "sesame sauce"
+    ],
+    "ingredients": [
+        {
+            "name": "gobo",
+            "raw_text": "gobo (burdock root)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "63",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "245",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "134",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "1",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "88",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

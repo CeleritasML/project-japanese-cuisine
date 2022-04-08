@@ -1,0 +1,116 @@
+{
+    "name": "5 Ingredient Peanut Butter Chocolate Chip Cookies",
+    "summary": "Tasty cookies with just 5 ingredients! Peanut butter, Eggs, white and brown sugars, and chocolate chips. I used extra crunch peanut butter for the crunchy texture!\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2011/12/Peanut-Butter-Chocolate-Chip-Cookies-w600-400x400.jpg",
+    "cuisine": [
+        "American"
+    ],
+    "keywords": [
+        "chocolate",
+        "cookie"
+    ],
+    "ingredients": [
+        {
+            "name": "extra crunchy peanut butter",
+            "raw_text": "extra crunchy peanut butter"
+        },
+        {
+            "name": "large egg",
+            "raw_text": "large egg (50 g w/o shell)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "brown sugar",
+            "raw_text": "brown sugar"
+        },
+        {
+            "name": "semi-sweet chocolate chips",
+            "raw_text": "semi-sweet chocolate chips"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "169",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "18",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "12",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "81",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "137",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "19",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "17",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

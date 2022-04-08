@@ -1,0 +1,136 @@
+{
+    "name": "Shishamo Wrap",
+    "summary": "Japanese Shishamo (smelt) wrapped in crispy egg roll wrapper and shiso leaves, enjoy with lemon, matcha salt, or shichimi for different flavors.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2011/08/Shishamo-Wrap-e1314513408151-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "egg roll",
+        "shishamo"
+    ],
+    "ingredients": [
+        {
+            "name": "shishamo",
+            "raw_text": "shishamo (smelt)"
+        },
+        {
+            "name": "egg roll",
+            "raw_text": "egg roll (harumaki) wrappers"
+        },
+        {
+            "name": "shiso leaves",
+            "raw_text": "shiso leaves (perilla/ooba)"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "lemon",
+            "raw_text": "lemon"
+        },
+        {
+            "name": "shichimi togarashi",
+            "raw_text": "shichimi togarashi (Japanese seven spice)"
+        },
+        {
+            "name": "matcha",
+            "raw_text": "matcha (green tea powder)"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "310",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "23",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "162",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "441",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "228",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "36",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "200",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

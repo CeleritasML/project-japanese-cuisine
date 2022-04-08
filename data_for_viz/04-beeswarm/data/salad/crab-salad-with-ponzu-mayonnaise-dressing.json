@@ -1,0 +1,120 @@
+{
+    "name": "Japanese Kani Salad",
+    "summary": "This healthy and flavorful Japanese Kani Salad\u00a0is so\u00a0easy to whip up, and it's absolutely amazing when tossed in a light and refreshing ponzu mayonnaise dressing! It's\u00a0guaranteed to be a hit with your entire family!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/01/Japanese-Kani-Salad-6446-I-300x200.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "crab",
+        "japanese mayonnaise",
+        "ponzu"
+    ],
+    "ingredients": [
+        {
+            "name": "imitation crab meat",
+            "raw_text": "imitation crab meat (kanikama)"
+        },
+        {
+            "name": "English cucumber",
+            "raw_text": "English cucumber"
+        },
+        {
+            "name": "frozen or canned corn",
+            "raw_text": "frozen or canned corn"
+        },
+        {
+            "name": "Japanese mayonnaise",
+            "raw_text": "Japanese mayonnaise"
+        },
+        {
+            "name": "Ponzu",
+            "raw_text": "Ponzu"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "121",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "7",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "370",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "115",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "100",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "2",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "27",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

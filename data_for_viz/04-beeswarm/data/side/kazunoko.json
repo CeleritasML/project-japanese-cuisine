@@ -1,0 +1,118 @@
+{
+    "name": "Kazunoko (Herring Roe)",
+    "summary": "Kazunoko, herring roe marinated in dashi soy seasoning, is one of the popular Japanese New Year dishes. This prized delicacy symbolizes a prosperous family and wishes for many children and grandchildren.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/12/Kazunoko-5249-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "Japanese New Year",
+        "osechi",
+        "osechi ryori"
+    ],
+    "ingredients": [
+        {
+            "name": "salted herring roes",
+            "raw_text": "salted herring roes"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "dashi",
+            "raw_text": "dashi (Japanese soup stock; click to learn more)"
+        },
+        {
+            "name": "usukuchi",
+            "raw_text": "usukuchi (light-colored) soy sauce"
+        },
+        {
+            "name": "katsuobushi",
+            "raw_text": "katsuobushi (dried bonito flakes)"
+        },
+        {
+            "name": "katsuobushi",
+            "raw_text": "katsuobushi (dried bonito flakes)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "41",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "49",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "385",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "4",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "50",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

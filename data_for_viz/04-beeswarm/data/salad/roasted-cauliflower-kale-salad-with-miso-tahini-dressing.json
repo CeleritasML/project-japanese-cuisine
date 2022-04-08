@@ -1,0 +1,126 @@
+{
+    "name": "Roasted Cauliflower Kale Salad with Miso Tahini Dressing",
+    "summary": "Dressed with creamy and savory miso tahini dressing, this Roasted Cauliflower Kale Salad is packed with delicious caramelized cauliflower, kale, sweet glazed pecans, and crunchy croutons. It\u2019s nutritious and filling. A welcome addition to the holiday table.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2018/11/roasted-cauliflower-kale-salad-with-miso-tahini-dressing-I-2-500x500.jpg",
+    "cuisine": [
+        "American"
+    ],
+    "keywords": [
+        "cauliflower",
+        "kale",
+        "salad"
+    ],
+    "ingredients": [
+        {
+            "name": "cauliflower",
+            "raw_text": "cauliflower"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "red onion",
+            "raw_text": "red onion"
+        },
+        {
+            "name": "kale",
+            "raw_text": "kale"
+        },
+        {
+            "name": "glazed pecans",
+            "raw_text": "glazed pecans"
+        },
+        {
+            "name": "croutons",
+            "raw_text": "croutons"
+        },
+        {
+            "name": "tahini sauce",
+            "raw_text": "tahini sauce"
+        },
+        {
+            "name": "All-Purpose Miso Sauce",
+            "raw_text": "All-Purpose Miso Sauce (homemade)"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "256",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "21",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "604",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "648",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "3259",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "109",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "103",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

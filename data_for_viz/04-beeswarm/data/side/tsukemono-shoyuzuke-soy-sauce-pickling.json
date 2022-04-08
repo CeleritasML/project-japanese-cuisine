@@ -1,0 +1,105 @@
+{
+    "name": "Tsukemono \u2013 Shoyuzuke (Soy Sauce Pickling)",
+    "summary": "Shoyuzuke or Soy Sauce Pickling is one of the easiest Tsukemono (Japanese pickles ) you can make at home! Pickle fresh seasonal vegetables and serve along with your Japanese meal.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/03/Shoyuzuke-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "pickle"
+    ],
+    "ingredients": [
+        {
+            "name": "Komatsuna",
+            "raw_text": "Komatsuna"
+        },
+        {
+            "name": "red chili pepper",
+            "raw_text": "red chili pepper"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "27",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "332",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "402",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "71",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "40",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "130",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

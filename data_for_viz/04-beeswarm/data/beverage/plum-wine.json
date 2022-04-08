@@ -1,0 +1,95 @@
+{
+    "name": "Plum Wine",
+    "summary": "Plum Wine or Umeshu is a Japanese liqueur made by steeping fresh Japanese plum (ume) in shochu/white liquor and sugar. The sweet and sour flavors with fruity aroma is very appealing and you can make many kinds of drinks with it! Inspired by the Japanese drama \u2013 Midnight Diner.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2018/05/Umeshu-w600-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "plum drink",
+        "umeshu"
+    ],
+    "ingredients": [
+        {
+            "name": "green ume plums",
+            "raw_text": "green ume plums"
+        },
+        {
+            "name": "white rock sugar",
+            "raw_text": "white rock sugar"
+        },
+        {
+            "name": "shochu",
+            "raw_text": "shochu"
+        },
+        {
+            "name": "green ume plums",
+            "raw_text": "green ume plums"
+        },
+        {
+            "name": "white rock sugar",
+            "raw_text": "white rock sugar"
+        },
+        {
+            "name": "shochu",
+            "raw_text": "shochu"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "1",
+            "unit": "L"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "3693",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "10",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "129",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "403",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "3",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "6",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

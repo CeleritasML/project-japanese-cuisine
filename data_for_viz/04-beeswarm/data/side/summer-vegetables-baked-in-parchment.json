@@ -1,0 +1,151 @@
+{
+    "name": "Summer Vegetables Baked in Parchment Paper",
+    "summary": "Summer Vegetables Baked in Parchment Paper - a delicious & healthy dish lightly sweetened with a maple miso sauce.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2013/08/Summer-Vegetables-Baked-in-Parchment-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "miso",
+        "vegetable"
+    ],
+    "ingredients": [
+        {
+            "name": "asparagus",
+            "raw_text": "asparagus"
+        },
+        {
+            "name": "mushrooms",
+            "raw_text": "mushrooms"
+        },
+        {
+            "name": "baby carrots",
+            "raw_text": "baby carrots"
+        },
+        {
+            "name": "baby bell peppers",
+            "raw_text": "baby bell peppers"
+        },
+        {
+            "name": "baby zucchinis",
+            "raw_text": "baby zucchinis"
+        },
+        {
+            "name": "baby squash",
+            "raw_text": "baby squash"
+        },
+        {
+            "name": "fresh thyme",
+            "raw_text": "fresh thyme"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "large egg white",
+            "raw_text": "large egg white"
+        },
+        {
+            "name": "M1nute Miso",
+            "raw_text": "M1nute Miso (liquid miso)"
+        },
+        {
+            "name": "maple syrup",
+            "raw_text": "maple syrup"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "154",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "26",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "484",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1800",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "5574",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "150",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "128",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "5",
+            "unit": "mg"
+        }
+    ]
+}

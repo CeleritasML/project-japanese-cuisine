@@ -1,0 +1,165 @@
+{
+    "name": "Teriyaki Pork Donburi",
+    "summary": "Quick, easy, and delicious Teriyaki Pork Donburi. There's protein, carb, and salad layered in a bowl. A perfect one-pan and one-bowl meal for weeknight dinner.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2018/01/Teriyaki-Pork-Donburi-w600-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "donburi",
+        "over rice"
+    ],
+    "ingredients": [
+        {
+            "name": "boneless pork loin chops",
+            "raw_text": "boneless pork loin chops (\u00bd-inch thick)"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "iceberg lettuce",
+            "raw_text": "iceberg lettuce"
+        },
+        {
+            "name": "green onions/scallions",
+            "raw_text": "green onions/scallions"
+        },
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "cherry tomatoes",
+            "raw_text": "cherry tomatoes"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "353",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "45",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "18",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "37",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1045",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "409",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "243",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "8",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "26",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

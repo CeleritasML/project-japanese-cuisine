@@ -1,0 +1,115 @@
+{
+    "name": "Massaged Kale Salad with Mango",
+    "summary": "Refreshing and Easy Kale Salad with blood orange infused olive oil and mango! A super powerful green food that contain vitamin A, C, and K.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2013/06/Massaged-Kale-Salad-with-Mango-400x400.jpg",
+    "cuisine": [
+        "American"
+    ],
+    "keywords": [
+        "kale",
+        "mango"
+    ],
+    "ingredients": [
+        {
+            "name": "kale",
+            "raw_text": "kale"
+        },
+        {
+            "name": "lemon",
+            "raw_text": "lemon"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "champagne mango",
+            "raw_text": "champagne mango"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "206",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "27",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "40",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "705",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "11166",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "173",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "169",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

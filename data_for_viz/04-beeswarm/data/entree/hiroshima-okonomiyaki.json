@@ -1,0 +1,165 @@
+{
+    "name": "Hiroshima-style Okonomiyaki",
+    "summary": "Hiroshima-style Okonomiyaki is a Japanese savory pancake with cabbage, bean sprout, noodles, sliced pork belly and a fried egg, topped with savory sauce and Japanese mayo. Watch the video tutorial for step-by-step instructions!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/03/Hiroshima-OKonomiyaki-7692-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "cabbage",
+        "okonomiyaki"
+    ],
+    "ingredients": [
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "cabbage",
+            "raw_text": "cabbage"
+        },
+        {
+            "name": "green onion/scallion",
+            "raw_text": "green onion/scallion"
+        },
+        {
+            "name": "katsuobushi",
+            "raw_text": "katsuobushi (dried bonito flakes)"
+        },
+        {
+            "name": "tenkasu/agedama",
+            "raw_text": "tenkasu/agedama (tempura scraps)"
+        },
+        {
+            "name": "bean sprouts",
+            "raw_text": "bean sprouts"
+        },
+        {
+            "name": "tororo kombu",
+            "raw_text": "tororo kombu"
+        },
+        {
+            "name": "sliced pork belly",
+            "raw_text": "sliced pork belly"
+        },
+        {
+            "name": "yakisoba noodles",
+            "raw_text": "yakisoba noodles"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "Okonomiyaki Sauce",
+            "raw_text": "Okonomiyaki Sauce (homemade or store bought)"
+        },
+        {
+            "name": "Japanese mayonnaise",
+            "raw_text": "Japanese mayonnaise"
+        },
+        {
+            "name": "aonori",
+            "raw_text": "aonori (dried green laver seaweed)"
+        },
+        {
+            "name": "pickled red ginger",
+            "raw_text": "pickled red ginger (beni shoga or kizami beni shoga)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "919",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "91",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "31",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "48",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "260",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "605",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "649",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "634",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "48",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "134",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "6",
+            "unit": "mg"
+        }
+    ]
+}

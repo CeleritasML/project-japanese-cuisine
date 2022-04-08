@@ -1,0 +1,146 @@
+{
+    "name": "Tomato Bacon Pasta",
+    "summary": "Easy and savory tomato bacon pasta (spaghetti) recipe with sauteed bacon, onion, and tomato, great pasta recipe for bacon fans!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2012/01/Tomato-Bacon-Pasta-400x400.jpg",
+    "cuisine": [
+        "American"
+    ],
+    "keywords": [
+        "bacon",
+        "pasta",
+        "tomato"
+    ],
+    "ingredients": [
+        {
+            "name": "spaghetti",
+            "raw_text": "spaghetti"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "applewood smoked bacon",
+            "raw_text": "applewood smoked bacon"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "red chili pepper flakes",
+            "raw_text": "red chili pepper flakes"
+        },
+        {
+            "name": "diced tomatoes with juice",
+            "raw_text": "diced tomatoes with juice"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "chopped parsley",
+            "raw_text": "chopped parsley"
+        },
+        {
+            "name": "Parmigiano-Reggiano",
+            "raw_text": "Parmigiano-Reggiano (Parmesan) cheese"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "714",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "96",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "23",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "27",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "29",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "324",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "800",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "889",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "31",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "109",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "name": "Homemade Fruit Granola (Furugura)",
+    "summary": "Build your own Homemade Fruit Granola with healthy ingredients you like! It's incredibly simple, easy, flexible and fun. Make a big batch, so you could have it for breakfast or snack throughout the week.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/03/Easy-Homemade-Granola-\u2013-Copycat-Furugura-1613-I-500x500.jpg",
+    "cuisine": [
+        "American"
+    ],
+    "keywords": [
+        "granola"
+    ],
+    "ingredients": [
+        {
+            "name": "old-fashioned rolled oats",
+            "raw_text": "old-fashioned rolled oats"
+        },
+        {
+            "name": "puffed rice",
+            "raw_text": "puffed rice"
+        },
+        {
+            "name": "raw nuts and or seeds",
+            "raw_text": "raw nuts and or seeds"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "coconut oil",
+            "raw_text": "coconut oil"
+        },
+        {
+            "name": "maple syrup",
+            "raw_text": "maple syrup"
+        },
+        {
+            "name": "dried and freeze-dried fruits",
+            "raw_text": "dried and freeze-dried fruits"
+        },
+        {
+            "name": "coconut flakes",
+            "raw_text": "coconut flakes"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "491",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "48",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "31",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "148",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "369",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "5",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "66",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

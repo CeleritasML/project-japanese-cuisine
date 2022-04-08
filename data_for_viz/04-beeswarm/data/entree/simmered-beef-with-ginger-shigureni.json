@@ -1,0 +1,109 @@
+{
+    "name": "Simmered Beef with Ginger (Shigureni)",
+    "summary": "Sweet, salty, and intensely flavorful, this Simmered Beef with Ginger (Beef Shigureni) is a classic Japanese home-cooked dish. It's also a meal-prep favorite! Serve as a main or side dish to enjoy with steamed rice.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/06/Simmered-Beef-with-Ginger-Shigureni-2110-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "beef"
+    ],
+    "ingredients": [
+        {
+            "name": "thinly sliced beef",
+            "raw_text": "thinly sliced beef (chuck or rib eye)"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "319",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "25",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "69",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1020",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "337",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "17",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "10",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

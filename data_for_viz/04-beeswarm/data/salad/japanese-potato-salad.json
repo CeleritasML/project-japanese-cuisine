@@ -1,0 +1,145 @@
+{
+    "name": "Japanese Potato Salad",
+    "summary": "A classic, home-cooked dish for over one hundred years, Japanese Potato Salad is distinct because of its colorful addition of fresh vegetables, creamy texture, and rounded flavor. It's the ultimate crowd-pleaser!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/06/Japanese-Potato-Salad-9250-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "japanese mayonnaise",
+        "potato"
+    ],
+    "ingredients": [
+        {
+            "name": "russet potatoes",
+            "raw_text": "russet potatoes"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "frozen or canned corn",
+            "raw_text": "frozen or canned corn"
+        },
+        {
+            "name": "large egg",
+            "raw_text": "large egg (50 g w/o shell)"
+        },
+        {
+            "name": "Persian cucumber",
+            "raw_text": "Persian cucumber"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "Black Forest ham",
+            "raw_text": "Black Forest ham"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "Japanese mayonnaise",
+            "raw_text": "Japanese mayonnaise"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "198",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "42",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "206",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "470",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "1759",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "6",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "23",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

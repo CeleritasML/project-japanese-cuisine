@@ -1,0 +1,122 @@
+{
+    "name": "Sansai Gohan (Rice with Mountain Vegetables)",
+    "summary": "Sansai Gohan is a mixed rice dish filled with fresh, tender, fragrant mountain vegetables. Welcome the arrival of spring\u00a0by enjoying a bowl of lightly seasoned mountain vegetable rice!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2018/04/Sansai-Gohan-w722-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "mixed rice",
+        "rice"
+    ],
+    "ingredients": [
+        {
+            "name": "kombu",
+            "raw_text": "kombu (dried kelp)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "uncooked Japanese short-grain rice",
+            "raw_text": "uncooked Japanese short-grain rice"
+        },
+        {
+            "name": "aburaage",
+            "raw_text": "aburaage (deep-fried tofu pouch)"
+        },
+        {
+            "name": "Sansai Mix",
+            "raw_text": "Sansai Mix (Sansai Mizuni)"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "478",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "98",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "870",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "97",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "37",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "5",
+            "unit": "mg"
+        }
+    ]
+}

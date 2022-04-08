@@ -1,0 +1,121 @@
+{
+    "name": "Teriyaki Salmon Onigirazu",
+    "summary": "Delicious teriyaki salmon onigirazu with grilled asparagus sandwiched in steamed rice and wrapped in nori. Great quick lunch or snack idea!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2016/07/Teriyaki-Salmon-Onigirazu-3-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "onigirazu",
+        "rice sandwich"
+    ],
+    "ingredients": [
+        {
+            "name": "nori",
+            "raw_text": "nori (dried laver seaweed)"
+        },
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "teriyaki salmon",
+            "raw_text": "teriyaki salmon"
+        },
+        {
+            "name": "grilled asparagus",
+            "raw_text": "grilled asparagus"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "542",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "68",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "31",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "77",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "727",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "881",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "1319",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "25",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "35",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "6",
+            "unit": "mg"
+        }
+    ]
+}

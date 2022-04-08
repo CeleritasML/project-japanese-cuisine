@@ -1,0 +1,129 @@
+{
+    "name": "Cherry Blossom Cookies",
+    "summary": "Celebrate Spring with these crispy and buttery Cherry Blossom Cookies with salt pickled cherry blossoms.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/03/cherry-blossom-cookies-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "cherry blossom",
+        "cookie"
+    ],
+    "ingredients": [
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "salt pickled cherry blossoms",
+            "raw_text": "salt pickled cherry blossoms"
+        },
+        {
+            "name": "cake flour",
+            "raw_text": "cake flour"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "confectioners\u2019 sugar/powdered sugar",
+            "raw_text": "confectioners\u2019 sugar/powdered sugar"
+        },
+        {
+            "name": "large egg yolk",
+            "raw_text": "large egg yolk"
+        },
+        {
+            "name": "white sparkling sugar",
+            "raw_text": "white sparkling sugar"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "90",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "25",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "10",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "14",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "225",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "5",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

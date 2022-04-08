@@ -1,0 +1,128 @@
+{
+    "name": "Simmered Taro (Satoimo no Nimono)",
+    "summary": "Simmered Taro (Satoimo no Nimono) is a classic home cooked recipe that compliments the main dish in a typical Japanese meal. A humble yet wonderful way to appreciate the remarkable texture and pleasant sweetness of this starchy root vegetable.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/02/Simmered-Taro-Satoimo-no-Nimono-4975-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "nimono",
+        "simmered dish",
+        "taro"
+    ],
+    "ingredients": [
+        {
+            "name": "taro",
+            "raw_text": "taro (satoimo)"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "dashi",
+            "raw_text": "dashi (Japanese soup stock; click to learn more)"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "yuzu peel",
+            "raw_text": "yuzu peel"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "260",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "55",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "263",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1140",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "146",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "9",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "83",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

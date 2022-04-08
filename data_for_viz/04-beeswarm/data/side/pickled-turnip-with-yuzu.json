@@ -1,0 +1,116 @@
+{
+    "name": "Pickled Turnip with Yuzu",
+    "summary": "Refreshing pickled with Tokyo turnips called kabu or you can use cucumbers, daikon (Japanese radish), napa cabbage, and eggplant to make this delicious Japanese pickled at home.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/08/Pickled-Turnip-with-Yuzu-2346-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "pickle",
+        "tsukemono",
+        "turnip"
+    ],
+    "ingredients": [
+        {
+            "name": "Japanese turnips",
+            "raw_text": "Japanese turnips (kabu)"
+        },
+        {
+            "name": "kombu",
+            "raw_text": "kombu (dried kelp)"
+        },
+        {
+            "name": "dried red chili pepper",
+            "raw_text": "dried red chili pepper"
+        },
+        {
+            "name": "yuzu zest",
+            "raw_text": "yuzu zest"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "yuzu juice",
+            "raw_text": "yuzu juice (extract)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "54",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "334",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "383",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "33",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "41",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "59",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "name": "Pickled Watermelon Rind",
+    "summary": "Don't throw away watermelon rind! With a few condiments,\u00a0you can turn it into incredibly delicious Pickled Watermelon Rind!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/09/Pickled-Watermelon-Rind-8579-I-2-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "pickle",
+        "watermelon"
+    ],
+    "ingredients": [
+        {
+            "name": "watermelon",
+            "raw_text": "watermelon"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "100",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "242",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "157",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "762",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "11",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "23",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "name": "Purin Dora",
+    "summary": "When Japanese custard pudding (purin) is sandwiched between two sweet pancakes (dorayaki), you get Purin Dora!\u00a0With the rich buttery caramel running down the creamy and fluffy pancake, this is the ultimate Japanese sweet!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2018/02/Purin-Dora-w722-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "custard pudding",
+        "dorayaki",
+        "purin"
+    ],
+    "ingredients": [
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "water\u00a0",
+            "raw_text": "water\u00a0"
+        },
+        {
+            "name": "boiling water\u00a0",
+            "raw_text": "boiling water\u00a0"
+        },
+        {
+            "name": "gelatin sheet",
+            "raw_text": "gelatin sheet(s)/powder"
+        },
+        {
+            "name": "water\u00a0",
+            "raw_text": "water\u00a0"
+        },
+        {
+            "name": "large egg yolks\u00a0",
+            "raw_text": "large egg yolks\u00a0"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "whole milk\u00a0",
+            "raw_text": "whole milk\u00a0"
+        },
+        {
+            "name": "heavy whipping cream",
+            "raw_text": "heavy whipping cream"
+        },
+        {
+            "name": "pure vanilla extract",
+            "raw_text": "pure vanilla extract"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "honey",
+            "raw_text": "honey"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "baking powder",
+            "raw_text": "baking powder"
+        },
+        {
+            "name": "water\u00a0",
+            "raw_text": "water\u00a0"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "452",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "74",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "241",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "147",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "147",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "55",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "584",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "129",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

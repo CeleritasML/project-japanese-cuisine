@@ -1,0 +1,176 @@
+{
+    "name": "How To Make Cute Bento",
+    "summary": "How to make cute bento recipes: Be creative and make different sandwiches to go with all kinds of fun animal characters!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2014/08/How-To-Make-Cute-Bento-w600-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "bento"
+    ],
+    "ingredients": [
+        {
+            "name": "Japanese or Persian cucumbers",
+            "raw_text": "Japanese or Persian cucumbers"
+        },
+        {
+            "name": "cheddar cheese",
+            "raw_text": "cheddar cheese"
+        },
+        {
+            "name": "ham",
+            "raw_text": "ham"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "nori",
+            "raw_text": "nori (dried laver seaweed)"
+        },
+        {
+            "name": "strawberry jam",
+            "raw_text": "strawberry jam"
+        },
+        {
+            "name": "cheddar cheese",
+            "raw_text": "cheddar cheese"
+        },
+        {
+            "name": "Japanese or Persian cucumbers",
+            "raw_text": "Japanese or Persian cucumbers"
+        },
+        {
+            "name": "tomato",
+            "raw_text": "tomato"
+        },
+        {
+            "name": "egg salad",
+            "raw_text": "egg salad"
+        },
+        {
+            "name": "Japanese mayonnaise",
+            "raw_text": "Japanese mayonnaise"
+        },
+        {
+            "name": "lettuce",
+            "raw_text": "lettuce"
+        },
+        {
+            "name": "cherry tomatoes",
+            "raw_text": "cherry tomatoes"
+        },
+        {
+            "name": "oranges",
+            "raw_text": "oranges"
+        },
+        {
+            "name": "strawberries",
+            "raw_text": "strawberries"
+        },
+        {
+            "name": "bunny-shaped apple",
+            "raw_text": "bunny-shaped apple"
+        },
+        {
+            "name": "cherry tomatoes",
+            "raw_text": "cherry tomatoes"
+        },
+        {
+            "name": "Japanese or Persian cucumbers",
+            "raw_text": "Japanese or Persian cucumbers"
+        },
+        {
+            "name": "octopus-shaped sausages",
+            "raw_text": "octopus-shaped sausages"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "416",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "23",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "18",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "28",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "114",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "706",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "504",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "11035",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "12",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "294",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

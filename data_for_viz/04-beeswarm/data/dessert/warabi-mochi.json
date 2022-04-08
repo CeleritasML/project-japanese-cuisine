@@ -1,0 +1,106 @@
+{
+    "name": "Warabi Mochi",
+    "summary": "Warabi Mochi is a chilled, deliciously chewy, jelly-like mochi covered with sweet and nutty soybean powder and drizzled with kuromitsu syrup. \u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/03/Warabi-Mochi-1580-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "mochi",
+        "wagashi"
+    ],
+    "ingredients": [
+        {
+            "name": "Warabi Mochiko or Warabiko",
+            "raw_text": "Warabi Mochiko or Warabiko (bracken starch)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "kinako",
+            "raw_text": "kinako (roasted soybean flour)"
+        },
+        {
+            "name": "kuromitsu",
+            "raw_text": "kuromitsu (brown sugar syrup)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "217",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "48",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "2",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "189",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "26",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "9",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "30",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

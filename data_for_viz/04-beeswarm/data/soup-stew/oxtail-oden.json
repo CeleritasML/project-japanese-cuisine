@@ -1,0 +1,152 @@
+{
+    "name": "Oxtail Oden (Japanese Fish Cake Stew)",
+    "summary": "This is a fancier version of oden - Japanese fish cake stew - with a richer, heartier broth made from a combination of oxtail and dashi.\u00a0 Once you make this very flavorful Oxtail Oden recipe, it's hard to go back to the simple version anymore!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2018/04/Oxtail-Oden-w722-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "oden",
+        "oxtail"
+    ],
+    "ingredients": [
+        {
+            "name": "oden set",
+            "raw_text": "oden set (Japanese fish cakes and fish balls)"
+        },
+        {
+            "name": "konnyaku",
+            "raw_text": "konnyaku (konjac)"
+        },
+        {
+            "name": "daikon radish",
+            "raw_text": "daikon radish"
+        },
+        {
+            "name": "octopus",
+            "raw_text": "octopus"
+        },
+        {
+            "name": "Oxtail Broth",
+            "raw_text": "Oxtail Broth (homemade)"
+        },
+        {
+            "name": "hard-boiled egg",
+            "raw_text": "hard-boiled egg"
+        },
+        {
+            "name": "dashi",
+            "raw_text": "dashi (Japanese soup stock; click to learn more)"
+        },
+        {
+            "name": "Oxtail Broth",
+            "raw_text": "Oxtail Broth (homemade)"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "Japanese karashi hot mustard",
+            "raw_text": "Japanese karashi hot mustard"
+        },
+        {
+            "name": "hot water",
+            "raw_text": "hot water"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "687",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "55",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "54",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "23",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "272",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1478",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1277",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "25",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "353",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "94",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "329",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "9",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "name": "Strawberry Sauce (Strawberry Compote)",
+    "summary": "Delicious strawberry sauce made with fresh summer strawberries, perfect with pancakes, waffles, and ice cream.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/02/Strawberry-Sauce-Strawberry-Compote-0471-I-500x500.jpg",
+    "cuisine": [
+        "American"
+    ],
+    "keywords": [
+        "strawberry"
+    ],
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "raw_text": "strawberries"
+        },
+        {
+            "name": "lemon",
+            "raw_text": "lemon"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "100",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "25",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "3",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "231",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "20",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "81",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "29",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

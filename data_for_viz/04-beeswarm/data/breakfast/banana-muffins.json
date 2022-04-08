@@ -1,0 +1,146 @@
+{
+    "name": "Caramelized Banana Muffins",
+    "summary": "Delicious and easy banana muffins made with caramelized banana and Nutella swirl on top! Caramelizing the banana helps bring out and enhance the flavor.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2017/03/Caramelized-Banana-Muffins-w600-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "banana",
+        "muffin",
+        "nutella"
+    ],
+    "ingredients": [
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "baking powder",
+            "raw_text": "baking powder"
+        },
+        {
+            "name": "overripe bananas",
+            "raw_text": "overripe bananas"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "milk",
+            "raw_text": "milk"
+        },
+        {
+            "name": "pure vanilla extract",
+            "raw_text": "pure vanilla extract"
+        },
+        {
+            "name": "Nutella",
+            "raw_text": "Nutella"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "259",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "34",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "63",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "72",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "139",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "433",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "2",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "53",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

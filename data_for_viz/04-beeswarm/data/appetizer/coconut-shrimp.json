@@ -1,0 +1,136 @@
+{
+    "name": "Coconut Shrimp",
+    "summary": "Succulent shrimp with a golden crunchy panko and coconut shell, these delicious Baked Coconut Shrimp could easily be your family's favorite finger food! Don't forget the Thai chili sauce for dipping.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2014/08/Coconut-Shrimp-400x400.jpg",
+    "cuisine": [
+        "American"
+    ],
+    "keywords": [
+        "shrimp"
+    ],
+    "ingredients": [
+        {
+            "name": "shrimp",
+            "raw_text": "shrimp"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "panko",
+            "raw_text": "panko (Japanese breadcrumbs)"
+        },
+        {
+            "name": "sweetened shredded coconut",
+            "raw_text": "sweetened shredded coconut"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "paprika",
+            "raw_text": "paprika"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "Thai sweet chili sauce",
+            "raw_text": "Thai sweet chili sauce"
+        },
+        {
+            "name": "cilantro",
+            "raw_text": "cilantro (coriander)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "219",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "24",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "93",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "155",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "137",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "420",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "39",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

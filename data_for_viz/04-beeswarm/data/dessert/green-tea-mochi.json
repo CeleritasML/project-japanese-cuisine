@@ -1,0 +1,125 @@
+{
+    "name": "Green Tea Mochi",
+    "summary": "Perfectly chewy with a hint of sweetness, Green Tea Mochi is timeless Japanese sweet enjoyed by all ages. In this homemade recipe, we will make two versions of the mochi with brilliant contrasting colors.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/07/Green-Tea-Mochi-9189-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "matcha",
+        "mochi"
+    ],
+    "ingredients": [
+        {
+            "name": "White Bean Paste",
+            "raw_text": "White Bean Paste (Shiroan)"
+        },
+        {
+            "name": "matcha",
+            "raw_text": "matcha (green tea powder)"
+        },
+        {
+            "name": "shiratamako",
+            "raw_text": "shiratamako (glutinous rice flour/sweet rice flour)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "White Bean Paste",
+            "raw_text": "White Bean Paste (Shiroan)"
+        },
+        {
+            "name": "shiratamako",
+            "raw_text": "shiratamako (glutinous rice flour/sweet rice flour)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "matcha",
+            "raw_text": "matcha (green tea powder)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "164",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "37",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "42",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "112",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "67",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "10",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

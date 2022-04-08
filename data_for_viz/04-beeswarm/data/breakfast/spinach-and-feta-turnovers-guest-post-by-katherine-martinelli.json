@@ -1,0 +1,146 @@
+{
+    "name": "Spinach and Feta Turnovers",
+    "summary": "Spinach and feta is a perfect flavor combinations here and works well. These are great for brunch, but work just as well as a breakfast on the run or easy snack!\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2012/03/Spinach-and-Feta-Turnovers-400x400.jpg",
+    "cuisine": [
+        "American"
+    ],
+    "keywords": [
+        "cheese",
+        "puff pastry",
+        "spinach"
+    ],
+    "ingredients": [
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "spinach leaves",
+            "raw_text": "spinach leaves"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "lemon juice",
+            "raw_text": "lemon juice"
+        },
+        {
+            "name": "large egg",
+            "raw_text": "large egg (50 g w/o shell)"
+        },
+        {
+            "name": "feta cheese",
+            "raw_text": "feta cheese"
+        },
+        {
+            "name": "frozen puff pastry",
+            "raw_text": "frozen puff pastry"
+        },
+        {
+            "name": "Za\u2019atar",
+            "raw_text": "Za\u2019atar"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "380",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "29",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "26",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "44",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "338",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "256",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "3207",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "11",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "117",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

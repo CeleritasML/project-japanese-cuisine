@@ -1,0 +1,146 @@
+{
+    "name": "Cherry Clafoutis",
+    "summary": "Cherry clafoutis is an easy baked Cherry dessert, this homemade cherry recipe is perfect to share during cherry season.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2011/06/Cherry-Clafoutis-II-e1309147108472-366x366.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "cake",
+        "Cherry"
+    ],
+    "ingredients": [
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "cherries",
+            "raw_text": "cherries"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "whole milk",
+            "raw_text": "whole milk"
+        },
+        {
+            "name": "pure vanilla extract",
+            "raw_text": "pure vanilla extract"
+        },
+        {
+            "name": "rum extract",
+            "raw_text": "rum extract"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "1",
+            "unit": "9-inch cake"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "1631",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "300",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "41",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "34",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "606",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "437",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1870",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "210",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "1834",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "41",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "387",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "9",
+            "unit": "mg"
+        }
+    ]
+}

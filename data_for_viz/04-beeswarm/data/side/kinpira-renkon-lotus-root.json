@@ -1,0 +1,131 @@
+{
+    "name": "Kinpira Renkon (Lotus Root)",
+    "summary": "Crisp yet tender with bursts of sweet and savory flavors, Kinpira Renkon, or Japanese Lotus Root Stir Fry, is a classic home-cooked side dish.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2022/01/Kinpira-Renkon-Lotus-Root-5603-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "kinpira",
+        "lotus root"
+    ],
+    "ingredients": [
+        {
+            "name": "lotus root",
+            "raw_text": "lotus root (renkon)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "dried red chili pepper",
+            "raw_text": "dried red chili pepper"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "102",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "263",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "323",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "33",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "25",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "36",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "name": "Instant Pot Tonjiru",
+    "summary": "Tonjiru (sometimes called Butajiru) is a hearty pork and vegetable miso soup. With just 1 min in the Instant Pot, it will be the ultimate, comfy soup for fall and winter months!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/10/Instant-Pot-Tonjiru-2307-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "miso",
+        "miso soup"
+    ],
+    "ingredients": [
+        {
+            "name": "Yukon gold potatoes",
+            "raw_text": "Yukon gold potatoes"
+        },
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "daikon radish",
+            "raw_text": "daikon radish"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "gobo",
+            "raw_text": "gobo (burdock root)"
+        },
+        {
+            "name": "konnyaku",
+            "raw_text": "konnyaku (konjac)"
+        },
+        {
+            "name": "pork belly slices",
+            "raw_text": "pork belly slices"
+        },
+        {
+            "name": "dashi",
+            "raw_text": "dashi (Japanese soup stock; click to learn more)"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "green onions/scallions",
+            "raw_text": "green onions/scallions"
+        },
+        {
+            "name": "miso",
+            "raw_text": "miso"
+        },
+        {
+            "name": "shichimi togarashi",
+            "raw_text": "shichimi togarashi (Japanese seven spice)"
+        },
+        {
+            "name": "yuzu kosho",
+            "raw_text": "yuzu kosho (Japanese citrus chili paste)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "340",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "25",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "24",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "27",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "787",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "584",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "4009",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "20",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "55",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

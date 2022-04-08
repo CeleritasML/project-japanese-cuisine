@@ -1,0 +1,160 @@
+{
+    "name": "Chawanmushi with Shrimp",
+    "summary": "Chawanmushi\u00a0is a savory egg custard dish, which served as an appetizer in Japanese restaurants.\u00a0It literary means 'steamed in a tea bowl/cup'. Chawan in Japanese means\u00a0tea bowl or bowl, and -Mushi\u00a0means steamed.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2017/02/Chawanmushi-with-Shrimp-w600-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "egg"
+    ],
+    "ingredients": [
+        {
+            "name": "dried shiitake mushrooms",
+            "raw_text": "dried shiitake mushrooms"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "boneless, skinless chicken thigh",
+            "raw_text": "boneless, skinless chicken thigh"
+        },
+        {
+            "name": "shrimp",
+            "raw_text": "shrimp"
+        },
+        {
+            "name": "mitsuba",
+            "raw_text": "mitsuba (Japanese parsley)"
+        },
+        {
+            "name": "ginkgo nuts",
+            "raw_text": "ginkgo nuts"
+        },
+        {
+            "name": "shimeji mushrooms",
+            "raw_text": "shimeji mushrooms"
+        },
+        {
+            "name": "kamaboko",
+            "raw_text": "kamaboko (fish cake)"
+        },
+        {
+            "name": "large egg",
+            "raw_text": "large egg (50 g w/o shell)"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "usukuchi",
+            "raw_text": "usukuchi (light-colored) soy sauce"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "dashi",
+            "raw_text": "dashi (Japanese soup stock; click to learn more)"
+        },
+        {
+            "name": "uni",
+            "raw_text": "uni (sea urchin)"
+        },
+        {
+            "name": "ikura",
+            "raw_text": "ikura (salmon roe)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "102",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "153",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "408",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "263",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "143",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "34",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

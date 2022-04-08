@@ -1,0 +1,189 @@
+{
+    "name": "Kimchi Nabe",
+    "summary": "Cure your winter blues with a steamy pot of Japanese Kimchi Nabe. Made with anchovy broth, kimchi, pork belly, and vegetables, this soup pot is hot and sour with a good kick of spice that warms you right up!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/12/Kimchi-Nabe-0738-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "hot pot",
+        "kimchi",
+        "pork"
+    ],
+    "ingredients": [
+        {
+            "name": "kimchi",
+            "raw_text": "kimchi"
+        },
+        {
+            "name": "bean sprouts",
+            "raw_text": "bean sprouts"
+        },
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "medium-firm tofu",
+            "raw_text": "medium-firm tofu (momen tofu)"
+        },
+        {
+            "name": "napa cabbage",
+            "raw_text": "napa cabbage"
+        },
+        {
+            "name": "Tokyo negi",
+            "raw_text": "Tokyo negi (naga negi; long green onion)"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "garlic chives",
+            "raw_text": "garlic chives (Chinese chives or Nira)"
+        },
+        {
+            "name": "enoki mushrooms",
+            "raw_text": "enoki mushrooms"
+        },
+        {
+            "name": "sliced pork belly",
+            "raw_text": "sliced pork belly"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "dashi",
+            "raw_text": "dashi (Japanese soup stock; click to learn more)"
+        },
+        {
+            "name": "iriko or niboshi",
+            "raw_text": "iriko or niboshi (dried baby sardines/anchovies)"
+        },
+        {
+            "name": "kombu",
+            "raw_text": "kombu (dried kelp)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "gochujang",
+            "raw_text": "gochujang (Korean chili paste)"
+        },
+        {
+            "name": "gochugaru",
+            "raw_text": "gochugaru (Korean pepper flakes)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "kimchi juice",
+            "raw_text": "kimchi juice"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "miso",
+            "raw_text": "miso"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "696",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "23",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "25",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "57",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "25",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "66",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "938",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "584",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "921",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "20",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "405",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

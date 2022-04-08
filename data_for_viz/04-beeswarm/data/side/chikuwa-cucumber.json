@@ -1,0 +1,94 @@
+{
+    "name": "Chikuwa Cucumber",
+    "summary": "Chikuwa Cucumber is one of the easiest and quickest dishes you can make in order to fill up the empty space in your bento box. You can also use blanched okra. ",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/08/Bento-Meal-Prep-0530-Chikuwa-Cucumber-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "cucumber",
+        "fish cake"
+    ],
+    "ingredients": [
+        {
+            "name": "Japanese or Persian cucumbers",
+            "raw_text": "Japanese or Persian cucumbers"
+        },
+        {
+            "name": "chikuwa",
+            "raw_text": "chikuwa (fish cake)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "43",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "341",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "76",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "55",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "8",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

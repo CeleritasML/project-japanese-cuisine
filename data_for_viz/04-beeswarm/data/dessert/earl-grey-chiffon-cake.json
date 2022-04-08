@@ -1,0 +1,134 @@
+{
+    "name": "Earl Grey Chiffon Cake",
+    "summary": "Light, spongy and airy with nice fragrance from earl grey tea, this delightful Earl Grey Chiffon Cake is a perfect dessert for your afternoon tea!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/01/Earl-Grey-Chiffon-Cake-7675-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "chiffon cake",
+        "dessert",
+        "earl grey"
+    ],
+    "ingredients": [
+        {
+            "name": "earl grey loose tea leaves",
+            "raw_text": "earl grey loose tea leaves"
+        },
+        {
+            "name": "earl grey loose tea leaves",
+            "raw_text": "earl grey loose tea leaves"
+        },
+        {
+            "name": "hot water",
+            "raw_text": "hot water"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "cake flour",
+            "raw_text": "cake flour"
+        },
+        {
+            "name": "baking powder",
+            "raw_text": "baking powder"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "1",
+            "unit": "17\" chiffon cake"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "1236",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "157",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "28",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "58",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "39",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "558",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "640",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "285",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "101",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "812",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "344",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

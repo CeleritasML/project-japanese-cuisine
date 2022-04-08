@@ -1,0 +1,191 @@
+{
+    "name": "Champon",
+    "summary": "Loaded with various and colorful ingredients, Nagasaki Champon is a hearty and comforting noodle dish you can quickly put together!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2018/09/Champon-w600-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "noodle soup"
+    ],
+    "ingredients": [
+        {
+            "name": "Chicken Stock/Broth",
+            "raw_text": "Chicken Stock/Broth (homemade or store bought)"
+        },
+        {
+            "name": "dashi",
+            "raw_text": "dashi (Japanese soup stock; click to learn more)"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "whole milk",
+            "raw_text": "whole milk"
+        },
+        {
+            "name": "white pepper powder",
+            "raw_text": "white pepper powder"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "pork belly slices",
+            "raw_text": "pork belly slices"
+        },
+        {
+            "name": "shrimp",
+            "raw_text": "shrimp"
+        },
+        {
+            "name": "squid",
+            "raw_text": "squid"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "dried wood ear mushrooms",
+            "raw_text": "dried wood ear mushrooms"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "cabbage",
+            "raw_text": "cabbage"
+        },
+        {
+            "name": "snow pea",
+            "raw_text": "snow pea"
+        },
+        {
+            "name": "kamaboko",
+            "raw_text": "kamaboko (fish cake)"
+        },
+        {
+            "name": "bean sprouts",
+            "raw_text": "bean sprouts"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "champon noodles",
+            "raw_text": "champon noodles"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "812",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "121",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "37",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "49",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "20",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "178",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1634",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "789",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "4483",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "48",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "204",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "9",
+            "unit": "mg"
+        }
+    ]
+}

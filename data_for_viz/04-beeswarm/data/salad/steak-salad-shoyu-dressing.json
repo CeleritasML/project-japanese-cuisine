@@ -1,0 +1,168 @@
+{
+    "name": "Steak Salad with Shoyu Dressing",
+    "summary": "Hearty, satisfying, and delicious steak salad\u00a0that kicks your average green salad\u00a0up a notch with sizzling steak and savory Japanese-style shoyu dressing!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2017/05/Steak-Salad-with-Shoyu-Dressing-w722-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "salad",
+        "steak"
+    ],
+    "ingredients": [
+        {
+            "name": "ribeye steak",
+            "raw_text": "ribeye steak"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "gluten-free soy sauce",
+            "raw_text": "gluten-free soy sauce"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "lemon juice",
+            "raw_text": "lemon juice"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "salad mix",
+            "raw_text": "salad mix"
+        },
+        {
+            "name": "watermelon radish",
+            "raw_text": "watermelon radish"
+        },
+        {
+            "name": "red radishes",
+            "raw_text": "red radishes"
+        },
+        {
+            "name": "English cucumber",
+            "raw_text": "English cucumber"
+        },
+        {
+            "name": "avocado",
+            "raw_text": "avocado"
+        },
+        {
+            "name": "cherry tomatoes",
+            "raw_text": "cherry tomatoes"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "591",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "39",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "41",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "20",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "104",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "766",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1253",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "890",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "45",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "90",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "5",
+            "unit": "mg"
+        }
+    ]
+}

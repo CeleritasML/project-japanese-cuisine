@@ -1,0 +1,130 @@
+{
+    "name": "Japanese Turnips with Soboro Ankake Sauce",
+    "summary": "Simmered in dashi broth, Japanese Turnips with Soboro Ankake Sauce is a winter comfort food that highlights the flavors of the season. It makes a delicious, nourishing side to complement your Japanese meal.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/11/Japanese-Turnips-with-Soboro-Ankake-Sauce-5110-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "chicken",
+        "turnip"
+    ],
+    "ingredients": [
+        {
+            "name": "Japanese turnips",
+            "raw_text": "Japanese turnips (kabu)"
+        },
+        {
+            "name": "ground chicken",
+            "raw_text": "ground chicken"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "dashi",
+            "raw_text": "dashi (Japanese soup stock; click to learn more)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "142",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "17",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "37",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "543",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "481",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "26",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "43",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "name": "Pickled Mustard Greens Fried Rice (Takana Chahan)",
+    "summary": "This Pickled Mustard Greens Fried Rice\u2014known as Takana Chahan\u2014is a popular regional dish from Kyushu.\u00a0Thanks to the tangy pickle, this simple fried rice is packed with comfort and plenty of umami! Add fluffy scrambled egg for extra protein and a pop of color. It's a quick meal you can make in 20 minutes. ",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2022/02/Pickled-Mustard-Green-Fried-Rice-Takana-Chahan-6394-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "fried rice"
+    ],
+    "ingredients": [
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "Tokyo negi",
+            "raw_text": "Tokyo negi (naga negi; long green onion)"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "stir-fried takana",
+            "raw_text": "stir-fried takana (pickled mustard greens)"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "white pepper powder",
+            "raw_text": "white pepper powder"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "410",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "34",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "26",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "186",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1561",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "96",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "280",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "30",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

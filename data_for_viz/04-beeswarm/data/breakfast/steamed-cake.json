@@ -1,0 +1,179 @@
+{
+    "name": "Steamed Cake",
+    "summary": "Making these soft, light, spongy Japanese steamed cake (Mushi-pan) is surprisingly easy. You can enjoy them as a healthy breakfast or after-school snack. \u00a0 Choose savory or sweet based on the ingredients you use.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/01/Steamed-Cake-8359-I-300x200.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "steam bun",
+        "steamed cupcake"
+    ],
+    "ingredients": [
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "baking powder",
+            "raw_text": "baking powder"
+        },
+        {
+            "name": "large egg",
+            "raw_text": "large egg (50 g w/o shell)"
+        },
+        {
+            "name": "milk",
+            "raw_text": "milk"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "baking powder",
+            "raw_text": "baking powder"
+        },
+        {
+            "name": "large egg",
+            "raw_text": "large egg (50 g w/o shell)"
+        },
+        {
+            "name": "milk",
+            "raw_text": "milk"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "frozen or canned corn",
+            "raw_text": "frozen or canned corn"
+        },
+        {
+            "name": "shredded cheese",
+            "raw_text": "shredded cheese"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "baking powder",
+            "raw_text": "baking powder"
+        },
+        {
+            "name": "unsweetened cocoa powder",
+            "raw_text": "unsweetened cocoa powder"
+        },
+        {
+            "name": "large egg",
+            "raw_text": "large egg (50 g w/o shell)"
+        },
+        {
+            "name": "milk",
+            "raw_text": "milk"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "chocolate chips",
+            "raw_text": "chocolate chips"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "467",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "59",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "21",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "148",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "428",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "192",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "20",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "318",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "272",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

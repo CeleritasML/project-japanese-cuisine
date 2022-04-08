@@ -1,0 +1,164 @@
+{
+    "name": "Ebi Katsu Burger (Shrimp Cutlet Burger)",
+    "summary": "Succulent shrimp coated with crispy panko, topped with thinly sliced cabbage, homemade tartar sauce, and sandwiched in soft brioche buns, this Japanese-inspired Ebi Katsu Burger (Shrimp Cutlet Burger) could be your next best burger cookout!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/04/Ebi-Katsu-Burger-Shrimp-Cutlet-Burger-4507-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "shrimp"
+    ],
+    "ingredients": [
+        {
+            "name": "panko",
+            "raw_text": "panko (Japanese breadcrumbs)"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "large shrimp",
+            "raw_text": "large shrimp"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "brioche buns or burger buns",
+            "raw_text": "brioche buns or burger buns"
+        },
+        {
+            "name": "cabbage",
+            "raw_text": "cabbage"
+        },
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "cornichons or gherkins",
+            "raw_text": "cornichons or gherkins"
+        },
+        {
+            "name": "Japanese mayonnaise",
+            "raw_text": "Japanese mayonnaise"
+        },
+        {
+            "name": "white wine",
+            "raw_text": "white wine"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "549",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "44",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "27",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "29",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "223",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1056",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "373",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "210",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "2",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "181",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

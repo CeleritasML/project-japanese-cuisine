@@ -1,0 +1,112 @@
+{
+    "name": "Ohagi (Botamochi)",
+    "summary": "Made with glutinous rice and red bean paste, these Japanese Sweet Rice Balls are offered to one\u2019s ancestors and eaten during the spring and autumn equinoxes in Japan. They are called Botamochi in spring and Ohagi in autumn.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/03/Ohagi-Botamochi-0815-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "mochi",
+        "red bean paste"
+    ],
+    "ingredients": [
+        {
+            "name": "sweet rice/glutinous rice",
+            "raw_text": "sweet rice/glutinous rice (mochigome)"
+        },
+        {
+            "name": "uncooked Japanese short-grain rice",
+            "raw_text": "uncooked Japanese short-grain rice"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "toasted black sesame seeds",
+            "raw_text": "toasted black sesame seeds"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "kinako",
+            "raw_text": "kinako (roasted soybean flour)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "red bean paste",
+            "raw_text": "red bean paste (anko)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "152",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "31",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "31",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "173",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "4",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "33",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

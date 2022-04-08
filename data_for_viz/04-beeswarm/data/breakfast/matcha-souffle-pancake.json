@@ -1,0 +1,154 @@
+{
+    "name": "Matcha Souffle Pancake",
+    "summary": "Are you ready for the dreamiest pancake for your Sunday brunch? This perfectly scented Matcha Souffle Pancake is calling. It\u2019s super airy and fluffy like you\u2019re eating cottony clouds, only with a special touch of flavor! Enjoy it with homemade whipped cream and an extra sprinkling of matcha powder. ",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2018/07/Matcha-Souffle-Pancake-w722-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "green tea",
+        "matcha",
+        "souffle pancake"
+    ],
+    "ingredients": [
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "whole milk",
+            "raw_text": "whole milk"
+        },
+        {
+            "name": "pure vanilla extract",
+            "raw_text": "pure vanilla extract"
+        },
+        {
+            "name": "cake flour",
+            "raw_text": "cake flour"
+        },
+        {
+            "name": "matcha",
+            "raw_text": "matcha (green tea powder)"
+        },
+        {
+            "name": "baking powder",
+            "raw_text": "baking powder"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "heavy whipping cream",
+            "raw_text": "heavy whipping cream"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "confectioners\u2019 sugar/powdered sugar",
+            "raw_text": "confectioners\u2019 sugar/powdered sugar"
+        },
+        {
+            "name": "maple syrup",
+            "raw_text": "maple syrup"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "233",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "21",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "152",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "130",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "85",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "555",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "85",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

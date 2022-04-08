@@ -1,0 +1,146 @@
+{
+    "name": "Beef Donburi with Shiso Garlic Soy Sauce",
+    "summary": "A quick and easy Beef Donburi using homemade Shiso Garlic Soy Sauce!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2011/04/Beef-Donburi-with-Shiso-Garlic-Soy-Sauce-NEW-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "beef",
+        "donburi",
+        "rice bowl",
+        "shiso"
+    ],
+    "ingredients": [
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "potato",
+            "raw_text": "potato"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "thinly sliced beef",
+            "raw_text": "thinly sliced beef (chuck or rib eye)"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "garlic powder",
+            "raw_text": "garlic powder"
+        },
+        {
+            "name": "sea salt",
+            "raw_text": "sea salt"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "Shiso Garlic Soy Sauce",
+            "raw_text": "Shiso Garlic Soy Sauce (homemade)"
+        },
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "484",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "54",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "29",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "69",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1026",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "694",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "19",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "15",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "24",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

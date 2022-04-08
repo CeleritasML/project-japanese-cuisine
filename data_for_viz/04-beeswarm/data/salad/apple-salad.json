@@ -1,0 +1,132 @@
+{
+    "name": "Japanese Apple Salad",
+    "summary": "I used Myer lemon this time since my friend gave me a lot of organic Myer lemons from her backyard.\u00a0 It was sweet and really juicy, which added a nice final touch to the salad.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2011/04/Apple-Salad-NEW-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "apple"
+    ],
+    "ingredients": [
+        {
+            "name": "Fuji apples",
+            "raw_text": "Fuji apples"
+        },
+        {
+            "name": "celery",
+            "raw_text": "celery"
+        },
+        {
+            "name": "raisins",
+            "raw_text": "raisins"
+        },
+        {
+            "name": "Japanese mayonnaise",
+            "raw_text": "Japanese mayonnaise"
+        },
+        {
+            "name": "plain yogurt",
+            "raw_text": "plain yogurt"
+        },
+        {
+            "name": "Myer lemon juice",
+            "raw_text": "Myer lemon juice"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "milk",
+            "raw_text": "milk"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "226",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "29",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "12",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "123",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "301",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "181",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "9",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "70",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

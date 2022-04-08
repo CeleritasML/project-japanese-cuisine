@@ -1,0 +1,117 @@
+{
+    "name": "The Best French Toast",
+    "summary": "Fluffy and tender on the inside, and golden crisp on the outside, this is the best French Toast we've tasted during our trip to Japan last summer. I've re-created this amazing French toast by following the chef's\u00a0recipe! Make it this weekend for breakfast or brunch!\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2018/12/French-Toast-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "French Toast"
+    ],
+    "ingredients": [
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "pure vanilla extract",
+            "raw_text": "pure vanilla extract"
+        },
+        {
+            "name": "whole milk",
+            "raw_text": "whole milk"
+        },
+        {
+            "name": "French baguette",
+            "raw_text": "French baguette"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "confectioners\u2019 sugar/powdered sugar",
+            "raw_text": "confectioners\u2019 sugar/powdered sugar"
+        },
+        {
+            "name": "maple syrup",
+            "raw_text": "maple syrup"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "413",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "51",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "169",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "493",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "318",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "21",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "617",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "239",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

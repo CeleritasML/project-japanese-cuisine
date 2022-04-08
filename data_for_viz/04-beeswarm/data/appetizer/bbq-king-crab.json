@@ -1,0 +1,107 @@
+{
+    "name": "BBQ King Crab",
+    "summary": "Sweet, tender BBQ king crab meat dipped into a sweet, citrusy, homemade ponzu sauce. It's a perfect match for the summer!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2013/05/BBQ-King-Crab-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "crab"
+    ],
+    "ingredients": [
+        {
+            "name": "king crab legs",
+            "raw_text": "king crab legs"
+        },
+        {
+            "name": "ponzu",
+            "raw_text": "ponzu"
+        },
+        {
+            "name": "green onion/scallion",
+            "raw_text": "green onion/scallion"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "50",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "24",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "594",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "124",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "44",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "5",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "28",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

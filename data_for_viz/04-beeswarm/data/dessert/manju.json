@@ -1,0 +1,110 @@
+{
+    "name": "Manju",
+    "summary": "Encased\u00a0in a soft wheat dough, filled with sweet red bean paste, and steamed to perfection, Manju is a classic Japanese confectionery (wagashi). When you crave for a fun, sweet treat, these dumplings will hit the spot!\u00a0 Enjoy with a hot cup of green tea.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2017/12/Manju-w600-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "sweet red bean",
+        "wagashi"
+    ],
+    "ingredients": [
+        {
+            "name": "brown sugar",
+            "raw_text": "brown sugar"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "baking powder",
+            "raw_text": "baking powder"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "cake flour",
+            "raw_text": "cake flour"
+        },
+        {
+            "name": "red bean paste",
+            "raw_text": "red bean paste (anko)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "118",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "27",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "39",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "107",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "1",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "24",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

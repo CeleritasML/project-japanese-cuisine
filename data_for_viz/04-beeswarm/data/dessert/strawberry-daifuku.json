@@ -1,0 +1,127 @@
+{
+    "name": "Strawberry Mochi (Ichigo Daifuku)",
+    "summary": "A popular spring dessert, Strawberry Mochi (Ichigo Daifuku) is a soft and chewy mochi stuffed with fresh juicy strawberry and sweet red bean paste. Indulge yourself with this beautiful and delicious Japanese delicacy!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/02/Strawberry-Mochi-Ichigo-Daifuku-3671-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "daifuku",
+        "mochi"
+    ],
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "raw_text": "strawberries"
+        },
+        {
+            "name": "red bean paste",
+            "raw_text": "red bean paste (anko)"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        },
+        {
+            "name": "shiratamako",
+            "raw_text": "shiratamako (glutinous rice flour/sweet rice flour)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "shiratamako",
+            "raw_text": "shiratamako (glutinous rice flour/sweet rice flour)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "145",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "32",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "24",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "139",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "3",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "7",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "12",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

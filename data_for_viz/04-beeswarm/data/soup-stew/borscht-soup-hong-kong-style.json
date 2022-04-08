@@ -1,0 +1,174 @@
+{
+    "name": "Oxtail Soup - Hong Kong Style Borscht",
+    "summary": "Warm hearty Hong Kong style Borscht (oxtail soup) with oxtail and stew beef, onion, celery, carrot, tomatoes, potatoes, and cabbage.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/04/Oxtail-Soup-\u2013-Hong-Kong-Style-Borscht-9833-I-1-500x500.jpg",
+    "cuisine": [
+        "Chinese"
+    ],
+    "keywords": [
+        "beef",
+        "oxtail",
+        "tomato",
+        "vegetable"
+    ],
+    "ingredients": [
+        {
+            "name": "oxtails",
+            "raw_text": "oxtails"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "stew beef",
+            "raw_text": "stew beef (chuck cut into bite-size cubes)"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "onions",
+            "raw_text": "onions"
+        },
+        {
+            "name": "celery",
+            "raw_text": "celery"
+        },
+        {
+            "name": "carrots",
+            "raw_text": "carrots"
+        },
+        {
+            "name": "tomatoes",
+            "raw_text": "tomatoes"
+        },
+        {
+            "name": "cabbage",
+            "raw_text": "cabbage"
+        },
+        {
+            "name": "beef stock/broth",
+            "raw_text": "beef stock/broth"
+        },
+        {
+            "name": "tomato paste",
+            "raw_text": "tomato paste"
+        },
+        {
+            "name": "russet potatoes",
+            "raw_text": "russet potatoes"
+        },
+        {
+            "name": "bay leaves",
+            "raw_text": "bay leaves"
+        },
+        {
+            "name": "dried basil",
+            "raw_text": "dried basil"
+        },
+        {
+            "name": "paprika",
+            "raw_text": "paprika"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "brown sugar",
+            "raw_text": "brown sugar"
+        },
+        {
+            "name": "white wine vinegar",
+            "raw_text": "white wine vinegar"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "544",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "39",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "56",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "163",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1060",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1489",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "4929",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "40",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "132",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "8",
+            "unit": "mg"
+        }
+    ]
+}

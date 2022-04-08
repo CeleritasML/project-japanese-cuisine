@@ -1,0 +1,114 @@
+{
+    "name": "Mango Lassi Popsicles",
+    "summary": "Mango Lassi Popsicles - sweet, creamy, colorful, and impossible to limit yourself to just one.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2013/08/Mango-Lassi-Popsicles-400x400.jpg",
+    "cuisine": [
+        "American"
+    ],
+    "keywords": [
+        "mango",
+        "popsicle",
+        "yogurt"
+    ],
+    "ingredients": [
+        {
+            "name": "mangoes",
+            "raw_text": "mangoes"
+        },
+        {
+            "name": "Greek yogurt",
+            "raw_text": "Greek yogurt"
+        },
+        {
+            "name": "Simple Syrup",
+            "raw_text": "Simple Syrup (homemade or store bought)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "141",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "35",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "30",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "132",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "34",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "499",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "17",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "34",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

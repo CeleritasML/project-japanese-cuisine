@@ -1,0 +1,144 @@
+{
+    "name": "Flamb\u00e9ed Pear Purses with Caramel Sauce and Gan\u00e2che",
+    "summary": "Tasty and elegant dessert made it less than 30 minutes!\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2012/04/Flambed-pear-purses-1-400x400.jpg",
+    "cuisine": [
+        "French"
+    ],
+    "keywords": [
+        "filo pastry"
+    ],
+    "ingredients": [
+        {
+            "name": "pears",
+            "raw_text": "pears"
+        },
+        {
+            "name": "filo pastry",
+            "raw_text": "filo pastry"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "brandy",
+            "raw_text": "brandy"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "heavy whipping cream",
+            "raw_text": "heavy whipping cream"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "dark Chocolate",
+            "raw_text": "dark Chocolate"
+        },
+        {
+            "name": "heavy whipping cream",
+            "raw_text": "heavy whipping cream"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "1306",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "156",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "71",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "43",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "20",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "185",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "178",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "474",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "123",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "2106",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "8",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "96",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

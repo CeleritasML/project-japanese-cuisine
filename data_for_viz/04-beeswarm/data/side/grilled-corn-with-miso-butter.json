@@ -1,0 +1,129 @@
+{
+    "name": "Grilled Corn with Honey Miso Butter",
+    "summary": "Bring a punch of Japanese flavor to your BBQ this season with this Grilled Corn with Miso Butter.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/07/Grilled-Corn-with-Miso-Butter-9239-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "corn",
+        "miso"
+    ],
+    "ingredients": [
+        {
+            "name": "large ears of corn",
+            "raw_text": "large ears of corn"
+        },
+        {
+            "name": "green onion/scallion",
+            "raw_text": "green onion/scallion"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "miso",
+            "raw_text": "miso"
+        },
+        {
+            "name": "honey",
+            "raw_text": "honey"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "142",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "20",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "15",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "209",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "259",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "375",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "7",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "7",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

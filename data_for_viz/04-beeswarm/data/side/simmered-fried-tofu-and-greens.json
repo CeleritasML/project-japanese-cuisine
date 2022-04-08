@@ -1,0 +1,96 @@
+{
+    "name": "Simmered Fried Tofu and Greens",
+    "summary": "This Simmered Fried Tofu and Greens is a great side dish to keep handy in the refrigerator as a part of your meal prep. Make ahead and let it soak up the delicious dashi broth for additional flavors.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/05/Simmered-Fried-Tofu-and-Greens-1413-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "aburaage",
+        "komatsuna"
+    ],
+    "ingredients": [
+        {
+            "name": "aburaage",
+            "raw_text": "aburaage (deep-fried tofu pouch)"
+        },
+        {
+            "name": "komatsuna",
+            "raw_text": "komatsuna"
+        },
+        {
+            "name": "dashi",
+            "raw_text": "dashi (Japanese soup stock; click to learn more)"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "28",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "99",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "215",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "18",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "84",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "name": "Miso Katsu",
+    "summary": "Breaded, deep-fried pork cutlet with a savory miso-base sauce, this Miso Katsu \u2013 a Nagoya specialty, will be your new family favorite!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/04/Miso-Katsu-1671-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "pork cutlet",
+        "tonkatsu"
+    ],
+    "ingredients": [
+        {
+            "name": "cabbage",
+            "raw_text": "cabbage"
+        },
+        {
+            "name": "boneless pork loin chops",
+            "raw_text": "boneless pork loin chops (\u00bd-inch thick)"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "large egg",
+            "raw_text": "large egg (50 g w/o shell)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "panko",
+            "raw_text": "panko (Japanese breadcrumbs)"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "dashi",
+            "raw_text": "dashi (Japanese soup stock; click to learn more)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "hatcho miso",
+            "raw_text": "hatcho miso"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "328",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "30",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "32",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "121",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "813",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "715",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "194",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "42",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "90",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

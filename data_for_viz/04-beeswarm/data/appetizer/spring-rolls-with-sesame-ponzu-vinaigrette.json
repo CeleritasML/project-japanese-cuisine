@@ -1,0 +1,168 @@
+{
+    "name": "Spring Rolls with Sesame Ponzu Vinaigrette",
+    "summary": "Pork Spring Rolls with a Japanese twist! The Sesame Ponzu dipping sauce is flavorful and irresistible.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2011/06/Spring-Rolls-with-Sesame-Ponzu-Vinaigrette-III-550x365-1-366x365.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "pork",
+        "spring roll"
+    ],
+    "ingredients": [
+        {
+            "name": "rice paper wrappers",
+            "raw_text": "rice paper wrappers"
+        },
+        {
+            "name": "sliced pork belly",
+            "raw_text": "sliced pork belly"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "daikon radish",
+            "raw_text": "daikon radish"
+        },
+        {
+            "name": "celery",
+            "raw_text": "celery"
+        },
+        {
+            "name": "English cucumber",
+            "raw_text": "English cucumber"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "red leaf lettuce",
+            "raw_text": "red leaf lettuce"
+        },
+        {
+            "name": "shiso leaves",
+            "raw_text": "shiso leaves (perilla/ooba)"
+        },
+        {
+            "name": "soft or hard-boiled egg",
+            "raw_text": "soft or hard-boiled egg"
+        },
+        {
+            "name": "shiraga negi",
+            "raw_text": "shiraga negi"
+        },
+        {
+            "name": "cilantro",
+            "raw_text": "cilantro (coriander)"
+        },
+        {
+            "name": "green onion/scallion",
+            "raw_text": "green onion/scallion"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        },
+        {
+            "name": "daikon radish",
+            "raw_text": "daikon radish"
+        },
+        {
+            "name": "Ponzu",
+            "raw_text": "Ponzu"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "874",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "58",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "25",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "60",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "26",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "255",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "702",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "758",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "8789",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "16",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "149",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "5",
+            "unit": "mg"
+        }
+    ]
+}

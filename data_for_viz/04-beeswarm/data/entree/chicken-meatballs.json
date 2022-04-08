@@ -1,0 +1,162 @@
+{
+    "name": "Chicken Meatballs",
+    "summary": "These soft and juicy teriyaki chicken meatballs are going to be your family\u2019s favorite! It takes only 30 minutes to prepare.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2014/04/Chicken-Meatballs-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "chicken",
+        "tofu"
+    ],
+    "ingredients": [
+        {
+            "name": "ground chicken",
+            "raw_text": "ground chicken"
+        },
+        {
+            "name": "medium-firm tofu",
+            "raw_text": "medium-firm tofu (momen tofu)"
+        },
+        {
+            "name": "sweet bell peppers",
+            "raw_text": "sweet bell peppers"
+        },
+        {
+            "name": "green onion/scallion",
+            "raw_text": "green onion/scallion"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        },
+        {
+            "name": "large egg",
+            "raw_text": "large egg (50 g w/o shell)"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "1",
+            "unit": "meatball"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "42",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "26",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "40",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "119",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "153",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "6",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "12",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

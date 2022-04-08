@@ -1,0 +1,151 @@
+{
+    "name": "Japanese Glass Noodle Soup (Harusame Soup)",
+    "summary": "Made with fluffy eggs, tofu, and wakame seaweed, this comforting Japanese Glass Noodle Soup (or Harusame Soup) will be your go-to favorite quick soup. This easy recipe can be made in less than 15 minutes! Enjoy it as a fabulous lunch or a light dinner.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2022/02/Japanese-Glass-Noodle-Soup-Harusame-Soup-6552-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "egg",
+        "glass noodle",
+        "tofu",
+        "wakame"
+    ],
+    "ingredients": [
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "green onions/scallions",
+            "raw_text": "green onions/scallions"
+        },
+        {
+            "name": "medium-firm tofu",
+            "raw_text": "medium-firm tofu (momen tofu)"
+        },
+        {
+            "name": "dried wakame seaweed",
+            "raw_text": "dried wakame seaweed"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "Chicken Stock/Broth",
+            "raw_text": "Chicken Stock/Broth (homemade or store bought)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "white pepper powder",
+            "raw_text": "white pepper powder"
+        },
+        {
+            "name": "dried glass/cellophane noodles",
+            "raw_text": "dried glass/cellophane noodles (harusame)"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "115",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "93",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "703",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "65",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "219",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "2",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "107",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

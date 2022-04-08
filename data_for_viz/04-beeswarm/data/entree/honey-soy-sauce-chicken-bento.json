@@ -1,0 +1,140 @@
+{
+    "name": "Honey Soy Sauce Chicken Bento",
+    "summary": "Sweet and flavorful honey soy sauce chicken bento with sauteed cabbage, Tamagoyaki, tomatoes, and fresh fruits. Enjoy with onigiri.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/08/Honey-Soy-Sauce-Chicken-Bento-9778-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "bento"
+    ],
+    "ingredients": [
+        {
+            "name": "onigiri",
+            "raw_text": "onigiri (rice ball)"
+        },
+        {
+            "name": "honey soy sauce chicken",
+            "raw_text": "honey soy sauce chicken"
+        },
+        {
+            "name": "Tamagoyaki",
+            "raw_text": "Tamagoyaki (Easy Version)"
+        },
+        {
+            "name": "cabbage",
+            "raw_text": "cabbage"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "cherry tomatoes",
+            "raw_text": "cherry tomatoes"
+        },
+        {
+            "name": "blueberries",
+            "raw_text": "blueberries"
+        },
+        {
+            "name": "plums",
+            "raw_text": "plums"
+        },
+        {
+            "name": "grapes",
+            "raw_text": "grapes"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "523",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "58",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "25",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "22",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "205",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "471",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "570",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "24",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "817",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "35",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "61",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

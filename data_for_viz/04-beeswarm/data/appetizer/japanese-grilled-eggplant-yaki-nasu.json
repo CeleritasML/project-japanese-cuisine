@@ -1,0 +1,122 @@
+{
+    "name": "Japanese Grilled Eggplant (Yaki Nasu)",
+    "summary": "Japanese grilled eggplant with citrus soy sauce and yuzu pepper. Garnish with bonito flakes and chopped green onion. Enjoy the full flavor of the eggplant with just a little bit of seasoning!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2011/10/Japanese-Grilled-Eggplant-Yaki-Nasu-e1318220106546-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "eggplant"
+    ],
+    "ingredients": [
+        {
+            "name": "Japanese or Chinese eggplant",
+            "raw_text": "Japanese or Chinese eggplant"
+        },
+        {
+            "name": "green onion/scallion",
+            "raw_text": "green onion/scallion"
+        },
+        {
+            "name": "katsuobushi",
+            "raw_text": "katsuobushi (dried bonito flakes)"
+        },
+        {
+            "name": "Korean chili thread",
+            "raw_text": "Korean chili thread"
+        },
+        {
+            "name": "ponzu",
+            "raw_text": "ponzu"
+        },
+        {
+            "name": "yuzu kosho",
+            "raw_text": "yuzu kosho (Japanese citrus chili paste)"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "grated ginger",
+            "raw_text": "grated ginger"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "85",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "20",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "7",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "776",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "78",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "7",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "31",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

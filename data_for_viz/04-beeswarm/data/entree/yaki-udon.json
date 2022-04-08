@@ -1,0 +1,154 @@
+{
+    "name": "Yaki Udon",
+    "summary": "Yaki Udon is Japanese stir-fried udon noodles made with your choice of protein and vegetables seasoned with a savory sauce. Ready in 25 mins, and incredibly delicious!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2011/01/Yaki-Udon1-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "stir fry",
+        "udon",
+        "udon noodle"
+    ],
+    "ingredients": [
+        {
+            "name": "udon noodles",
+            "raw_text": "udon noodles"
+        },
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "cabbage",
+            "raw_text": "cabbage"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "shiitake mushrooms",
+            "raw_text": "shiitake mushrooms"
+        },
+        {
+            "name": "green onions/scallions",
+            "raw_text": "green onions/scallions"
+        },
+        {
+            "name": "sliced pork belly",
+            "raw_text": "sliced pork belly"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "mentsuyu/tsuyu",
+            "raw_text": "mentsuyu/tsuyu (concentrated noodle soup base)"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "katsuobushi",
+            "raw_text": "katsuobushi (dried bonito flakes)"
+        },
+        {
+            "name": "pickled red ginger",
+            "raw_text": "pickled red ginger (beni shoga or kizami beni shoga)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "976",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "59",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "26",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "67",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "23",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "30",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "82",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "938",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "445",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "5228",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "7",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "51",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

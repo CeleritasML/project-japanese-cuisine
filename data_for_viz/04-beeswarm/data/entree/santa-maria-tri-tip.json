@@ -1,0 +1,116 @@
+{
+    "name": "Santa Maria Tri Tip",
+    "summary": "Learn how to\u00a0make juicy and flavorful Santa Maria Tri-Tip in this recipe. You'll need just a few hours in a sous vide machine for an amazing result!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2016/06/Santa-Maria-Tri-Tip-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "beef steak",
+        "sous vide"
+    ],
+    "ingredients": [
+        {
+            "name": "garlic salt with dried parsley",
+            "raw_text": "garlic salt with dried parsley"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "tri-tip",
+            "raw_text": "tri-tip"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "liquid smoke",
+            "raw_text": "liquid smoke"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "385",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "47",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "20",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "147",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "125",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "755",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "14",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "64",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

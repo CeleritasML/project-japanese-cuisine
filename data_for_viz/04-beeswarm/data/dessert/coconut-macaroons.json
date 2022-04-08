@@ -1,0 +1,115 @@
+{
+    "name": "Coconut Macaroons",
+    "summary": "Easy coconut macaroons recipe, soft and moist macaroons made with just sugar, egg white, and shredded coconut dipped in semisweet chocolate.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2013/03/Coconut-Macaroons-400x400.jpg",
+    "cuisine": [
+        "American"
+    ],
+    "keywords": [
+        "coconut",
+        "cookie"
+    ],
+    "ingredients": [
+        {
+            "name": "large egg white",
+            "raw_text": "large egg white"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "unsweetened shredded coconut",
+            "raw_text": "unsweetened shredded coconut"
+        },
+        {
+            "name": "pure vanilla extract",
+            "raw_text": "pure vanilla extract"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "chocolate chips",
+            "raw_text": "chocolate chips"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "138",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "2",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "31",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "70",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "3",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

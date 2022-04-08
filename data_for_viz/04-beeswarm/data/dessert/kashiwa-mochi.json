@@ -1,0 +1,115 @@
+{
+    "name": "Kashiwa Mochi",
+    "summary": "Kashiwa Mochi is a traditional mochi (Japanese rice cake) with red bean paste filling wrapped with an oak leaf. It is enjoyed on Children\u2019s Day in Japan as we celebrate a child\u2019s growth and happiness.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/04/Kashiwa-Mochi-4348-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "mochi",
+        "wagashi"
+    ],
+    "ingredients": [
+        {
+            "name": "kashiwa",
+            "raw_text": "kashiwa (oak) leaves"
+        },
+        {
+            "name": "red bean paste",
+            "raw_text": "red bean paste (anko)"
+        },
+        {
+            "name": "joshinko",
+            "raw_text": "joshinko (Japanese rice flour)"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "133",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "30",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "20",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "115",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "1",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "10",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "name": "Easy Apple Pie",
+    "summary": "Quick, easy, and delicious homemade apple pie made with frozen puff pastry sheet, ready in just 40 minutes!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2012/11/Easy-Apple-Pie-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "apple",
+        "pie"
+    ],
+    "ingredients": [
+        {
+            "name": "frozen puff pastry",
+            "raw_text": "frozen puff pastry"
+        },
+        {
+            "name": "Fuji apple",
+            "raw_text": "Fuji apple"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "large egg yolk",
+            "raw_text": "large egg yolk"
+        },
+        {
+            "name": "rosemary",
+            "raw_text": "rosemary"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "870",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "86",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "55",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "29",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "107",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "311",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "184",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "28",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "349",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "4",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "31",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

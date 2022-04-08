@@ -1,0 +1,120 @@
+{
+    "name": "Bean Sprout Salad",
+    "summary": "This light and refreshing Bean Sprout Salad takes\u00a0only 10 minutes to make! \u00a0It's crunchy, nutty, and so addicting! \u00a0It's a perfect side dish for Asian meals!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2017/05/Bean-Sprout-Salad-400x400.jpg",
+    "cuisine": [
+        "Japanese",
+        "Korean"
+    ],
+    "keywords": [
+        "moyashi",
+        "mung bean sprout"
+    ],
+    "ingredients": [
+        {
+            "name": "bean sprouts",
+            "raw_text": "bean sprouts"
+        },
+        {
+            "name": "green onion/scallion",
+            "raw_text": "green onion/scallion"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "131",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "389",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "231",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "87",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "18",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "63",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

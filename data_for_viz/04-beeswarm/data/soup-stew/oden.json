@@ -1,0 +1,173 @@
+{
+    "name": "Oden (Japanese Fish Cake Stew)",
+    "summary": "A classic winter comfort dish in Japan,\u00a0Oden\u00a0is a one-pot dish with an assortment of fish balls, fish cakes, deep-fried tofu, hard-boiled eggs, konnyaku and some vegetables simmered in soy sauce-based dashi broth.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/12/Oden-2187-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "daikon",
+        "fish cake"
+    ],
+    "ingredients": [
+        {
+            "name": "dashi",
+            "raw_text": "dashi (Japanese soup stock; click to learn more)"
+        },
+        {
+            "name": "usukuchi",
+            "raw_text": "usukuchi (light-colored) soy sauce"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "daikon radish",
+            "raw_text": "daikon radish"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "nishime kombu",
+            "raw_text": "nishime kombu (dried seaweed)"
+        },
+        {
+            "name": "octopus sashimi",
+            "raw_text": "octopus sashimi (boiled octopus)"
+        },
+        {
+            "name": "konnyaku",
+            "raw_text": "konnyaku (konjac)"
+        },
+        {
+            "name": "Tokyo negi",
+            "raw_text": "Tokyo negi (naga negi; long green onion)"
+        },
+        {
+            "name": "oden set",
+            "raw_text": "oden set (Japanese fish cakes and fish balls)"
+        },
+        {
+            "name": "aburaage",
+            "raw_text": "aburaage (deep-fried tofu pouch)"
+        },
+        {
+            "name": "kirimochi or homemade mochi",
+            "raw_text": "kirimochi or homemade mochi"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "Japanese karashi hot mustard",
+            "raw_text": "Japanese karashi hot mustard"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "303",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "29",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "20",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "209",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1296",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "295",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "309",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "12",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "122",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

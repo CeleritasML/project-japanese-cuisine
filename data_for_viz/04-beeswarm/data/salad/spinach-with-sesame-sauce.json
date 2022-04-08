@@ -1,0 +1,131 @@
+{
+    "name": "Japanese Spinach Salad with Sesame Dressing (Horenso Gomaae)",
+    "summary": "Blanched spinach dressed in a savory nutty sesame sauce, this Japanese Spinach Salad with Sesame Dressing (Horenso Gomaae) is a healthy veggie side dish that goes well with everything.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2016/06/Japanese-Spinach-Salad-with-Sesame-Dressing-Horenso-Gomaae-5761-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "sesame seed",
+        "spinach"
+    ],
+    "ingredients": [
+        {
+            "name": "spinach",
+            "raw_text": "spinach"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "110",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "331",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "689",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "10634",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "32",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "229",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "5",
+            "unit": "mg"
+        }
+    ]
+}

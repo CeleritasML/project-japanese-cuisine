@@ -1,0 +1,144 @@
+{
+    "name": "Japanese Beef Tendon Stew",
+    "summary": "Pressure cooked in savory Japanese seasonings, this Japanese Beef Tendon Stew (Gyusuji Nikomi) is incredibly flavorful and literally melts\u00a0in your mouth.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2018/10/Japanese-Beef-Tendon-Stew-w600-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "beef tendon",
+        "stew"
+    ],
+    "ingredients": [
+        {
+            "name": "beef tendon",
+            "raw_text": "beef tendon"
+        },
+        {
+            "name": "green onions/scallions",
+            "raw_text": "green onions/scallions"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        },
+        {
+            "name": "daikon radish",
+            "raw_text": "daikon radish"
+        },
+        {
+            "name": "gobo",
+            "raw_text": "gobo (burdock root)"
+        },
+        {
+            "name": "konnyaku",
+            "raw_text": "konnyaku (konjac)"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "dashi",
+            "raw_text": "dashi (Japanese soup stock; click to learn more)"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "miso",
+            "raw_text": "miso"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "234",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "41",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "89",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "717",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "397",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "93",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "15",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "32",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "name": "Negi Miso Chicken",
+    "summary": "Tender chicken marinated in negi miso, made with Tokyo Negi roasted in sesame oil, and seasoned with miso, sugar, mirin, sake, and soy sauce.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2011/10/Negi-Miso-Chicken-w600-400x399.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "chicken",
+        "miso",
+        "negi"
+    ],
+    "ingredients": [
+        {
+            "name": "Tokyo negi",
+            "raw_text": "Tokyo negi (naga negi; long green onion)"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "miso",
+            "raw_text": "miso"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "boneless, skinless chicken thighs",
+            "raw_text": "boneless, skinless chicken thighs"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "433",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "46",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "17",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "215",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "821",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "728",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "566",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "9",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "65",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "name": "Mirin Salmon",
+    "summary": "This simple yet flavorful Mirin Salmon recipe is a must-keep for your weeknight dinner! All you need is marinade the salmon fillets in mirin and soy sauce for two days, and bake in the oven until crispy on the edges and perfectly moist on the inside.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/10/Mirin-Salmon-3666-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "salmon"
+    ],
+    "ingredients": [
+        {
+            "name": "skin-on salmon fillets",
+            "raw_text": "skin-on salmon fillets"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "320",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "41",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "112",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "454",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1000",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "82",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "25",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

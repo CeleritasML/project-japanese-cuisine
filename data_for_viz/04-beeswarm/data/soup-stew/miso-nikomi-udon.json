@@ -1,0 +1,139 @@
+{
+    "name": "Miso Nikomi Udon",
+    "summary": "Miso Nikomi Udon is a hearty and comforting noodle soup where chicken, fish cake, and udon noodles are simmered in a miso-flavored dashi broth. When it\u2019s cold outside, this noodle soup will warm you inside out.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2018/12/Miso-Nikomi-Udon-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "miso",
+        "udon noodle"
+    ],
+    "ingredients": [
+        {
+            "name": "dashi",
+            "raw_text": "dashi (Japanese soup stock; click to learn more)"
+        },
+        {
+            "name": "shimeji mushrooms",
+            "raw_text": "shimeji mushrooms"
+        },
+        {
+            "name": "shiitake mushrooms",
+            "raw_text": "shiitake mushrooms"
+        },
+        {
+            "name": "kamaboko",
+            "raw_text": "kamaboko (fish cake)"
+        },
+        {
+            "name": "Tokyo negi",
+            "raw_text": "Tokyo negi (naga negi; long green onion)"
+        },
+        {
+            "name": "aburaage",
+            "raw_text": "aburaage (deep-fried tofu pouch)"
+        },
+        {
+            "name": "udon noodles",
+            "raw_text": "udon noodles"
+        },
+        {
+            "name": "chicken thighs",
+            "raw_text": "chicken thighs"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "shichimi togarashi",
+            "raw_text": "shichimi togarashi (Japanese seven spice)"
+        },
+        {
+            "name": "miso",
+            "raw_text": "miso"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "679",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "72",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "36",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "23",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "284",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1032",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "552",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "483",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "4",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "101",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

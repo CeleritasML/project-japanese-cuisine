@@ -1,0 +1,208 @@
+{
+    "name": "Chanko Nabe (Sumo Stew)",
+    "summary": "Chanko Nabe or Sumo Stew is a robust hot pot filled with all kinds of\u00a0vegetables and tons of protein in a rich dashi and chicken broth. \u00a0This well-balanced meal is traditionally eaten by sumo wrestlers\u00a0but also enjoyed at home or some restaurants.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2017/04/Chanko-Nabe-w722-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "hot pot"
+    ],
+    "ingredients": [
+        {
+            "name": "Chicken Stock/Broth",
+            "raw_text": "Chicken Stock/Broth (homemade or store bought)"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "ginger juice",
+            "raw_text": "ginger juice"
+        },
+        {
+            "name": "crushed garlic",
+            "raw_text": "crushed garlic"
+        },
+        {
+            "name": "miso",
+            "raw_text": "miso"
+        },
+        {
+            "name": "ground chicken",
+            "raw_text": "ground chicken"
+        },
+        {
+            "name": "large egg",
+            "raw_text": "large egg (50 g w/o shell)"
+        },
+        {
+            "name": "ginger juice",
+            "raw_text": "ginger juice"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "cornstarch",
+            "raw_text": "cornstarch"
+        },
+        {
+            "name": "panko",
+            "raw_text": "panko (Japanese breadcrumbs)"
+        },
+        {
+            "name": "green onions/scallions",
+            "raw_text": "green onions/scallions"
+        },
+        {
+            "name": "chicken meatballs",
+            "raw_text": "chicken meatballs"
+        },
+        {
+            "name": "cod fillet",
+            "raw_text": "cod fillet"
+        },
+        {
+            "name": "shrimp",
+            "raw_text": "shrimp"
+        },
+        {
+            "name": "sliced pork belly",
+            "raw_text": "sliced pork belly"
+        },
+        {
+            "name": "boneless, skinless chicken thighs",
+            "raw_text": "boneless, skinless chicken thighs"
+        },
+        {
+            "name": "medium-firm tofu",
+            "raw_text": "medium-firm tofu (momen tofu)"
+        },
+        {
+            "name": "napa cabbage",
+            "raw_text": "napa cabbage"
+        },
+        {
+            "name": "Tokyo negi",
+            "raw_text": "Tokyo negi (naga negi; long green onion)"
+        },
+        {
+            "name": "green onions/scallions",
+            "raw_text": "green onions/scallions"
+        },
+        {
+            "name": "shiitake mushrooms",
+            "raw_text": "shiitake mushrooms"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "ponzu",
+            "raw_text": "ponzu"
+        },
+        {
+            "name": "Sesame Dipping Sauce",
+            "raw_text": "Sesame Dipping Sauce (homemade or store bought)"
+        },
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "666",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "39",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "58",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "28",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "204",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "969",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1273",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "1029",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "27",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "256",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "6",
+            "unit": "mg"
+        }
+    ]
+}

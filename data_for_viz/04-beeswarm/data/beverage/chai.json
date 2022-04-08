@@ -1,0 +1,120 @@
+{
+    "name": "Masala Chai",
+    "summary": "The Masala Chai is delicious Indian milk tea made with a blend of spices such as cardamom\u00a0and ginger. \u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2017/02/Chai-NEW-400x400.jpg",
+    "cuisine": [
+        "Indian"
+    ],
+    "keywords": [
+        "cardamom tea",
+        "chai tea"
+    ],
+    "ingredients": [
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "green cardamom",
+            "raw_text": "green cardamom"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        },
+        {
+            "name": "loose black tea",
+            "raw_text": "loose black tea"
+        },
+        {
+            "name": "milk",
+            "raw_text": "milk"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "47",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "3",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "16",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "89",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "49",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "74",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

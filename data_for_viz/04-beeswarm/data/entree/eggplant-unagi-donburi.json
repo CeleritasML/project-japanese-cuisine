@@ -1,0 +1,127 @@
+{
+    "name": "Eggplant Unagi Donburi",
+    "summary": "Hearty and savory rice bowl with unagi (eel) and eggplant! It is super easy and simple to make this Eggplant Unagi Donburi.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/05/Eggplant-Unagi-Donburi-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "donburi",
+        "eggplant",
+        "unagi"
+    ],
+    "ingredients": [
+        {
+            "name": "Japanese or Chinese eggplant",
+            "raw_text": "Japanese or Chinese eggplant"
+        },
+        {
+            "name": "unagi",
+            "raw_text": "unagi (eel)"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "Unagi Sauce",
+            "raw_text": "Unagi Sauce (homemade or store bought)"
+        },
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "shiso leaves",
+            "raw_text": "shiso leaves (perilla/ooba)"
+        },
+        {
+            "name": "shichimi togarashi",
+            "raw_text": "shichimi togarashi (Japanese seven spice)"
+        },
+        {
+            "name": "Japanese sansho pepper",
+            "raw_text": "Japanese sansho pepper"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "470",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "42",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "30",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "23",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "129",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "340",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "572",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "3573",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "4",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "42",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "10",
+            "unit": "mg"
+        }
+    ]
+}

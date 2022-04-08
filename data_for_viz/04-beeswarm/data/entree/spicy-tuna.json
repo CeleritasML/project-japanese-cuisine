@@ -1,0 +1,126 @@
+{
+    "name": "Spicy Tuna",
+    "summary": "Often tucked in sushi rolls or served over rice bowl, this Spicy Tuna is a versatile recipe that you can make into a meal, appetizer, or canap\u00e9s. With a few simple ingredients, you can prepare this popular Spicy Tuna recipe in 15 minutes!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2018/07/Spicy-Tuna-w600-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "sashimi",
+        "spicy tuna",
+        "Sriracha",
+        "sushi"
+    ],
+    "ingredients": [
+        {
+            "name": "sashimi-grade tuna",
+            "raw_text": "sashimi-grade tuna"
+        },
+        {
+            "name": "sriracha sauce",
+            "raw_text": "sriracha sauce"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "green onions/scallions",
+            "raw_text": "green onions/scallions"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "Japanese mayonnaise",
+            "raw_text": "Japanese mayonnaise"
+        },
+        {
+            "name": "sriracha sauce",
+            "raw_text": "sriracha sauce"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "101",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "22",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "282",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "195",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "1373",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "10",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "24",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

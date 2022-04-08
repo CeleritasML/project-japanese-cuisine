@@ -1,0 +1,79 @@
+{
+    "name": "Aka Shiso Juice (Red Perilla Juice)",
+    "summary": "With a beautiful, rose color and a refreshing taste, Aka Shiso Juice (Red Perilla Juice) is a popular homemade summer drink in Japan made of red perilla leaves. It brings out your appetite on hot days and helps with recovery from exhaustion, digestion, anti-aging, and more!!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/06/Aka-Shiso-Juice-9316-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "shiso"
+    ],
+    "ingredients": [
+        {
+            "name": "red shiso leaves",
+            "raw_text": "red shiso leaves (perilla)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "apple cider vinegar",
+            "raw_text": "apple cider vinegar"
+        },
+        {
+            "name": "cold water or sparkling water",
+            "raw_text": "cold water or sparkling water"
+        },
+        {
+            "name": "apple cider vinegar",
+            "raw_text": "apple cider vinegar"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "1",
+            "unit": "cup"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "266",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "67",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "6",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "30",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "67",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "48",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

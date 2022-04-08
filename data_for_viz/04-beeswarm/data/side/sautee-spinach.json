@@ -1,0 +1,120 @@
+{
+    "name": "Sauteed Spinach Recipe",
+    "summary": "One of the easiest quick dishes that I prepare for bento is saut\u00e9ed\u00a0vegetables. It's also easy to add a bit of color to your bento with saut\u00e9ed vegetables, here's an easy way to saute spinach.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2012/11/Sauteed-Spinach-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "bento"
+    ],
+    "ingredients": [
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "spinach",
+            "raw_text": "spinach"
+        },
+        {
+            "name": "frozen or canned corn",
+            "raw_text": "frozen or canned corn"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "158",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "15",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "270",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1966",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "32138",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "97",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "339",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "9",
+            "unit": "mg"
+        }
+    ]
+}

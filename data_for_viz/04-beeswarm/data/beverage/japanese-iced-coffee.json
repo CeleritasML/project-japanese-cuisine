@@ -1,0 +1,38 @@
+{
+    "name": "Japanese Iced Coffee",
+    "summary": "The treat we look forward to the most in the morning is a cup of Japanese Iced Coffee. It releases all the wonderful flavors and aromatics from the coffee beans.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2017/04/Japanese-Iced-Coffee-w600-caption-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "coffee",
+        "how to"
+    ],
+    "ingredients": [
+        {
+            "name": "coffee beans",
+            "raw_text": "coffee beans"
+        },
+        {
+            "name": "ice",
+            "raw_text": "ice"
+        },
+        {
+            "name": "hot water",
+            "raw_text": "hot water"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Sodium",
+            "value": "6",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "27",
+            "unit": "mg"
+        }
+    ]
+}

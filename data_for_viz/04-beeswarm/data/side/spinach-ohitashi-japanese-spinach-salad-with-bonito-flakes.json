@@ -1,0 +1,114 @@
+{
+    "name": "Spinach Ohitashi (Japanese Spinach Salad with Savory Broth)",
+    "summary": "This method infuses ingredients with umami and subtle flavor but retains the food's natural taste.\u00a0It's one of common methods we use to prepare vegetable dishes.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/09/Spinach-Ohitashi-5650-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "ohitashi",
+        "salad",
+        "spinach"
+    ],
+    "ingredients": [
+        {
+            "name": "spinach",
+            "raw_text": "spinach"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "kombu",
+            "raw_text": "kombu (dried kelp)"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "usukuchi",
+            "raw_text": "usukuchi (light-colored) soy sauce"
+        },
+        {
+            "name": "katsuobushi",
+            "raw_text": "katsuobushi (dried bonito flakes)"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "31",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "352",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "482",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "7970",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "24",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "90",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

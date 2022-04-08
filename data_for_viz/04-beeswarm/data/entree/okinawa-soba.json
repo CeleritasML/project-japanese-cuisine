@@ -1,0 +1,156 @@
+{
+    "name": "Okinawa Soba",
+    "summary": "This classic Okinawan noodle soup is topped with tender stewed pork belly, slices of fish cake, chopped green onion, and red pickled ginger.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2018/06/Okinawa-Soba-w722-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "okinawa soba",
+        "pork belly"
+    ],
+    "ingredients": [
+        {
+            "name": "pork belly block",
+            "raw_text": "pork belly block"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "katsuobushi",
+            "raw_text": "katsuobushi (dried bonito flakes)"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "black sugar",
+            "raw_text": "black sugar"
+        },
+        {
+            "name": "awamori",
+            "raw_text": "awamori (Okinawan distilled liquor)"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "Okinawa soba noodles",
+            "raw_text": "Okinawa soba noodles"
+        },
+        {
+            "name": "green onion/scallion",
+            "raw_text": "green onion/scallion"
+        },
+        {
+            "name": "fish cakes",
+            "raw_text": "fish cakes"
+        },
+        {
+            "name": "pickled red ginger",
+            "raw_text": "pickled red ginger (beni shoga or kizami beni shoga)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "803",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "22",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "17",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "71",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "26",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "33",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "96",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1069",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "291",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "53",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "125",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

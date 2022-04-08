@@ -1,0 +1,114 @@
+{
+    "name": "Eggplant and Myoga Salad",
+    "summary": "Dressed in a light yet flavorful seasoning, this no-cook Eggplant and Myoga Salad brings you a taste of Japanese late summer. It\u2019s a\u00a0wonderful quick dish to accompany Rice Bowl or Cold Noodles.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/08/Eggplant-Myoga-Salad-7889-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "eggplant",
+        "myoga"
+    ],
+    "ingredients": [
+        {
+            "name": "Japanese eggplant",
+            "raw_text": "Japanese eggplant"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "myoga ginger",
+            "raw_text": "myoga ginger"
+        },
+        {
+            "name": "shiso leaves",
+            "raw_text": "shiso leaves (perilla/ooba)"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "katsuobushi",
+            "raw_text": "katsuobushi (dried bonito flakes)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "34",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "98",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "80",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "6",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "4",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

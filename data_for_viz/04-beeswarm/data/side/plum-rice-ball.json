@@ -1,0 +1,101 @@
+{
+    "name": "Plum Rice Ball",
+    "summary": "Made with fluffy Japanese rice, chopped pickled plums, and sesame seeds, these Plum Rice Balls are THE BEST THING for a picnic and potluck! They are salted, lightly compressed, and wrapped in sheets of nori. It's hard not to fall in love with the savory, tangy and nutty flavor.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/02/Plum-Rice-Ball-9104-I-300x200.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "pickled plum",
+        "rice"
+    ],
+    "ingredients": [
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "pickled plums",
+            "raw_text": "pickled plums (ko ume)"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "nori",
+            "raw_text": "nori (dried laver seaweed)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "149",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "32",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "289",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "35",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "49",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "8",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "21",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

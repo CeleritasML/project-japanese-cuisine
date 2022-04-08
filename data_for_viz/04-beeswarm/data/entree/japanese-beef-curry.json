@@ -1,0 +1,189 @@
+{
+    "name": "Japanese Beef Curry",
+    "summary": "Made with beef, potatoes, carrots, mushrooms, and curry roux, this savory and hearty Japanese Beef Curry makes for a fabulous introduction to new curry eaters. Adapted to Japanese tastes, it's mild and sweet with a stew-like consistency. Even children enjoy it thoroughly! You have to give this easy recipe a try.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2014/04/Beef-Curry-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "beef",
+        "curry"
+    ],
+    "ingredients": [
+        {
+            "name": "onions",
+            "raw_text": "onions"
+        },
+        {
+            "name": "carrots",
+            "raw_text": "carrots"
+        },
+        {
+            "name": "russet potato",
+            "raw_text": "russet potato"
+        },
+        {
+            "name": "mushrooms",
+            "raw_text": "mushrooms"
+        },
+        {
+            "name": "boneless chuck roast",
+            "raw_text": "boneless chuck roast"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        },
+        {
+            "name": "Japanese curry powder",
+            "raw_text": "Japanese curry powder"
+        },
+        {
+            "name": "tomato paste",
+            "raw_text": "tomato paste"
+        },
+        {
+            "name": "red wine",
+            "raw_text": "red wine"
+        },
+        {
+            "name": "beef stock/broth",
+            "raw_text": "beef stock/broth"
+        },
+        {
+            "name": "bay leaves",
+            "raw_text": "bay leaves"
+        },
+        {
+            "name": "Japanese curry roux",
+            "raw_text": "Japanese curry roux"
+        },
+        {
+            "name": "milk",
+            "raw_text": "milk"
+        },
+        {
+            "name": "Worcestershire sauce",
+            "raw_text": "Worcestershire sauce"
+        },
+        {
+            "name": "apple",
+            "raw_text": "apple"
+        },
+        {
+            "name": "fukujinzuke",
+            "raw_text": "fukujinzuke (Japanese red pickled vegetables)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "426",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "28",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "23",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "20",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "73",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "938",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "873",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "3992",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "13",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "66",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

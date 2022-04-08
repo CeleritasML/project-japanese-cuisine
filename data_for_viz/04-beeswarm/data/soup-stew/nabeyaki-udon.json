@@ -1,0 +1,189 @@
+{
+    "name": "Nabeyaki Udon",
+    "summary": "Fight the cold days with this steamy Nabeyaki Udon served in donabe. Topped with chicken, tempura & heaps of vegetables in an umami dashi soup, this hot noodle soup would be your favorite kind of winter comfort food.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/12/Nabeyaki-Udon-4668-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "noodle soup",
+        "udon noodle"
+    ],
+    "ingredients": [
+        {
+            "name": "dried shiitake mushrooms",
+            "raw_text": "dried shiitake mushrooms"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "spinach",
+            "raw_text": "spinach"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "kamaboko",
+            "raw_text": "kamaboko (fish cake)"
+        },
+        {
+            "name": "shimeji mushrooms",
+            "raw_text": "shimeji mushrooms"
+        },
+        {
+            "name": "Tokyo negi",
+            "raw_text": "Tokyo negi (naga negi; long green onion)"
+        },
+        {
+            "name": "chicken thigh",
+            "raw_text": "chicken thigh"
+        },
+        {
+            "name": "udon noodles",
+            "raw_text": "udon noodles"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "shrimp tempura",
+            "raw_text": "shrimp tempura"
+        },
+        {
+            "name": "dashi",
+            "raw_text": "dashi (Japanese soup stock; click to learn more)"
+        },
+        {
+            "name": "shiitake dashi",
+            "raw_text": "shiitake dashi"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "shrimp",
+            "raw_text": "shrimp"
+        },
+        {
+            "name": "tempura batter mix",
+            "raw_text": "tempura batter mix"
+        },
+        {
+            "name": "cold water or sparkling water",
+            "raw_text": "cold water or sparkling water"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        },
+        {
+            "name": "mitsuba",
+            "raw_text": "mitsuba (Japanese parsley)"
+        },
+        {
+            "name": "shichimi togarashi",
+            "raw_text": "shichimi togarashi (Japanese seven spice)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "623",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "76",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "30",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "18",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "266",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "962",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "439",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "2354",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "5",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "83",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

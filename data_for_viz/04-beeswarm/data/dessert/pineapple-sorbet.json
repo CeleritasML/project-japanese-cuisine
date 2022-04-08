@@ -1,0 +1,117 @@
+{
+    "name": "Pineapple Sorbet",
+    "summary": "Homemade pineapple sorbet made with golden sweet pineapple blended with banana and a splash of Cointereau.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2012/06/Pineapple-Sorbet-400x400.jpg",
+    "cuisine": [
+        "American"
+    ],
+    "keywords": [
+        "banana",
+        "ice cream",
+        "pineapple"
+    ],
+    "ingredients": [
+        {
+            "name": "pineapple",
+            "raw_text": "pineapple"
+        },
+        {
+            "name": "banana",
+            "raw_text": "banana"
+        },
+        {
+            "name": "lime",
+            "raw_text": "lime"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "Cointreau",
+            "raw_text": "Cointreau"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "1",
+            "unit": "QT"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "470",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "116",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "6",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "768",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "93",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "309",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "219",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "64",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

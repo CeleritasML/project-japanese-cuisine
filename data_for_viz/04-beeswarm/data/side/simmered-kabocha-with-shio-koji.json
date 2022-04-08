@@ -1,0 +1,103 @@
+{
+    "name": "Simmered Kabocha with Shio Koji",
+    "summary": "Delicious simmered kabocha squash flavored with the popular Japanese seasoning shio koji (rice koji and salt), resulting in unique umami flavor.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2014/02/Simmered-Kabocha-with-Shio-Koji-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "nimono",
+        "shio koji"
+    ],
+    "ingredients": [
+        {
+            "name": "kabocha",
+            "raw_text": "kabocha"
+        },
+        {
+            "name": "Hikari Miso Shio Koji",
+            "raw_text": "Hikari Miso Shio Koji"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "35",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "131",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "298",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "1163",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "10",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "24",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "name": "Hot Pot for One",
+    "summary": "Fast, easy Hot Pot for One. Tender pork belly cooked in a delicious and savory katsuo dashi with napa cabbage and enoki mushrooms. Inspired by Midnight Diner Japanese drama.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/11/Hot-Pot-for-One-6873-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "hot pot",
+        "nabe",
+        "tofu"
+    ],
+    "ingredients": [
+        {
+            "name": "katsuobushi",
+            "raw_text": "katsuobushi (dried bonito flakes)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "napa cabbage",
+            "raw_text": "napa cabbage"
+        },
+        {
+            "name": "sliced pork belly",
+            "raw_text": "sliced pork belly"
+        },
+        {
+            "name": "medium-firm tofu",
+            "raw_text": "medium-firm tofu (momen tofu)"
+        },
+        {
+            "name": "enoki mushrooms",
+            "raw_text": "enoki mushrooms"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "ponzu",
+            "raw_text": "ponzu"
+        },
+        {
+            "name": "shichimi togarashi",
+            "raw_text": "shichimi togarashi (Japanese seven spice)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "716",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "19",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "66",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "24",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "30",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "86",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "55",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "561",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "190",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "15",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "184",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

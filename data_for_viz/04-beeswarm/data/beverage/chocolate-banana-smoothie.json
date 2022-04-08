@@ -1,0 +1,114 @@
+{
+    "name": "Chocolate Banana Smoothie",
+    "summary": "Power charge your day with this Chocolate Banana Smoothie made with velvety soy milk blended with a banana! For additional creaminess & fun, top with whipped cream and colorful sprinkles.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/03/Chocolate-Banana-Smoothie-8910-I.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "smoothie"
+    ],
+    "ingredients": [
+        {
+            "name": "banana",
+            "raw_text": "banana"
+        },
+        {
+            "name": "unsweetened cocoa powder",
+            "raw_text": "unsweetened cocoa powder"
+        },
+        {
+            "name": "ice cubes",
+            "raw_text": "ice cubes"
+        },
+        {
+            "name": "Silk Chocolate Soy Milk",
+            "raw_text": "Silk Chocolate Soy Milk"
+        },
+        {
+            "name": "whipped cream",
+            "raw_text": "whipped cream"
+        },
+        {
+            "name": "Your choice of sprinkles",
+            "raw_text": "Your choice of sprinkles"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "98",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "18",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "47",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "374",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "386",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "12",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "131",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

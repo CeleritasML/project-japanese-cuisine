@@ -1,0 +1,145 @@
+{
+    "name": "Goya Champuru",
+    "summary": "Okinawa's most iconic Goya Champuru is a stir fry dish with bitter melon, tofu, egg, and pork belly. This popular savory dish is a truly rustic yet well-balanced meal to served with steamed rice and a side of miso soup.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2017/09/Goya-Champuru-w600-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "bitter melon",
+        "okinawan food"
+    ],
+    "ingredients": [
+        {
+            "name": "bitter melon",
+            "raw_text": "bitter melon"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "medium-firm tofu",
+            "raw_text": "medium-firm tofu (momen tofu)"
+        },
+        {
+            "name": "sliced pork belly",
+            "raw_text": "sliced pork belly"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "katsuobushi",
+            "raw_text": "katsuobushi (dried bonito flakes)"
+        },
+        {
+            "name": "boiling water",
+            "raw_text": "boiling water"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "713",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "38",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "58",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "24",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "20",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "229",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "755",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "518",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "811",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "96",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "305",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

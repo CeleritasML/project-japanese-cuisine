@@ -1,0 +1,132 @@
+{
+    "name": "Matcha Basque Burnt Cheesecake",
+    "summary": "Creamy, custardy with a subtle caramel flavor and the lingering sweetness from green tea. This\u00a0Matcha Basque Cheesecake has a deep brown burnt top that contrasts beautifully with the vibrant green insides. This IS the cheesecake of your dreams!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/12/Matcha-Basque-Burnt-Cheesecake-2596-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "cheesecake",
+        "matcha"
+    ],
+    "ingredients": [
+        {
+            "name": "cream cheese",
+            "raw_text": "cream cheese"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "large egg yolk",
+            "raw_text": "large egg yolk"
+        },
+        {
+            "name": "matcha",
+            "raw_text": "matcha"
+        },
+        {
+            "name": "cake flour",
+            "raw_text": "cake flour"
+        },
+        {
+            "name": "cornstarch",
+            "raw_text": "cornstarch"
+        },
+        {
+            "name": "heavy whipping cream",
+            "raw_text": "heavy whipping cream"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "1",
+            "unit": "slice"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "277",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "22",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "138",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "138",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "81",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "977",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "56",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

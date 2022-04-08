@@ -1,0 +1,149 @@
+{
+    "name": "Kabocha Pork Stir Fry",
+    "summary": "Kabocha Pork Stir Fry is a simple yet satisfying dish you'll enjoy when kabocha is in season. It's a one-pan wonder for a weeknight dinner!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/09/Kabocha-Pork-Stir-Fry-1840-I-2-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "kabocha",
+        "pork"
+    ],
+    "ingredients": [
+        {
+            "name": "ground pork",
+            "raw_text": "ground pork"
+        },
+        {
+            "name": "kabocha",
+            "raw_text": "kabocha"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "oyster sauce",
+            "raw_text": "oyster sauce"
+        },
+        {
+            "name": "gochujang",
+            "raw_text": "gochujang (Korean chili paste)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "348",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "18",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "17",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "23",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "61",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "562",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "813",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "2141",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "21",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "61",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

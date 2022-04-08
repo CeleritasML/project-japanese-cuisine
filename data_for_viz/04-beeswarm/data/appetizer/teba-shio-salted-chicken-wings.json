@@ -1,0 +1,106 @@
+{
+    "name": "Teba Shio (Salted Chicken Wings)",
+    "summary": "With only 3 ingredients, these Japanese Salted Chicken Wings (Teba Shio) are broiled till juicy and crisp golden perfection. So good and unbelievably easy to make, they will the wings on repeat for all your parties, game days or lazy Sunday dinners.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2013/09/Teba-Shio-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "chicken",
+        "chicken wing",
+        "wings"
+    ],
+    "ingredients": [
+        {
+            "name": "chicken wings",
+            "raw_text": "chicken wings (flats/drumettes)"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "shichimi togarashi",
+            "raw_text": "shichimi togarashi (Japanese seven spice)"
+        },
+        {
+            "name": "lemon",
+            "raw_text": "lemon"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "523",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "31",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "26",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "126",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "308",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "285",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "240",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "26",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

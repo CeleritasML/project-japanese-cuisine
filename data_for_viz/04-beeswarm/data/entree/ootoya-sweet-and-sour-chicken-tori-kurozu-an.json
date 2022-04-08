@@ -1,0 +1,184 @@
+{
+    "name": "Sweet and Sour Chicken (Ootoya Tori Kurozu-An)",
+    "summary": "A copycat recipe of \"Tori Kurozu-An\" from Ootoya \u5927\u6238\u5c4b, this Japanese-style Sweet and Sour Chicken uses black rice vinegar in the sauce to create a deep, malty savory flavor.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/02/Ootoyas-Sweet-and-Sour-Chicken-9445-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "chicken"
+    ],
+    "ingredients": [
+        {
+            "name": "chicken thighs",
+            "raw_text": "chicken thighs"
+        },
+        {
+            "name": "potatoes",
+            "raw_text": "potatoes"
+        },
+        {
+            "name": "lotus root",
+            "raw_text": "lotus root (renkon)"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "Japanese or Chinese eggplant",
+            "raw_text": "Japanese or Chinese eggplant"
+        },
+        {
+            "name": "onion",
+            "raw_text": "onion"
+        },
+        {
+            "name": "green pepper",
+            "raw_text": "green pepper"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "apple cider vinegar",
+            "raw_text": "apple cider vinegar"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "black vinegar",
+            "raw_text": "black vinegar"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "1079",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "110",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "38",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "54",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "21",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "17",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "153",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1136",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "2441",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "23",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "2812",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "99",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "104",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "5",
+            "unit": "mg"
+        }
+    ]
+}

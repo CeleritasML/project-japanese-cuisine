@@ -1,0 +1,89 @@
+{
+    "name": "How to Cook Brown Rice (Instant Pot Brown Rice)",
+    "summary": "Follow my tips to make perfectly cooked Instant Pot Brown Rice. With a pressure cooker, you can make perfectly cooked short-grain brown rice every time!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/06/Instant-Pot-Brown-Rice-7365-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "rice"
+    ],
+    "ingredients": [
+        {
+            "name": "brown rice",
+            "raw_text": "brown rice"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "brown rice",
+            "raw_text": "brown rice"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "290",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "61",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "39",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "214",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "40",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

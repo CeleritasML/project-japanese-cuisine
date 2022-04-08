@@ -1,0 +1,146 @@
+{
+    "name": "Pon de Ring Donut",
+    "summary": "Here\u2019s the copycat recipe for the popular Pon de Ring donut\u00a0from Mr. Donut in Japan! They are soft, airy, bouncy, and chewy all at the same time! The mochi-like texture is unique and different from traditional donuts. Enjoy them with classic glaze or matcha glaze.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/09/Pon-De-Ring-Donut-Recipe-1592-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "donut"
+    ],
+    "ingredients": [
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "whole milk",
+            "raw_text": "whole milk"
+        },
+        {
+            "name": "instant yeast",
+            "raw_text": "instant yeast"
+        },
+        {
+            "name": "granulated sugar",
+            "raw_text": "granulated sugar"
+        },
+        {
+            "name": "pure vanilla extract",
+            "raw_text": "pure vanilla extract"
+        },
+        {
+            "name": "tapioca flour",
+            "raw_text": "tapioca flour"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "kosher salt",
+            "raw_text": "kosher salt (Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "safflower oil",
+            "raw_text": "safflower oil"
+        },
+        {
+            "name": "confectioners\u2019 sugar/powdered sugar",
+            "raw_text": "confectioners\u2019 sugar/powdered sugar"
+        },
+        {
+            "name": "whole milk",
+            "raw_text": "whole milk"
+        },
+        {
+            "name": "pure vanilla extract",
+            "raw_text": "pure vanilla extract"
+        },
+        {
+            "name": "matcha green tea powder",
+            "raw_text": "matcha green tea powder"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "193",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "29",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "22",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "35",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "37",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "127",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "1",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "18",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

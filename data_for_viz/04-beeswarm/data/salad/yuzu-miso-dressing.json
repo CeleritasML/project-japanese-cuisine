@@ -1,0 +1,151 @@
+{
+    "name": "Yuzu Miso Dressing",
+    "summary": "Transform the simplest of salads with this Japanese-inspired Yuzu Miso Dressing! The bright, aromatic citrus flavor from yuzu and the unexpected savoriness from miso make the best combo. It's so good that you want to dress it over your salads all summer long. ",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/06/Yuzu-Miso-Dressing-8940-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "miso",
+        "yuzu"
+    ],
+    "ingredients": [
+        {
+            "name": "white miso",
+            "raw_text": "white miso"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "yuzu juice",
+            "raw_text": "yuzu juice (extract)"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "romaine lettuce",
+            "raw_text": "romaine lettuce"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "Persian cucumbers",
+            "raw_text": "Persian cucumbers"
+        },
+        {
+            "name": "red radishes",
+            "raw_text": "red radishes"
+        },
+        {
+            "name": "sugar snap peas",
+            "raw_text": "sugar snap peas"
+        },
+        {
+            "name": "avocado",
+            "raw_text": "avocado"
+        },
+        {
+            "name": "red onion",
+            "raw_text": "red onion"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "155",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "136",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "511",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "10906",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "13",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "51",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

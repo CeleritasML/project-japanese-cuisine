@@ -1,0 +1,114 @@
+{
+    "name": "Salmon Sashimi Bowl (Donburi) with Ikura",
+    "summary": "Seafood donburi with fresh salmon sashimi and ikura over warm Japanese rice. Garnished with shredded nori and shiso leaf. It can be easily prepared at home!\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/09/Salmon-Ikura-Don-7225-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "donburi",
+        "salmon sashimi"
+    ],
+    "ingredients": [
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "sashimi-grade salmon",
+            "raw_text": "sashimi-grade salmon"
+        },
+        {
+            "name": "ikura",
+            "raw_text": "ikura (salmon roe)"
+        },
+        {
+            "name": "shiso leaves",
+            "raw_text": "shiso leaves (perilla/ooba)"
+        },
+        {
+            "name": "shredded nori seaweed",
+            "raw_text": "shredded nori seaweed (kizami nori)"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "wasabi",
+            "raw_text": "wasabi"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "253",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "27",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "21",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "118",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "53",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "436",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "351",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "5",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "18",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

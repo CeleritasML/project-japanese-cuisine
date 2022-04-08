@@ -1,0 +1,170 @@
+{
+    "name": "Sukiyaki",
+    "summary": "Cozy up at your next get-together with friends and family with this homemade Japanese Sukiyaki recipe, served with seared marbled beef and a variety of vegetables cooked in a soy sauce broth.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/12/Sukiyaki-2803-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "beef",
+        "hot pot",
+        "nabe"
+    ],
+    "ingredients": [
+        {
+            "name": "udon noodles",
+            "raw_text": "udon noodles"
+        },
+        {
+            "name": "napa cabbage",
+            "raw_text": "napa cabbage"
+        },
+        {
+            "name": "shungiku",
+            "raw_text": "shungiku (tong ho/garland chrysanthemum)"
+        },
+        {
+            "name": "Tokyo negi",
+            "raw_text": "Tokyo negi (naga negi; long green onion)"
+        },
+        {
+            "name": "enoki mushrooms",
+            "raw_text": "enoki mushrooms"
+        },
+        {
+            "name": "shiitake mushrooms",
+            "raw_text": "shiitake mushrooms"
+        },
+        {
+            "name": "yaki tofu",
+            "raw_text": "yaki tofu (broiled tofu)"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "shirataki noodles",
+            "raw_text": "shirataki noodles"
+        },
+        {
+            "name": "thinly sliced beef",
+            "raw_text": "thinly sliced beef (chuck or rib eye)"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "brown sugar",
+            "raw_text": "brown sugar"
+        },
+        {
+            "name": "dashi",
+            "raw_text": "dashi (Japanese soup stock; click to learn more)"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "608",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "53",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "41",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "21",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "9",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "69",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1219",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1430",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "942",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "60",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "258",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "6",
+            "unit": "mg"
+        }
+    ]
+}

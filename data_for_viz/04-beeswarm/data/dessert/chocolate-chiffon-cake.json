@@ -1,0 +1,128 @@
+{
+    "name": "Chocolate Chiffon Cake",
+    "summary": "This show-stopping Chocolate Chiffon Cake is super-moist, fluffy, airy, and bouncy all at once! With a rich chocolate flavor, this chiffon cake recipe will soon be your favorite!\u00a0 Get ready to eat a second serving, because it\u2019s like eating air!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/01/Chocolate-Chiffon-Cake-9341-I-500x500.jpg",
+    "cuisine": [
+        "American"
+    ],
+    "keywords": [
+        "cake",
+        "chiffon cake",
+        "chocolate"
+    ],
+    "ingredients": [
+        {
+            "name": "cake flour",
+            "raw_text": "cake flour"
+        },
+        {
+            "name": "baking powder",
+            "raw_text": "baking powder"
+        },
+        {
+            "name": "Dutch-processed cocoa powder",
+            "raw_text": "Dutch-processed cocoa powder"
+        },
+        {
+            "name": "large eggs",
+            "raw_text": "large eggs (50 g each w/o shell)"
+        },
+        {
+            "name": "granulated sugar",
+            "raw_text": "granulated sugar"
+        },
+        {
+            "name": "neutral-flavored oil",
+            "raw_text": "neutral-flavored oil (vegetable, rice bran, canola, etc.)"
+        },
+        {
+            "name": "whole milk or water",
+            "raw_text": "whole milk or water"
+        },
+        {
+            "name": "vanilla extract",
+            "raw_text": "vanilla extract"
+        },
+        {
+            "name": "confectioners\u2019 sugar/powdered sugar",
+            "raw_text": "confectioners\u2019 sugar/powdered sugar"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "8",
+            "unit": "inch cake"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "1824",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "227",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "52",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "90",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "59",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "939",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "936",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1164",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "145",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "1499",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "602",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "11",
+            "unit": "mg"
+        }
+    ]
+}

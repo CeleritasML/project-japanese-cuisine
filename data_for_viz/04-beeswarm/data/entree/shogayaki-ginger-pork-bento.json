@@ -1,0 +1,132 @@
+{
+    "name": "Shogayaki (Ginger Pork) Bento",
+    "summary": "Bento Lunch Box Idea: Packed with Japanese rolled omelette and fresh fruits on the side, this Shogayaki Bento takes advantage of dinner leftovers for a quick and convenient lunch next day. Tender slices of pork cooked in a ginger soy sauce, every bite is flavorful!\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2013/09/Ginger-Pork-Bento-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "bento"
+    ],
+    "ingredients": [
+        {
+            "name": "cooked Japanese short-grain rice",
+            "raw_text": "cooked Japanese short-grain rice"
+        },
+        {
+            "name": "Tamagoyaki",
+            "raw_text": "Tamagoyaki (Japanese Rolled Omelette)"
+        },
+        {
+            "name": "shogayaki",
+            "raw_text": "shogayaki (ginger pork)"
+        },
+        {
+            "name": "shiso leaves",
+            "raw_text": "shiso leaves (perilla/ooba)"
+        },
+        {
+            "name": "pickled red ginger",
+            "raw_text": "pickled red ginger (beni shoga or kizami beni shoga)"
+        },
+        {
+            "name": "blueberries",
+            "raw_text": "blueberries"
+        },
+        {
+            "name": "plums",
+            "raw_text": "plums"
+        },
+        {
+            "name": "grapes",
+            "raw_text": "grapes"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "489",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "53",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "36",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "218",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "572",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "810",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "18",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "405",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "14",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "49",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

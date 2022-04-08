@@ -1,0 +1,123 @@
+{
+    "name": "Salmon Potato Gratin",
+    "summary": "With the addition of salmon and a golden crisp panko-crusted topping, this Creamy Salmon Potato Gratin is the elevated version of the classic casserole dish. It's the ultimate comfort food that one can never resist! Perfect for Sunday dinners and a spot on your holiday table.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/10/Salmon-Potato-Gratin-5482-I-2-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "gratin",
+        "potato",
+        "salmon"
+    ],
+    "ingredients": [
+        {
+            "name": "whole milk",
+            "raw_text": "whole milk"
+        },
+        {
+            "name": "heavy whipping cream",
+            "raw_text": "heavy whipping cream"
+        },
+        {
+            "name": "russet potatoes",
+            "raw_text": "russet potatoes"
+        },
+        {
+            "name": "Parmigiano-Reggiano",
+            "raw_text": "Parmigiano-Reggiano (Parmesan) cheese"
+        },
+        {
+            "name": "Salmon Flakes",
+            "raw_text": "Salmon Flakes (homemade or store bought)"
+        },
+        {
+            "name": "panko",
+            "raw_text": "panko"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "dried thyme",
+            "raw_text": "dried thyme"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "453",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "31",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "17",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "30",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "17",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "112",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "566",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "799",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "1064",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "8",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "275",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

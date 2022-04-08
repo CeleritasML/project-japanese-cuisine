@@ -1,0 +1,162 @@
+{
+    "name": "Blueberry Cheesecake",
+    "summary": "If you love souffl\u00e9 cheesecake & blueberry, this Blueberry Cheesecake recipe is for you!\u00a0It's fluffy, light and simply melts in your mouth.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2014/02/Blueberry-Cheesecake-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "blueberry",
+        "cheesecake"
+    ],
+    "ingredients": [
+        {
+            "name": "blueberry cream cheese",
+            "raw_text": "blueberry cream cheese"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "large egg yolks",
+            "raw_text": "large egg yolks"
+        },
+        {
+            "name": "heavy whipping cream",
+            "raw_text": "heavy whipping cream"
+        },
+        {
+            "name": "lemon juice",
+            "raw_text": "lemon juice"
+        },
+        {
+            "name": "rum",
+            "raw_text": "rum"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "large egg whites",
+            "raw_text": "large egg whites"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "blueberries",
+            "raw_text": "blueberries"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "potato starch or cornstarch",
+            "raw_text": "potato starch or cornstarch"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "1",
+            "unit": "9-inch cake"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "3969",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "309",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "77",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "278",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "157",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "78",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "1911",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "1747",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "1648",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "214",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "11103",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "48",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "722",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "9",
+            "unit": "mg"
+        }
+    ]
+}

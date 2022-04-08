@@ -1,0 +1,111 @@
+{
+    "name": "Kabocha Miso Soup",
+    "summary": "Hearty and flavorful, this Kabocha Miso Soup is filled with sweet kabocha, umami-rich mushrooms, and nutty sesame seeds. It's plant-based, easy to make, and incredibly delicious!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/04/Kabocha-Miso-Soup-0265-I-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "kabocha",
+        "miso"
+    ],
+    "ingredients": [
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "kabocha",
+            "raw_text": "kabocha"
+        },
+        {
+            "name": "water",
+            "raw_text": "water"
+        },
+        {
+            "name": "shimeji mushrooms",
+            "raw_text": "shimeji mushrooms"
+        },
+        {
+            "name": "miso",
+            "raw_text": "miso"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "105",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "453",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "525",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "1561",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "14",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "131",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "2",
+            "unit": "mg"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "name": "Clam Pasta",
+    "summary": "Spaghetti alle Vongole, or as we call it \"Bongore,\" is an Italian clam pasta dish which is very popular\u00a0in Japan. \u00a0You can easily recreate this dish at your home with just a few simple ingredients!",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2021/01/Clam-Pasta-8875-I-500x500.jpg",
+    "cuisine": [
+        "Italian",
+        "Japanese"
+    ],
+    "keywords": [
+        "clam",
+        "pasta"
+    ],
+    "ingredients": [
+        {
+            "name": "manila clams",
+            "raw_text": "manila clams"
+        },
+        {
+            "name": "spaghetti",
+            "raw_text": "spaghetti"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "garlic",
+            "raw_text": "garlic"
+        },
+        {
+            "name": "red chilies",
+            "raw_text": "red chilies"
+        },
+        {
+            "name": "dry white wine",
+            "raw_text": "dry white wine"
+        },
+        {
+            "name": "parsley",
+            "raw_text": "parsley"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "646",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "93",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "21",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "16",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "10",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "10",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "359",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "473",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "574",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "66",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "56",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

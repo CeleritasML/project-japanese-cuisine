@@ -1,0 +1,162 @@
+{
+    "name": "Seafood Salad with Vinaigrette",
+    "summary": "Soaked up in a delicious marinade, this Seafood Salad is composed of succulent shrimp, delicate octopus, and colorful vegetables. It\u2019s a perfect meal prep dish as it is easy to make. All comes together in less than 30 minutes, and you can keep it for the week ahead!\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2019/02/Seafood-Salad-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "salad",
+        "seafood"
+    ],
+    "ingredients": [
+        {
+            "name": "shrimp",
+            "raw_text": "shrimp"
+        },
+        {
+            "name": "octopus sashimi",
+            "raw_text": "octopus sashimi (boiled octopus)"
+        },
+        {
+            "name": "celery",
+            "raw_text": "celery"
+        },
+        {
+            "name": "yellow bell pepper",
+            "raw_text": "yellow bell pepper"
+        },
+        {
+            "name": "red bell pepper",
+            "raw_text": "red bell pepper"
+        },
+        {
+            "name": "red onion",
+            "raw_text": "red onion"
+        },
+        {
+            "name": "carrot",
+            "raw_text": "carrot"
+        },
+        {
+            "name": "radishes",
+            "raw_text": "radishes"
+        },
+        {
+            "name": "cherry tomatoes",
+            "raw_text": "cherry tomatoes"
+        },
+        {
+            "name": "parsley",
+            "raw_text": "parsley"
+        },
+        {
+            "name": "lemon",
+            "raw_text": "lemon"
+        },
+        {
+            "name": "bay leaf",
+            "raw_text": "bay leaf"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "raw_text": "extra-virgin olive oil"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "raw_text": "freshly ground black pepper"
+        },
+        {
+            "name": "juice from cooking shrimp",
+            "raw_text": "juice from cooking shrimp"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "229",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "14",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "121",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "557",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "316",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "2615",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "44",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "97",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

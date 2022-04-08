@@ -1,0 +1,123 @@
+{
+    "name": "Bitter Melon Salad",
+    "summary": "The bitter melon is dressed with tofu and sesame sauce, and it's not only healthy and light but also delicious!\u00a0 The tofu and sesame flavor makes the \"bitterness\" very gentle and mild, so if you are not a fan of bitter melon this recipe could change your mind.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2013/02/Bitter-Melon-Salad-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "bitter melon",
+        "tofu"
+    ],
+    "ingredients": [
+        {
+            "name": "bitter melon",
+            "raw_text": "bitter melon (bitter gourd or goya)"
+        },
+        {
+            "name": "medium-firm tofu",
+            "raw_text": "medium-firm tofu (momen tofu)"
+        },
+        {
+            "name": "ginger",
+            "raw_text": "ginger"
+        },
+        {
+            "name": "toasted white sesame seeds",
+            "raw_text": "toasted white sesame seeds"
+        },
+        {
+            "name": "roasted sesame oil",
+            "raw_text": "roasted sesame oil"
+        },
+        {
+            "name": "soy sauce",
+            "raw_text": "soy sauce"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "209",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "8",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "368",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "213",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "268",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "48",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "213",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "3",
+            "unit": "mg"
+        }
+    ]
+}

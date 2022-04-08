@@ -1,0 +1,158 @@
+{
+    "name": "Blueberry Cake",
+    "summary": "Soft moist fresh blueberry cake sprinkled with a dressing of powdered sugar. It's incredibly moist and fluffy inside!\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2012/06/Blueberry-Cake-400x400.jpg",
+    "cuisine": [
+        "American"
+    ],
+    "keywords": [
+        "blueberry",
+        "cake"
+    ],
+    "ingredients": [
+        {
+            "name": "unsalted butter",
+            "raw_text": "unsalted butter"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "large egg yolks",
+            "raw_text": "large egg yolks"
+        },
+        {
+            "name": "pure vanilla extract",
+            "raw_text": "pure vanilla extract"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "baking powder",
+            "raw_text": "baking powder"
+        },
+        {
+            "name": "milk",
+            "raw_text": "milk"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "large egg white",
+            "raw_text": "large egg white"
+        },
+        {
+            "name": "all-purpose flour",
+            "raw_text": "all-purpose flour (plain flour)"
+        },
+        {
+            "name": "blueberries",
+            "raw_text": "blueberries"
+        },
+        {
+            "name": "white sparkling sugar",
+            "raw_text": "white sparkling sugar"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "1",
+            "unit": "9 inch cake"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "2656",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "390",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "39",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "108",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "64",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "6",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "29",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Trans Fat",
+            "value": "4",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "625",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "903",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "723",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "11",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "230",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "3644",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "22",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "494",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "11",
+            "unit": "mg"
+        }
+    ]
+}

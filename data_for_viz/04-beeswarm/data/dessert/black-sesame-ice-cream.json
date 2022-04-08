@@ -1,0 +1,137 @@
+{
+    "name": "Black Sesame Ice Cream",
+    "summary": "Have you tried Japanese flavored ice creams such as Green Tea Ice Cream and Red Bean Ice Cream? I have another\u00a0Japanese-flavored ice cream for you today, which is\u00a0this mysterious\u00a0Black Sesame Ice Cream.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/08/Black-Sesame-Ice-Cream-7672-I-1-500x500.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "ice cream",
+        "sesame seed"
+    ],
+    "ingredients": [
+        {
+            "name": "toasted black sesame seeds",
+            "raw_text": "toasted black sesame seeds"
+        },
+        {
+            "name": "whole milk",
+            "raw_text": "whole milk"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "large egg yolks",
+            "raw_text": "large egg yolks"
+        },
+        {
+            "name": "honey",
+            "raw_text": "honey"
+        },
+        {
+            "name": "black sesame paste",
+            "raw_text": "black sesame paste"
+        },
+        {
+            "name": "pure vanilla extract",
+            "raw_text": "pure vanilla extract"
+        },
+        {
+            "name": "heavy whipping cream",
+            "raw_text": "heavy whipping cream"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Serving",
+            "value": "1",
+            "unit": "QT"
+        },
+        {
+            "nutrition": "Calories",
+            "value": "1165",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "89",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "23",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "83",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "38",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "13",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "27",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "558",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "280",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "677",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "3",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "77",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "2682",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "2",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "564",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "4",
+            "unit": "mg"
+        }
+    ]
+}

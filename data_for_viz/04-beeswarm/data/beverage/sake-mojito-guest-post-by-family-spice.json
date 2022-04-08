@@ -1,0 +1,119 @@
+{
+    "name": "Sake Mojito",
+    "summary": "Refreshing sake mojito with crushed mint and a splash of lime, perfect for that warm day in the backyard.\u00a0",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2012/03/Sake-Mojito-400x400.jpg",
+    "cuisine": [
+        "American"
+    ],
+    "keywords": [
+        "mojito",
+        "sake"
+    ],
+    "ingredients": [
+        {
+            "name": "mint leaves",
+            "raw_text": "mint leaves"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "lime",
+            "raw_text": "lime"
+        },
+        {
+            "name": "sake",
+            "raw_text": "sake"
+        },
+        {
+            "name": "Ice",
+            "raw_text": "Ice"
+        },
+        {
+            "name": "club soda",
+            "raw_text": "club soda"
+        },
+        {
+            "name": "mint",
+            "raw_text": "mint"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "216",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "15",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "10",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "78",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "5",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "72",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "10",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "23",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

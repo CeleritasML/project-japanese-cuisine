@@ -1,0 +1,128 @@
+{
+    "name": "Boiled Squid with Miso Vinaigrette",
+    "summary": "The sauce I used to compliment squid is Miso vinaigrette, which is sweet and tart from mirin and rice vinegar. \u00a0The miso flavor provides a nice body to the\u00a0vinaigrette.",
+    "image_url": "https://www.justonecookbook.com/wp-content/uploads/2012/07/Boiled-Squid-with-Miso-Vinaigrette-400x400.jpg",
+    "cuisine": [
+        "Japanese"
+    ],
+    "keywords": [
+        "miso",
+        "squid"
+    ],
+    "ingredients": [
+        {
+            "name": "spear squid",
+            "raw_text": "spear squid"
+        },
+        {
+            "name": "green onions/scallions",
+            "raw_text": "green onions/scallions"
+        },
+        {
+            "name": "kosher or sea salt",
+            "raw_text": "kosher or sea salt (I use Diamond Crystal; use half for table salt)"
+        },
+        {
+            "name": "miso",
+            "raw_text": "miso"
+        },
+        {
+            "name": "rice vinegar",
+            "raw_text": "rice vinegar (unseasoned)"
+        },
+        {
+            "name": "sugar",
+            "raw_text": "sugar"
+        },
+        {
+            "name": "mirin",
+            "raw_text": "mirin"
+        },
+        {
+            "name": "Japanese karashi hot mustard",
+            "raw_text": "Japanese karashi hot mustard"
+        }
+    ],
+    "nutrition": [
+        {
+            "nutrition": "Calories",
+            "value": "154",
+            "unit": "kcal"
+        },
+        {
+            "nutrition": "Carbohydrates",
+            "value": "12",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Protein",
+            "value": "20",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Fat",
+            "value": "2",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Saturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Polyunsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Monounsaturated Fat",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Cholesterol",
+            "value": "280",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Sodium",
+            "value": "370",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Potassium",
+            "value": "317",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Fiber",
+            "value": "1",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Sugar",
+            "value": "7",
+            "unit": "g"
+        },
+        {
+            "nutrition": "Vitamin A",
+            "value": "62",
+            "unit": "IU"
+        },
+        {
+            "nutrition": "Vitamin C",
+            "value": "6",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Calcium",
+            "value": "45",
+            "unit": "mg"
+        },
+        {
+            "nutrition": "Iron",
+            "value": "1",
+            "unit": "mg"
+        }
+    ]
+}

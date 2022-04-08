@@ -62,7 +62,7 @@ Our story focuses on answering "what makes Japanese food Japanese", and this vis
 
 >  Add at least one screenshot to your document that illustrates your current prototype. Make sure that all of the views you have implemented so far are documented in screenshots, you may need more than one.
 
-![screenshot](./02_screenshot.png)
+![screenshot](02_screenshot.png)
 
 ## Data Preprocessing Pipeline
 

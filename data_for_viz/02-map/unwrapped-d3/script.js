@@ -56,7 +56,7 @@ var link = [
 // Load external data and boot
 d3.queue()
     .defer(d3.json, "world-110m.geojson")
-    .defer(d3.csv, "international-dishes.csv", function (d) {
+    .defer(d3.csv, "../international-dishes.csv", function (d) {
         data.set(d.code, +d.total);
     })
     .await(ready);

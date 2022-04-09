@@ -4,11 +4,16 @@ rm(list = ls())
 # 2022-04-09
 # Rui Qiu (rq47)
 
-if (!require("pacman")) install.packages("pacman")
-pacman::p_load(tidyverse, leaflet, geojsonio, htmltools, htmlwidgets)
+# package requirements
 
-m <- leaflet() |>
-  setView(lng = 122.14, lat = 37.42, zoom = 3)
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(
+  tidyverse, leaflet,
+  geojsonio, htmltools, htmlwidgets
+)
+
+# load previously scraped and cleaned data, replace country names to match
+# the geojson file from topoJSON
 
 dishes <- read_csv("data_for_viz/02-map/international-dishes.csv") |>
   mutate(
@@ -16,7 +21,9 @@ dishes <- read_csv("data_for_viz/02-map/international-dishes.csv") |>
     name = str_replace(name, "Korea, Republic Of", "South Korea")
   )
 
-world <- geojson_read("data_for_viz/02-map/unwrapped-d3/world-110m.geojson", what = "sp")
+world <- geojson_read("data_for_viz/02-map/world-110m.geojson", what = "sp")
+
+# join two tables together for map drawing
 
 joined_df <- tibble(
   name = world$name
@@ -27,18 +34,26 @@ joined_df <- tibble(
 
 world$total <- joined_df$total
 
+# plot the basis of the map with tiles
+
 m <- leaflet(world) |>
   setView(lng = 0, lat = 0, zoom = 1.1) |>
-  addProviderTiles(providers$CartoDB.Positron, options = providerTileOptions(noWrap = TRUE))
+  addProviderTiles(providers$CartoDB.Positron, options = providerTileOptions(noWrap = FALSE))
+
+# manually set the discrete palette
 
 bins <- c(0, 1, 5, 10, 25, 50, 75, Inf)
-pal <- colorBin("OrRd", domain = world$total, bins = bins)
+mypalette <- colorBin("OrRd", domain = world$total, bins = bins)
+
+# create labels
 
 labels <- sprintf(
   "<strong>%s</strong><br/>%g dishes",
   world$name, world$total
 ) |>
   lapply(HTML)
+
+# add title style
 
 tag.map.title <- tags$style(HTML("
   .leaflet-control.map-title {
@@ -60,7 +75,7 @@ title <- tags$div(
 
 m <- m |>
   addPolygons(
-    fillColor = ~ pal(total),
+    fillColor = ~ mypalette(total),
     weight = 1,
     opacity = 0.8,
     color = "#D4DADC",
@@ -85,19 +100,19 @@ m <- m |>
     )
   ) |>
   addLegend(
-    pal = pal,
+    colors = mypalette(bins)[1:7],
     values = ~total,
+    labels = c("0", "1-5", "6-10", "11-25", "26-50", "51-75", "76+"),
     opacity = 0.7,
     title = NULL,
     position = "bottomleft"
   ) |>
-  addPopups(137.14, 37.42, paste(
+  addPopups(137.14, 67.42, paste(
     sep = "<br/>",
     "Out of <b>726</b> recipes,",
     "<b>113</b> have foreign origins."
   ),
-  options = popupOptions(
-    closeButton = FALSE,
+  options = labelOptions(
     style = list(
       "font-family" = "Roboto Mono",
       "font-size" = "12px"
@@ -108,5 +123,7 @@ m <- m |>
     position = "topleft",
     className = "map-title"
   )
+
+m
 
 saveWidget(m, file = "data_for_viz/02-map/02-map.html")

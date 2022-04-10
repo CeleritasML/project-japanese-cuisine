@@ -1,6 +1,3 @@
-width = 1920
-height = 1080
-
 // Set background color to almond
 svg.attr("height", height)
   .attr("width", width)

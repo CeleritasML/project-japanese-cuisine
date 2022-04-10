@@ -105,7 +105,6 @@ let ifClicked = false;
 const simulation = d3.forceSimulation()
     .force("link", d3.forceLink().id(function(d) { return d.id; }).strength(0.01))
     .force("charge", d3.forceManyBody())
-    .force("center", d3.forceCenter(width / 2, height / 2))
     .force("x", d3.forceX(d => {
         if (d.type === "recipe") {
             return width / 5;

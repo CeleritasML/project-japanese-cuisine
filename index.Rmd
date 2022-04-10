@@ -7,6 +7,8 @@ output:
     highlight: kate
 ---
 
+> Note that this `index.html` is just a temporary container to hold our visualizations. Therefore, we did't spend too much time tweaking the embedded html widget styles in the rmarkdown-generated webpage. We've also included links to our original visualizations (all in html format).
+
 ## Core Network
 
 This core network visualization shows the relationship between recipes and ingredients. We visualize recipes and ingredients as nodes and the links as edges. Interactive visual elements enable users to explore the network and find many interesting insights and conclusions.
@@ -17,7 +19,9 @@ This core network visualization shows the relationship between recipes and ingre
 knitr::include_url("data_for_viz/01-network/01-network.html")
 ```
 
-## Map of Foreign Origins
+## Foreign-origin Dishes in Japanese Cuisine
+
+Our story focuses on answering "what makes Japanese food Japanese", and this visualization gives another perspective to show the influence of foreign cusines on Japanese food. That is to say, the authenticity of a country's dish, although might be defined by its unique set of ingredients, it is still inevitable to ignore external impacts.
 
 **[Click to view](data_for_viz/02-map/02-map.html).**
 

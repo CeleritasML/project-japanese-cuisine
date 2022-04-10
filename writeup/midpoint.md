@@ -294,6 +294,26 @@ Till this point, the plot looks like:
 
 ## 5. The Most Recurrent Ingredients in Japanese Entrée Recipes (barplot)
 
-### Todo List
+### Screenshot
+
+![Screenshot](midpoint/[midpoint]05-barplot.png)
+
+### Data Abstraction
+
+The raw dataset is the JSON file as stated earlier. The counts of occurrences of ingredients in entrée recipes are counted and exported as as csv file using the script `data_for_viz/05-barplot/get-ingredients.R`.
+
+A second .csv file is directly exported from https://trends.google.as/trends/?geo=US by searching all the relevant ingredients. This is time series data that will go into the next implemented feature in this visualization.
+
+### Visual Encoding Choices
+
+The x-axis that is the list of most recurrent ingredients is sorted according to how many times the ingredients appeared in recipes. This a conscious design choice that will complement the next iteration of this figure, which is to have a boxplot or violin plot that is a statistical visualization of google search trends on each ingredient. The two subplots will share the same x-axis, and whether the box plot or violin plot will have the same left-to-right increasing trend is going to help readers see whether there is a correlation between how recurrent an ingredient is in Japanese dishes vs how frequently searched the ingredient is. If the correlation is high, then it means that authentic Japanese ingredients are not overrated by the general public that use google search.
+
+### Progress
+
+#### Any Change Since Proposal
+
+The additional feature of adding the time-series statistics subplot is a new idea. This is yet to be implemented.
+
+#### Todo List
 
 - [ ] The next step to complete the visualization is to see a correlation between how recurrent an ingredient in Japanese entrée dishes, and how frequently searched these ingredients are. The x-axis of the barplot is sorted according to occurrences so that a plot below can share the same axis, and a reader will be able to clearly see whether the statistical summaries such as average google search rate trends up from left to right just like the top plot. This feature implementation is in progress.

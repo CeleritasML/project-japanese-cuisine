@@ -65,7 +65,7 @@ We plan to visualize the recipes of more than 800+ authentic Japanese dishes. Fo
 - A static nutrition beeswarm of traditional Japanase dishes.
 - A static bar plot of the most common ingredients in Japanese dishes, comparing to [Google Trends popularity](https://trends.google.com/trends/explore?date=all&geo=US&q=%2Fm%2F0169z_,%2Fm%2F057z_).
 
-![sketch](project-proposal-sketch.jpg)
+![sketch](project-proposal/project-proposal-sketch.jpg)
 
 - Innovative view component: No similar visualization currently exists on the Internet. Most of the visualizations related to food or nutritional science focus on delivering information to the user directly. Our approach is to create a visualization that is not only visually appealing but also provides a more intuitive way of interacting with the data, encouraging the user to explore the inter-recipe relationships. Admittedly, we are not building something epic from the ground up, but rather presenting a creative combination as something truly useful.
 

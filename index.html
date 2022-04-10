@@ -1785,10 +1785,12 @@ Are You Tasting in Authentic Japanese Flavors?</li>
           <li><a href="#core-network">Core Network</a></li>
           <li><a href="#map-of-foreign-origins">Map of Foreign
           Origins</a></li>
-          <li><a href="#windrose-of-ingredients">Windrose of
+          <li><a href="#radar-plot-of-ingredients">Radar Plot of
           Ingredients</a></li>
-          <li><a href="#nutrition-beeswarm">Nutrition Beeswarm</a></li>
-          <li><a href="#barplot">Barplot</a></li>
+          <li><a href="#beeswarm-plot-of-common-nutrients">Beeswarm Plot
+          of Common Nutrients</a></li>
+          <li><a href="#the-most-recurrent-ingredients-in-japanese-entrée-recipes">The
+          most recurrent ingredients in Japanese entrée recipes</a></li>
           </ul>
         </nav>
         <ul class="authors">
@@ -1820,34 +1822,74 @@ You Tasting in Authentic Japanese Flavors?</h1>
 <!-- Don't indent these lines or it will mess pre blocks indentation --> 
 <div id="core-network" class="section level2">
 <h2>Core Network</h2>
-<p><a href="data_for_viz/01-network/01-network.html">Click to
-view</a>.</p>
+<p>This core network visualization shows the relationship between
+recipes and ingredients. We visualize recipes and ingredients as nodes
+and the links as edges. Interactive visual elements enable users to
+explore the network and find many interesting insights and
+conclusions.</p>
+<p><strong><a href="data_for_viz/01-network/01-network.html">Click to
+view</a>.</strong></p>
 <iframe src="data_for_viz/01-network/01-network.html" width="768" height="400px" data-external="1">
 </iframe>
 </div>
 <div id="map-of-foreign-origins" class="section level2">
 <h2>Map of Foreign Origins</h2>
-<p><a href="data_for_viz/02-map/02-map.html">Click to view</a>.</p>
+<p><strong><a href="data_for_viz/02-map/02-map.html">Click to
+view</a>.</strong></p>
 <iframe src="data_for_viz/02-map/02-map.html" width="768" height="400px" data-external="1">
 </iframe>
 </div>
-<div id="windrose-of-ingredients" class="section level2">
-<h2>Windrose of Ingredients</h2>
-<p><a href="data_for_viz/03-windrose/windrose.html">Click to
-view</a>.</p>
+<div id="radar-plot-of-ingredients" class="section level2">
+<h2>Radar Plot of Ingredients</h2>
+<p>People are wondering what makes Japanese food so special. This radar
+plot gives an advantage in providing the comparison between different
+sub-classes recipes. Given an example, as the second radar plot shows,
+the <em>blue</em> radar proves that the Japanese desserts tend to pay
+more attention to liquid condiments and powder condiments. With the
+filtering buttons on the right, this plot allows audiences to explore
+more secrets of the Japanese recipes.</p>
+<p><strong><a href="data_for_viz/03-windrose/windrose.html">Click to
+view</a>.</strong></p>
 <iframe src="data_for_viz/03-windrose/windrose.html" width="768" height="400px" data-external="1">
 </iframe>
 </div>
-<div id="nutrition-beeswarm" class="section level2">
-<h2>Nutrition Beeswarm</h2>
-<p><a href="data_for_viz/04-beeswarm/04-beeswarm.html">Click to
-view</a>.</p>
+<div id="beeswarm-plot-of-common-nutrients" class="section level2">
+<h2>Beeswarm Plot of Common Nutrients</h2>
+<p>This beeswarm visualization displays the relative level of 5 main
+nutrients for the recipes. We treat level of each nutrient of single
+recipe as nodes and connect nodes of each recipe with eages. The
+interactive visual elements mainly enable users to hover over nodes to
+check the relative level of nutrients for a single dish, or click those
+nodes to display exact nutrition information about the recipe at the
+corner of plot. Overall, this plot offers a distinct aspect to observe
+nutritional patterns of recorded recipes.</p>
+<p><strong><a href="data_for_viz/04-beeswarm/04-beeswarm.html">Click to
+view</a>.</strong></p>
 <iframe src="data_for_viz/04-beeswarm/04-beeswarm.html" width="768" height="400px" data-external="1">
 </iframe>
 </div>
-<div id="barplot" class="section level2">
-<h2>Barplot</h2>
-<p><a href="data_for_viz/05-barplot/">Click to view</a>.</p>
+<div id="the-most-recurrent-ingredients-in-japanese-entrée-recipes" class="section level2">
+<h2>The most recurrent ingredients in Japanese entrée recipes</h2>
+<p>The final visualization included here is an interactive barplot that
+shows the most recurrent ingredients in Japanese entrée recipes. The
+custom-labeled ingredient categories <code>asian</code>,
+<code>common</code>, and <code>japanese exclusive</code> are used to
+color-code the barplot. We see that the most recurrent ingredients are
+actually just common ingredients such as sugar and salt, but the green
+bars of <code>japanese exclusive</code> ingredients such as sake and
+mirin do appear frequently.</p>
+<p>The next step to complete the visualization is to see a correlation
+between how recurrent an ingredient in Japanese entrée dishes, and how
+frequently searched these ingredients are. The x-axis of the barplot is
+sorted according to occurrences so that a plot below can share the same
+axis, and a reader will be able to clearly see whether the statistical
+summaries such as average google search rate trends up from left to
+right just like the top plot. This feature implementation is in
+progress.</p>
+<p><strong><a href="data_for_viz/05-barplot/05-barplot.html">Click to
+view</a>.</strong></p>
+<iframe src="data_for_viz/05-barplot/05-barplot.html" width="768" height="400px" data-external="1">
+</iframe>
 </div>
 
    

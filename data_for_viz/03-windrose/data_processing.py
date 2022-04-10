@@ -1,21 +1,22 @@
 #!/usr/bin/env python
 # coding: utf-8
+# Author: Chao Li
 
 # # Data processing
 
-# In[56]:
-
-
+# Packages
 import pandas as pd
 import json
 from os import walk
 
-
+# Create a function to read all the recipes
 def collect_ind(sub_class):
+    # file names list
     filenames = next(walk(f"../../data/{sub_class}"), (None, None, []))[
         2
     ]  # [] if no file
 
+    # obtain all the ingredients
     ind_all = []
     for i in range(len(filenames)):
         recipe = filenames[i]
@@ -25,21 +26,24 @@ def collect_ind(sub_class):
         js_rec = json.loads(rec)
         ind_all += js_rec["ingredients"]
 
+    # transfer to the pandas data frame
     ind_all = pd.DataFrame(ind_all).rename(columns={"name": "ingredients"})
 
     return ind_all
 
-
+# create the function to match the condiment class to all the ingredients
 def count_condiment(data, name):
+    # data handling
     data = (
-        pd.DataFrame(data.ingredients.value_counts())
-        .reset_index(drop=False)
+        pd.DataFrame(data.ingredients.value_counts()) # calculate the ingredients for each class
+        .reset_index(drop=False) # keep the index as the column
         .rename(columns={"index": "ingredients", "ingredients": name})
-        .merge(ind_class, on="ingredients", how="left")
-        .fillna("condiments(exclusive)")
+        .merge(ind_class, on="ingredients", how="left") # match the ingredients class 
+        .fillna("condiments(exclusive)") # combine all the special condiments
         .drop("ingredients", axis=1)
     )
 
+    # tidy the dataset
     data = (
         pd.DataFrame(data.type.value_counts())
         .reset_index(drop=False)
@@ -47,8 +51,9 @@ def count_condiment(data, name):
     )
     return data
 
-
+# read the ingredient class
 ind_class = pd.read_excel("503-ingredients.xlsx")
+# melt the data for plotting
 ind_class = ind_class.melt(value_name="ingredients", var_name="type")
 ind_class = ind_class.dropna()
 with open("all_ingredients.txt") as file:
@@ -92,106 +97,28 @@ data = data.fillna(0)
 
 data.iloc[6, 0] = "carbohydrates"
 
-
-# In[57]:
-
-
 data.to_csv("windrose.csv", index=False)
-
-
 # # plotting
 
-# In[12]:
-
-
+# plotting with plotly
 import dash
 from dash import dcc, html
 import plotly.graph_objects as go
 import plotly.express as px
 from dash.dependencies import Input, Output
 
-
-# In[64]:
-
-
 data = pd.read_csv("windrose.csv")
 
-
-# In[65]:
-
-
+# normalize the data
 data.iloc[:, 1:] = data.iloc[:, 1:] / data.iloc[:, 1:].sum()
 data = data.drop(0)
 
-
-# # dash
-
-# In[13]:
-
-
-df = px.data.stocks()
-
-app.layout = html.Div(
-    id="parent",
-    children=[
-        html.H1(
-            id="H1",
-            children="Styling using html components",
-            style={"textAlign": "center", "marginTop": 40, "marginBottom": 40},
-        ),
-        dcc.Dropdown(
-            id="dropdown",
-            options=[
-                {"label": "appetizer", "value": "appetizer"},
-            ],
-            value="appetizer",
-        ),
-        dcc.Graph(id="bar_plot"),
-    ],
-)
-
-
-@app.callback(
-    Output(component_id="bar_plot", component_property="figure"),
-    [Input(component_id="dropdown", component_property="value")],
-)
-def graph_update(dropdown_value):
-    print(dropdown_value)
-    fig = px.line_polar(
-        data,
-        r=dropdown_value,
-        theta="type",
-        template="plotly_dark",
-        color_discrete_sequence=px.colors.sequential.Plasma_r,
-        line_close=True,
-    )
-
-    fig.update_layout(title=dropdown_value)
-    return fig
-
-
-# app.run_server()
-
-
-# # windrose
-
-# In[58]:
-
-
 import plotly.graph_objects as go
 
-
-# In[66]:
-
-
-data
-
-
-# In[78]:
-
-
+# create the figure object
 fig = go.Figure()
 
+# add plots
 fig.add_trace(
     go.Scatterpolar(
         r=data["appetizer"], theta=data["type"], fill="toself", name="appetizer"
@@ -224,6 +151,7 @@ fig.add_trace(
     )
 )
 
+# figure layout
 fig.update_layout(
     polar=dict(
         radialaxis=dict(

@@ -106,9 +106,9 @@ This radar plot helps user to compare the proportion of each subclass recipe, fi
 
 >  Add at least one screenshot to your document that illustrates your current prototype. Make sure that all of the views you have implemented so far are documented in screenshots, you may need more than one.
 
-![radar plot]([midpoint]04-screenshot_1.png)
+![radar plot]([midpoint]03-screenshot_1.png)
 
-![radar plot]([midpoint]04-screenshot_2.png)
+![radar plot]([midpoint]03-screenshot_2.png)
 
 ## Data Preprocessing Pipeline
 

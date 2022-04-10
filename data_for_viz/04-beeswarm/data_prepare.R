@@ -5,13 +5,13 @@ library(tidyverse)
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 folders <- list.files(path = "../../data", full.names = F)
-df <- data.frame(matrix(ncol = 6, nrow = 0))
+df <- data.frame(matrix(ncol = 7, nrow = 0))
 x <- c("id","name", "type", "nutrition", "value", "unit")
 colnames(df) <- x
-links <- data.frame(matrix(ncol = 3, nrow = 0))
+links <- data.frame(matrix(ncol = 4, nrow = 0))
 y <- c("source","target","value")
 colnames(links) <- y
-interested_nutritions <- c("Sodium", "Calories", "Potassium", "Protein", "Calcium")
+interested_nutritions <- c("Calories","Protein","Sodium", "Potassium","Calcium")
 recipes_available <- 0
 for (folder in folders) {
   files <- list.files(path = paste("../../data/", folder, sep = ""), full.names = T)
@@ -44,7 +44,7 @@ for (folder in folders) {
             if(nutrition_index<5){
               link_source <- append(link_source, 5*recipes_available+nutrition_index)
               link_target <- append(link_target, 5*recipes_available+nutrition_index+1)
-              link_value <- append(link_value, 1)
+              link_value <- append(link_value, json_data$name)
             }
             nutrition_index <- nutrition_index + 1
           }
@@ -64,13 +64,17 @@ outlier <- df[df$value == 69824,]$name
 outlier_ids <- df[df$name == outlier,]$id
 df_cleaned <- df[df$name != outlier,]
 links <- links[!links$source %in% outlier_ids,]
-df_final <- data.frame(matrix(ncol = 6, nrow = 0))
+
+recommended <- c(400, 10, 400, 700, 200)
+
+df_final <- data.frame(matrix(ncol = 7, nrow = 0))
 colnames(df_final) <- x
-for (nutrition in interested_nutritions) {
-  df_inter <- df_cleaned[df_cleaned$nutrition == nutrition,]
-  df_inter$value_norm <- as.factor(scale(df_inter$value))
+for (i in 1:5) {
+  df_inter <- df_cleaned[df_cleaned$nutrition == interested_nutritions[i],]
+  df_inter$value_level <- log(df_inter$value/recommended[i])
   df_final <- rbind(df_final, df_inter)
 }
+df_final <- df_final[order(df_final$id),]
 
 df_final <- as_tibble(df_final)
 write_csv(df_final, "nutrition.csv")

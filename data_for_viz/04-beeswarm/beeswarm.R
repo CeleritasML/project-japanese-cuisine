@@ -1,5 +1,8 @@
 library(r2d3)
 library(tidyverse)
+library(rstudioapi)
+## This ensures the working directory to change to where the code file is.
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 df <- read_csv("nutrition.csv")
 links <- read_csv("links.csv")

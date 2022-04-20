@@ -29,14 +29,14 @@ data.ingredients.forEach(d => {
 })
 
 const recipeDict = {
-    "appetizer": {"index": 1, "color": "#fbf8cc"},
-    "beverage": {"index": 2, "color": "#fde4cf"},
-    "breakfast": {"index": 3, "color": "#ffcfd2"},
-    "dessert": {"index": 4, "color": "#f1c0e8"},
-    "entree": {"index": 5, "color": "#cfbaf0"},
-    "salad": {"index": 6, "color": "#a3c4f3"},
-    "side": {"index": 7, "color": "#90dbf4"},
-    "soup-stew": {"index": 8, "color": "#8eecf5"}
+    "appetizer": {"index": 1, "color": "#f94144"},
+    "beverage": {"index": 2, "color": "#f3722c"},
+    "breakfast": {"index": 3, "color": "#f8961e"},
+    "dessert": {"index": 4, "color": "#f9c74f"},
+    "entree": {"index": 5, "color": "#90be6d"},
+    "salad": {"index": 6, "color": "#43aa8b"},
+    "side": {"index": 7, "color": "#4d908e"},
+    "soup-stew": {"index": 8, "color": "#577590"}
 }
 
 const ingredientDict = {
@@ -186,7 +186,7 @@ recipeLegendArea
     .append("text")
     .attr("x", width / 20)
     .attr("y", height / 10 - 20)
-    .attr("fill", "#aaaaaa")
+    .attr("fill", "#090909")
     .text("Legend of Recipes")
 
 const ingredientLegendArea = baseGroup

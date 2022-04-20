@@ -1,0 +1,25 @@
+{
+  "recipe": {
+    "appetizer": "#f94144",
+    "beverage": "#f3722c",
+    "breakfast": "#f8961e",
+    "dessert": "#f9c74f",
+    "entree": "#90be6d",
+    "salad": "#43aa8b",
+    "side": "#4d908e",
+    "soup-stew": "#577590"
+  },
+  "ingredient": {
+    "condiment (powder)": "#023047",
+    "condiment (bulk)": "#264653",
+    "condiment (liquid)": "#005f73",
+    "protein": "#0a9396",
+    "vegetable": "#94d2bd",
+    "fruit": "#e9d8a6",
+    "mushroom/fungus": "#ee9b00",
+    "carbonhydrates": "#ca6702",
+    "processed food": "#bb3e03",
+    "beverage": "#ae2012",
+    "other": "#9b2226"
+  }
+}

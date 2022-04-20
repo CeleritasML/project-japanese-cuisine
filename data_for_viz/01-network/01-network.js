@@ -127,9 +127,7 @@ const link = baseGroup.append("g")
     .data(links)
     .join("line")
     .classed('link', true)
-    .style('stroke', d => {
-        return "grey";
-    })
+    .style('stroke', "grey")
     .style('stroke-width', 0.05)
     .style("stroke-opacity", 0.5);
 
@@ -139,7 +137,22 @@ const node = baseGroup.append("g")
     .join("circle")
     .classed('node', true)
     .attr("r", d => nodeRadius(d))
-    .attr("fill", nodeColor);
+    .attr("fill", nodeColor)
+    .attr("x", d => {
+        if (d.type === "recipe") {
+            return width / 5;
+        }
+        return width - width / 5;
+    })
+    .attr("y", d => {
+        if (d.type === "recipe") {
+            return recipeIndex(d.category) / 9 * height;
+        }
+        if (d.type === "ingredient") {
+            return ingredientIndex(d.category) / 12 * height;
+        }
+        return height / 2;
+    });
 
 function ticked() {
     link
@@ -166,6 +179,70 @@ const tooltip = d3.select("body").append("div")
     .style("visibility", "hidden")
     .text("I'm a circle!");
 
+const recipeLegendArea = baseGroup
+    .append("g")
+
+recipeLegendArea
+    .append("text")
+    .attr("x", width / 20)
+    .attr("y", height / 10 - 20)
+    .attr("fill", "#aaaaaa")
+    .text("Legend of Recipes")
+
+const ingredientLegendArea = baseGroup
+    .append("g")
+
+ingredientLegendArea
+    .append("text")
+    .attr("x", width - width / 10)
+    .attr("y", height / 10 - 20)
+    .attr("fill", "#090909")
+    .text("Legend of Ingredients")
+
+const recipeLegendCircle = recipeLegendArea
+    .selectAll("legend-recipe-circle")
+    .data(["appetizer", "beverage", "breakfast", "dessert", "entree", "salad", "side", "soup-stew"])
+    .enter()
+        .append("circle")
+        .attr("r", 8)
+        .attr("fill", d => recipeColor(d))
+        .attr("cx", width / 20)
+        .attr("cy", (d, i) => height / 10 + i * 20);
+
+const recipeLegendText = recipeLegendArea
+    .selectAll("legend-recipe")
+    .data(["appetizer", "beverage", "breakfast", "dessert", "entree", "salad", "side", "soup-stew"])
+    .enter()
+        .append("text")
+        .text(d => d)
+        .attr("fill", d => recipeColor(d))
+        .attr("x", width / 20 + 20)
+        .attr("y", (d, i) => height / 10 + i * 20)
+        .attr("text-anchor", "left")
+        .style("alignment-baseline", "middle");
+
+const ingredientLegendCircle = ingredientLegendArea
+    .selectAll("legend-ingredient-circle")
+    .data(["condiment (powder)", "condiment (bulk)", "condiment (liquid)", "protein", "vegetable", "fruit", "mushroom/fungus", "carbonhydrates", "processed food", "beverage", "other"])
+    .enter()
+        .append("circle")
+        .attr("r", 8)
+        .attr("fill", d => ingredientColor(d))
+        .attr("cx", width - width / 10)
+        .attr("cy", (d, i) => height / 10 + i * 20);
+
+const ingredientLegendText = ingredientLegendArea
+    .selectAll("legend-ingredient")
+    .data(["condiment (powder)", "condiment (bulk)", "condiment (liquid)", "protein", "vegetable", "fruit", "mushroom/fungus", "carbonhydrates", "processed food", "beverage", "other"])
+    .enter()
+        .append("text")
+        .text(d => d)
+        .attr("fill", d => ingredientColor(d))
+        .attr("x", width - width / 10 + 20)
+        .attr("y", (d, i) => height / 10 + i * 20)
+        .attr("text-anchor", "left")
+        .style("alignment-baseline", "middle");
+
 const mouseOverFunction = (e, d) => {
     tooltip.style("visibility", "visible")
         .html(() => {
@@ -180,70 +257,58 @@ const mouseOverFunction = (e, d) => {
                 + `<strong>Category:</strong> <span>${d.category}</span>` + '<br>'
                 + `<strong>Occurrence:</strong> <span>${d.freq}</span>`;
         });
-
     if (ifClicked) return;
-
     node
         .transition(500)
         .style('opacity', o => {
-            const isConnectedValue = isConnected(o.id, d.id);
-            if (isConnectedValue) {
-                return 1.0;
-            }
-            return 0.1;
-        });
-
+            return isConnected(o.id, d.id) ? 1.0 : 0.1});
     link
         .transition(500)
         .style('stroke-opacity', o => {
             return (o.source === d || o.target === d ? 1 : 0.1)})
-        .transition(500)
-        .attr('marker-end', o => (o.source === d || o.target === d ? 'url(#arrowhead)' : 'url()'));
 };
 
 const mouseOutFunction = (e, d) => {
     tooltip.style("visibility", "hidden");
-
     if (ifClicked) return;
-
     node
         .transition(500)
         .style('opacity', 1);
-
     link
         .transition(500)
-        .style("stroke-opacity", o => {
-        });
-
+        .style("stroke-opacity", 0.5);
 };
 
+let clickedNodes = new Set();
+let clickedLinks = new Set();
+
 const mouseClickFunction = (e, d) => {
+    if (clickedNodes.has(d.id)) {
+        return;
+    }
     // we don't want the click event bubble up to svg
     e.stopPropagation();
     ifClicked = true;
-
-    node
-        .transition(500)
-        .style('opacity', 1)
-
-    link
-        .transition(500);
-
+    nodes
+        .map(o => {
+            if (isConnected(o.id, d.id)) {
+                clickedNodes.add(o.id);
+            }
+        })
+    links
+        .map(o => {
+            if (o.source === d || o.target === d) {
+                clickedLinks.add(o);
+            }
+        })
     node
         .transition(500)
         .style('opacity', o => {
-            const isConnectedValue = isConnected(o.id, d.id);
-            if (isConnectedValue) {
-                return 1.0;
-            }
-            return 0.1
-        })
-
+            return (clickedNodes.has(o.id)) ? 1.0 : 0.1});
     link
         .transition(500)
-        .style('stroke-opacity', o => (o.source === d || o.target === d ? 1 : 0.1))
-        .transition(500)
-        .attr('marker-end', o => (o.source === d || o.target === d ? 'url(#arrowhead)' : 'url()'));
+        .style('stroke-opacity', o => {
+            return (clickedLinks.has(o)) ? 1.0 : 0.1});
 };
 
 node.on('mouseover', mouseOverFunction)
@@ -253,10 +318,11 @@ node.on('mouseover', mouseOverFunction)
 
 svg.on('click', () => {
     ifClicked = false;
+    clickedNodes = new Set();
+    clickedLinks = new Set();
     node
         .transition(500)
         .style('opacity', 1);
-
     link
         .transition(500)
         .style("stroke-opacity", 0.5)

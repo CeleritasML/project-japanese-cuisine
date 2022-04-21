@@ -1,80 +1,127 @@
 # 2022-04-20
 # Rui Qiu (rq47)
 
+gc()
+rm(list=ls())
+
 if (!require("pacman")) install.packages("pacman")
-pacman::p_load(tidyverse, sigmajs, fromJSON)
-
-# working example:
-
-nodes <- sg_make_nodes()
-edges <- sg_make_edges(nodes)
-
-sigmajs() |>
-  sg_nodes(nodes, id, size, color) |>
-  sg_edges(edges, id, source, target)
+pacman::p_load(tidyverse, sigmajs, jsonlite)
 
 # nodes
 
 df_ing <- fromJSON("data_for_viz/01-network/ingredient_nodes.json") |>
-  as_tibble(validate = FALSE)
+  as_tibble(validate = FALSE) |>
+  mutate(grp = case_when(category == "condiment (powder)" ~ 1,
+                         category == "condiment (bulk)" ~ 2,
+                         category == "condiment (liquid)" ~ 3,
+                         category == "protein" ~ 4,
+                         category == "vegetable" ~ 5,
+                         category == "fruit" ~ 6,
+                         category == "mushroom/fungus" ~ 7,
+                         category == "carbonhydrates" ~ 8,
+                         category == "processed food" ~ 9,
+                         category == "beverage" ~ 10))
 
 ing_color_vec <- rep("black", length(unique(df_ing$category)))
 names(ing_color_vec) <- unique(df_ing$category)
-ing_color_vec[names(ing_color_vec) == "condiment (powder)"] <- "#023047"
-ing_color_vec[names(ing_color_vec) == "condiment (bulk)"] <- "#264653"
-ing_color_vec[names(ing_color_vec) == "condiment (liquid)"] <- "#005f73"
-ing_color_vec[names(ing_color_vec) == "protein"] <- "#0a9396"
-ing_color_vec[names(ing_color_vec) == "vegetable"] <- "#94d2bd"
-ing_color_vec[names(ing_color_vec) == "fruit"] <- "#e9d8a6"
-ing_color_vec[names(ing_color_vec) == "mushroom/fungus"] <- "#ee9b00"
-ing_color_vec[names(ing_color_vec) == "carbonhydrates"] <- "#ca6702"
-ing_color_vec[names(ing_color_vec) == "processed food"] <- "#bb3e03"
-ing_color_vec[names(ing_color_vec) == "beverage"] <- "#ae2012"
-ing_color_vec[names(ing_color_vec) == "other"] <- "#9b2226"
+ing_color_vec[names(ing_color_vec) == "condiment (powder)"] <- "#0466C8"
+ing_color_vec[names(ing_color_vec) == "condiment (bulk)"] <- "#0466C8"
+ing_color_vec[names(ing_color_vec) == "condiment (liquid)"] <- "#023E7D"
+ing_color_vec[names(ing_color_vec) == "protein"] <- "#002855"
+ing_color_vec[names(ing_color_vec) == "vegetable"] <- "#001845"
+ing_color_vec[names(ing_color_vec) == "fruit"] <- "#001233"
+ing_color_vec[names(ing_color_vec) == "mushroom/fungus"] <- "#33415C"
+ing_color_vec[names(ing_color_vec) == "carbonhydrates"] <- "#5C677D"
+ing_color_vec[names(ing_color_vec) == "processed food"] <- "#7D8597"
+ing_color_vec[names(ing_color_vec) == "beverage"] <- "#979DAC"
+ing_color_vec[names(ing_color_vec) == "other"] <- "#A8ADBA"
 
 ing_nodes <- sg_make_nodes(n = nrow(df_ing))
 ing_nodes$id <- df_ing$id
 ing_nodes$label <- df_ing$name
+# ing_nodes$size <- 2*log(df_ing$freq)
 ing_nodes$size <- df_ing$freq
 ing_nodes$color <- df_ing$category
+ing_nodes$grp <- df_ing$grp
 ing_nodes <- ing_nodes |>
   mutate(color = ing_color_vec[as.character(color)])
 
 df_rcp <- fromJSON("data_for_viz/01-network/recipe_nodes.json") |>
-  as_tibble(validate = FALSE)
+  as_tibble(validate = FALSE) |>
+  mutate(grp = case_when(category == "other" ~ 11,
+                         category == "appetizer" ~ 12,
+                         category == "beverage" ~ 13,
+                         category == "breakfast" ~ 14,
+                         category == "dessert" ~ 15,
+                         category == "entree" ~ 16,
+                         category == "salad" ~ 17,
+                         category == "side" ~ 18,
+                         category == "soup-stew" ~ 19))
 
 rcp_color_vec <- rep("black", length(unique(df_rcp$category)))
 names(rcp_color_vec) <- unique(df_rcp$category)
-rcp_color_vec[names(rcp_color_vec) == "appetizer"] <- "#fbf8cc"
-rcp_color_vec[names(rcp_color_vec) == "beverage"] <- "#fde4cf"
-rcp_color_vec[names(rcp_color_vec) == "breakfast"] <- "#ffcfd2"
-rcp_color_vec[names(rcp_color_vec) == "dessert"] <- "#f1c0e8"
-rcp_color_vec[names(rcp_color_vec) == "entree"] <- "#cfbaf0"
-rcp_color_vec[names(rcp_color_vec) == "salad"] <- "#a3c4f3"
-rcp_color_vec[names(rcp_color_vec) == "side"] <- "#90dbf4"
-rcp_color_vec[names(rcp_color_vec) == "soup-stew"] <- "#8eecf5"
+rcp_color_vec[names(rcp_color_vec) == "appetizer"] <- "#f94144"
+rcp_color_vec[names(rcp_color_vec) == "beverage"] <- "#f3722c"
+rcp_color_vec[names(rcp_color_vec) == "breakfast"] <- "#f8961e"
+rcp_color_vec[names(rcp_color_vec) == "dessert"] <- "#f9c74f"
+rcp_color_vec[names(rcp_color_vec) == "entree"] <- "#90be6d"
+rcp_color_vec[names(rcp_color_vec) == "salad"] <- "#6ab47c"
+rcp_color_vec[names(rcp_color_vec) == "side"] <- "#43aa8b"
+rcp_color_vec[names(rcp_color_vec) == "soup-stew"] <- "#577590"
 
 rcp_nodes <- sg_make_nodes(n = nrow(df_rcp))
 rcp_nodes$id <- df_rcp$id
 rcp_nodes$label <- df_rcp$name
+# rcp_nodes$size <- 0.5*df_rcp$freq
 rcp_nodes$size <- df_rcp$freq
 rcp_nodes$color <- df_rcp$category
+rcp_nodes$grp <- df_rcp$grp
 rcp_nodes <- rcp_nodes |>
   mutate(color = rcp_color_vec[as.character(color)])
 
-nodes <- ig_nodes |>
+nodes <- ing_nodes |>
   bind_rows(rcp_nodes)
 
 ## edges
 
 edges <- fromJSON("data_for_viz/01-network/edges.json") |>
-  as_tibble() |>
-  mutate(id = seq(nrow(edges)))
+  as_tibble()
+edges <- edges |>
+  mutate(id = seq(nrow(edges)),
+         color = rep("#DDDDDD", nrow(edges)))
 
 sigmajs() |>
-  sg_force() |>
   sg_nodes(nodes, id, label, size, color) |>
-  sg_edges(edges, id, source, target) |>
-  sg_layout(FALSE, igraph::layout_in_circle) |>
+  sg_edges(edges, id, source, target, color) |>
+  sg_layout(FALSE, igraph::layout_as_bipartite,
+            types = c(rep(TRUE, nrow(ing_nodes)),
+                      rep(FALSE, nrow(rcp_nodes))),
+            vgap = 200,
+            maxiter = 1500) |>
   sg_neighbours() |>
-  sg_force_stop(5000)
+  sg_drag_nodes() |>
+  sg_relative_size()
+
+# sigmajs() |>
+#   sg_nodes(nodes, id, label, size, color) |>
+#   sg_edges(edges, id, source, target, color) |>
+#   sg_layout(FALSE, igraph::layout_with_kk) |>
+#   sg_neighbours()
+
+sigmajs() |>
+  sg_nodes(nodes, id, label, size, color) |>
+  sg_edges(edges, id, source, target, color) |>
+  sg_layout(FALSE, igraph::layout_with_fr) |>
+  sg_neighbours() |>
+  sg_drag_nodes() |>
+  sg_relative_size()
+
+sigmajs() |>
+  sg_nodes(nodes, id, label, size, color) |>
+  sg_edges(edges, id, source, target, color) |>
+  sg_layout(directed = FALSE, igraph::layout_as_tree,
+            circular = TRUE) |>
+  sg_neighbours() |>
+  sg_drag_nodes() |>
+  sg_relative_size()
+

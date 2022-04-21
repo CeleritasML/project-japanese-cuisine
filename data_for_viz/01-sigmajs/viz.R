@@ -24,7 +24,7 @@ df_ing <- fromJSON("data_for_viz/01-network/ingredient_nodes.json") |>
 
 ing_color_vec <- rep("black", length(unique(df_ing$category)))
 names(ing_color_vec) <- unique(df_ing$category)
-ing_color_vec[names(ing_color_vec) == "condiment (powder)"] <- "#0466C8"
+ing_color_vec[names(ing_color_vec) == "condiment (powder)"] <- "#046ED7"
 ing_color_vec[names(ing_color_vec) == "condiment (bulk)"] <- "#0466C8"
 ing_color_vec[names(ing_color_vec) == "condiment (liquid)"] <- "#023E7D"
 ing_color_vec[names(ing_color_vec) == "protein"] <- "#002855"
@@ -124,4 +124,3 @@ sigmajs() |>
   sg_neighbours() |>
   sg_drag_nodes() |>
   sg_relative_size()
-

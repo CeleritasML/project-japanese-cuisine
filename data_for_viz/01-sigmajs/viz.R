@@ -90,37 +90,61 @@ edges <- edges |>
   mutate(id = seq(nrow(edges)),
          color = rep("#DDDDDD", nrow(edges)))
 
-sigmajs() |>
-  sg_nodes(nodes, id, label, size, color) |>
-  sg_edges(edges, id, source, target, color) |>
-  sg_layout(FALSE, igraph::layout_as_bipartite,
-            types = c(rep(TRUE, nrow(ing_nodes)),
-                      rep(FALSE, nrow(rcp_nodes))),
-            vgap = 200,
-            maxiter = 1500) |>
-  sg_neighbours() |>
-  sg_drag_nodes() |>
-  sg_relative_size()
-
+# sigmajs() |>
+#   sg_nodes(nodes, id, label, size, color) |>
+#   sg_edges(edges, id, source, target, color) |>
+#   sg_layout(FALSE, igraph::layout_as_bipartite,
+#             types = c(rep(TRUE, nrow(ing_nodes)),
+#                       rep(FALSE, nrow(rcp_nodes))),
+#             vgap = 200,
+#             maxiter = 1500) |>
+#   sg_neighbours() |>
+#   sg_drag_nodes() |>
+#   sg_relative_size()
+# 
 # sigmajs() |>
 #   sg_nodes(nodes, id, label, size, color) |>
 #   sg_edges(edges, id, source, target, color) |>
 #   sg_layout(FALSE, igraph::layout_with_kk) |>
 #   sg_neighbours()
+# 
+# sigmajs() |>
+#   sg_nodes(nodes, id, label, size, color) |>
+#   sg_edges(edges, id, source, target, color) |>
+#   sg_layout(FALSE, igraph::layout_with_fr) |>
+#   sg_neighbours() |>
+#   sg_drag_nodes() |>
+#   sg_relative_size()
+# 
+# sigmajs() |>
+#   sg_nodes(nodes, id, label, size, color) |>
+#   sg_edges(edges, id, source, target, color) |>
+#   sg_layout(directed = FALSE, igraph::layout_as_tree,
+#             circular = TRUE) |>
+#   sg_neighbours() |>
+#   sg_drag_nodes() |>
+#   sg_relative_size()
 
-sigmajs() |>
-  sg_nodes(nodes, id, label, size, color) |>
-  sg_edges(edges, id, source, target, color) |>
-  sg_layout(FALSE, igraph::layout_with_fr) |>
-  sg_neighbours() |>
-  sg_drag_nodes() |>
-  sg_relative_size()
+remotes::install_github('JohnCoene/grapher', dependencies = c("Depends", "Imports"))
+library(grapher)
 
-sigmajs() |>
-  sg_nodes(nodes, id, label, size, color) |>
-  sg_edges(edges, id, source, target, color) |>
-  sg_layout(directed = FALSE, igraph::layout_as_tree,
-            circular = TRUE) |>
-  sg_neighbours() |>
-  sg_drag_nodes() |>
-  sg_relative_size()
+# nodes: id, label, size, color
+# edges: source, target, weight(1), hidden(FALSE)
+
+grapher_data <- list(nodes = nodes, links = tibble(
+  source = edges$source,
+  target = edges$target,
+  weight = rep(0.1, nrow(edges)),
+  hidden = rep(FALSE, nrow(edges))
+))
+
+
+graph(grapher_data) |>
+  graph_background("#d3d3d3", .2) |>
+  graph_layout_live(gravity = -3,
+                    theta = 1,
+                    drag_coeff = 0.5,
+                    is_3d = FALSE) |>
+  graph_layout_stable(ms = 5000) |>
+  scale_node_color(color, palette = graph_palette_light()) |>
+  scale_node_size(size)

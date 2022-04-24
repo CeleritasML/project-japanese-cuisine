@@ -23,11 +23,20 @@ var info = d3.select('body')
   .attr('style', 'position: absolute; opacity: 0;')
   .style("left", 50 + "px")
   .style("margin", 0 + "auto")
-  .style("top", 7 + "%")
+  .style("top", 70 + "%")
   .style("padding", 2 + "px")
   .style("background", "lightsteelblue")
   .style("border", 0 + "px")
   .style("border-radius", 8 + "px");
+  
+// Another tooltip at corner providing image of actual recipe
+var webpage = svg.append("image")
+  .attr('style',"opacity: 0;")
+  .attr("xlink:href", null)
+  .attr("x", 0)
+  .attr("y", 0)
+  .attr("width", 200)
+  .attr("height", 200);
   
 // Read data of nodes and links from r2d3 processed dataframe
 const nodes = data.nodes.map(d => Object.create(d));
@@ -38,6 +47,7 @@ var status = new Array(nodes.length).fill(0);
 
 // Set X axis and labels
 let sectors = Array.from(new Set(nodes.map((d) => d.nutrition)));
+let dishtype = Array.from(new Set(nodes.map((d) => d.type)));
 let xScale = d3
       .scalePoint()
       .domain(sectors)
@@ -50,6 +60,12 @@ let xAxis = d3
 svg.append("g")
   .style("font-size", "20px")
   .call(d3.axisBottom(xAxis))
+
+let xType = d3
+      .scalePoint()
+      .domain(dishtype)
+      .range([-110,110])
+
 
 // Set Y axis 
 let yScale = d3
@@ -187,19 +203,21 @@ const node = svg.append("g")
         + "<br/>"  + "Potassium: " + data.nodes[dish+3].value + data.nodes[dish+3].unit
         + "<br/>"  + "Calcium: " + data.nodes[dish+4].value + data.nodes[dish+4].unit
         + "<br/>"  + "(Per serving)");
+      webpage.attr("xlink:href", d.url)
+      webpage.style('opacity', 1);
     });
 
 // Apply force to make a beeswarm network
 let simulation = d3.forceSimulation()
     .force("link", d3.forceLink().id(d => d.id).strength(0.01))
     .force("x", d3.forceX((d) => {
-        return xScale(d.nutrition);
+        return xScale(d.nutrition)+xType(d.type);
         }).strength(3))
     .force("y", d3.forceY((d) => {
         return yScale(d.value_level);
         }).strength(1))
     .force("collide", d3.forceCollide((d) => {
-        return 1.5 * size(d.value);
+        return 1.0 * size(d.value);
         }))
 
 // Add annotations about the recommended level of nutrients

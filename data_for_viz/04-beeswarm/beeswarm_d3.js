@@ -74,7 +74,7 @@ let yScale = d3
       .range([7/8 * height-60, 1/8 * height+60]);
 
 // Color nodes by their dish types (appetizer, dessert, etc.)      
-let color = d3.scaleOrdinal().domain(sectors).range(d3.schemePaired);
+let color = d3.scaleOrdinal().domain(dishtype).range(d3.schemePaired);
 
 // Control node size by their values
 let valueDomain = d3.extent(nodes.map((d) => +d.value));
@@ -244,7 +244,32 @@ svg.append("text")
     .attr("font-size",30)
     .text("Nutrition Beeswarm Plot (Hover/click over nodes to view recipe information)");
 
+// Add one dot in the legend for each type.
+svg.selectAll("mydots")
+  .data(dishtype)
+  .enter()
+  .append("circle")
+    .attr("cx", 1700)
+    .attr("cy", function(d,i){ return 50 + i*20})
+    .attr("r", 7)
+    .style("fill", function(d){ return color(d)})
+    .style("stroke", "black")
+    .style("stroke-opacity", 1)
 
+// Add one dot in the legend for each types.
+svg.selectAll("mylabels")
+  .data(dishtype)
+  .enter()
+  .append("text")
+    .attr("x", 1720)
+    .attr("y", function(d,i){ return 50 + i*20})
+    .style("fill", function(d){ return color(d)})
+    .text(function(d){ return d})
+    .attr("text-anchor", "left")
+    .style("alignment-baseline", "middle")
+    .style("stroke", "black")
+    .style("stroke-opacity", 0.2)
+    
 simulation
     .nodes(nodes)
     .on("tick", tick);

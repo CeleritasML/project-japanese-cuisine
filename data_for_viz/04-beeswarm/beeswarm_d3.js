@@ -3,7 +3,7 @@ svg.attr("height", height)
   .attr("width", width)
   .style("background","#efdecd");
 d3.select("body")
-  .style("background","#efdecd");
+  .style("background","#DEB887");
   
 // Sub-tooltip on mouseover displaying dish names
 var div = d3.select('body')
@@ -12,7 +12,7 @@ var div = d3.select('body')
   .attr('style', 'position: absolute; opacity: 0;')
   .style("height", 28 + "px")
   .style("padding", 2 + "px")
-  .style("background", "lightsteelblue")
+  .style("background", "#FF8C00")
   .style("border", 0 + "px")
   .style("border-radius", 8 + "px");
 
@@ -25,7 +25,7 @@ var info = d3.select('body')
   .style("margin", 0 + "auto")
   .style("top", 70 + "%")
   .style("padding", 2 + "px")
-  .style("background", "lightsteelblue")
+  .style("background", "#DEB887")
   .style("border", 0 + "px")
   .style("border-radius", 8 + "px");
   
@@ -197,7 +197,8 @@ const node = svg.append("g")
       info.transition().duration(200)
         .style('opacity', 1);
       var dish = +d.id - (+d.id % 5)
-      info.html(d.name + "<br/>"  + "Calories: " + data.nodes[dish].value + data.nodes[dish].unit
+      info.html(d.name + "<br/>"  + "Type: " + data.nodes[dish+1].type
+        + "<br/>"  + "Calories: " + data.nodes[dish].value + data.nodes[dish].unit
         + "<br/>"  + "Protein: " + data.nodes[dish+1].value + data.nodes[dish+1].unit
         + "<br/>"  + "Sodium: " + data.nodes[dish+2].value + data.nodes[dish+2].unit
         + "<br/>"  + "Potassium: " + data.nodes[dish+3].value + data.nodes[dish+3].unit
@@ -223,20 +224,25 @@ let simulation = d3.forceSimulation()
 // Add annotations about the recommended level of nutrients
 svg.append("text")
     .attr("x", 0)
-    .attr("y", 240)
+    .attr("y", 270)
     .text("Recommeneded level");
 svg.append("text")
     .attr("x", 0)
-    .attr("y", 260)
+    .attr("y", 290)
     .text("for an average dish");
 
 var point = svg.append('image')
     .attr('xlink:href', 'https://ykdatalab.georgetown.domains/image/finger.jpg')
-    .attr('width', 150)
-    .attr('height', 150)
+    .attr('width', 120)
+    .attr('height', 73)
     .attr("x", 0)
-    .attr("y", 300)
+    .attr("y", 330)
 
+svg.append("text")
+    .attr("x", 300)
+    .attr("y", 850)
+    .attr("font-size",30)
+    .text("Nutrition Beeswarm Plot (Hover/click over nodes to view recipe information)");
 
 
 simulation

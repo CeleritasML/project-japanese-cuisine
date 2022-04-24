@@ -6,7 +6,7 @@ d3.select("body")
   .style("background","#DEB887");
   
 // Sub-tooltip on mouseover displaying dish names
-var div = d3.select('body')
+const div = d3.select('body')
   .append('div')
   .attr('class', 'tooltip')
   .attr('style', 'position: absolute; opacity: 0;')
@@ -17,7 +17,7 @@ var div = d3.select('body')
   .style("border-radius", 8 + "px");
 
 // Main-tooltip at corner displaying nutrition information  
-var info = d3.select('body')
+const info = d3.select('body')
   .append('div')
   .attr('class', 'tooltip')
   .attr('style', 'position: absolute; opacity: 0;')
@@ -30,7 +30,7 @@ var info = d3.select('body')
   .style("border-radius", 8 + "px");
   
 // Another tooltip at corner providing image of actual recipe
-var webpage = svg.append("image")
+const webpage = svg.append("image")
   .attr('style',"opacity: 0;")
   .attr("xlink:href", null)
   .attr("x", 0)
@@ -43,16 +43,16 @@ const nodes = data.nodes.map(d => Object.create(d));
 const links = data.links.map(d => Object.create(d));
 
 // Track the choice status of nodes
-var status = new Array(nodes.length).fill(0);
+const status = new Array(nodes.length).fill(0);
 
 // Set X axis and labels
-let sectors = Array.from(new Set(nodes.map((d) => d.nutrition)));
-let dishtype = Array.from(new Set(nodes.map((d) => d.type)));
-let xScale = d3
+const sectors = Array.from(new Set(nodes.map((d) => d.nutrition)));
+const dishtype = Array.from(new Set(nodes.map((d) => d.type)));
+const xScale = d3
       .scalePoint()
       .domain(sectors)
       .range([1/8 * width+60, 7/8 * width+60]);
-let xAxis = d3
+const xAxis = d3
       .scalePoint()
       .domain(sectors)
       .range([1/8 * width+60, 7/8 * width+60]);
@@ -61,24 +61,24 @@ svg.append("g")
   .style("font-size", "20px")
   .call(d3.axisBottom(xAxis))
 
-let xType = d3
+const xType = d3
       .scalePoint()
       .domain(dishtype)
       .range([-110,110])
 
 
 // Set Y axis 
-let yScale = d3
+const yScale = d3
       .scaleLinear()
       .domain([-7,3])
       .range([7/8 * height-60, 1/8 * height+60]);
 
 // Color nodes by their dish types (appetizer, dessert, etc.)      
-let color = d3.scaleOrdinal().domain(dishtype).range(d3.schemePaired);
+const color = d3.scaleOrdinal().domain(dishtype).range(d3.schemePaired);
 
 // Control node size by their values
-let valueDomain = d3.extent(nodes.map((d) => +d.value));
-let size = d3.scaleSqrt().domain(valueDomain).range([3, 8]);
+const valueDomain = d3.extent(nodes.map((d) => +d.value));
+const size = d3.scaleSqrt().domain(valueDomain).range([3, 8]);
 
 // Draw edges between nodes of same dish
 const link = svg.append("g")
@@ -160,20 +160,20 @@ const simulation = d3.forceSimulation()
 
 // Add annotations about the recommended level of nutrients
 svg.append("text")
-    .attr("x", 0)
-    .attr("y", 270)
+    .attr("x", 10)
+    .attr("y", 7 * height / 20 - 20)
     .text("Recommeneded level");
 svg.append("text")
-    .attr("x", 0)
-    .attr("y", 290)
+    .attr("x", 10)
+    .attr("y", 7 * height / 20)
     .text("for an average dish");
 
-var point = svg.append('image')
+const point = svg.append('image')
     .attr('xlink:href', 'https://ykdatalab.georgetown.domains/image/finger.jpg')
     .attr('width', 120)
     .attr('height', 73)
-    .attr("x", 0)
-    .attr("y", 330)
+    .attr("x", 10)
+    .attr("y", 7 * height / 20 + 12)
 
 svg.append("text")
     .attr("x", "50%")

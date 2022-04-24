@@ -4,21 +4,6 @@
 //
 // largely inspired by this awesome blog: https://blog.risingstack.com/tutorial-d3-js-calendar-heatmap/
 
-const links = data.links.map(d => Object.create(d));
-const recipes = data.recipes.map(d => Object.create(d));
-const ingredients = data.ingredients.map(d => Object.create(d));
-const nodes = [...recipes, ...ingredients];
-
-svg
-    .attr("height", height)
-    .attr("width", width);
-
-// create link reference
-let linkedByIndex = {};
-data.links.forEach(d => {
-    linkedByIndex[`${d.source},${d.target}`] = true;
-});
-
 // nodes map
 let nodesById = {};
 data.recipes.forEach(d => {
@@ -73,6 +58,25 @@ const ingredientIndex = (category) => {
     return ingredientDict[category]["index"];
 }
 
+const links = data.links.map(d => Object.create(d));
+const recipes = data.recipes.map(d => Object.create(d));
+const ingredients = data.ingredients.map(d => Object.create(d));
+const nodes = [...recipes, ...ingredients];
+nodes.map(d => {
+    d.x = (d.type === "recipe") ? width / 5 : width - width / 5;
+    d.y = (d.type === "recipe") ? recipeIndex(d.category) / 9 * height : ingredientIndex(d.category) / 12 * height;
+});
+
+svg
+    .attr("height", height)
+    .attr("width", width);
+
+// create link reference
+let linkedByIndex = {};
+data.links.forEach(d => {
+    linkedByIndex[`${d.source},${d.target}`] = true;
+});
+
 const isConnectedAsSource = (a, b) => linkedByIndex[`${a},${b}`];
 const isConnectedAsTarget = (a, b) => linkedByIndex[`${b},${a}`];
 const isConnected = (a, b) => isConnectedAsTarget(a, b) || isConnectedAsSource(a, b) || a === b;
@@ -120,7 +124,8 @@ const simulation = d3.forceSimulation()
         }
         return height / 2;
     }).strength(1))
-    .force("collide", d3.forceCollide().radius(d => nodeRadius(d) + 1).iterations(2));
+    .force("collide", d3.forceCollide().radius(d => nodeRadius(d) + 1).iterations(2))
+    .alpha(0.1);
 
 const link = baseGroup.append("g")
     .selectAll("line")

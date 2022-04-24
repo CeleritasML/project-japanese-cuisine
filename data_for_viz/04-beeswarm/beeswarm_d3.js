@@ -99,63 +99,20 @@ const node = svg.append("g")
     .attr("class", "circ")
     .attr("fill", (d) => color(d.type))
     .attr("r", (d) => size(d.value))
-    .on("mouseleave", function(event,d) {
-      node.style("stroke", function(node) {
-        if(status[node.id] != 1) {
-          return "none"
-        } else {
-          return "black"
-        }
-      });
-      div.style('opacity', 0)
-      link.style("stroke-width", function(link) {
-        if(status[data.links[link.index].source] != 1) {
-          return 0.1
-        } else {
-          return 2
-        }
-      })
-        .style("stroke-opacity", function(link) {
-          if(status[data.links[link.index].source] != 1) {
-            return 0.5
-          } else {
-            return 1
-          }
-        });
+    .on("mouseout", function(event,d) {
+      node.style("stroke", o => (status[o.id] !== 1) ? "none" : "black");
+      div.transition().duration(200)
+        .style('opacity', 0);
+      link
+        .style("stroke-width", o => (status[data.links[o.index].source] !== 1) ? 0.1 : 2)
+        .style("stroke-opacity", o => (status[data.links[o.index].source] !== 1) ? 0.5 : 1);
     })
     .on("mouseover", function(event,d) {
-      node.style("stroke", function(node) {
-        if(status[node.id] == 1) {
-          return "black"
-        } else if(d.name == node.name){
-          return "gray"
-        } else {
-          return "none"
-        }})
-        .style("stroke-width", function(node) {
-        if(status[node.id] == 1) {
-          return 2
-        } else if(d.name == node.name){
-          return 1.5
-        } else {
-          return 0
-        }});
-      link.style("stroke-width", function(link) {
-        if(status[data.links[link.index].source] == 1) {
-          return 2
-        } else if(d.name == link.value){
-          return 1.5
-        } else {
-          return 0.1
-        }})
-        .style("stroke-opacity", function(link) {
-        if(status[data.links[link.index].source] == 1) {
-          return 1
-        } else if(d.name == link.value){
-          return 1
-        } else {
-          return 0
-        }});
+      node.style("stroke", o => (status[o.id] === 1) ? "black" : ((d.name === o.name) ? "gray" : "none"))
+        .style("stroke-width", o => (status[o.id] === 1) ? 2 : ((d.name === o.name) ? 1.5 : 0));
+      link
+        .style("stroke-width", o => (status[data.links[o.index].source] === 1) ? 2 : ((d.name == o.value) ? 1.5 : 0.1))
+        .style("stroke-opacity", o => (status[data.links[o.index].source] === 1) ? 1 : ((d.name == o.value) ? 1 : 0));
       div.transition().duration(200)
         .style('opacity', 1);
       div.html(d.name)
@@ -169,31 +126,16 @@ const node = svg.append("g")
       node.style("stroke", "none");
       link.style('stroke-width', 0.1)
         .style("stroke-opacity", 0.5);
-      node.style("stroke", function(node) {
+      node.style("stroke", o => function(node) {
         if(d.name == node.name) {
           status[node.id] = 1;
           return "black"
         } else {
           return "none"
         }})
-        .style("stroke-width", function(node) {
-        if(d.name == node.name) {
-          return 2
-        } else {
-          return 0
-        }});
-      link.style("stroke-width", function(link) {
-        if(d.name == link.value) {
-          return 2
-        } else {
-          return 0.1
-        }})
-        .style("stroke-opacity", function(link) {
-        if(d.name == link.value) {
-          return 1
-        } else {
-          return 0.5
-        }});
+        .style("stroke-width", o => (d.name === o.name) ? 2 : 0);
+      link.style("stroke-width", o => (d.name === o.value) ? 2 : 0.1)
+        .style("stroke-opacity", o => (d.name === o.value) ? 1 : 0.5);
       info.transition().duration(200)
         .style('opacity', 1);
       var dish = +d.id - (+d.id % 5)
@@ -209,17 +151,12 @@ const node = svg.append("g")
     });
 
 // Apply force to make a beeswarm network
-let simulation = d3.forceSimulation()
+const simulation = d3.forceSimulation()
     .force("link", d3.forceLink().id(d => d.id).strength(0.01))
-    .force("x", d3.forceX((d) => {
-        return xScale(d.nutrition)+xType(d.type);
-        }).strength(3))
-    .force("y", d3.forceY((d) => {
-        return yScale(d.value_level);
-        }).strength(1))
-    .force("collide", d3.forceCollide((d) => {
-        return 1.0 * size(d.value);
-        }))
+    .force("x", d3.forceX(d => xScale(d.nutrition)+xType(d.type)).strength(3))
+    .force("y", d3.forceY(d => yScale(d.value_level)).strength(1))
+    .force("collide", d3.forceCollide(d => 1.0 * size(d.value)))
+    .alpha(0.1)
 
 // Add annotations about the recommended level of nutrients
 svg.append("text")
@@ -239,9 +176,10 @@ var point = svg.append('image')
     .attr("y", 330)
 
 svg.append("text")
-    .attr("x", 300)
-    .attr("y", 850)
-    .attr("font-size",30)
+    .attr("x", "50%")
+    .attr("y", "90%")
+    .attr("text-anchor", "middle")
+    .attr("font-size", 25)
     .text("Nutrition Beeswarm Plot (Hover/click over nodes to view recipe information)");
 
 // Add one dot in the legend for each type.
@@ -250,9 +188,9 @@ svg.selectAll("mydots")
   .enter()
   .append("circle")
     .attr("cx", 1700)
-    .attr("cy", function(d,i){ return 50 + i*20})
+    .attr("cy", (d, i) => 50 + i*20)
     .attr("r", 7)
-    .style("fill", function(d){ return color(d)})
+    .style("fill", d => color(d))
     .style("stroke", "black")
     .style("stroke-opacity", 1)
 
@@ -262,9 +200,9 @@ svg.selectAll("mylabels")
   .enter()
   .append("text")
     .attr("x", 1720)
-    .attr("y", function(d,i){ return 50 + i*20})
-    .style("fill", function(d){ return color(d)})
-    .text(function(d){ return d})
+    .attr("y", (d, i) => 50 + i*20)
+    .style("fill", d => color(d))
+    .text(d => d)
     .attr("text-anchor", "left")
     .style("alignment-baseline", "middle")
     .style("stroke", "black")

@@ -6,18 +6,18 @@ get_ingredients <- function(category_name){
   # initialize ingredients
   ingredients_list <- c() 
   
-  category_dir = dir(paste0("data/", category_name))
+  category_dir <- dir(paste0("data/", category_name))
   for (dish in category_dir){
     dat <- fromJSON(paste0("data/", category_name, "/", dish))
-    name_list = dat$ingredients$name
+    name_list <- dat$ingredients$name
     
     for (i in length(name_list)){
       if(name_list[[i]] == "green onions/scallions"){
-        name_list[[i]] = "green onion/scallion"
+        name_list[[i]] <- "green onion/scallion"
       }
       
       if(name_list[[i]] %in% c("uncooked Japanese short-grain rice", "cooked Japanese short-grain rice")){
-        name_list[[i]] = "Japanese short-grain rice"
+        name_list[[i]] <- "Japanese short-grain rice"
       }
     }
     
@@ -31,7 +31,7 @@ get_ingredients <- function(category_name){
 # helper function to get dataframe of ingredient frequencies by category
 get_dataframe <- function(category_name){
   
-  ingredients = get_ingredients(category_name)
+  ingredients <- get_ingredients(category_name)
   
   ing_df <- tibble(name = ingredients) |>
     group_by(name) |>
@@ -58,7 +58,7 @@ get_dataframe <- function(category_name){
       TRUE ~ "others"
   ))
   
-  ing_df$category = category_name
+  ing_df$category <- category_name
   
   return(ing_df)
 } 
@@ -71,16 +71,16 @@ categories <- c("appetizer",
                 "salad",
                 "soup-stew")
 
-data = get_dataframe(categories[[1]])
+data <- get_dataframe(categories[[1]])
 
 for (i in 2:6){
-  temp = get_dataframe(categories[[i]])
-  data = rbind(data, temp)
+  temp <- get_dataframe(categories[[i]])
+  data <- rbind(data, temp)
 }
 
-data$name[data$name %in% c("cooked Japanese short-grain rice", "uncooked Japanese short-grain rice")] = "Japanese short-grain rice"
+data$name[data$name %in% c("cooked Japanese short-grain rice", "uncooked Japanese short-grain rice")] <- "Japanese short-grain rice"
 
-J = data |> filter(origin == 'japanese exclusive')
+J <- data |> filter(origin == 'japanese exclusive')
 unique(J$name)
 
 write_csv(data, "data_for_viz/05-barplot/ingredients-by-freq.csv")

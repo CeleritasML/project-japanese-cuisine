@@ -19,13 +19,13 @@ const all_ingredient_category = ["condiment (powder)", "condiment (bulk)", "cond
                             "fruit", "mushroom/fungus", "carbonhydrates", "processed food", "beverage", "other"];
 const recipeDict = {
     "appetizer": {"index": 1, "color": "#f94144"},
-    "beverage": {"index": 2, "color": "#f3722c"},
-    "breakfast": {"index": 3, "color": "#f8961e"},
-    "dessert": {"index": 4, "color": "#f9c74f"},
-    "entree": {"index": 5, "color": "#90be6d"},
-    "salad": {"index": 6, "color": "#43aa8b"},
-    "side": {"index": 7, "color": "#4d908e"},
-    "soup-stew": {"index": 8, "color": "#577590"}
+    "beverage": {"index": 1.8, "color": "#f3722c"},
+    "breakfast": {"index": 2.6, "color": "#f8961e"},
+    "dessert": {"index": 3.6, "color": "#f9c74f"},
+    "entree": {"index": 5.3, "color": "#90be6d"},
+    "salad": {"index": 7, "color": "#43aa8b"},
+    "side": {"index": 8, "color": "#4d908e"},
+    "soup-stew": {"index": 9.4, "color": "#577590"}
 }
 
 const ingredientDict = {
@@ -48,7 +48,7 @@ const recipeColor = (category) => {
 }
 
 const recipeIndex = (category) => {
-    if (!(category in recipeDict)) return 8;
+    if (!(category in recipeDict)) return 9;
     return recipeDict[category]["index"];
 }
 
@@ -68,7 +68,7 @@ const ingredients = data.ingredients.map(d => Object.create(d));
 const nodes = [...recipes, ...ingredients];
 nodes.map(d => {
     d.x = (d.type === "recipe") ? width / 5 : width - width / 5;
-    d.y = (d.type === "recipe") ? recipeIndex(d.category) / 9 * height : ingredientIndex(d.category) / 12 * height;
+    d.y = (d.type === "recipe") ? recipeIndex(d.category) / 11 * height : ingredientIndex(d.category) / 12 * height;
 });
 
 svg
@@ -113,7 +113,7 @@ const simulation = d3.forceSimulation()
     .force("link", d3.forceLink().id(d => d.id).strength(0.01))
     .force("charge", d3.forceManyBody())
     .force("x", d3.forceX(d => (d.type === "recipe") ? width / 5 : width - width / 5).strength(2))
-    .force("y", d3.forceY(d => (d.type === "recipe") ? recipeIndex(d.category) / 9 * height : ingredientIndex(d.category) / 12 * height).strength(1))
+    .force("y", d3.forceY(d => (d.type === "recipe") ? recipeIndex(d.category) / 11 * height : ingredientIndex(d.category) / 12 * height).strength(1))
     .force("collide", d3.forceCollide().radius(d => nodeRadius(d) + 1).iterations(2))
     .alpha(0.1);
 

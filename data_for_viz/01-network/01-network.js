@@ -4,21 +4,6 @@
 //
 // largely inspired by this awesome blog: https://blog.risingstack.com/tutorial-d3-js-calendar-heatmap/
 
-const links = data.links.map(d => Object.create(d));
-const recipes = data.recipes.map(d => Object.create(d));
-const ingredients = data.ingredients.map(d => Object.create(d));
-const nodes = [...recipes, ...ingredients];
-
-svg
-    .attr("height", height)
-    .attr("width", width);
-
-// create link reference
-let linkedByIndex = {};
-data.links.forEach(d => {
-    linkedByIndex[`${d.source},${d.target}`] = true;
-});
-
 // nodes map
 let nodesById = {};
 data.recipes.forEach(d => {
@@ -28,15 +13,19 @@ data.ingredients.forEach(d => {
     nodesById[d.id] = {...d};
 })
 
+
+const all_recipe_category = ["appetizer", "beverage", "breakfast", "dessert", "entree", "salad", "side", "soup-stew"];
+const all_ingredient_category = ["condiment (powder)", "condiment (bulk)", "condiment (liquid)", "protein", "vegetable",
+                            "fruit", "mushroom/fungus", "carbonhydrates", "processed food", "beverage", "other"];
 const recipeDict = {
-    "appetizer": {"index": 1, "color": "#fbf8cc"},
-    "beverage": {"index": 2, "color": "#fde4cf"},
-    "breakfast": {"index": 3, "color": "#ffcfd2"},
-    "dessert": {"index": 4, "color": "#f1c0e8"},
-    "entree": {"index": 5, "color": "#cfbaf0"},
-    "salad": {"index": 6, "color": "#a3c4f3"},
-    "side": {"index": 7, "color": "#90dbf4"},
-    "soup-stew": {"index": 8, "color": "#8eecf5"}
+    "appetizer": {"index": 1, "color": "#f94144"},
+    "beverage": {"index": 2, "color": "#f3722c"},
+    "breakfast": {"index": 3, "color": "#f8961e"},
+    "dessert": {"index": 4, "color": "#f9c74f"},
+    "entree": {"index": 5, "color": "#90be6d"},
+    "salad": {"index": 6, "color": "#43aa8b"},
+    "side": {"index": 7, "color": "#4d908e"},
+    "soup-stew": {"index": 8, "color": "#577590"}
 }
 
 const ingredientDict = {
@@ -73,25 +62,48 @@ const ingredientIndex = (category) => {
     return ingredientDict[category]["index"];
 }
 
-const isConnectedAsSource = (a, b) => linkedByIndex[`${a},${b}`];
-const isConnectedAsTarget = (a, b) => linkedByIndex[`${b},${a}`];
-const isConnected = (a, b) => isConnectedAsTarget(a, b) || isConnectedAsSource(a, b) || a === b;
+const links = data.links.map(d => Object.create(d));
+const recipes = data.recipes.map(d => Object.create(d));
+const ingredients = data.ingredients.map(d => Object.create(d));
+const nodes = [...recipes, ...ingredients];
+nodes.map(d => {
+    d.x = (d.type === "recipe") ? width / 5 : width - width / 5;
+    d.y = (d.type === "recipe") ? recipeIndex(d.category) / 9 * height : ingredientIndex(d.category) / 12 * height;
+});
+
+svg
+    .attr("height", height)
+    .attr("width", width);
+
+// create link reference
+let linkedByIndex = {};
+let r2i_dict = {}
+all_recipe_category.forEach(c => r2i_dict[c] = {'node': [], 'link': []});
+let i2r_dict = {}
+all_ingredient_category.forEach(c => i2r_dict[c] = {'node': [], 'link': []});
+links.forEach(d => {
+    linkedByIndex[`${d.source},${d.target}`] = true;
+    i2r_dict[nodesById[d.source].category]['node'].push(nodesById[d.source].id);
+    i2r_dict[nodesById[d.source].category]['node'].push(nodesById[d.target].id);
+    i2r_dict[nodesById[d.source].category]['link'].push(d);
+    linkedByIndex[`${d.target},${d.source}`] = true;
+    r2i_dict[nodesById[d.target].category]['node'].push(nodesById[d.target].id);
+    r2i_dict[nodesById[d.target].category]['node'].push(nodesById[d.source].id);
+    r2i_dict[nodesById[d.target].category]['link'].push(d);
+});
+all_recipe_category.forEach(c => {
+    r2i_dict[c]['node'] = new Set(r2i_dict[c]['node']);
+    r2i_dict[c]['link'] = new Set(r2i_dict[c]['link']);
+});
+all_ingredient_category.forEach(c => {
+    i2r_dict[c]['node'] = new Set(i2r_dict[c]['node']);
+    i2r_dict[c]['link'] = new Set(i2r_dict[c]['link']);
+});
+
+const isConnected = (a, b) => linkedByIndex[`${a},${b}`] || a === b;
 const isEqual = (a, b) => a === b;
-const nodeRadius = d => {
-    if (d.type === "recipe") {
-        return 0.5 * d.freq;
-    }
-    return 2 * Math.log(d.freq);
-};
-const nodeColor = d => {
-    if (d.type === "recipe") {
-        return recipeColor(d.category);
-    }
-    if (d.type === "ingredient") {
-        return ingredientColor(d.category);
-    }
-    return "#FFFFFF";
-};
+const nodeRadius = (d => (d.type === "recipe") ? 0.5 * d.freq : 2 * Math.log(d.freq));
+const nodeColor = (d => (d.type === "recipe") ? recipeColor(d.category) : ingredientColor(d.category));
 
 const baseGroup = svg.append("g");
 
@@ -103,34 +115,19 @@ svg.call(zoom);
 let ifClicked = false;
 
 const simulation = d3.forceSimulation()
-    .force("link", d3.forceLink().id(function(d) { return d.id; }).strength(0.01))
+    .force("link", d3.forceLink().id(d => d.id).strength(0.01))
     .force("charge", d3.forceManyBody())
-    .force("center", d3.forceCenter(width / 2, height / 2))
-    .force("x", d3.forceX(d => {
-        if (d.type === "recipe") {
-            return width / 5;
-        }
-        return width - width / 5;
-    }).strength(2))
-    .force("y", d3.forceY(d => {
-        if (d.type === "recipe") {
-            return recipeIndex(d.category) / 9 * height;
-        }
-        if (d.type === "ingredient") {
-            return ingredientIndex(d.category) / 12 * height;
-        }
-        return height / 2;
-    }).strength(1))
-    .force("collide", d3.forceCollide().radius(d => nodeRadius(d) + 1).iterations(2));
+    .force("x", d3.forceX(d => (d.type === "recipe") ? width / 5 : width - width / 5).strength(2))
+    .force("y", d3.forceY(d => (d.type === "recipe") ? recipeIndex(d.category) / 9 * height : ingredientIndex(d.category) / 12 * height).strength(1))
+    .force("collide", d3.forceCollide().radius(d => nodeRadius(d) + 1).iterations(2))
+    .alpha(0.1);
 
 const link = baseGroup.append("g")
     .selectAll("line")
     .data(links)
     .join("line")
     .classed('link', true)
-    .style('stroke', d => {
-        return "grey";
-    })
+    .style('stroke', "grey")
     .style('stroke-width', 0.05)
     .style("stroke-opacity", 0.5);
 
@@ -144,14 +141,14 @@ const node = baseGroup.append("g")
 
 function ticked() {
     link
-        .attr("x1", function(d) { return d.source.x; })
-        .attr("y1", function(d) { return d.source.y; })
-        .attr("x2", function(d) { return d.target.x; })
-        .attr("y2", function(d) { return d.target.y; });
+        .attr("x1", d => d.source.x)
+        .attr("y1", d => d.source.y)
+        .attr("x2", d => d.target.x)
+        .attr("y2", d => d.target.y);
 
     node
-        .attr("cx", function(d) { return d.x; })
-        .attr("cy", function(d) { return d.y; });
+        .attr("cx", d => d.x)
+        .attr("cy", d => d.y);
 }
 
 simulation
@@ -167,6 +164,69 @@ const tooltip = d3.select("body").append("div")
     .style("visibility", "hidden")
     .text("I'm a circle!");
 
+const recipe_legend_area = svg.append("g");
+const ingredient_legend_area = svg.append("g");
+
+recipe_legend_area
+    .append("text")
+    .attr("x", width / 20)
+    .attr("y", height / 10 - 20)
+    .attr("fill", "#090909")
+    .text("Legend of Recipes")
+
+ingredient_legend_area
+    .append("text")
+    .attr("x", width - width / 10)
+    .attr("y", height / 10 - 20)
+    .attr("fill", "#090909")
+    .text("Legend of Ingredients")
+
+const recipe_legend_wrapper = recipe_legend_area
+    .selectAll(".recipe-legend-wrapper")
+    .data(all_recipe_category)
+    .enter()
+        .append("g")
+        .attr("class", "recipe-legend-wrapper");
+
+const ingredient_legend_wrapper = ingredient_legend_area
+    .selectAll(".ingredient-legend-wrapper")
+    .data(all_ingredient_category)
+    .enter()
+        .append("g")
+        .attr("class", "ingredient-legend-wrapper");
+
+const recipe_legend_circle = recipe_legend_wrapper
+    .append("circle")
+    .attr("r", 8)
+    .attr("fill", d => recipeColor(d))
+    .attr("cx", width / 20)
+    .attr("cy", (d, i) => height / 10 + i * 20);
+
+const recipe_legend_text = recipe_legend_wrapper
+    .append("text")
+    .text(d => d)
+    .attr("fill", d => recipeColor(d))
+    .attr("x", width / 20 + 20)
+    .attr("y", (d, i) => height / 10 + i * 20)
+    .attr("text-anchor", "left")
+    .style("alignment-baseline", "middle");
+
+const ingredient_legend_circle = ingredient_legend_wrapper
+    .append("circle")
+    .attr("r", 8)
+    .attr("fill", d => ingredientColor(d))
+    .attr("cx", width - width / 10)
+    .attr("cy", (d, i) => height / 10 + i * 20);
+
+const ingredient_legend_text = ingredient_legend_wrapper
+    .append("text")
+    .text(d => d)
+    .attr("fill", d => ingredientColor(d))
+    .attr("x", width - width / 10 + 20)
+    .attr("y", (d, i) => height / 10 + i * 20)
+    .attr("text-anchor", "left")
+    .style("alignment-baseline", "middle");
+
 const mouseOverFunction = (e, d) => {
     tooltip.style("visibility", "visible")
         .html(() => {
@@ -181,70 +241,54 @@ const mouseOverFunction = (e, d) => {
                 + `<strong>Category:</strong> <span>${d.category}</span>` + '<br>'
                 + `<strong>Occurrence:</strong> <span>${d.freq}</span>`;
         });
-
     if (ifClicked) return;
-
     node
         .transition(500)
-        .style('opacity', o => {
-            const isConnectedValue = isConnected(o.id, d.id);
-            if (isConnectedValue) {
-                return 1.0;
-            }
-            return 0.1;
-        });
-
+        .style('opacity', o => isConnected(o.id, d.id) ? 1.0 : 0.1);
     link
         .transition(500)
-        .style('stroke-opacity', o => {
-            return (o.source === d || o.target === d ? 1 : 0.1)})
-        .transition(500)
-        .attr('marker-end', o => (o.source === d || o.target === d ? 'url(#arrowhead)' : 'url()'));
+        .style('stroke-opacity', o => (o.source === d || o.target === d) ? 1 : 0.1);
 };
 
 const mouseOutFunction = (e, d) => {
     tooltip.style("visibility", "hidden");
-
     if (ifClicked) return;
-
     node
         .transition(500)
         .style('opacity', 1);
-
     link
         .transition(500)
-        .style("stroke-opacity", o => {
-        });
-
+        .style("stroke-opacity", 0.5);
 };
 
+let clickedNodes = new Set();
+let clickedLinks = new Set();
+
 const mouseClickFunction = (e, d) => {
+    if (clickedNodes.has(d.id)) {
+        return;
+    }
     // we don't want the click event bubble up to svg
     e.stopPropagation();
     ifClicked = true;
-
-    node
-        .transition(500)
-        .style('opacity', 1)
-
-    link
-        .transition(500);
-
-    node
-        .transition(500)
-        .style('opacity', o => {
-            const isConnectedValue = isConnected(o.id, d.id);
-            if (isConnectedValue) {
-                return 1.0;
+    nodes
+        .map(o => {
+            if (!clickedNodes.has(o.id) && isConnected(o.id, d.id)) {
+                clickedNodes.add(o.id);
             }
-            return 0.1
         })
-
+    links
+        .map(o => {
+            if (!clickedLinks.has(o) && (o.source === d || o.target === d)) {
+                clickedLinks.add(o);
+            }
+        })
+    node
+        .transition(500)
+        .style('opacity', o => (clickedNodes.has(o.id)) ? 1.0 : 0.1);
     link
         .transition(500)
-        .style('stroke-opacity', o => (o.source === d || o.target === d ? 1 : 0.1))
-        .transition(500)
-        .attr('marker-end', o => (o.source === d || o.target === d ? 'url(#arrowhead)' : 'url()'));
+        .style('stroke-opacity', o => (clickedLinks.has(o)) ? 1.0 : 0.1);
 };
 
 node.on('mouseover', mouseOverFunction)
@@ -252,13 +296,58 @@ node.on('mouseover', mouseOverFunction)
     .on('click', mouseClickFunction)
     .on('mousemove', (e) => tooltip.style("top", (e.pageY-10)+"px").style("left",(e.pageX+10)+"px"));
 
+recipe_legend_wrapper.on('click', function (e, i) {
+    clickedNodes = r2i_dict[i]['node'];
+    clickedLinks = r2i_dict[i]['link'];
+    e.stopPropagation();
+    ifClicked = true;
+    node
+        .transition(500)
+        .style('opacity', o => clickedNodes.has(o.id) ? 1.0 : 0.1);
+    link
+        .transition(500)
+        .style('stroke-opacity', o => clickedLinks.has(o) ? 1.0 : 0.1);
+});
+
+ingredient_legend_wrapper.on('click', function (e, i) {
+    clickedNodes = i2r_dict[i]['node'];
+    clickedLinks = i2r_dict[i]['link'];
+    e.stopPropagation();
+    ifClicked = true;
+    node
+        .transition(500)
+        .style('opacity', o => clickedNodes.has(o.id) ? 1.0 : 0.1);
+    link
+        .transition(500)
+        .style('stroke-opacity', o => clickedLinks.has(o) ? 1.0 : 0.1);
+});
+
 svg.on('click', () => {
     ifClicked = false;
+    clickedNodes = new Set();
+    clickedLinks = new Set();
     node
         .transition(500)
         .style('opacity', 1);
-
     link
         .transition(500)
         .style("stroke-opacity", 0.5)
 });
+
+svg.append("text")
+    .attr("x", "50%")
+    .attr("y", "3%")
+    .attr("text-anchor", "middle")
+    .attr("font-size", 25)
+    .text("How do ingredients and recipes connect and provide the Japanese flavor?")
+    .style("font-family", "Roboto Mono")
+    .style("font-weight", "bold");
+
+svg.append("text")
+    .attr("x", "50%")
+    .attr("y", "6%")
+    .attr("text-anchor", "middle")
+    .attr("font-size", 16)
+    .text("A Network Visualization of Japanese Cuisines")
+    .style("font-family", "Roboto Mono")
+    .style("font-weight", "medium");

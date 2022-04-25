@@ -81,6 +81,11 @@ for name, freq in ing_counter.items():
                         'category': i_category,
                         'freq': freq})
 
+final_recipe_set = {r['id'] for r in recipes}
+final_ing_set = {i['id'] for i in ingredients}
+
+links = [li for li in links if li['source'] in final_ing_set and li['target'] in final_recipe_set]
+
 # save arrays
 with open('recipe_nodes.json', 'w') as f:
     json.dump(recipes, f, indent=4)

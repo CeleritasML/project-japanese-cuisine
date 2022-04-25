@@ -38,8 +38,8 @@ world$total <- joined_df$total
 
 m <- leaflet(world,
              options = leafletOptions(zoomControl = FALSE,
-                                      minZoom = 1.5,
-                                      maxZoom = 1.5)) |>
+                                      minZoom = 2.0,
+                                      maxZoom = 2.0)) |>
   setView(lng = 0, lat = 0, zoom = 1.5) |>
   setMaxBounds(lng1 = -180, lat1 = -90,
                lng2 = 180, lat2 = 90) |>

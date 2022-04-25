@@ -8,7 +8,7 @@ df <- read_csv("nutrition.csv")
 links <- read_csv("links.csv")
 data_to_json <- function(data) {
   jsonlite::toJSON(data, dataframe = "rows", auto_unbox = FALSE, rownames = FALSE)
-} 
+}
 
 data <- list("nodes" = df, "links" = links)
 

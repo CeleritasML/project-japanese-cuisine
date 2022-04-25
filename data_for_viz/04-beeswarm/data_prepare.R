@@ -4,11 +4,11 @@ library(tidyverse)
 ## This ensures the working directory to change to where the code file is.
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
-folders <- list.files(path = "../../data", full.names = F)
+folders <- c("appetizer","beverage","breakfast","dessert","salad","side","soup-stew","entree")
 df <- data.frame(matrix(ncol = 7, nrow = 0))
-x <- c("id","name", "type", "nutrition", "value", "unit")
+x <- c("id", "name", "type", "nutrition", "value", "unit", "url")
 colnames(df) <- x
-links <- data.frame(matrix(ncol = 4, nrow = 0))
+links <- data.frame(matrix(ncol = 3, nrow = 0))
 y <- c("source","target","value")
 colnames(links) <- y
 interested_nutritions <- c("Calories","Protein","Sodium", "Potassium","Calcium")
@@ -23,6 +23,7 @@ for (folder in folders) {
     nutrition <- NULL
     nutrition_value <- NULL
     nutrition_unit <- NULL
+    dish_website <- NULL
     link_source <- NULL
     link_target <- NULL
     link_value <- NULL
@@ -41,6 +42,7 @@ for (folder in folders) {
             nutrition <- append(nutrition, json_data$nutrition[[i]][[1]])
             nutrition_value <- append(nutrition_value, json_data$nutrition[[i]][[2]])
             nutrition_unit <- append(nutrition_unit, json_data$nutrition[[i]][[3]])
+            dish_website <- append(dish_website, json_data[[3]])
             if(nutrition_index<5){
               link_source <- append(link_source, 5*recipes_available+nutrition_index)
               link_target <- append(link_target, 5*recipes_available+nutrition_index+1)
@@ -49,7 +51,7 @@ for (folder in folders) {
             nutrition_index <- nutrition_index + 1
           }
         }
-        dish_df <- data.frame(id = id, name = dish_name, type = dish_type, nutrition = nutrition, value = nutrition_value, unit = nutrition_unit)
+        dish_df <- data.frame(id = id, name = dish_name, type = dish_type, nutrition = nutrition, value = nutrition_value, unit = nutrition_unit, url=dish_website)
         dish_df$value <- as.numeric(dish_df$value)
         df <- rbind(df, dish_df)
         dish_links <- data.frame(source = link_source, target = link_target, value = link_value)
@@ -67,7 +69,7 @@ links <- links[!links$source %in% outlier_ids,]
 
 recommended <- c(400, 10, 400, 700, 200)
 
-df_final <- data.frame(matrix(ncol = 7, nrow = 0))
+df_final <- data.frame(matrix(ncol = 8, nrow = 0))
 colnames(df_final) <- x
 for (i in 1:5) {
   df_inter <- df_cleaned[df_cleaned$nutrition == interested_nutritions[i],]

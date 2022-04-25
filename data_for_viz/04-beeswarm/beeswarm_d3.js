@@ -1,18 +1,19 @@
-// Set background color to almond
+// Set background color
 svg.attr("height", height)
   .attr("width", width)
-  .style("background","#efdecd");
+  .style("background","#fefefe");
 d3.select("body")
-  .style("background","#DEB887");
+  .style("background","#fefefe");
   
 // Sub-tooltip on mouseover displaying dish names
 const div = d3.select('body')
   .append('div')
   .attr('class', 'tooltip')
   .attr('style', 'position: absolute; opacity: 0;')
+  .style("font-family", "Roboto Mono")
   .style("height", 28 + "px")
   .style("padding", 2 + "px")
-  .style("background", "#FF8C00")
+  .style("background", "#dddddd")
   .style("border", 0 + "px")
   .style("border-radius", 8 + "px");
 
@@ -21,11 +22,10 @@ const info = d3.select('body')
   .append('div')
   .attr('class', 'tooltip')
   .attr('style', 'position: absolute; opacity: 0;')
-  .style("left", 50 + "px")
-  .style("margin", 0 + "auto")
   .style("top", 70 + "%")
-  .style("padding", 2 + "px")
-  .style("background", "#DEB887")
+  .style("margin", 20 + "px")
+  .style("padding", 20 + "px")
+  .style("background", "#dddddd")
   .style("border", 0 + "px")
   .style("border-radius", 8 + "px");
   
@@ -35,6 +35,8 @@ const webpage = svg.append("image")
   .attr("xlink:href", null)
   .attr("x", 0)
   .attr("y", 0)
+  .style("margin", 20 + "px")
+  .style("padding", 20 + "px")
   .attr("width", 200)
   .attr("height", 200);
   
@@ -58,8 +60,10 @@ const xAxis = d3
       .range([1/8 * width+60, 7/8 * width+60]);
       
 svg.append("g")
-  .style("font-size", "20px")
-  .call(d3.axisBottom(xAxis))
+  .style("font-size", "15px")
+  .style("font-family", "Roboto Mono")
+  .call(d3.axisBottom(xAxis).tickSize(0))
+  .select(".domain").remove();
 
 const xType = d3
       .scalePoint()
@@ -74,7 +78,9 @@ const yScale = d3
       .range([7/8 * height-60, 1/8 * height+60]);
 
 // Color nodes by their dish types (appetizer, dessert, etc.)      
-const color = d3.scaleOrdinal().domain(dishtype).range(d3.schemePaired);
+// const color = d3.scaleOrdinal().domain(dishtype).range(d3.schemePaired);
+
+const color = d3.scaleOrdinal().domain(dishtype).range(["#f94144", "#f3722c", "#f8961e", "#f9c74f", "#43aa8b", "#4d908e", "#577590", "#90be6d"]);
 
 // Control node size by their values
 const valueDomain = d3.extent(nodes.map((d) => +d.value));
@@ -145,7 +151,8 @@ const node = svg.append("g")
         + "<br/>"  + "Sodium: " + data.nodes[dish+2].value + data.nodes[dish+2].unit
         + "<br/>"  + "Potassium: " + data.nodes[dish+3].value + data.nodes[dish+3].unit
         + "<br/>"  + "Calcium: " + data.nodes[dish+4].value + data.nodes[dish+4].unit
-        + "<br/>"  + "(Per serving)");
+        + "<br/>"  + "(Per serving)")
+        .style("font-family", "Roboto Mono");
       webpage.attr("xlink:href", d.url)
       webpage.style('opacity', 1);
     });
@@ -161,34 +168,44 @@ const simulation = d3.forceSimulation()
 // Add annotations about the recommended level of nutrients
 svg.append("text")
     .attr("x", 10)
-    .attr("y", 7 * height / 20 - 20)
-    .text("Recommeneded level");
-svg.append("text")
-    .attr("x", 10)
-    .attr("y", 7 * height / 20)
-    .text("for an average dish");
-
-const point = svg.append('image')
-    .attr('xlink:href', 'https://ykdatalab.georgetown.domains/image/finger.jpg')
-    .attr('width', 120)
-    .attr('height', 73)
-    .attr("x", 10)
     .attr("y", 7 * height / 20 + 12)
+    .text("Recommeneded level -----→")
+    .style("font-family", "Roboto Mono")
+    .style("font-weight", "bold")
+    .style("font-size", "12px");
+
+//const point = svg.append('image')
+//    .attr('xlink:href', 'https://ykdatalab.georgetown.domains/image/finger.jpg')
+//    .attr('width', 120)
+//    .attr('height', 73)
+//    .attr("x", 10)
+//    .attr("y", 7 * height / 20 + 12)
 
 svg.append("text")
     .attr("x", "50%")
     .attr("y", "90%")
     .attr("text-anchor", "middle")
     .attr("font-size", 25)
-    .text("Nutrition Beeswarm Plot (Hover/click over nodes to view recipe information)");
+    .text("Common Nutrients in Japanese Dishes")
+    .style("font-family", "Roboto Mono")
+    .style("font-weight", "bold");
+    
+svg.append("text")
+    .attr("x", "50%")
+    .attr("y", "95%")
+    .attr("text-anchor", "middle")
+    .attr("font-size", 12)
+    .text("Nutritional values are normalized and a recommended level is provided.")
+    .style("font-family", "Roboto Mono")
+    .style("font-weight", "medium");
 
 // Add one dot in the legend for each type.
 svg.selectAll("mydots")
   .data(dishtype)
   .enter()
   .append("circle")
-    .attr("cx", 1700)
-    .attr("cy", (d, i) => 50 + i*20)
+    .attr("cx", width * 19 / 20 - 50)
+    .attr("cy", (d, i) => height / 10 + i * 20)
     .attr("r", 7)
     .style("fill", d => color(d))
     .style("stroke", "black")
@@ -199,14 +216,15 @@ svg.selectAll("mylabels")
   .data(dishtype)
   .enter()
   .append("text")
-    .attr("x", 1720)
-    .attr("y", (d, i) => 50 + i*20)
+    .attr("x", width * 19 / 20 - 40)
+    .attr("y", (d, i) => height / 10 + i * 20)
     .style("fill", d => color(d))
+    .style("font-family", "Roboto Mono")
     .text(d => d)
     .attr("text-anchor", "left")
     .style("alignment-baseline", "middle")
     .style("stroke", "black")
-    .style("stroke-opacity", 0.2)
+    .style("stroke-opacity", 0.2);
     
 simulation
     .nodes(nodes)

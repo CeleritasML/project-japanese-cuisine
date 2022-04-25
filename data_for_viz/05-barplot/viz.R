@@ -20,13 +20,13 @@ dat2 <- dat2 |>
 dat1$name <- reorder(dat1$name, dat1$freq)
 dat2$name <- factor(dat2$name, levels = levels(dat1$name))
 
-dat2$origin <- 'japanese exclusive'
+dat2$origin <- 'Japanese exclusive'
 
 generate_plot <- function(){
   fig1 <- dat1 |> 
     plot_ly(x = ~name, y = ~freq, type = 'bar', name = ~origin) |>
     layout() 
-    
+  
   fig2 <- dat2 |> 
     plot_ly(x = ~name, y = ~clicks, type = "box", showlegend = F) |>
     layout(title = list(text = "Weekly Click Rate Distributions over 5 Years"))
@@ -91,22 +91,9 @@ generate_plot <- function(){
                yanchor = "bottom",  
                showarrow = FALSE 
              ))
-           ) 
+    ) 
   
   saveWidget(fig, "05-barplot.html", selfcontained = T, libdir = "lib")
 }
-
-fig <- subplot(fig1, fig2, nrows = 2, shareX = TRUE) %>%
-  layout(title = list(text = "What are the most used ingredients in Japanese entree recipes?"),
-         plot_bgcolor='#e5ecf6', 
-         xaxis = list( 
-           zerolinecolor = '#ffff', 
-           zerolinewidth = 2, 
-           gridcolor = 'ffff'), 
-         yaxis = list( 
-           zerolinecolor = '#ffff', 
-           zerolinewidth = 2, 
-           gridcolor = 'ffff')) 
-fig
 
 generate_plot()

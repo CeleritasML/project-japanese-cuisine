@@ -8,14 +8,13 @@ svg
     .attr("height", height)
     .attr("width", width);
 
-// todo
-const ddata = {}
-data.foreach(d => {
-  ddata[d["type"]] = d;
-})
-console.log(JSON.stringify(data));
+const
+const radar_data = {}
+for (let key in data) {
+    radar_data[key] = Object.create(data[key]);
+}
 
-data.map(d => console.log(JSON.stringify(d)));
+console.log(JSON.stringify(radar_data))
 
 const color = {
     "appetizer": {"index": 1, "color": "#fbf8cc"},

@@ -1,0 +1,497 @@
+[
+    {
+        "key": "vegetable",
+        "values": [
+            {
+                "ingredient": "appetizer",
+                "catagory": "vegetable",
+                "value": 0.125
+            },
+            {
+                "ingredient": "beverage",
+                "catagory": "vegetable",
+                "value": 0.005208333333333333
+            },
+            {
+                "ingredient": "breakfast",
+                "catagory": "vegetable",
+                "value": 0.052083333333333336
+            },
+            {
+                "ingredient": "dessert",
+                "catagory": "vegetable",
+                "value": 0.010416666666666666
+            },
+            {
+                "ingredient": "entree",
+                "catagory": "vegetable",
+                "value": 0.2864583333333333
+            },
+            {
+                "ingredient": "salad",
+                "catagory": "vegetable",
+                "value": 0.14583333333333334
+            },
+            {
+                "ingredient": "side",
+                "catagory": "vegetable",
+                "value": 0.19270833333333334
+            },
+            {
+                "ingredient": "soup_stew",
+                "catagory": "vegetable",
+                "value": 0.18229166666666666
+            }
+        ]
+    },
+    {
+        "key": "protein",
+        "values": [
+            {
+                "ingredient": "appetizer",
+                "catagory": "protein",
+                "value": 0.1643835616438356
+            },
+            {
+                "ingredient": "beverage",
+                "catagory": "protein",
+                "value": 0.00684931506849315
+            },
+            {
+                "ingredient": "breakfast",
+                "catagory": "protein",
+                "value": 0.0547945205479452
+            },
+            {
+                "ingredient": "dessert",
+                "catagory": "protein",
+                "value": 0.04794520547945205
+            },
+            {
+                "ingredient": "entree",
+                "catagory": "protein",
+                "value": 0.3835616438356164
+            },
+            {
+                "ingredient": "salad",
+                "catagory": "protein",
+                "value": 0.08904109589041095
+            },
+            {
+                "ingredient": "side",
+                "catagory": "protein",
+                "value": 0.10273972602739725
+            },
+            {
+                "ingredient": "soup_stew",
+                "catagory": "protein",
+                "value": 0.1506849315068493
+            }
+        ]
+    },
+    {
+        "key": "condiment (liquid)",
+        "values": [
+            {
+                "ingredient": "appetizer",
+                "catagory": "condiment (liquid)",
+                "value": 0.14
+            },
+            {
+                "ingredient": "beverage",
+                "catagory": "condiment (liquid)",
+                "value": 0.05333333333333334
+            },
+            {
+                "ingredient": "breakfast",
+                "catagory": "condiment (liquid)",
+                "value": 0.08666666666666667
+            },
+            {
+                "ingredient": "dessert",
+                "catagory": "condiment (liquid)",
+                "value": 0.12666666666666668
+            },
+            {
+                "ingredient": "entree",
+                "catagory": "condiment (liquid)",
+                "value": 0.26
+            },
+            {
+                "ingredient": "salad",
+                "catagory": "condiment (liquid)",
+                "value": 0.1
+            },
+            {
+                "ingredient": "side",
+                "catagory": "condiment (liquid)",
+                "value": 0.1
+            },
+            {
+                "ingredient": "soup_stew",
+                "catagory": "condiment (liquid)",
+                "value": 0.13333333333333333
+            }
+        ]
+    },
+    {
+        "key": "condiment (powder)",
+        "values": [
+            {
+                "ingredient": "appetizer",
+                "catagory": "condiment (powder)",
+                "value": 0.12142857142857143
+            },
+            {
+                "ingredient": "beverage",
+                "catagory": "condiment (powder)",
+                "value": 0.02857142857142857
+            },
+            {
+                "ingredient": "breakfast",
+                "catagory": "condiment (powder)",
+                "value": 0.1
+            },
+            {
+                "ingredient": "dessert",
+                "catagory": "condiment (powder)",
+                "value": 0.15
+            },
+            {
+                "ingredient": "entree",
+                "catagory": "condiment (powder)",
+                "value": 0.25
+            },
+            {
+                "ingredient": "salad",
+                "catagory": "condiment (powder)",
+                "value": 0.08571428571428572
+            },
+            {
+                "ingredient": "side",
+                "catagory": "condiment (powder)",
+                "value": 0.15
+            },
+            {
+                "ingredient": "soup_stew",
+                "catagory": "condiment (powder)",
+                "value": 0.11428571428571428
+            }
+        ]
+    },
+    {
+        "key": "condiment (bulk)",
+        "values": [
+            {
+                "ingredient": "appetizer",
+                "catagory": "condiment (bulk)",
+                "value": 0.13793103448275862
+            },
+            {
+                "ingredient": "beverage",
+                "catagory": "condiment (bulk)",
+                "value": 0.05747126436781609
+            },
+            {
+                "ingredient": "breakfast",
+                "catagory": "condiment (bulk)",
+                "value": 0.034482758620689655
+            },
+            {
+                "ingredient": "dessert",
+                "catagory": "condiment (bulk)",
+                "value": 0.06896551724137931
+            },
+            {
+                "ingredient": "entree",
+                "catagory": "condiment (bulk)",
+                "value": 0.3103448275862069
+            },
+            {
+                "ingredient": "salad",
+                "catagory": "condiment (bulk)",
+                "value": 0.11494252873563218
+            },
+            {
+                "ingredient": "side",
+                "catagory": "condiment (bulk)",
+                "value": 0.10344827586206896
+            },
+            {
+                "ingredient": "soup_stew",
+                "catagory": "condiment (bulk)",
+                "value": 0.1724137931034483
+            }
+        ]
+    },
+    {
+        "key": "carbohydrates",
+        "values": [
+            {
+                "ingredient": "appetizer",
+                "catagory": "carbohydrates",
+                "value": 0.08653846153846154
+            },
+            {
+                "ingredient": "beverage",
+                "catagory": "carbohydrates",
+                "value": 0.019230769230769232
+            },
+            {
+                "ingredient": "breakfast",
+                "catagory": "carbohydrates",
+                "value": 0.09615384615384616
+            },
+            {
+                "ingredient": "dessert",
+                "catagory": "carbohydrates",
+                "value": 0.14423076923076922
+            },
+            {
+                "ingredient": "entree",
+                "catagory": "carbohydrates",
+                "value": 0.27884615384615385
+            },
+            {
+                "ingredient": "salad",
+                "catagory": "carbohydrates",
+                "value": 0.0673076923076923
+            },
+            {
+                "ingredient": "side",
+                "catagory": "carbohydrates",
+                "value": 0.1346153846153846
+            },
+            {
+                "ingredient": "soup_stew",
+                "catagory": "carbohydrates",
+                "value": 0.17307692307692307
+            }
+        ]
+    },
+    {
+        "key": "processed food",
+        "values": [
+            {
+                "ingredient": "appetizer",
+                "catagory": "processed food",
+                "value": 0.15384615384615385
+            },
+            {
+                "ingredient": "beverage",
+                "catagory": "processed food",
+                "value": 0.019230769230769232
+            },
+            {
+                "ingredient": "breakfast",
+                "catagory": "processed food",
+                "value": 0.15384615384615385
+            },
+            {
+                "ingredient": "dessert",
+                "catagory": "processed food",
+                "value": 0.057692307692307696
+            },
+            {
+                "ingredient": "entree",
+                "catagory": "processed food",
+                "value": 0.28846153846153844
+            },
+            {
+                "ingredient": "salad",
+                "catagory": "processed food",
+                "value": 0.07692307692307693
+            },
+            {
+                "ingredient": "side",
+                "catagory": "processed food",
+                "value": 0.09615384615384616
+            },
+            {
+                "ingredient": "soup_stew",
+                "catagory": "processed food",
+                "value": 0.15384615384615385
+            }
+        ]
+    },
+    {
+        "key": "beverage",
+        "values": [
+            {
+                "ingredient": "appetizer",
+                "catagory": "beverage",
+                "value": 0.07894736842105263
+            },
+            {
+                "ingredient": "beverage",
+                "catagory": "beverage",
+                "value": 0.18421052631578946
+            },
+            {
+                "ingredient": "breakfast",
+                "catagory": "beverage",
+                "value": 0.09210526315789473
+            },
+            {
+                "ingredient": "dessert",
+                "catagory": "beverage",
+                "value": 0.13157894736842105
+            },
+            {
+                "ingredient": "entree",
+                "catagory": "beverage",
+                "value": 0.18421052631578946
+            },
+            {
+                "ingredient": "salad",
+                "catagory": "beverage",
+                "value": 0.07894736842105263
+            },
+            {
+                "ingredient": "side",
+                "catagory": "beverage",
+                "value": 0.10526315789473684
+            },
+            {
+                "ingredient": "soup_stew",
+                "catagory": "beverage",
+                "value": 0.14473684210526316
+            }
+        ]
+    },
+    {
+        "key": "other",
+        "values": [
+            {
+                "ingredient": "appetizer",
+                "catagory": "other",
+                "value": 0.19230769230769232
+            },
+            {
+                "ingredient": "beverage",
+                "catagory": "other",
+                "value": 0.0
+            },
+            {
+                "ingredient": "breakfast",
+                "catagory": "other",
+                "value": 0.23076923076923078
+            },
+            {
+                "ingredient": "dessert",
+                "catagory": "other",
+                "value": 0.038461538461538464
+            },
+            {
+                "ingredient": "entree",
+                "catagory": "other",
+                "value": 0.19230769230769232
+            },
+            {
+                "ingredient": "salad",
+                "catagory": "other",
+                "value": 0.07692307692307693
+            },
+            {
+                "ingredient": "side",
+                "catagory": "other",
+                "value": 0.15384615384615385
+            },
+            {
+                "ingredient": "soup_stew",
+                "catagory": "other",
+                "value": 0.11538461538461539
+            }
+        ]
+    },
+    {
+        "key": "fruit",
+        "values": [
+            {
+                "ingredient": "appetizer",
+                "catagory": "fruit",
+                "value": 0.08695652173913043
+            },
+            {
+                "ingredient": "beverage",
+                "catagory": "fruit",
+                "value": 0.08695652173913043
+            },
+            {
+                "ingredient": "breakfast",
+                "catagory": "fruit",
+                "value": 0.13043478260869565
+            },
+            {
+                "ingredient": "dessert",
+                "catagory": "fruit",
+                "value": 0.2608695652173913
+            },
+            {
+                "ingredient": "entree",
+                "catagory": "fruit",
+                "value": 0.30434782608695654
+            },
+            {
+                "ingredient": "salad",
+                "catagory": "fruit",
+                "value": 0.08695652173913043
+            },
+            {
+                "ingredient": "side",
+                "catagory": "fruit",
+                "value": 0.043478260869565216
+            },
+            {
+                "ingredient": "soup_stew",
+                "catagory": "fruit",
+                "value": 0.0
+            }
+        ]
+    },
+    {
+        "key": "mushroom/fungus",
+        "values": [
+            {
+                "ingredient": "appetizer",
+                "catagory": "mushroom/fungus",
+                "value": 0.06451612903225806
+            },
+            {
+                "ingredient": "beverage",
+                "catagory": "mushroom/fungus",
+                "value": 0.0
+            },
+            {
+                "ingredient": "breakfast",
+                "catagory": "mushroom/fungus",
+                "value": 0.03225806451612903
+            },
+            {
+                "ingredient": "dessert",
+                "catagory": "mushroom/fungus",
+                "value": 0.0
+            },
+            {
+                "ingredient": "entree",
+                "catagory": "mushroom/fungus",
+                "value": 0.2903225806451613
+            },
+            {
+                "ingredient": "salad",
+                "catagory": "mushroom/fungus",
+                "value": 0.12903225806451613
+            },
+            {
+                "ingredient": "side",
+                "catagory": "mushroom/fungus",
+                "value": 0.22580645161290322
+            },
+            {
+                "ingredient": "soup_stew",
+                "catagory": "mushroom/fungus",
+                "value": 0.25806451612903225
+            }
+        ]
+    }
+]

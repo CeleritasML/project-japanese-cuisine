@@ -37,9 +37,12 @@ world$total <- joined_df$total
 # plot the basis of the map with tiles
 
 m <- leaflet(world,
-             options = leafletOptions(zoomControl = FALSE),
-             minZoom = 1.0) |>
+             options = leafletOptions(zoomControl = FALSE,
+                                      minZoom = 1.5,
+                                      maxZoom = 1.5)) |>
   setView(lng = 0, lat = 0, zoom = 1.5) |>
+  setMaxBounds(lng1 = -180, lat1 = -90,
+               lng2 = 180, lat2 = 90) |>
   addProviderTiles(providers$CartoDB.Positron, options = providerTileOptions(noWrap = FALSE))
 
 # manually set the discrete palette

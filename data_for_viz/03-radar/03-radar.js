@@ -200,3 +200,21 @@ svg.
             .style("fill-opacity", 0.1);
         is_clicked = false;
     });
+
+svg.append("text")
+    .attr("x", "50%")
+    .attr("y", "5%")
+    .attr("text-anchor", "middle")
+    .attr("font-size", 25)
+    .text("Ingredient Usage in Japanese Dishes")
+    .style("font-family", "Roboto Mono")
+    .style("font-weight", "bold");
+
+svg.append("text")
+    .attr("x", "50%")
+    .attr("y", "8%")
+    .attr("text-anchor", "middle")
+    .attr("font-size", 12)
+    .text("Relative usage score of a type of dishes is the coverage rate of ingredients.")
+    .style("font-family", "Roboto Mono")
+    .style("font-weight", "medium");

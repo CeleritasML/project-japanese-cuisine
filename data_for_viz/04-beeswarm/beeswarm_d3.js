@@ -87,7 +87,9 @@ const link = svg.append("g")
     .style("stroke", "grey")
     .style('stroke-width', 0.1)
     .style("stroke-opacity", 0.5);
-    
+
+let is_clicked = false;
+
 // Draw nodes with mouseover and click tooltips
 const node = svg.append("g")
     .selectAll(".circ")
@@ -98,41 +100,49 @@ const node = svg.append("g")
     .attr("fill", (d) => color(d.type))
     .attr("r", (d) => size(d.value))
     .on("mouseout", function(event,d) {
-      node.style("stroke", o => (status[o.id] !== 1) ? "none" : "black");
       div.transition().duration(200)
         .style('opacity', 0);
+      if (is_clicked) return;
+      node.transition().duration(200)
+        .style("stroke", o => (status[o.id] !== 1) ? "none" : "black");
       link
+        .transition().duration(200)
         .style("stroke-width", o => (status[data.links[o.index].source] !== 1) ? 0.1 : 2)
         .style("stroke-opacity", o => (status[data.links[o.index].source] !== 1) ? 0.5 : 1);
     })
     .on("mouseover", function(event,d) {
-      node.style("stroke", o => (status[o.id] === 1) ? "black" : ((d.name === o.name) ? "gray" : "none"))
-        .style("stroke-width", o => (status[o.id] === 1) ? 2 : ((d.name === o.name) ? 1.5 : 0));
-      link
-        .style("stroke-width", o => (status[data.links[o.index].source] === 1) ? 2 : ((d.name == o.value) ? 1.5 : 0.1))
-        .style("stroke-opacity", o => (status[data.links[o.index].source] === 1) ? 1 : ((d.name == o.value) ? 1 : 0));
-      div.transition().duration(200)
-        .style('opacity', 1);
+      div.style('opacity', 1);
       div.html(d.name)
         .style('left', event.pageX+10 + 'px')
         .style('top', event.pageY-15 + 'px');
-      
+      if (is_clicked) return;
+      node
+        .transition().duration(200)
+        .style("stroke", o => (status[o.id] === 1) ? "black" : ((d.name === o.name) ? "gray" : "none"))
+        .style("stroke-width", o => (status[o.id] === 1) ? 2 : ((d.name === o.name) ? 1.5 : 0));
+      link
+        .transition().duration(200)
+        .style("stroke-width", o => (status[data.links[o.index].source] === 1) ? 2 : ((d.name == o.value) ? 1.5 : 0.1))
+        .style("stroke-opacity", o => (status[data.links[o.index].source] === 1) ? 1 : ((d.name == o.value) ? 1 : 0));
     })
     .on("click", function(event,d) {
+      event.stopPropagation();
       status.fill(0);
-      info.style("opacity", 0);
-      node.style("stroke", "none");
-      link.style('stroke-width', 0.1)
+      node.each(o => {
+        if(d.name == node.name) status[node.id] = 1;
+      });
+      info.transition().duration(200)
+        .style("opacity", 0);
+      node.transition().duration(200)
+        .style("stroke", "none");
+      link.transition().duration(200)
+        .style('stroke-width', 0.1)
         .style("stroke-opacity", 0.5);
-      node.style("stroke", o => function(node) {
-        if(d.name == node.name) {
-          status[node.id] = 1;
-          return "black"
-        } else {
-          return "none"
-        }})
+      node.transition().duration(200)
+        .style("stroke", o => (d.name === o.name) ? "black" : "none")
         .style("stroke-width", o => (d.name === o.name) ? 2 : 0);
-      link.style("stroke-width", o => (d.name === o.value) ? 2 : 0.1)
+      link.transition().duration(200)
+        .style("stroke-width", o => (d.name === o.value) ? 2 : 0.1)
         .style("stroke-opacity", o => (d.name === o.value) ? 1 : 0.5);
       info.transition().duration(200)
         .style('opacity', 1);
@@ -147,7 +157,20 @@ const node = svg.append("g")
         .style("font-family", "Roboto Mono");
       webpage.attr("xlink:href", d.url)
       webpage.style('opacity', 1);
+      is_clicked = true;
     });
+
+svg.on("click", d => {
+      is_clicked = false;
+      status.fill(0);
+      info.transition().duration(200)
+                  .style("opacity", 0);
+      node.transition().duration(200)
+                  .style("stroke", "none");
+      link.transition().duration(200)
+                  .style('stroke-width', 0.1)
+        .style("stroke-opacity", 0.5);
+});
 
 // Apply force to make a beeswarm network
 const simulation = d3.forceSimulation()

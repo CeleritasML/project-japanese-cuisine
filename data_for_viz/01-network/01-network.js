@@ -13,6 +13,10 @@ data.ingredients.forEach(d => {
     nodesById[d.id] = {...d};
 })
 
+
+const all_recipe_category = ["appetizer", "beverage", "breakfast", "dessert", "entree", "salad", "side", "soup-stew"];
+const all_ingredient_category = ["condiment (powder)", "condiment (bulk)", "condiment (liquid)", "protein", "vegetable",
+                            "fruit", "mushroom/fungus", "carbonhydrates", "processed food", "beverage", "other"];
 const recipeDict = {
     "appetizer": {"index": 1, "color": "#f94144"},
     "beverage": {"index": 2, "color": "#f3722c"},
@@ -73,16 +77,33 @@ svg
 
 // create link reference
 let linkedByIndex = {};
-data.links.forEach(d => {
+let r2i_dict = {}
+all_recipe_category.forEach(c => r2i_dict[c] = {'node': [], 'link': []});
+let i2r_dict = {}
+all_ingredient_category.forEach(c => i2r_dict[c] = {'node': [], 'link': []});
+links.forEach(d => {
     linkedByIndex[`${d.source},${d.target}`] = true;
+    i2r_dict[nodesById[d.source].category]['node'].push(nodesById[d.source].id);
+    i2r_dict[nodesById[d.source].category]['node'].push(nodesById[d.target].id);
+    i2r_dict[nodesById[d.source].category]['link'].push(d);
+    linkedByIndex[`${d.target},${d.source}`] = true;
+    r2i_dict[nodesById[d.target].category]['node'].push(nodesById[d.target].id);
+    r2i_dict[nodesById[d.target].category]['node'].push(nodesById[d.source].id);
+    r2i_dict[nodesById[d.target].category]['link'].push(d);
+});
+all_recipe_category.forEach(c => {
+    r2i_dict[c]['node'] = new Set(r2i_dict[c]['node']);
+    r2i_dict[c]['link'] = new Set(r2i_dict[c]['link']);
+});
+all_ingredient_category.forEach(c => {
+    i2r_dict[c]['node'] = new Set(i2r_dict[c]['node']);
+    i2r_dict[c]['link'] = new Set(i2r_dict[c]['link']);
 });
 
-const isConnectedAsSource = (a, b) => linkedByIndex[`${a},${b}`];
-const isConnectedAsTarget = (a, b) => linkedByIndex[`${b},${a}`];
-const isConnected = (a, b) => isConnectedAsTarget(a, b) || isConnectedAsSource(a, b) || a === b;
+const isConnected = (a, b) => linkedByIndex[`${a},${b}`] || a === b;
 const isEqual = (a, b) => a === b;
 const nodeRadius = (d => (d.type === "recipe") ? 0.5 * d.freq : 2 * Math.log(d.freq));
-const nodeColor = (d => (d.type === "recipe") ? recipeColor(d.category) : ingredientColor(d.category);
+const nodeColor = (d => (d.type === "recipe") ? recipeColor(d.category) : ingredientColor(d.category));
 
 const baseGroup = svg.append("g");
 
@@ -143,69 +164,68 @@ const tooltip = d3.select("body").append("div")
     .style("visibility", "hidden")
     .text("I'm a circle!");
 
-const recipeLegendArea = baseGroup
-    .append("g")
+const recipe_legend_area = svg.append("g");
+const ingredient_legend_area = svg.append("g");
 
-recipeLegendArea
+recipe_legend_area
     .append("text")
     .attr("x", width / 20)
     .attr("y", height / 10 - 20)
     .attr("fill", "#090909")
     .text("Legend of Recipes")
 
-const ingredientLegendArea = baseGroup
-    .append("g")
-
-ingredientLegendArea
+ingredient_legend_area
     .append("text")
     .attr("x", width - width / 10)
     .attr("y", height / 10 - 20)
     .attr("fill", "#090909")
     .text("Legend of Ingredients")
 
-const recipeLegendCircle = recipeLegendArea
-    .selectAll("legend-recipe-circle")
-    .data(["appetizer", "beverage", "breakfast", "dessert", "entree", "salad", "side", "soup-stew"])
+const recipe_legend_wrapper = recipe_legend_area
+    .selectAll(".recipe-legend-wrapper")
+    .data(all_recipe_category)
     .enter()
-        .append("circle")
-        .attr("r", 8)
-        .attr("fill", d => recipeColor(d))
-        .attr("cx", width / 20)
-        .attr("cy", (d, i) => height / 10 + i * 20);
+        .append("g")
+        .attr("class", "recipe-legend-wrapper");
 
-const recipeLegendText = recipeLegendArea
-    .selectAll("legend-recipe")
-    .data(["appetizer", "beverage", "breakfast", "dessert", "entree", "salad", "side", "soup-stew"])
+const ingredient_legend_wrapper = ingredient_legend_area
+    .selectAll(".ingredient-legend-wrapper")
+    .data(all_ingredient_category)
     .enter()
-        .append("text")
-        .text(d => d)
-        .attr("fill", d => recipeColor(d))
-        .attr("x", width / 20 + 20)
-        .attr("y", (d, i) => height / 10 + i * 20)
-        .attr("text-anchor", "left")
-        .style("alignment-baseline", "middle");
+        .append("g")
+        .attr("class", "ingredient-legend-wrapper");
 
-const ingredientLegendCircle = ingredientLegendArea
-    .selectAll("legend-ingredient-circle")
-    .data(["condiment (powder)", "condiment (bulk)", "condiment (liquid)", "protein", "vegetable", "fruit", "mushroom/fungus", "carbonhydrates", "processed food", "beverage", "other"])
-    .enter()
-        .append("circle")
-        .attr("r", 8)
-        .attr("fill", d => ingredientColor(d))
-        .attr("cx", width - width / 10)
-        .attr("cy", (d, i) => height / 10 + i * 20);
+const recipe_legend_circle = recipe_legend_wrapper
+    .append("circle")
+    .attr("r", 8)
+    .attr("fill", d => recipeColor(d))
+    .attr("cx", width / 20)
+    .attr("cy", (d, i) => height / 10 + i * 20);
 
-const ingredientLegendText = ingredientLegendArea
-    .selectAll("legend-ingredient")
-    .data(["condiment (powder)", "condiment (bulk)", "condiment (liquid)", "protein", "vegetable", "fruit", "mushroom/fungus", "carbonhydrates", "processed food", "beverage", "other"])
-    .enter()
-        .append("text")
-        .text(d => d)
-        .attr("fill", d => ingredientColor(d))
-        .attr("x", width - width / 10 + 20)
-        .attr("y", (d, i) => height / 10 + i * 20)
-        .attr("text-anchor", "left")
-        .style("alignment-baseline", "middle");
+const recipe_legend_text = recipe_legend_wrapper
+    .append("text")
+    .text(d => d)
+    .attr("fill", d => recipeColor(d))
+    .attr("x", width / 20 + 20)
+    .attr("y", (d, i) => height / 10 + i * 20)
+    .attr("text-anchor", "left")
+    .style("alignment-baseline", "middle");
+
+const ingredient_legend_circle = ingredient_legend_wrapper
+    .append("circle")
+    .attr("r", 8)
+    .attr("fill", d => ingredientColor(d))
+    .attr("cx", width - width / 10)
+    .attr("cy", (d, i) => height / 10 + i * 20);
+
+const ingredient_legend_text = ingredient_legend_wrapper
+    .append("text")
+    .text(d => d)
+    .attr("fill", d => ingredientColor(d))
+    .attr("x", width - width / 10 + 20)
+    .attr("y", (d, i) => height / 10 + i * 20)
+    .attr("text-anchor", "left")
+    .style("alignment-baseline", "middle");
 
 const mouseOverFunction = (e, d) => {
     tooltip.style("visibility", "visible")
@@ -253,13 +273,13 @@ const mouseClickFunction = (e, d) => {
     ifClicked = true;
     nodes
         .map(o => {
-            if (isConnected(o.id, d.id)) {
+            if (!clickedNodes.has(o.id) && isConnected(o.id, d.id)) {
                 clickedNodes.add(o.id);
             }
         })
     links
         .map(o => {
-            if (o.source === d || o.target === d) {
+            if (!clickedLinks.has(o) && (o.source === d || o.target === d)) {
                 clickedLinks.add(o);
             }
         })
@@ -276,6 +296,32 @@ node.on('mouseover', mouseOverFunction)
     .on('click', mouseClickFunction)
     .on('mousemove', (e) => tooltip.style("top", (e.pageY-10)+"px").style("left",(e.pageX+10)+"px"));
 
+recipe_legend_wrapper.on('click', function (e, i) {
+    clickedNodes = r2i_dict[i]['node'];
+    clickedLinks = r2i_dict[i]['link'];
+    e.stopPropagation();
+    ifClicked = true;
+    node
+        .transition(500)
+        .style('opacity', o => clickedNodes.has(o.id) ? 1.0 : 0.1);
+    link
+        .transition(500)
+        .style('stroke-opacity', o => clickedLinks.has(o) ? 1.0 : 0.1);
+});
+
+ingredient_legend_wrapper.on('click', function (e, i) {
+    clickedNodes = i2r_dict[i]['node'];
+    clickedLinks = i2r_dict[i]['link'];
+    e.stopPropagation();
+    ifClicked = true;
+    node
+        .transition(500)
+        .style('opacity', o => clickedNodes.has(o.id) ? 1.0 : 0.1);
+    link
+        .transition(500)
+        .style('stroke-opacity', o => clickedLinks.has(o) ? 1.0 : 0.1);
+});
+
 svg.on('click', () => {
     ifClicked = false;
     clickedNodes = new Set();
@@ -287,3 +333,21 @@ svg.on('click', () => {
         .transition(500)
         .style("stroke-opacity", 0.5)
 });
+
+svg.append("text")
+    .attr("x", "50%")
+    .attr("y", "3%")
+    .attr("text-anchor", "middle")
+    .attr("font-size", 25)
+    .text("How do ingredients and recipes connect and provide the Japanese flavor?")
+    .style("font-family", "Roboto Mono")
+    .style("font-weight", "bold");
+
+svg.append("text")
+    .attr("x", "50%")
+    .attr("y", "6%")
+    .attr("text-anchor", "middle")
+    .attr("font-size", 16)
+    .text("A Network Visualization of Japanese Cuisines")
+    .style("font-family", "Roboto Mono")
+    .style("font-weight", "medium");

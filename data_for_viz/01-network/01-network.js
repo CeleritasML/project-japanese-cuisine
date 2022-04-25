@@ -107,11 +107,6 @@ const nodeColor = (d => (d.type === "recipe") ? recipeColor(d.category) : ingred
 
 const baseGroup = svg.append("g");
 
-const zoom = d3.zoom()
-    .scaleExtent([0.2, 8])
-    .on("zoom", ({transform}) => baseGroup.attr("transform", transform));
-
-svg.call(zoom);
 let ifClicked = false;
 
 const simulation = d3.forceSimulation()

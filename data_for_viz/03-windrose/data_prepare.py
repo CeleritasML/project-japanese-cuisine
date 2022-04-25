@@ -13,7 +13,7 @@ for idx, row in df.iterrows():
         + row['side'] + row['soup_stew']
     result = []
     for col in df.columns[1:]:
-        result += [{'ingredient': col, 'catagory': row['type'], 'value': row[col] / s}]
+        result += [{'ingredient': col, 'category': row['type'], 'value': row[col] / s}]
     results += [{'key': row['type'], 'values': result}]
 
 with open('radar.json', 'w') as f:

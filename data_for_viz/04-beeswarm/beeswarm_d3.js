@@ -155,7 +155,7 @@ const node = svg.append("g")
         + "<br/>"  + "Calcium: " + data.nodes[dish+4].value + data.nodes[dish+4].unit
         + "<br/>"  + "(Per serving)")
         .style("font-family", "Roboto Mono");
-      webpage.attr("xlink:href", d.url)
+      webpage.attr("xlink:href", d.url);
       webpage.style('opacity', 1);
       is_clicked = true;
     });
@@ -164,11 +164,13 @@ svg.on("click", d => {
       is_clicked = false;
       status.fill(0);
       info.transition().duration(200)
-                  .style("opacity", 0);
+        .style("opacity", 0);
+      webpage.transition().duration(200)
+        .style('opacity', 0);
       node.transition().duration(200)
-                  .style("stroke", "none");
+        .style("stroke", "none");
       link.transition().duration(200)
-                  .style('stroke-width', 0.1)
+        .style('stroke-width', 0.1)
         .style("stroke-opacity", 0.5);
 });
 

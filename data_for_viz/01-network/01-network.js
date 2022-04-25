@@ -81,21 +81,8 @@ const isConnectedAsSource = (a, b) => linkedByIndex[`${a},${b}`];
 const isConnectedAsTarget = (a, b) => linkedByIndex[`${b},${a}`];
 const isConnected = (a, b) => isConnectedAsTarget(a, b) || isConnectedAsSource(a, b) || a === b;
 const isEqual = (a, b) => a === b;
-const nodeRadius = d => {
-    if (d.type === "recipe") {
-        return 0.5 * d.freq;
-    }
-    return 2 * Math.log(d.freq);
-};
-const nodeColor = d => {
-    if (d.type === "recipe") {
-        return recipeColor(d.category);
-    }
-    if (d.type === "ingredient") {
-        return ingredientColor(d.category);
-    }
-    return "#FFFFFF";
-};
+const nodeRadius = (d => (d.type === "recipe") ? 0.5 * d.freq : 2 * Math.log(d.freq));
+const nodeColor = (d => (d.type === "recipe") ? recipeColor(d.category) : ingredientColor(d.category);
 
 const baseGroup = svg.append("g");
 
@@ -107,23 +94,10 @@ svg.call(zoom);
 let ifClicked = false;
 
 const simulation = d3.forceSimulation()
-    .force("link", d3.forceLink().id(function(d) { return d.id; }).strength(0.01))
+    .force("link", d3.forceLink().id(d => d.id).strength(0.01))
     .force("charge", d3.forceManyBody())
-    .force("x", d3.forceX(d => {
-        if (d.type === "recipe") {
-            return width / 5;
-        }
-        return width - width / 5;
-    }).strength(2))
-    .force("y", d3.forceY(d => {
-        if (d.type === "recipe") {
-            return recipeIndex(d.category) / 9 * height;
-        }
-        if (d.type === "ingredient") {
-            return ingredientIndex(d.category) / 12 * height;
-        }
-        return height / 2;
-    }).strength(1))
+    .force("x", d3.forceX(d => (d.type === "recipe") ? width / 5 : width - width / 5).strength(2))
+    .force("y", d3.forceY(d => (d.type === "recipe") ? recipeIndex(d.category) / 9 * height : ingredientIndex(d.category) / 12 * height).strength(1))
     .force("collide", d3.forceCollide().radius(d => nodeRadius(d) + 1).iterations(2))
     .alpha(0.1);
 
@@ -142,33 +116,18 @@ const node = baseGroup.append("g")
     .join("circle")
     .classed('node', true)
     .attr("r", d => nodeRadius(d))
-    .attr("fill", nodeColor)
-    .attr("x", d => {
-        if (d.type === "recipe") {
-            return width / 5;
-        }
-        return width - width / 5;
-    })
-    .attr("y", d => {
-        if (d.type === "recipe") {
-            return recipeIndex(d.category) / 9 * height;
-        }
-        if (d.type === "ingredient") {
-            return ingredientIndex(d.category) / 12 * height;
-        }
-        return height / 2;
-    });
+    .attr("fill", nodeColor);
 
 function ticked() {
     link
-        .attr("x1", function(d) { return d.source.x; })
-        .attr("y1", function(d) { return d.source.y; })
-        .attr("x2", function(d) { return d.target.x; })
-        .attr("y2", function(d) { return d.target.y; });
+        .attr("x1", d => d.source.x)
+        .attr("y1", d => d.source.y)
+        .attr("x2", d => d.target.x)
+        .attr("y2", d => d.target.y);
 
     node
-        .attr("cx", function(d) { return d.x; })
-        .attr("cy", function(d) { return d.y; });
+        .attr("cx", d => d.x)
+        .attr("cy", d => d.y);
 }
 
 simulation
@@ -265,12 +224,10 @@ const mouseOverFunction = (e, d) => {
     if (ifClicked) return;
     node
         .transition(500)
-        .style('opacity', o => {
-            return isConnected(o.id, d.id) ? 1.0 : 0.1});
+        .style('opacity', o => isConnected(o.id, d.id) ? 1.0 : 0.1);
     link
         .transition(500)
-        .style('stroke-opacity', o => {
-            return (o.source === d || o.target === d ? 1 : 0.1)})
+        .style('stroke-opacity', o => (o.source === d || o.target === d) ? 1 : 0.1);
 };
 
 const mouseOutFunction = (e, d) => {
@@ -308,12 +265,10 @@ const mouseClickFunction = (e, d) => {
         })
     node
         .transition(500)
-        .style('opacity', o => {
-            return (clickedNodes.has(o.id)) ? 1.0 : 0.1});
+        .style('opacity', o => (clickedNodes.has(o.id)) ? 1.0 : 0.1);
     link
         .transition(500)
-        .style('stroke-opacity', o => {
-            return (clickedLinks.has(o)) ? 1.0 : 0.1});
+        .style('stroke-opacity', o => (clickedLinks.has(o)) ? 1.0 : 0.1);
 };
 
 node.on('mouseover', mouseOverFunction)

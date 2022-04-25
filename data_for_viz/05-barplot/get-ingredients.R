@@ -1,65 +1,87 @@
 if (!require("pacman")) install.packages("pacman")
 pacman::p_load(tidyverse, jsonlite, here)
 
-categories <- dir("data/")
-
-# create an empty tibble
-
-ingredients <- c()
-
-# loop through all sub-directory to read json files and extract
-# required information
-
-for (i in categories) {
-  for (j in dir(paste0("data/", i))) {
-    dat <- fromJSON(paste0("data/", i, "/", j))
-    ingredients <- c(ingredients, dat$ingredients$name)
+# helper function to get list of ingredients from category
+get_ingredients <- function(category_name){
+  # initialize ingredients
+  ingredients_list <- c() 
+  
+  category_dir = dir(paste0("data/", category_name))
+  for (dish in category_dir){
+    dat <- fromJSON(paste0("data/", category_name, "/", dish))
+    name_list = dat$ingredients$name
+    
+    for (i in length(name_list)){
+      if(name_list[[i]] == "green onions/scallions"){
+        name_list[[i]] = "green onion/scallion"
+      }
+      
+      if(name_list[[i]] %in% c("uncooked Japanese short-grain rice", "cooked Japanese short-grain rice")){
+        name_list[[i]] = "Japanese short-grain rice"
+      }
+    }
+    
+    ingredients_list <- c(ingredients_list, name_list)
   }
+  
+  return(ingredients_list)
 }
 
-ing_df <- tibble(name = ingredients) |>
-  group_by(name) |>
-  summarize(freq = n()) |>
-  arrange(desc(freq)) |>
-  top_n(50)
 
-ing_df <- ing_df |>
-  mutate(origin = case_when(
-    name %in% c("dashi", "sake", "mirin",
-                "cooked Japanese short-grain rice",
-                "daikon radish", "shiso leaves",
-                "kombu", "panko", "katsuobushi",
-                "shichimi togarashi", "shiitake mushrooms",
-                "uncooked Japanese short-grain rice",
-                "Japanese mayonnaise", "matcha", "Tokyo negi",
-                "shimeji mushrooms") ~ "japanese exclusive",
-    name %in% c("roasted sesame oil", "soy sauce", "ginger",
-                "rice vinegar", "green onion/scallion",
-                "dashi", "green onions/scallions") ~ "asian",
-    TRUE ~ "common"
+# helper function to get dataframe of ingredient frequencies by category
+get_dataframe <- function(category_name){
+  
+  ingredients = get_ingredients(category_name)
+  
+  ing_df <- tibble(name = ingredients) |>
+    group_by(name) |>
+    summarize(freq = n()) |>
+    arrange(desc(freq)) |>
+    head(20)
+  
+  ing_df <- ing_df |>
+    mutate(origin = case_when(
+      name %in% c("sake", "mirin", "dashi",
+                  "daikon radish", "shiso leaves", "shichimi togarashi",
+                  "shokupan", "matcha", "cooked Japanese short-grain rice",
+                  "uncooked Japanese short-grain rice", "miso", "kombu",
+                  "katsuobushi", "Tokyo negi", "shiitake mushrooms"
+                  ) ~ "japanese exclusive", 
+      
+      
+      name %in% c("soy sauce", "green onion/scallion", "ginger",
+                  "roasted sesame oil", "toasted white sesame seeds", "rice vinegar",
+                  "red bean paste", "green onions/scallions", "dried red chili pepper",
+                  "napa cabbage"
+                  ) ~ "general asian",
+      
+      TRUE ~ "others"
   ))
+  
+  ing_df$category = category_name
+  
+  return(ing_df)
+} 
 
-ing_df |>
-  filter(origin == "japanese exclusive")
+categories <- c("appetizer",
+                "breakfast",
+                "dessert",   
+                "entree", 
+                "side", 
+                "salad",
+                "soup-stew")
 
-write_csv(ing_df, "ingredients-by-freq.csv")
+data = get_dataframe(categories[[1]])
 
-# On Google Trends, use top 4 Japanese exclusive ingredients as search terms:
+for (i in 2:6){
+  temp = get_dataframe(categories[[i]])
+  data = rbind(data, temp)
+}
 
-# - Mirin
-# - Sake (Alcoholic beverages)
-# - Daikon (Radish)
-# - Dashi (Food)
+data$name[data$name %in% c("cooked Japanese short-grain rice", "uncooked Japanese short-grain rice")] = "Japanese short-grain rice"
 
-# Filter by United States, 2004-present, Food & Drink (category), the "Interest over time" is a value relative to search interest on google. A value of 100 is the peak popularity.
+J = data |> filter(origin == 'japanese exclusive')
+unique(J$name)
 
-# What we want to show here is that although the relative popularity of Japanese ingredients are low, people start to pay more attention to the origin exclusive ingredients for more authentic foreign cusines in the States.
-
-# data is saved as google-trends-popularity.csv
-
-# todo:
-
-# 1. d3 horizontal bar plot of top 50 ingredients, use 3 colors to highlight origins
-# 2. d3 stacked bar plot to show the increase of pop in 4 selected ingredients
-
+write_csv(data, "data_for_viz/05-barplot/ingredients-by-freq.csv")
 

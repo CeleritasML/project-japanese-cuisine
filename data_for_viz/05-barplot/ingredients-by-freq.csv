@@ -1,51 +1,41 @@
 name,freq,origin
-kosher or sea salt,437,common
-sugar,400,common
-soy sauce,341,asian
-water,305,common
-sake,252,japanese exclusive
-freshly ground black pepper,228,common
-neutral-flavored oil,213,common
+kosher or sea salt,436,others
+sugar,389,others
+soy sauce,341,general asian
+water,288,others
+sake,251,japanese exclusive
+freshly ground black pepper,228,others
+neutral-flavored oil,213,others
 mirin,185,japanese exclusive
-roasted sesame oil,157,asian
-unsalted butter,140,common
-garlic,123,common
-toasted white sesame seeds,119,common
-all-purpose flour,113,common
-ginger,107,asian
-large eggs,102,common
-onion,102,common
-rice vinegar,100,asian
-carrot,89,common
-green onion/scallion,89,asian
-extra-virgin olive oil,87,common
-potato starch or cornstarch,84,common
-kosher salt,83,common
+green onion/scallion,160,general asian
+roasted sesame oil,157,general asian
+unsalted butter,140,others
+garlic,123,others
+toasted white sesame seeds,119,general asian
+Japanese short-grain rice,114,others
+all-purpose flour,113,others
+ginger,106,general asian
+large eggs,102,others
+onion,102,others
+rice vinegar,100,general asian
+carrot,88,others
+extra-virgin olive oil,87,others
+kosher salt,83,others
+potato starch or cornstarch,83,others
 dashi,80,japanese exclusive
-large egg,78,common
-cooked Japanese short-grain rice,77,japanese exclusive
-miso,75,common
-green onions/scallions,71,asian
-heavy whipping cream,54,common
+large egg,78,others
+miso,75,japanese exclusive
+heavy whipping cream,54,others
 daikon radish,48,japanese exclusive
-baking powder,46,common
+baking powder,46,others
 shiso leaves,45,japanese exclusive
-whole milk,45,common
+whole milk,45,others
 kombu,43,japanese exclusive
-panko,43,japanese exclusive
+panko,43,others
 katsuobushi,41,japanese exclusive
-lemon,38,common
+lemon,38,others
 shichimi togarashi,38,japanese exclusive
 shiitake mushrooms,38,japanese exclusive
-milk,37,common
-uncooked Japanese short-grain rice,37,japanese exclusive
 Japanese mayonnaise,35,japanese exclusive
-matcha,35,japanese exclusive
-pure vanilla extract,34,common
+pure vanilla extract,34,others
 Tokyo negi,34,japanese exclusive
-honey,33,common
-white pepper powder,33,common
-Chicken Stock/Broth,31,common
-cabbage,30,common
-cake flour,30,common
-shimeji mushrooms,28,japanese exclusive

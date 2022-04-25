@@ -90,8 +90,9 @@ generate_plot <- function(){
                xanchor = "center",  
                yanchor = "bottom",  
                showarrow = FALSE 
-             ))
-    ) 
+             )) # end of subplot titles
+           
+    ) # end of `layout` configurations 
   
   saveWidget(fig, "05-barplot.html", selfcontained = T, libdir = "lib")
 }

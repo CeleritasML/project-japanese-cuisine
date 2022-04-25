@@ -4,19 +4,21 @@ import pandas as pd
 
 df = pd.read_csv("windrose.csv")
 
-results = []
+temp_res = {k: [] for k in df.columns[1:]}
 
 for idx, row in df.iterrows():
     if row['type'] == 'condiments(exclusive)':
         continue
     s = row['appetizer'] + row['beverage'] + row['breakfast'] + row['dessert'] + row['entree'] + row['salad'] \
         + row['side'] + row['soup_stew']
-    result = []
     for col in df.columns[1:]:
-        result += [{'ingredient': col, 'category': row['type'], 'value': row[col] / s}]
-    results += [{'key': row['type'], 'values': result}]
+        temp_res[col] += [{'ingredient': row['type'], 'category': col, 'value': row[col] / s}]
+
+results = []
+for k, v in temp_res.items():
+    results += [{'key': k, 'values': v}]
 
 with open('radar.json', 'w') as f:
-    json.dump(results, f, indent=4)
+    json.dump({'radar': results}, f, indent=4)
 
 #%%

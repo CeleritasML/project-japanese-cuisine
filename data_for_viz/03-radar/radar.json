@@ -1,0 +1,484 @@
+{
+    "radar": [
+        {
+            "key": "appetizer",
+            "values": [
+                {
+                    "ingredient": "vegetable",
+                    "category": "appetizer",
+                    "value": 0.125
+                },
+                {
+                    "ingredient": "protein",
+                    "category": "appetizer",
+                    "value": 0.1643835616438356
+                },
+                {
+                    "ingredient": "condiment (liquid)",
+                    "category": "appetizer",
+                    "value": 0.14
+                },
+                {
+                    "ingredient": "condiment (powder)",
+                    "category": "appetizer",
+                    "value": 0.12142857142857143
+                },
+                {
+                    "ingredient": "condiment (bulk)",
+                    "category": "appetizer",
+                    "value": 0.13793103448275862
+                },
+                {
+                    "ingredient": "carbohydrates",
+                    "category": "appetizer",
+                    "value": 0.08653846153846154
+                },
+                {
+                    "ingredient": "processed food",
+                    "category": "appetizer",
+                    "value": 0.15384615384615385
+                },
+                {
+                    "ingredient": "beverage",
+                    "category": "appetizer",
+                    "value": 0.07894736842105263
+                },
+                {
+                    "ingredient": "other",
+                    "category": "appetizer",
+                    "value": 0.19230769230769232
+                },
+                {
+                    "ingredient": "fruit",
+                    "category": "appetizer",
+                    "value": 0.08695652173913043
+                },
+                {
+                    "ingredient": "mushroom/fungus",
+                    "category": "appetizer",
+                    "value": 0.06451612903225806
+                }
+            ]
+        },
+        {
+            "key": "beverage",
+            "values": [
+                {
+                    "ingredient": "vegetable",
+                    "category": "beverage",
+                    "value": 0.005208333333333333
+                },
+                {
+                    "ingredient": "protein",
+                    "category": "beverage",
+                    "value": 0.00684931506849315
+                },
+                {
+                    "ingredient": "condiment (liquid)",
+                    "category": "beverage",
+                    "value": 0.05333333333333334
+                },
+                {
+                    "ingredient": "condiment (powder)",
+                    "category": "beverage",
+                    "value": 0.02857142857142857
+                },
+                {
+                    "ingredient": "condiment (bulk)",
+                    "category": "beverage",
+                    "value": 0.05747126436781609
+                },
+                {
+                    "ingredient": "carbohydrates",
+                    "category": "beverage",
+                    "value": 0.019230769230769232
+                },
+                {
+                    "ingredient": "processed food",
+                    "category": "beverage",
+                    "value": 0.019230769230769232
+                },
+                {
+                    "ingredient": "beverage",
+                    "category": "beverage",
+                    "value": 0.18421052631578946
+                },
+                {
+                    "ingredient": "other",
+                    "category": "beverage",
+                    "value": 0.0
+                },
+                {
+                    "ingredient": "fruit",
+                    "category": "beverage",
+                    "value": 0.08695652173913043
+                },
+                {
+                    "ingredient": "mushroom/fungus",
+                    "category": "beverage",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "key": "breakfast",
+            "values": [
+                {
+                    "ingredient": "vegetable",
+                    "category": "breakfast",
+                    "value": 0.052083333333333336
+                },
+                {
+                    "ingredient": "protein",
+                    "category": "breakfast",
+                    "value": 0.0547945205479452
+                },
+                {
+                    "ingredient": "condiment (liquid)",
+                    "category": "breakfast",
+                    "value": 0.08666666666666667
+                },
+                {
+                    "ingredient": "condiment (powder)",
+                    "category": "breakfast",
+                    "value": 0.1
+                },
+                {
+                    "ingredient": "condiment (bulk)",
+                    "category": "breakfast",
+                    "value": 0.034482758620689655
+                },
+                {
+                    "ingredient": "carbohydrates",
+                    "category": "breakfast",
+                    "value": 0.09615384615384616
+                },
+                {
+                    "ingredient": "processed food",
+                    "category": "breakfast",
+                    "value": 0.15384615384615385
+                },
+                {
+                    "ingredient": "beverage",
+                    "category": "breakfast",
+                    "value": 0.09210526315789473
+                },
+                {
+                    "ingredient": "other",
+                    "category": "breakfast",
+                    "value": 0.23076923076923078
+                },
+                {
+                    "ingredient": "fruit",
+                    "category": "breakfast",
+                    "value": 0.13043478260869565
+                },
+                {
+                    "ingredient": "mushroom/fungus",
+                    "category": "breakfast",
+                    "value": 0.03225806451612903
+                }
+            ]
+        },
+        {
+            "key": "dessert",
+            "values": [
+                {
+                    "ingredient": "vegetable",
+                    "category": "dessert",
+                    "value": 0.010416666666666666
+                },
+                {
+                    "ingredient": "protein",
+                    "category": "dessert",
+                    "value": 0.04794520547945205
+                },
+                {
+                    "ingredient": "condiment (liquid)",
+                    "category": "dessert",
+                    "value": 0.12666666666666668
+                },
+                {
+                    "ingredient": "condiment (powder)",
+                    "category": "dessert",
+                    "value": 0.15
+                },
+                {
+                    "ingredient": "condiment (bulk)",
+                    "category": "dessert",
+                    "value": 0.06896551724137931
+                },
+                {
+                    "ingredient": "carbohydrates",
+                    "category": "dessert",
+                    "value": 0.14423076923076922
+                },
+                {
+                    "ingredient": "processed food",
+                    "category": "dessert",
+                    "value": 0.057692307692307696
+                },
+                {
+                    "ingredient": "beverage",
+                    "category": "dessert",
+                    "value": 0.13157894736842105
+                },
+                {
+                    "ingredient": "other",
+                    "category": "dessert",
+                    "value": 0.038461538461538464
+                },
+                {
+                    "ingredient": "fruit",
+                    "category": "dessert",
+                    "value": 0.2608695652173913
+                },
+                {
+                    "ingredient": "mushroom/fungus",
+                    "category": "dessert",
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "key": "entree",
+            "values": [
+                {
+                    "ingredient": "vegetable",
+                    "category": "entree",
+                    "value": 0.2864583333333333
+                },
+                {
+                    "ingredient": "protein",
+                    "category": "entree",
+                    "value": 0.3835616438356164
+                },
+                {
+                    "ingredient": "condiment (liquid)",
+                    "category": "entree",
+                    "value": 0.26
+                },
+                {
+                    "ingredient": "condiment (powder)",
+                    "category": "entree",
+                    "value": 0.25
+                },
+                {
+                    "ingredient": "condiment (bulk)",
+                    "category": "entree",
+                    "value": 0.3103448275862069
+                },
+                {
+                    "ingredient": "carbohydrates",
+                    "category": "entree",
+                    "value": 0.27884615384615385
+                },
+                {
+                    "ingredient": "processed food",
+                    "category": "entree",
+                    "value": 0.28846153846153844
+                },
+                {
+                    "ingredient": "beverage",
+                    "category": "entree",
+                    "value": 0.18421052631578946
+                },
+                {
+                    "ingredient": "other",
+                    "category": "entree",
+                    "value": 0.19230769230769232
+                },
+                {
+                    "ingredient": "fruit",
+                    "category": "entree",
+                    "value": 0.30434782608695654
+                },
+                {
+                    "ingredient": "mushroom/fungus",
+                    "category": "entree",
+                    "value": 0.2903225806451613
+                }
+            ]
+        },
+        {
+            "key": "salad",
+            "values": [
+                {
+                    "ingredient": "vegetable",
+                    "category": "salad",
+                    "value": 0.14583333333333334
+                },
+                {
+                    "ingredient": "protein",
+                    "category": "salad",
+                    "value": 0.08904109589041095
+                },
+                {
+                    "ingredient": "condiment (liquid)",
+                    "category": "salad",
+                    "value": 0.1
+                },
+                {
+                    "ingredient": "condiment (powder)",
+                    "category": "salad",
+                    "value": 0.08571428571428572
+                },
+                {
+                    "ingredient": "condiment (bulk)",
+                    "category": "salad",
+                    "value": 0.11494252873563218
+                },
+                {
+                    "ingredient": "carbohydrates",
+                    "category": "salad",
+                    "value": 0.0673076923076923
+                },
+                {
+                    "ingredient": "processed food",
+                    "category": "salad",
+                    "value": 0.07692307692307693
+                },
+                {
+                    "ingredient": "beverage",
+                    "category": "salad",
+                    "value": 0.07894736842105263
+                },
+                {
+                    "ingredient": "other",
+                    "category": "salad",
+                    "value": 0.07692307692307693
+                },
+                {
+                    "ingredient": "fruit",
+                    "category": "salad",
+                    "value": 0.08695652173913043
+                },
+                {
+                    "ingredient": "mushroom/fungus",
+                    "category": "salad",
+                    "value": 0.12903225806451613
+                }
+            ]
+        },
+        {
+            "key": "side",
+            "values": [
+                {
+                    "ingredient": "vegetable",
+                    "category": "side",
+                    "value": 0.19270833333333334
+                },
+                {
+                    "ingredient": "protein",
+                    "category": "side",
+                    "value": 0.10273972602739725
+                },
+                {
+                    "ingredient": "condiment (liquid)",
+                    "category": "side",
+                    "value": 0.1
+                },
+                {
+                    "ingredient": "condiment (powder)",
+                    "category": "side",
+                    "value": 0.15
+                },
+                {
+                    "ingredient": "condiment (bulk)",
+                    "category": "side",
+                    "value": 0.10344827586206896
+                },
+                {
+                    "ingredient": "carbohydrates",
+                    "category": "side",
+                    "value": 0.1346153846153846
+                },
+                {
+                    "ingredient": "processed food",
+                    "category": "side",
+                    "value": 0.09615384615384616
+                },
+                {
+                    "ingredient": "beverage",
+                    "category": "side",
+                    "value": 0.10526315789473684
+                },
+                {
+                    "ingredient": "other",
+                    "category": "side",
+                    "value": 0.15384615384615385
+                },
+                {
+                    "ingredient": "fruit",
+                    "category": "side",
+                    "value": 0.043478260869565216
+                },
+                {
+                    "ingredient": "mushroom/fungus",
+                    "category": "side",
+                    "value": 0.22580645161290322
+                }
+            ]
+        },
+        {
+            "key": "soup_stew",
+            "values": [
+                {
+                    "ingredient": "vegetable",
+                    "category": "soup_stew",
+                    "value": 0.18229166666666666
+                },
+                {
+                    "ingredient": "protein",
+                    "category": "soup_stew",
+                    "value": 0.1506849315068493
+                },
+                {
+                    "ingredient": "condiment (liquid)",
+                    "category": "soup_stew",
+                    "value": 0.13333333333333333
+                },
+                {
+                    "ingredient": "condiment (powder)",
+                    "category": "soup_stew",
+                    "value": 0.11428571428571428
+                },
+                {
+                    "ingredient": "condiment (bulk)",
+                    "category": "soup_stew",
+                    "value": 0.1724137931034483
+                },
+                {
+                    "ingredient": "carbohydrates",
+                    "category": "soup_stew",
+                    "value": 0.17307692307692307
+                },
+                {
+                    "ingredient": "processed food",
+                    "category": "soup_stew",
+                    "value": 0.15384615384615385
+                },
+                {
+                    "ingredient": "beverage",
+                    "category": "soup_stew",
+                    "value": 0.14473684210526316
+                },
+                {
+                    "ingredient": "other",
+                    "category": "soup_stew",
+                    "value": 0.11538461538461539
+                },
+                {
+                    "ingredient": "fruit",
+                    "category": "soup_stew",
+                    "value": 0.0
+                },
+                {
+                    "ingredient": "mushroom/fungus",
+                    "category": "soup_stew",
+                    "value": 0.25806451612903225
+                }
+            ]
+        }
+    ]
+}

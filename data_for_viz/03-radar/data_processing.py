@@ -9,6 +9,7 @@ import pandas as pd
 import json
 from os import walk
 
+
 # Create a function to read all the recipes
 def collect_ind(sub_class):
     # file names list
@@ -31,25 +32,27 @@ def collect_ind(sub_class):
 
     return ind_all
 
+
 # create the function to match the condiment class to all the ingredients
 def count_condiment(data, name):
     # data handling
     data = (
-        pd.DataFrame(data.ingredients.value_counts()) # calculate the ingredients for each class
-        .reset_index(drop=False) # keep the index as the column
-        .rename(columns={"index": "ingredients", "ingredients": name})
-        .merge(ind_class, on="ingredients", how="left") # match the ingredients class 
-        .fillna("condiments(exclusive)") # combine all the special condiments
-        .drop("ingredients", axis=1)
+        pd.DataFrame(data.ingredients.value_counts())  # calculate the ingredients for each class
+            .reset_index(drop=False)  # keep the index as the column
+            .rename(columns={"index": "ingredients", "ingredients": name})
+            .merge(ind_class, on="ingredients", how="left")  # match the ingredients class
+            .fillna("condiments(exclusive)")  # combine all the special condiments
+            .drop("ingredients", axis=1)
     )
 
     # tidy the dataset
     data = (
         pd.DataFrame(data.type.value_counts())
-        .reset_index(drop=False)
-        .rename(columns={"index": "type", "type": name})
+            .reset_index(drop=False)
+            .rename(columns={"index": "type", "type": name})
     )
     return data
+
 
 # read the ingredient class
 ind_class = pd.read_excel("503-ingredients.xlsx")

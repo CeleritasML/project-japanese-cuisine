@@ -49,38 +49,30 @@ const status = new Array(nodes.length).fill(0);
 
 // Set X axis and labels
 const sectors = Array.from(new Set(nodes.map((d) => d.nutrition)));
-const dishtype = Array.from(new Set(nodes.map((d) => d.type)));
+const dishtype = ["appetizer", "beverage", "breakfast", "dessert", "entree", "salad", "side", "soup-stew"];
 const xScale = d3
       .scalePoint()
       .domain(sectors)
       .range([1/8 * width+60, 7/8 * width+60]);
-const xAxis = d3
-      .scalePoint()
-      .domain(sectors)
-      .range([1/8 * width+60, 7/8 * width+60]);
-      
-svg.append("g")
-  .style("font-size", "15px")
-  .style("font-family", "Roboto Mono")
-  .call(d3.axisBottom(xAxis).tickSize(0))
-  .select(".domain").remove();
 
 const xType = d3
       .scalePoint()
       .domain(dishtype)
       .range([-110,110])
 
-
-// Set Y axis 
 const yScale = d3
       .scaleLinear()
       .domain([-7,3])
       .range([7/8 * height-60, 1/8 * height+60]);
 
+nodes.map(d => {
+    d.x = xScale(d.nutrition) + xType(d.type);
+    d.y = yScale(d.value_level);
+})
 // Color nodes by their dish types (appetizer, dessert, etc.)      
 // const color = d3.scaleOrdinal().domain(dishtype).range(d3.schemePaired);
 
-const color = d3.scaleOrdinal().domain(dishtype).range(["#f94144", "#f3722c", "#f8961e", "#f9c74f", "#43aa8b", "#4d908e", "#577590", "#90be6d"]);
+const color = d3.scaleOrdinal().domain(dishtype).range(["#f94144", "#f3722c", "#f8961e", "#f9c74f", "#90be6d", "#43aa8b", "#4d908e", "#577590"]);
 
 // Control node size by their values
 const valueDomain = d3.extent(nodes.map((d) => +d.value));
@@ -169,21 +161,25 @@ const simulation = d3.forceSimulation()
 svg.append("text")
     .attr("x", 10)
     .attr("y", 7 * height / 20 + 12)
-    .text("Recommeneded level -----→")
+    .text("Recommeneded level \u2192")
     .style("font-family", "Roboto Mono")
     .style("font-weight", "bold")
     .style("font-size", "12px");
 
-//const point = svg.append('image')
-//    .attr('xlink:href', 'https://ykdatalab.georgetown.domains/image/finger.jpg')
-//    .attr('width', 120)
-//    .attr('height', 73)
-//    .attr("x", 10)
-//    .attr("y", 7 * height / 20 + 12)
+svg.selectAll("xaxis")
+  .data(sectors)
+  .enter()
+  .append("text")
+    .attr("x", d => xScale(d))
+    .attr("y", "90%")
+    .style("font-size", "15px")
+    .style("font-family", "Roboto Mono")
+    .attr("text-anchor", "middle")
+    .text(d => d);
 
 svg.append("text")
     .attr("x", "50%")
-    .attr("y", "90%")
+    .attr("y", "3%")
     .attr("text-anchor", "middle")
     .attr("font-size", 25)
     .text("Common Nutrients in Japanese Dishes")
@@ -192,7 +188,7 @@ svg.append("text")
     
 svg.append("text")
     .attr("x", "50%")
-    .attr("y", "95%")
+    .attr("y", "6%")
     .attr("text-anchor", "middle")
     .attr("font-size", 12)
     .text("Nutritional values are normalized and a recommended level is provided.")

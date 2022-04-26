@@ -13,6 +13,8 @@ data.ingredients.forEach(d => {
     nodesById[d.id] = {...d};
 })
 
+const ref_width = 2480;
+const ref_height = 1200;
 
 const all_recipe_category = ["appetizer", "beverage", "breakfast", "dessert", "entree", "salad", "side", "soup-stew"];
 const all_ingredient_category = ["condiment (powder)", "condiment (bulk)", "condiment (liquid)", "protein", "vegetable",
@@ -102,7 +104,7 @@ all_ingredient_category.forEach(c => {
 
 const isConnected = (a, b) => linkedByIndex[`${a},${b}`] || a === b;
 const isEqual = (a, b) => a === b;
-const nodeRadius = (d => (d.type === "recipe") ? 0.5 * d.freq : 2 * Math.log(d.freq));
+const nodeRadius = (d => ((d.type === "recipe") ? 0.5 * d.freq : 2 * Math.log(d.freq)) * width / ref_width);
 const nodeColor = (d => (d.type === "recipe") ? recipeColor(d.category) : ingredientColor(d.category));
 
 const baseGroup = svg.append("g");
@@ -164,15 +166,17 @@ const ingredient_legend_area = svg.append("g");
 
 recipe_legend_area
     .append("text")
-    .attr("x", width / 20)
-    .attr("y", height / 10 - 20)
+    .attr("x", width * 0.05)
+    .attr("y", height / 10 - 20 * height / ref_height)
+    .attr("font-size", 22 * width / ref_width)
     .attr("fill", "#090909")
     .text("Legend of Recipes")
 
 ingredient_legend_area
     .append("text")
-    .attr("x", width - width / 10)
-    .attr("y", height / 10 - 20)
+    .attr("x", width * 0.85)
+    .attr("y", height / 10 - 20 * height / ref_height)
+    .attr("font-size", 22 * width / ref_width)
     .attr("fill", "#090909")
     .text("Legend of Ingredients")
 
@@ -192,33 +196,35 @@ const ingredient_legend_wrapper = ingredient_legend_area
 
 const recipe_legend_circle = recipe_legend_wrapper
     .append("circle")
-    .attr("r", 8)
+    .attr("r", 8 * width / ref_width)
     .attr("fill", d => recipeColor(d))
-    .attr("cx", width / 20)
-    .attr("cy", (d, i) => height / 10 + i * 20);
+    .attr("cx", width * 0.05)
+    .attr("cy", (d, i) => height / 10 + i * 20 * height / ref_height);
 
 const recipe_legend_text = recipe_legend_wrapper
     .append("text")
     .text(d => d)
     .attr("fill", d => recipeColor(d))
-    .attr("x", width / 20 + 20)
-    .attr("y", (d, i) => height / 10 + i * 20)
+    .attr("x", width * 0.05 + 20)
+    .attr("y", (d, i) => height / 10 + i * 20 * height / ref_height)
+    .attr("font-size", 18 * width / ref_width)
     .attr("text-anchor", "left")
     .style("alignment-baseline", "middle");
 
 const ingredient_legend_circle = ingredient_legend_wrapper
     .append("circle")
-    .attr("r", 8)
+    .attr("r", 8 * width / ref_width)
     .attr("fill", d => ingredientColor(d))
-    .attr("cx", width - width / 10)
-    .attr("cy", (d, i) => height / 10 + i * 20);
+    .attr("cx", width * 0.85)
+    .attr("cy", (d, i) => height / 10 + i * 20 * height / ref_height);
 
 const ingredient_legend_text = ingredient_legend_wrapper
     .append("text")
     .text(d => d)
     .attr("fill", d => ingredientColor(d))
-    .attr("x", width - width / 10 + 20)
-    .attr("y", (d, i) => height / 10 + i * 20)
+    .attr("x", width * 0.85 + 20)
+    .attr("y", (d, i) => height / 10 + i * 20 * height / ref_height)
+    .attr("font-size", 18 * width / ref_width)
     .attr("text-anchor", "left")
     .style("alignment-baseline", "middle");
 
@@ -333,7 +339,7 @@ svg.append("text")
     .attr("x", "50%")
     .attr("y", "3%")
     .attr("text-anchor", "middle")
-    .attr("font-size", 25)
+    .attr("font-size", 25 * width / ref_width)
     .text("How do ingredients and recipes connect and provide the Japanese flavor?")
     .style("font-family", "Roboto Mono")
     .style("font-weight", "bold");
@@ -342,7 +348,7 @@ svg.append("text")
     .attr("x", "50%")
     .attr("y", "6%")
     .attr("text-anchor", "middle")
-    .attr("font-size", 16)
+    .attr("font-size", 16 * width / ref_width)
     .text("A Network Visualization of Japanese Cuisines")
     .style("font-family", "Roboto Mono")
     .style("font-weight", "medium");

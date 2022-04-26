@@ -4,15 +4,20 @@ svg.attr("height", height)
   .style("background","#fefefe");
 d3.select("body")
   .style("background","#fefefe");
-  
+
+
+const ref_width = 2480;
+const ref_height = 1200;
+
 // Sub-tooltip on mouseover displaying dish names
 const div = d3.select('body')
   .append('div')
   .attr('class', 'tooltip')
   .attr('style', 'position: absolute; opacity: 0;')
   .style("font-family", "Roboto Mono")
+  .style("font-size", 20 * width / ref_width)
   .style("height", 28 + "px")
-  .style("padding", 2 + "px")
+  .style("padding", 5 + "px")
   .style("background", "#dddddd")
   .style("border", 0 + "px")
   .style("border-radius", 8 + "px");
@@ -22,11 +27,13 @@ const info = d3.select('body')
   .append('div')
   .attr('class', 'tooltip')
   .attr('style', 'position: absolute; opacity: 0;')
+  .style("font-family", "Roboto Mono")
+  .style("font-size", 20 * width / ref_width)
   .style("top", 70 + "%")
-  .style("margin", 20 + "px")
-  .style("padding", 20 + "px")
+  .style("margin", 2 + "px")
+  .style("padding", 2 + "px")
   .style("background", "#dddddd")
-  .style("border", 0 + "px")
+  .style("border", 0)
   .style("border-radius", 8 + "px");
   
 // Another tooltip at corner providing image of actual recipe
@@ -37,8 +44,8 @@ const webpage = svg.append("image")
   .attr("y", 0)
   .style("margin", 20 + "px")
   .style("padding", 20 + "px")
-  .attr("width", 200)
-  .attr("height", 200);
+  .attr("width", 200 * width / ref_width)
+  .attr("height", 200 * width / ref_width);
   
 // Read data of nodes and links from r2d3 processed dataframe
 const nodes = data.nodes.map(d => Object.create(d));
@@ -58,7 +65,7 @@ const xScale = d3
 const xType = d3
       .scalePoint()
       .domain(dishtype)
-      .range([-110,110])
+      .range([-110 * width / ref_width, 110 * width / ref_width])
 
 const yScale = d3
       .scaleLinear()
@@ -76,7 +83,7 @@ const color = d3.scaleOrdinal().domain(dishtype).range(["#f94144", "#f3722c", "#
 
 // Control node size by their values
 const valueDomain = d3.extent(nodes.map((d) => +d.value));
-const size = d3.scaleSqrt().domain(valueDomain).range([3, 8]);
+const size = d3.scaleSqrt().domain(valueDomain).range([3 * width / ref_width, 8 * width / ref_width]);
 
 // Draw edges between nodes of same dish
 const link = svg.append("g")
@@ -147,14 +154,13 @@ const node = svg.append("g")
       info.transition().duration(200)
         .style('opacity', 1);
       var dish = +d.id - (+d.id % 5)
-      info.html(d.name + "<br/>"  + "Type: " + data.nodes[dish+1].type
+      info.html("<p style='font-family: Roboto Mono; font-size: " + 18 * width / ref_width + "px'>" + d.name + "<br/>"  + "Type: " + data.nodes[dish+1].type
         + "<br/>"  + "Calories: " + data.nodes[dish].value + data.nodes[dish].unit
         + "<br/>"  + "Protein: " + data.nodes[dish+1].value + data.nodes[dish+1].unit
         + "<br/>"  + "Sodium: " + data.nodes[dish+2].value + data.nodes[dish+2].unit
         + "<br/>"  + "Potassium: " + data.nodes[dish+3].value + data.nodes[dish+3].unit
         + "<br/>"  + "Calcium: " + data.nodes[dish+4].value + data.nodes[dish+4].unit
-        + "<br/>"  + "(Per serving)")
-        .style("font-family", "Roboto Mono");
+        + "<br/>"  + "(Per serving)</p>");
       webpage.attr("xlink:href", d.url);
       webpage.style('opacity', 1);
       is_clicked = true;
@@ -189,7 +195,7 @@ svg.append("text")
     .text("Recommeneded level \u2192")
     .style("font-family", "Roboto Mono")
     .style("font-weight", "bold")
-    .style("font-size", "12px");
+    .style("font-size", 20 * width / ref_width);
 
 svg.selectAll("xaxis")
   .data(sectors)
@@ -197,7 +203,7 @@ svg.selectAll("xaxis")
   .append("text")
     .attr("x", d => xScale(d))
     .attr("y", "90%")
-    .style("font-size", "15px")
+    .style("font-size", 15 * width / ref_width)
     .style("font-family", "Roboto Mono")
     .attr("text-anchor", "middle")
     .text(d => d);
@@ -206,8 +212,8 @@ svg.append("text")
     .attr("x", "50%")
     .attr("y", "3%")
     .attr("text-anchor", "middle")
-    .attr("font-size", 25)
     .text("Common Nutrients in Japanese Dishes")
+    .style("font-size", 25 * width / ref_width)
     .style("font-family", "Roboto Mono")
     .style("font-weight", "bold");
     
@@ -215,8 +221,8 @@ svg.append("text")
     .attr("x", "50%")
     .attr("y", "6%")
     .attr("text-anchor", "middle")
-    .attr("font-size", 12)
     .text("Nutritional values are normalized and a recommended level is provided.")
+    .style("font-size", 16 * width / ref_width)
     .style("font-family", "Roboto Mono")
     .style("font-weight", "medium");
 
@@ -226,8 +232,8 @@ svg.selectAll("mydots")
   .enter()
   .append("circle")
     .attr("cx", width * 19 / 20 - 50)
-    .attr("cy", (d, i) => height / 10 + i * 20)
-    .attr("r", 7)
+    .attr("cy", (d, i) => height / 10 + i * 20 * height / ref_height)
+    .attr("r", 7 * width / ref_width)
     .style("fill", d => color(d))
     .style("stroke", "black")
     .style("stroke-opacity", 1)
@@ -238,11 +244,12 @@ svg.selectAll("mylabels")
   .enter()
   .append("text")
     .attr("x", width * 19 / 20 - 40)
-    .attr("y", (d, i) => height / 10 + i * 20)
+    .attr("y", (d, i) => height / 10 + i * 20 * height / ref_height)
+    .attr("text-anchor", "left")
+    .text(d => d)
     .style("fill", d => color(d))
     .style("font-family", "Roboto Mono")
-    .text(d => d)
-    .attr("text-anchor", "left")
+    .style("font-size", 18 * width / ref_width)
     .style("alignment-baseline", "middle")
     .style("stroke", "black")
     .style("stroke-opacity", 0.2);

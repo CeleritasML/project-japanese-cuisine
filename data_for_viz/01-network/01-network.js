@@ -13,35 +13,35 @@ data.ingredients.forEach(d => {
     nodesById[d.id] = {...d};
 })
 
-const ref_width = 2480;
+const ref_width = 1860;
 const ref_height = 1200;
 
 const all_recipe_category = ["appetizer", "beverage", "breakfast", "dessert", "entree", "salad", "side", "soup-stew"];
 const all_ingredient_category = ["condiment (powder)", "condiment (bulk)", "condiment (liquid)", "protein", "vegetable",
                             "fruit", "mushroom/fungus", "carbonhydrates", "processed food", "beverage", "other"];
 const recipeDict = {
-    "appetizer": {"index": 1, "color": "#f94144"},
-    "beverage": {"index": 1.8, "color": "#f3722c"},
-    "breakfast": {"index": 2.6, "color": "#f8961e"},
-    "dessert": {"index": 3.6, "color": "#f9c74f"},
-    "entree": {"index": 5.3, "color": "#90be6d"},
-    "salad": {"index": 7, "color": "#43aa8b"},
-    "side": {"index": 8, "color": "#4d908e"},
-    "soup-stew": {"index": 9.4, "color": "#577590"}
+    "appetizer": {"index": 2, "color": "#f94144"},
+    "beverage": {"index": 2.8, "color": "#f3722c"},
+    "breakfast": {"index": 3.6, "color": "#f8961e"},
+    "dessert": {"index": 4.6, "color": "#f9c74f"},
+    "entree": {"index": 6.3, "color": "#90be6d"},
+    "salad": {"index": 8, "color": "#43aa8b"},
+    "side": {"index": 9, "color": "#4d908e"},
+    "soup-stew": {"index": 10.4, "color": "#577590"}
 }
 
 const ingredientDict = {
-    "condiment (powder)": {"index": 1, "color": "#023047"},
-    "condiment (bulk)": {"index": 2, "color": "#264653"},
-    "condiment (liquid)": {"index": 3, "color": "#005f73"},
-    "protein": {"index": 4, "color": "#0a9396"},
-    "vegetable": {"index": 5, "color": "#94d2bd"},
-    "fruit": {"index": 6, "color": "#e9d8a6"},
-    "mushroom/fungus": {"index": 7, "color": "#ee9b00"},
-    "carbonhydrates": {"index": 8, "color": "#ca6702"},
-    "processed food": {"index": 9, "color": "#bb3e03"},
-    "beverage": {"index": 10, "color": "#ae2012"},
-    "other": {"index": 11, "color": "#9b2226"}
+    "condiment (powder)": {"index": 2, "color": "#023047"},
+    "condiment (bulk)": {"index": 3, "color": "#264653"},
+    "condiment (liquid)": {"index": 4, "color": "#005f73"},
+    "protein": {"index": 5, "color": "#0a9396"},
+    "vegetable": {"index": 6, "color": "#94d2bd"},
+    "fruit": {"index": 7, "color": "#e9d8a6"},
+    "mushroom/fungus": {"index": 8, "color": "#ee9b00"},
+    "carbonhydrates": {"index": 9, "color": "#ca6702"},
+    "processed food": {"index": 10, "color": "#bb3e03"},
+    "beverage": {"index": 11, "color": "#ae2012"},
+    "other": {"index": 12, "color": "#9b2226"}
 }
 
 const recipeColor = (category) => {
@@ -70,7 +70,7 @@ const ingredients = data.ingredients.map(d => Object.create(d));
 const nodes = [...recipes, ...ingredients];
 nodes.map(d => {
     d.x = (d.type === "recipe") ? width / 5 : width - width / 5;
-    d.y = (d.type === "recipe") ? recipeIndex(d.category) / 11 * height : ingredientIndex(d.category) / 12 * height;
+    d.y = (d.type === "recipe") ? recipeIndex(d.category) / 12.5 * height : ingredientIndex(d.category) / 14 * height;
 });
 
 svg
@@ -115,7 +115,7 @@ const simulation = d3.forceSimulation()
     .force("link", d3.forceLink().id(d => d.id).strength(0.01))
     .force("charge", d3.forceManyBody())
     .force("x", d3.forceX(d => (d.type === "recipe") ? width / 5 : width - width / 5).strength(2))
-    .force("y", d3.forceY(d => (d.type === "recipe") ? recipeIndex(d.category) / 11 * height : ingredientIndex(d.category) / 12 * height).strength(1))
+    .force("y", d3.forceY(d => (d.type === "recipe") ? recipeIndex(d.category) / 12.5 * height : ingredientIndex(d.category) / 14 * height).strength(1))
     .force("collide", d3.forceCollide().radius(d => nodeRadius(d) + 1).iterations(2))
     .alpha(0.1);
 

@@ -6,7 +6,7 @@ d3.select("body")
   .style("background","#fefefe");
 
 
-const ref_width = 2480;
+const ref_width = 1860;
 const ref_height = 1200;
 
 // Sub-tooltip on mouseover displaying dish names

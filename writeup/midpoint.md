@@ -13,7 +13,7 @@ Mid-point delivery: work in progress submission where most of the visualizations
 
 Our midpoint submission consists of two major parts:
 
-- The [`index.html`](../index.html) page contains five separate visualizations, which will be discussed in the following sections.
+- The [`index.html`](../index-midpoint.html) page contains five separate visualizations, which will be discussed in the following sections.
 - The [`midpoint.md`](midpoint.md) includes our development status quo of the project and our next steps.
 
 ## 1. The Core Network

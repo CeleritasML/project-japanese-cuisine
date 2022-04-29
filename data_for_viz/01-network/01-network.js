@@ -6,6 +6,10 @@
 
 d3.select('body')
     .style("background-color", "#fffff8")
+    .append('defs')
+    .append('style')
+    .attr('type', 'text/css')
+    .text("@import url('https://fonts.googleapis.com/css?family=Roboto Mono');");
 svg.style("background-color", "#fffff8")
 
 // nodes map

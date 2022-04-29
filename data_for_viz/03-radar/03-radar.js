@@ -86,6 +86,7 @@ axis.append("line")
 axis.append("text")
     .attr("class", "legend")
     .style("font-size", "11px")
+    .style("font-family", "Roboto Mono")
     .attr("text-anchor", "middle")
     .attr("dy", "0.35em")
     .attr("x", (d, i) => radius_scale(max_value * 1.25) * Math.cos(angle * i - Math.PI / 2))
@@ -138,6 +139,7 @@ legend_area
     .attr("y", height / 10 - 20)
     .attr("fill", "#090909")
     .text("Legend of Recipes")
+    .style("font-family", "Roboto Mono")
 
 const legend_wrapper = legend_area
     .selectAll(".legend-wrapper")
@@ -160,6 +162,7 @@ const legend_text = legend_wrapper
     .attr("x", width / 20 + 20)
     .attr("y", (d, i) => height / 10 + i * 20)
     .attr("text-anchor", "left")
+    .style("font-family", "Roboto Mono")
     .style("alignment-baseline", "middle");
 
 let is_clicked = false;

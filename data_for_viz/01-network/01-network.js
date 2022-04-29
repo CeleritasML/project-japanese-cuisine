@@ -163,7 +163,8 @@ const tooltip = d3.select("body").append("div")
     .attr("class", "svg-tooltip")
     .style("position", "absolute")
     .style("visibility", "hidden")
-    .text("I'm a circle!");
+    .text("I'm a circle!")
+    .style("font-family", "Roboto Mono");
 
 const recipe_legend_area = svg.append("g");
 const ingredient_legend_area = svg.append("g");
@@ -175,6 +176,7 @@ recipe_legend_area
     .attr("font-size", 22 * width / ref_width)
     .attr("fill", "#090909")
     .text("Legend of Recipes")
+    .style("font-family", "Roboto Mono")
 
 ingredient_legend_area
     .append("text")
@@ -183,6 +185,7 @@ ingredient_legend_area
     .attr("font-size", 22 * width / ref_width)
     .attr("fill", "#090909")
     .text("Legend of Ingredients")
+    .style("font-family", "Roboto Mono")
 
 const recipe_legend_wrapper = recipe_legend_area
     .selectAll(".recipe-legend-wrapper")
@@ -213,6 +216,7 @@ const recipe_legend_text = recipe_legend_wrapper
     .attr("y", (d, i) => height / 10 + i * 20 * height / ref_height)
     .attr("font-size", 18 * width / ref_width)
     .attr("text-anchor", "left")
+    .style("font-family", "Roboto Mono")
     .style("alignment-baseline", "middle");
 
 const ingredient_legend_circle = ingredient_legend_wrapper
@@ -230,6 +234,7 @@ const ingredient_legend_text = ingredient_legend_wrapper
     .attr("y", (d, i) => height / 10 + i * 20 * height / ref_height)
     .attr("font-size", 18 * width / ref_width)
     .attr("text-anchor", "left")
+    .style("font-family", "Roboto Mono")
     .style("alignment-baseline", "middle");
 
 const mouseOverFunction = (e, d) => {

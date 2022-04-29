@@ -4,6 +4,10 @@
 //
 // largely inspired by this awesome blog: https://blog.risingstack.com/tutorial-d3-js-calendar-heatmap/
 
+d3.select('body')
+    .style("background-color", "#fffff8")
+svg.style("background-color", "#fffff8")
+
 // nodes map
 let nodesById = {};
 data.recipes.forEach(d => {

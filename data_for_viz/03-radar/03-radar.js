@@ -4,9 +4,9 @@
 //
 // largely inspired by this awesome blog: https://blog.risingstack.com/tutorial-d3-js-calendar-heatmap/
 
-svg
-    .attr("height", height)
-    .attr("width", width);
+d3.select('body')
+    .style("background-color", "#fffff8")
+svg.style("background-color", "#fffff8")
 
 const recipeDict = {
     "appetizer": {"index": 1, "color": "#f94144"},

@@ -1,10 +1,8 @@
 // Set background color
-svg.attr("height", height)
-  .attr("width", width)
-  .style("background","#fefefe");
-d3.select("body")
-  .style("background","#fefefe");
 
+d3.select('body')
+    .style("background-color", "#fffff8")
+svg.style("background-color", "#fffff8")
 
 const ref_width = 1860;
 const ref_height = 1200;
@@ -192,10 +190,10 @@ const simulation = d3.forceSimulation()
 svg.append("text")
     .attr("x", 10)
     .attr("y", 7 * height / 20 + 12)
-    .text("Recommeneded level \u2192")
+    .text("Recommended level \u2192")
     .style("font-family", "Roboto Mono")
     .style("font-weight", "bold")
-    .style("font-size", 20 * width / ref_width);
+    .style("font-size", 14 * width / ref_width);
 
 svg.selectAll("xaxis")
   .data(sectors)

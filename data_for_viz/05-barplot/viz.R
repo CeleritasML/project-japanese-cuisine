@@ -24,22 +24,24 @@ dat2$origin <- 'Japanese exclusive'
 
 generate_plot <- function(){
   fig1 <- dat1 |> 
-    plot_ly(x = ~name, y = ~freq, type = 'bar', name = ~origin) |>
+    plot_ly(x = ~name, y = ~freq, type = 'bar', name = ~origin, color = ~origin,
+            colors = c("#f9c74f", "#577590", "#d3d3d3")) |>
     layout() 
   
   fig2 <- dat2 |> 
-    plot_ly(x = ~name, y = ~clicks, type = "box", showlegend = F) |>
-    layout(title = list(text = "Weekly Click Rate Distributions over 5 Years"))
+    plot_ly(x = ~name, y = ~clicks, type = "box", showlegend = F, color = ~origin,
+            colors = "#577590") |>
+    layout()
   
   fig <- subplot(fig1, fig2, nrows = 2, shareX = TRUE) %>% 
     layout(title = list(text = "A comparison: most recurring ingredients in Japanese recipes vs Google search rates",
                         xanchor = 'center',
                         pad = list(b = 5, l = 5, r = 5, t = 5)),
            
-           plot_bgcolor='#e5ecf6', 
+           plot_bgcolor='#fffff8', 
            
            legend = list(title = list(text = 'Ingredient Category'),
-                         bgcolor = "#E2E2E2",
+                         bgcolor = "#fffff8",
                          bordercolor = '#000',
                          groupclick = 'toggleitem',
                          xanchor = 'left',
@@ -48,14 +50,14 @@ generate_plot <- function(){
                          y = 0.95),
            
            xaxis = list( 
-             zerolinecolor = '#ffffff', 
+             zerolinecolor = '#111111', 
              zerolinewidth = 2, 
-             gridcolor = '#ffff'), 
+             gridcolor = '#fffff8'), 
            
            yaxis = list( 
-             zerolinecolor = '#ffffff', 
+             zerolinecolor = '#111111', 
              zerolinewidth = 2, 
-             gridcolor = '#ffffff'),
+             gridcolor = '#fffff8'),
            
            margin = list(l = 50, r = 50, b = 100, t = 100, pad = 4),
            
@@ -64,7 +66,7 @@ generate_plot <- function(){
              list( # top plot
                x = 0.5,  
                y = 1.05,  
-               text = "Frequently recurring Japanese ingredients such as mirin, dashi rarely appear in Google searches, indicating low levels of public awareness.",  
+               text = "",  
                xref = "paper",  
                yref = "paper",  
                xanchor = "center",  

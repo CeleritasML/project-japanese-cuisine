@@ -104,10 +104,6 @@ data.to_csv("windrose.csv", index=False)
 # # plotting
 
 # plotting with plotly
-import dash
-from dash import dcc, html
-import plotly.graph_objects as go
-import plotly.express as px
 from dash.dependencies import Input, Output
 
 data = pd.read_csv("windrose.csv")

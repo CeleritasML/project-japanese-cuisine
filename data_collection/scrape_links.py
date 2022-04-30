@@ -7,9 +7,10 @@ This file scrapes the hrefs from:
 https://www.justonecookbook.com/categories/recipes/entree/page/<1-31>
 """
 
-from bs4 import BeautifulSoup
-import requests
 import re
+
+import requests
+from bs4 import BeautifulSoup
 
 url_template = 'https://www.justonecookbook.com/categories/recipes/{category}/page/{page}'
 
@@ -17,9 +18,9 @@ url_template = 'https://www.justonecookbook.com/categories/recipes/{category}/pa
 def parse_links(html_soup):
     links = []
     for link_a in html_soup.find_all('a',
-                                attrs={'href': re.compile("^https://"),
-                                       'rel': "entry-image-link"},
-                                class_='featured-image'):
+                                     attrs={'href': re.compile("^https://"),
+                                            'rel': "entry-image-link"},
+                                     class_='featured-image'):
         # attach the actual urls
         links.append(link_a.get('href'))
     return links

@@ -21,4 +21,4 @@ for k, v in temp_res.items():
 with open('radar.json', 'w') as f:
     json.dump({'radar': results}, f, indent=4)
 
-#%%
+# %%

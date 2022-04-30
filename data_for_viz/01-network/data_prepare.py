@@ -14,7 +14,6 @@ for idx, row in df.iterrows():
 with open('category_synonym.json', 'r') as f:
     category_synonym = json.load(f)
 
-
 path = '../../data'
 
 recipe_categories = ['appetizer', 'beverage', 'breakfast', 'dessert', 'entree', 'salad', 'side', 'soup-stew']

@@ -5,8 +5,10 @@
 if (!require("pacman")) install.packages("pacman")
 pacman::p_load(tidyverse, plotly, htmlwidgets)
 
-dat1 <- read_csv("data_for_viz/05-barplot/ingredients-by-freq.csv")
-dat2 <- read_csv("data_for_viz/05-barplot/japan-timelines.csv")
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+
+dat1 <- read_csv("ingredients-by-freq.csv")
+dat2 <- read_csv("japan-timelines.csv")
 
 dat2 <- dat2 |>
   select(-Week) |>
@@ -112,7 +114,7 @@ generate_plot <- function() {
       ) # end of subplot titles
     ) # end of `layout` configurations
 
-  saveWidget(fig, "data_for_viz/05-barplot/05-barplot.html", selfcontained = T, libdir = "lib")
+  saveWidget(fig, "05-barplot.html", selfcontained = T, libdir = "lib")
 }
 
 generate_plot()
@@ -121,3 +123,5 @@ generate_plot()
 # for the edge case that incorrect font in iframe is loaded.
 
 # <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto Mono:300,400,600,700" />
+
+setwd("../../")

@@ -12,16 +12,18 @@ pacman::p_load(
   geojsonio, htmltools, htmlwidgets
 )
 
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+
 # load previously scraped and cleaned data, replace country names to match
 # the geojson file from topoJSON
 
-dishes <- read_csv("data_for_viz/02-map/international-dishes.csv") |>
+dishes <- read_csv("international-dishes.csv") |>
   mutate(
     name = str_replace(name, "United States", "USA"),
     name = str_replace(name, "Korea, Republic Of", "South Korea")
   )
 
-world <- geojson_read("data_for_viz/02-map/world-110m.geojson", what = "sp")
+world <- geojson_read("world-110m.geojson", what = "sp")
 
 # join two tables together for map drawing
 
@@ -136,4 +138,6 @@ m <- m |>
 
 m
 
-saveWidget(m, file = "data_for_viz/02-map/02-map.html")
+saveWidget(m, file = "02-map.html")
+
+setwd("../../")

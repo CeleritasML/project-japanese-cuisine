@@ -264,10 +264,13 @@ simulation.force("link")
     .links(links);
     
 function tick() {
-      node
+    for (let i = 0; i < 100; i++) {
+        simulation.tick();
+    }
+    node
         .attr("cx", (d) => d.x)
         .attr("cy", (d) => d.y);
-      link
+    link
         .attr("x1", (d) => d.source.x)
         .attr("y1", (d) => d.source.y)
         .attr("x2", (d) => d.target.x)

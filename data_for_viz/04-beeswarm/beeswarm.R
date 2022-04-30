@@ -14,4 +14,3 @@ data <- list("nodes" = df, "links" = links)
 
 viz <- r2d3(data = data_to_json(data), script = "beeswarm_d3.js")
 save_d3_html(viz, "04-beeswarm.html")
-

@@ -37,17 +37,23 @@ international_dishes <- dishes |>
   summarize(total = n()) |>
   filter(!origin %in% c("Japanese", "Other")) |>
   arrange(desc(total))
-  
+
 # add two new columns based on the origin (which are adjectives),
 # we might need country name and shortcode to match the country
 # information in geojson file
 
 international_dishes |>
-  mutate(name = c("United States", "Korea, Republic Of",
-                  "China", "France", "Italy", "Philippines",
-                  "Thailand", "India", "Mexico", "Taiwan"),
-         code = c("USA", "KOR", "CHN", "FRA", "ITA", "PHL",
-                  "THA", "IND", "MEX", "TWN")) |>
+  mutate(
+    name = c(
+      "United States", "Korea, Republic Of",
+      "China", "France", "Italy", "Philippines",
+      "Thailand", "India", "Mexico", "Taiwan"
+    ),
+    code = c(
+      "USA", "KOR", "CHN", "FRA", "ITA", "PHL",
+      "THA", "IND", "MEX", "TWN"
+    )
+  ) |>
   relocate(name, total, code) |>
   select(-origin) |>
   write_csv("data_for_viz/02-map/international-dishes.csv")
@@ -65,30 +71,36 @@ international_dishes_cat <- dishes |>
 # use
 
 international_dishes_cat |>
-  pivot_wider(names_from = category,
-              values_from = total,
-              values_fill = 0) |>
+  pivot_wider(
+    names_from = category,
+    values_from = total,
+    values_fill = 0
+  ) |>
   mutate(
-    name = case_when(origin == "American" ~ "United States",
-                     origin == "Korean" ~ "Korea, Republic Of",
-                     origin == "French" ~ "France",
-                     origin == "Italian" ~ "Italy",
-                     origin == "Chinese" ~ "China",
-                     origin == "Filipino" ~ "Philippines",
-                     origin == "Indian" ~ "India",
-                     origin == "Mexican" ~ "Mexico",
-                     origin == "Taiwanese" ~ "Taiwan",
-                     origin == "Thai" ~ "Thailand"),
-    code = case_when(origin == "American" ~ "USA",
-                     origin == "Korean" ~ "KOR",
-                     origin == "French" ~ "FRA",
-                     origin == "Italian" ~ "ITA",
-                     origin == "Chinese" ~ "CHN",
-                     origin == "Filipino" ~ "PHL",
-                     origin == "Indian" ~ "IND",
-                     origin == "Mexican" ~ "MEX",
-                     origin == "Taiwanese" ~ "TWN",
-                     origin == "Thai" ~ "THA")
+    name = case_when(
+      origin == "American" ~ "United States",
+      origin == "Korean" ~ "Korea, Republic Of",
+      origin == "French" ~ "France",
+      origin == "Italian" ~ "Italy",
+      origin == "Chinese" ~ "China",
+      origin == "Filipino" ~ "Philippines",
+      origin == "Indian" ~ "India",
+      origin == "Mexican" ~ "Mexico",
+      origin == "Taiwanese" ~ "Taiwan",
+      origin == "Thai" ~ "Thailand"
+    ),
+    code = case_when(
+      origin == "American" ~ "USA",
+      origin == "Korean" ~ "KOR",
+      origin == "French" ~ "FRA",
+      origin == "Italian" ~ "ITA",
+      origin == "Chinese" ~ "CHN",
+      origin == "Filipino" ~ "PHL",
+      origin == "Indian" ~ "IND",
+      origin == "Mexican" ~ "MEX",
+      origin == "Taiwanese" ~ "TWN",
+      origin == "Thai" ~ "THA"
+    )
   ) |>
   ungroup() |>
   select(-origin) |>

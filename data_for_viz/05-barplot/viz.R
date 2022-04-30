@@ -34,11 +34,15 @@ generate_plot <- function(){
     layout()
   
   fig <- subplot(fig1, fig2, nrows = 2, shareX = TRUE) %>% 
-    layout(title = list(text = "A comparison: most recurring ingredients in Japanese recipes vs Google search rates",
+    layout(
+        hovermode = "x unified",
+        title = list(text = "<b>A comparison: most recurring ingredients in Japanese recipes vs Google search rates</b>",
                         xanchor = 'center',
-                        pad = list(b = 5, l = 5, r = 5, t = 5)),
+                        pad = list(b = 5, l = 5, r = 5, t = 5),
+                        font = list(family = "Roboto Mono, monospace", size = 20)),
            
-           plot_bgcolor='#fffff8', 
+           plot_bgcolor='#fffff8',
+           paper_bgcolor='#fffff8',
            
            legend = list(title = list(text = 'Ingredient Category'),
                          bgcolor = "#fffff8",
@@ -47,17 +51,23 @@ generate_plot <- function(){
                          xanchor = 'left',
                          yanchor = 'top',
                          x = 0.05,
-                         y = 0.95),
+                         y = 0.95,
+                         font = list(family = "Roboto Mono, monospace")),
            
            xaxis = list( 
-             zerolinecolor = '#111111', 
+             title='',
+             zerolinecolor = '#111111',
              zerolinewidth = 2, 
-             gridcolor = '#fffff8'), 
+             gridcolor = '#fffff8',
+             titlefont = list(family = "Roboto Mono, monospace", size = 14),
+             tickfont = list(family = "Roboto Mono, monospace", size = 14)), 
            
            yaxis = list( 
              zerolinecolor = '#111111', 
              zerolinewidth = 2, 
-             gridcolor = '#fffff8'),
+             gridcolor = '#fffff8',
+             titlefont = list(family = "Roboto Mono, monospace", size = 14),
+             tickfont = list(family = "Roboto Mono, monospace", size = 14)),
            
            margin = list(l = 50, r = 50, b = 100, t = 100, pad = 4),
            
@@ -81,7 +91,8 @@ generate_plot <- function(){
                yref = "paper",  
                xanchor = "center",  
                yanchor = "bottom",  
-               showarrow = FALSE 
+               showarrow = FALSE,
+               font = list(family = "Roboto Mono, monospace", size = 18)
              ),  
              list( 
                x = 0.5,  
@@ -91,7 +102,8 @@ generate_plot <- function(){
                yref = "paper",  
                xanchor = "center",  
                yanchor = "bottom",  
-               showarrow = FALSE 
+               showarrow = FALSE,
+               font = list(family = "Roboto Mono, monospace", size = 18)
              )) # end of subplot titles
            
     ) # end of `layout` configurations 

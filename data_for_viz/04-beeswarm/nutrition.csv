@@ -379,7 +379,7 @@ id,name,type,nutrition,value,unit,url,value_level
 378,Japanese Yuzu Cocktail (Yuzu Chuhai),beverage,Sodium,37,mg,https://www.justonecookbook.com/wp-content/uploads/2012/07/Yuzu-Chuhai-w600-2-400x400.jpg,-2.3805466344637574
 379,Japanese Yuzu Cocktail (Yuzu Chuhai),beverage,Potassium,30,mg,https://www.justonecookbook.com/wp-content/uploads/2012/07/Yuzu-Chuhai-w600-2-400x400.jpg,-3.1498829533812494
 380,Japanese Yuzu Cocktail (Yuzu Chuhai),beverage,Calcium,10,mg,https://www.justonecookbook.com/wp-content/uploads/2012/07/Yuzu-Chuhai-w600-2-400x400.jpg,-2.995732273553991
-381,Anpan,breakfast,Calories,277,kcal,https://www.justonecookbook.com/wp-content/uploads/2016/01/Anpan-400x400.jpg,-0.36744704092064345
+381,Anpan,breakfast,Calories,277,kcal,https://www.justonecookbook.com/wp-content/uploads/2016/01/Anpan-400x400.jpg,-0.3674470409206435
 382,Anpan,breakfast,Protein,8,g,https://www.justonecookbook.com/wp-content/uploads/2016/01/Anpan-400x400.jpg,-0.2231435513142097
 383,Anpan,breakfast,Sodium,196,mg,https://www.justonecookbook.com/wp-content/uploads/2016/01/Anpan-400x400.jpg,-0.7133498878774648
 384,Anpan,breakfast,Potassium,222,mg,https://www.justonecookbook.com/wp-content/uploads/2016/01/Anpan-400x400.jpg,-1.1484029531711253
@@ -854,7 +854,7 @@ id,name,type,nutrition,value,unit,url,value_level
 853,Matcha and White Chocolate Truffles,dessert,Sodium,9,mg,https://www.justonecookbook.com/wp-content/uploads/2011/11/Matcha-and-White-Chocolate-Truffles-400x400.png,-3.7942399697717626
 854,Matcha and White Chocolate Truffles,dessert,Potassium,36,mg,https://www.justonecookbook.com/wp-content/uploads/2011/11/Matcha-and-White-Chocolate-Truffles-400x400.png,-2.967561396587295
 855,Matcha and White Chocolate Truffles,dessert,Calcium,20,mg,https://www.justonecookbook.com/wp-content/uploads/2011/11/Matcha-and-White-Chocolate-Truffles-400x400.png,-2.3025850929940455
-856,Matcha Basque Burnt Cheesecake,dessert,Calories,277,kcal,https://www.justonecookbook.com/wp-content/uploads/2020/12/Matcha-Basque-Burnt-Cheesecake-2596-I-1-500x500.jpg,-0.36744704092064345
+856,Matcha Basque Burnt Cheesecake,dessert,Calories,277,kcal,https://www.justonecookbook.com/wp-content/uploads/2020/12/Matcha-Basque-Burnt-Cheesecake-2596-I-1-500x500.jpg,-0.3674470409206435
 857,Matcha Basque Burnt Cheesecake,dessert,Protein,5,g,https://www.justonecookbook.com/wp-content/uploads/2020/12/Matcha-Basque-Burnt-Cheesecake-2596-I-1-500x500.jpg,-0.6931471805599453
 858,Matcha Basque Burnt Cheesecake,dessert,Sodium,138,mg,https://www.justonecookbook.com/wp-content/uploads/2020/12/Matcha-Basque-Burnt-Cheesecake-2596-I-1-500x500.jpg,-1.0642108619507773
 859,Matcha Basque Burnt Cheesecake,dessert,Potassium,81,mg,https://www.justonecookbook.com/wp-content/uploads/2020/12/Matcha-Basque-Burnt-Cheesecake-2596-I-1-500x500.jpg,-2.156631180370966

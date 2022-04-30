@@ -5,9 +5,8 @@
 if (!require("pacman")) install.packages("pacman")
 pacman::p_load(tidyverse, plotly, htmlwidgets)
 
-setwd("./data_for_viz/05-barplot/")
-dat1 <- read_csv("ingredients-by-freq.csv")
-dat2 <- read_csv("japan-timelines.csv")
+dat1 <- read_csv("data_for_viz/05-barplot/ingredients-by-freq.csv")
+dat2 <- read_csv("data_for_viz/05-barplot/japan-timelines.csv")
 
 dat2 <- dat2 |>
   select(-Week) |>
@@ -113,7 +112,7 @@ generate_plot <- function() {
       ) # end of subplot titles
     ) # end of `layout` configurations
 
-  saveWidget(fig, "05-barplot.html", selfcontained = T, libdir = "lib")
+  saveWidget(fig, "data_for_viz/05-barplot/05-barplot.html", selfcontained = T, libdir = "lib")
 }
 
 generate_plot()

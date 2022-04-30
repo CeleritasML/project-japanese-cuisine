@@ -2,7 +2,7 @@ library(rjson)
 library(rstudioapi)
 library(tidyverse)
 ## This ensures the working directory to change to where the code file is.
-setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+# setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 folders <- c("appetizer", "beverage", "breakfast", "dessert", "salad", "side", "soup-stew", "entree")
 df <- data.frame(matrix(ncol = 7, nrow = 0))
@@ -14,7 +14,7 @@ colnames(links) <- y
 interested_nutritions <- c("Calories", "Protein", "Sodium", "Potassium", "Calcium")
 recipes_available <- 0
 for (folder in folders) {
-  files <- list.files(path = paste("../../data/", folder, sep = ""), full.names = T)
+  files <- list.files(path = paste("data/", folder, sep = ""), full.names = T)
   for (file in files) {
     json_data <- fromJSON(file = file)
     id <- NULL
@@ -79,6 +79,6 @@ for (i in 1:5) {
 df_final <- df_final[order(df_final$id), ]
 
 df_final <- as_tibble(df_final)
-write_csv(df_final, "nutrition.csv")
+write_csv(df_final, "data_for_viz/04-beeswarm/nutrition.csv")
 links <- as_tibble(links)
-write_csv(links, "links.csv")
+write_csv(links, "data_for_viz/04-beeswarm/links.csv")

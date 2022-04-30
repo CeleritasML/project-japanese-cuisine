@@ -107,3 +107,10 @@ em {
     height: 100vh;
     border: 0;
 }
+
+.map-container {
+    width: 100%;
+    height: 100vh;
+    border: 0;
+    max-height: 100%;
+}

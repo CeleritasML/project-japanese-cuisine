@@ -2,10 +2,8 @@
 ### This file generates the fifth visualization 05-barplot.
 ###
 
-library(tidyverse)
-library(plotly)
-library(htmlwidgets)
-
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(tidyverse, plotly, htmlwidgets)
 
 setwd("./data_for_viz/05-barplot/")
 dat1 <- read_csv("ingredients-by-freq.csv")
@@ -119,3 +117,8 @@ generate_plot <- function() {
 }
 
 generate_plot()
+
+# Manually Add a line of html in the generated 05-barplot.html
+# for the edge case that incorrect font in iframe is loaded.
+
+# <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto Mono:300,400,600,700" />

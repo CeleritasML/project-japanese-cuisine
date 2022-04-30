@@ -145,7 +145,7 @@ const node = baseGroup.append("g")
     .attr("fill", nodeColor);
 
 function ticked() {
-    for (let i = 0; i < 20; i++) {
+    for (let i = 0; i < 100; i++) {
         simulation.tick();
     }
     link

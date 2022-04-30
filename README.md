@@ -1,5 +1,7 @@
 # ANLY 503 Project: Interactive, Data-driven Visual Narrative
 
+![thumbnail](writeup/final/thumbnail.png)
+
 ## Project Overview and Objective
 
 Over the rest of the semester, you will work towards creating an interactive, data-driven story. To extract value from large and complex datasets, data visuals have evolved over the past decade from static charts and graphs to interactive and immersive visuals that tell a story. This allows the audience to modify elements of the data being presented and manipulate the graphical representation. Static charts and graphs do not have the capability to adjust the visual, such as hovering, sorting and scaling. Interactive visualizations allow users to generate transformative insights, identify relationships, view trends and create meaningful stories through data.

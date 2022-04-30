@@ -26,7 +26,7 @@ const ref_height = 1200;
 
 const all_recipe_category = ["appetizer", "beverage", "breakfast", "dessert", "entree", "salad", "side", "soup-stew"];
 const all_ingredient_category = ["condiment (powder)", "condiment (bulk)", "condiment (liquid)", "protein", "vegetable",
-                            "fruit", "mushroom/fungus", "carbonhydrates", "processed food", "beverage", "other"];
+    "fruit", "mushroom/fungus", "carbonhydrates", "processed food", "beverage", "other"];
 const recipeDict = {
     "appetizer": {"index": 2, "color": "#f94144"},
     "beverage": {"index": 2.8, "color": "#f3722c"},
@@ -198,15 +198,15 @@ const recipe_legend_wrapper = recipe_legend_area
     .selectAll(".recipe-legend-wrapper")
     .data(all_recipe_category)
     .enter()
-        .append("g")
-        .attr("class", "recipe-legend-wrapper");
+    .append("g")
+    .attr("class", "recipe-legend-wrapper");
 
 const ingredient_legend_wrapper = ingredient_legend_area
     .selectAll(".ingredient-legend-wrapper")
     .data(all_ingredient_category)
     .enter()
-        .append("g")
-        .attr("class", "ingredient-legend-wrapper");
+    .append("g")
+    .attr("class", "ingredient-legend-wrapper");
 
 const recipe_legend_circle = recipe_legend_wrapper
     .append("circle")
@@ -311,7 +311,7 @@ const mouseClickFunction = (e, d) => {
 node.on('mouseover', mouseOverFunction)
     .on('mouseout', mouseOutFunction)
     .on('click', mouseClickFunction)
-    .on('mousemove', (e) => tooltip.style("top", (e.pageY-10)+"px").style("left",(e.pageX+10)+"px"));
+    .on('mousemove', (e) => tooltip.style("top", (e.pageY - 10) + "px").style("left", (e.pageX + 10) + "px"));
 
 recipe_legend_wrapper.on('click', function (e, i) {
     clickedNodes = r2i_dict[i]['node'];

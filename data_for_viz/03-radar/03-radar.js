@@ -39,11 +39,11 @@ const angle = Math.PI * 2 / all_axis.length;
 const radius_scale = d3.scaleLinear().range([0, max_radius]).domain([0, max_value]);
 const format = d3.format('.2f');
 
-const filter = g.append('defs').append('filter').attr('id','glow'),
-    feGaussianBlur = filter.append('feGaussianBlur').attr('stdDeviation','2.5').attr('result','coloredBlur'),
+const filter = g.append('defs').append('filter').attr('id', 'glow'),
+    feGaussianBlur = filter.append('feGaussianBlur').attr('stdDeviation', '2.5').attr('result', 'coloredBlur'),
     feMerge = filter.append('feMerge'),
-    feMergeNode_1 = feMerge.append('feMergeNode').attr('in','coloredBlur'),
-    feMergeNode_2 = feMerge.append('feMergeNode').attr('in','SourceGraphic');
+    feMergeNode_1 = feMerge.append('feMergeNode').attr('in', 'coloredBlur'),
+    feMergeNode_2 = feMerge.append('feMergeNode').attr('in', 'SourceGraphic');
 
 // grid & axis
 
@@ -52,31 +52,31 @@ const axisGrid = g.append("g").attr("class", "axisWrapper");
 axisGrid.selectAll(".levels")
     .data(d3.range(1, radius_level + 1).reverse())
     .enter()
-        .append("circle")
-        .attr("class", "gridCircle")
-        .attr("r", (d, i) => max_radius / radius_level * d)
-        .style("fill", "#CDCDCD")
-        .style("stroke", "#CDCDCD")
-        .style("fill-opacity", 0.1)
-        .style("filter" , "url(#glow)");
+    .append("circle")
+    .attr("class", "gridCircle")
+    .attr("r", (d, i) => max_radius / radius_level * d)
+    .style("fill", "#CDCDCD")
+    .style("stroke", "#CDCDCD")
+    .style("fill-opacity", 0.1)
+    .style("filter", "url(#glow)");
 
 axisGrid.selectAll(".axisLabel")
     .data(d3.range(1, radius_level + 1).reverse())
     .enter()
-        .append("text")
-        .attr("class", "axisLabel")
-        .attr("x", 4)
-        .attr("y", d => -d * max_radius / radius_level)
-        .attr("dy", "0.4em")
-        .style("font-size", "10px")
-        .attr("fill", "#737373")
-        .text((d, i) => format(max_value * d / radius_level));
+    .append("text")
+    .attr("class", "axisLabel")
+    .attr("x", 4)
+    .attr("y", d => -d * max_radius / radius_level)
+    .attr("dy", "0.4em")
+    .style("font-size", "10px")
+    .attr("fill", "#737373")
+    .text((d, i) => format(max_value * d / radius_level));
 
 const axis = axisGrid.selectAll(".axis")
     .data(all_axis)
     .enter()
-        .append("g")
-        .attr("class", "axis");
+    .append("g")
+    .attr("class", "axis");
 
 axis.append("line")
     .attr("x1", 0)
@@ -106,8 +106,8 @@ const radar_line = d3.lineRadial()
 const blob_wrapper = g.selectAll(".radar-wrapper")
     .data(ddata)
     .enter()
-        .append("g")
-        .attr("class", d => "radar-wrapper radar-wrapper-" + d[0].category);
+    .append("g")
+    .attr("class", d => "radar-wrapper radar-wrapper-" + d[0].category);
 
 const backgrounds = blob_wrapper
     .append("path")
@@ -122,18 +122,18 @@ const outline = blob_wrapper.append("path")
     .style("stroke-width", "1.25px")
     .style("stroke", (d, i) => recipeColor(d[0].category))
     .style("fill", "none")
-    .style("filter" , "url(#glow)");
+    .style("filter", "url(#glow)");
 
 const circle = blob_wrapper.selectAll(".radar-circle")
     .data((d, i) => d)
     .enter()
-        .append("circle")
-        .attr("class", "radar-circle")
-        .attr("r", 3)
-        .attr("cx", (d, i) => radius_scale(d.value) * Math.cos(angle * i - Math.PI / 2))
-        .attr("cy", (d, i) => radius_scale(d.value) * Math.sin(angle * i - Math.PI / 2))
-        .style("fill", (d, i) => recipeColor(d.category))
-        .style("fill-opacity", 0.8);
+    .append("circle")
+    .attr("class", "radar-circle")
+    .attr("r", 3)
+    .attr("cx", (d, i) => radius_scale(d.value) * Math.cos(angle * i - Math.PI / 2))
+    .attr("cy", (d, i) => radius_scale(d.value) * Math.sin(angle * i - Math.PI / 2))
+    .style("fill", (d, i) => recipeColor(d.category))
+    .style("fill-opacity", 0.8);
 
 const legend_area = svg.append("g");
 
@@ -149,8 +149,8 @@ const legend_wrapper = legend_area
     .selectAll(".legend-wrapper")
     .data(all_category)
     .enter()
-        .append("g")
-        .attr("class", "legend-wrapper");
+    .append("g")
+    .attr("class", "legend-wrapper");
 
 const legend_circle = legend_wrapper
     .append("circle")
@@ -175,7 +175,7 @@ legend_wrapper
     .on("mouseover", function (d, i) {
         if (is_clicked) return;
         blob_wrapper
-            .each(function(o) {
+            .each(function (o) {
                 if (o[0].category === i) d3.select(this).raise();
             });
         backgrounds
@@ -191,7 +191,7 @@ legend_wrapper
     .on("click", function (d, i) {
         d.stopPropagation();
         blob_wrapper
-            .each(function(o) {
+            .each(function (o) {
                 if (o[0].category === i) d3.select(this).raise();
             });
         backgrounds
@@ -200,13 +200,12 @@ legend_wrapper
         is_clicked = true;
     });
 
-svg.
-    on("click", function (d, i) {
-        backgrounds
-            .transition().duration(200)
-            .style("fill-opacity", 0.1);
-        is_clicked = false;
-    });
+svg.on("click", function (d, i) {
+    backgrounds
+        .transition().duration(200)
+        .style("fill-opacity", 0.1);
+    is_clicked = false;
+});
 
 svg.append("text")
     .attr("x", "50%")

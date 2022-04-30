@@ -57,7 +57,7 @@ const links = data.links.map(d => Object.create(d));
 const status = new Array(nodes.length).fill(0);
 
 // Set X axis and labels
-const sectors = Array.from(new Set(nodes.map((d) => d.nutrition)));
+const sectors = Array.from(new Set(nodes.map(d => d.nutrition)));
 const dishtype = ["appetizer", "beverage", "breakfast", "dessert", "entree", "salad", "side", "soup-stew"];
 const xScale = d3
     .scalePoint()
@@ -84,7 +84,7 @@ nodes.map(d => {
 const color = d3.scaleOrdinal().domain(dishtype).range(["#f94144", "#f3722c", "#f8961e", "#f9c74f", "#90be6d", "#43aa8b", "#4d908e", "#577590"]);
 
 // Control node size by their values
-const valueDomain = d3.extent(nodes.map((d) => +d.value));
+const valueDomain = d3.extent(nodes.map(d => +d.value));
 const size = d3.scaleSqrt().domain(valueDomain).range([3 * width / ref_width, 8 * width / ref_width]);
 
 // Draw edges between nodes of same dish
@@ -106,9 +106,9 @@ const node = svg.append("g")
     .enter()
     .append("circle")
     .attr("class", "circ")
-    .attr("fill", (d) => color(d.type))
-    .attr("r", (d) => size(d.value))
-    .on("mouseout", function (event, d) {
+    .attr("fill", d => color(d.type))
+    .attr("r", d => size(d.value))
+    .on("mouseout", (e, d) => {
         div.transition().duration(200)
             .style('opacity', 0);
         if (is_clicked) return;
@@ -119,7 +119,7 @@ const node = svg.append("g")
             .style("stroke-width", o => (status[data.links[o.index].source] !== 1) ? 0.1 : 2)
             .style("stroke-opacity", o => (status[data.links[o.index].source] !== 1) ? 0.5 : 1);
     })
-    .on("mouseover", function (event, d) {
+    .on("mouseover", (e, d) => {
         div.style('opacity', 1);
         div.html(d.name)
             .style('left', event.pageX + 10 + 'px')
@@ -134,8 +134,8 @@ const node = svg.append("g")
             .style("stroke-width", o => (status[data.links[o.index].source] === 1) ? 2 : ((d.name == o.value) ? 1.5 : 0.1))
             .style("stroke-opacity", o => (status[data.links[o.index].source] === 1) ? 1 : ((d.name == o.value) ? 1 : 0));
     })
-    .on("click", function (event, d) {
-        event.stopPropagation();
+    .on("click", (e, d) => {
+        e.stopPropagation();
         status.fill(0);
         node.each(o => {
             if (d.name == node.name) status[node.id] = 1;
@@ -268,11 +268,11 @@ function tick() {
         simulation.tick();
     }
     node
-        .attr("cx", (d) => d.x)
-        .attr("cy", (d) => d.y);
+        .attr("cx", d => d.x)
+        .attr("cy", d => d.y);
     link
-        .attr("x1", (d) => d.source.x)
-        .attr("y1", (d) => d.source.y)
-        .attr("x2", (d) => d.target.x)
-        .attr("y2", (d) => d.target.y);
+        .attr("x1", d => d.source.x)
+        .attr("y1", d => d.source.y)
+        .attr("x2", d => d.target.x)
+        .attr("y2", d => d.target.y);
 }

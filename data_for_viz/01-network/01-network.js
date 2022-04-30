@@ -311,7 +311,7 @@ const mouseClickFunction = (e, d) => {
 node.on('mouseover', mouseOverFunction)
     .on('mouseout', mouseOutFunction)
     .on('click', mouseClickFunction)
-    .on('mousemove', (e) => tooltip.style("top", (e.pageY - 10) + "px").style("left", (e.pageX + 10) + "px"));
+    .on('mousemove', e => tooltip.style("top", (e.pageY - 10) + "px").style("left", (e.pageX + 10) + "px"));
 
 recipe_legend_wrapper.on('click', function (e, i) {
     clickedNodes = r2i_dict[i]['node'];

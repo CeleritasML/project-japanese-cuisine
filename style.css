@@ -101,16 +101,18 @@ blockquote p {
 
 .author-container {
     position: absolute;
-    bottom: 5vh;
-    right: 5vw;
+    margin-top: 10em;
+    left: 10%;
 }
 
 .author {
     line-height: 1;
-    text-align: right;
-    font-size: 1em;
+    text-align: left;
+    font-size: 0.875rem;
     font-family: Lato, sans-serif;
     letter-spacing: 0.1em;
+    letter-spacing: 0.25em;
+    margin-bottom: 0.8em;
 }
 
 .embed-container {

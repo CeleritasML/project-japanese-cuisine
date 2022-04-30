@@ -119,10 +119,10 @@ m <- m |>
     title = NULL,
     position = "bottomleft"
   ) |>
-  addPopups(137.14, 67.42, paste(
+  addPopups(137.14, 55.42, paste(
     sep = "<br/>",
-    "Out of <b>726</b> recipes,",
-    "<b>113</b> have foreign origins."
+    "<b>113</b> out of <b>726</b>",
+    "recipes have foreign origins."
   ),
   options = labelOptions(
     style = list(

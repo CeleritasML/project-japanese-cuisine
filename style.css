@@ -131,3 +131,7 @@ blockquote p {
     border: 0;
     max-height: 100%;
 }
+
+.leaflet-container {
+    font-family: Roboto Mono, monospace !important;
+}

@@ -24,7 +24,7 @@ const div = d3.select('body')
     .style("border", 0 + "px")
     .style("border-radius", 8 + "px");
 
-// Main-tooltip at corner displaying nutrition information  
+// Main-tooltip at corner displaying nutrition information
 const info = d3.select('body')
     .append('div')
     .attr('class', 'tooltip')
@@ -78,7 +78,7 @@ nodes.map(d => {
     d.x = xScale(d.nutrition) + xType(d.type);
     d.y = yScale(d.value_level);
 })
-// Color nodes by their dish types (appetizer, dessert, etc.)      
+// Color nodes by their dish types (appetizer, dessert, etc.)
 // const color = d3.scaleOrdinal().domain(dishtype).range(d3.schemePaired);
 
 const color = d3.scaleOrdinal().domain(dishtype).range(["#f94144", "#f3722c", "#f8961e", "#f9c74f", "#90be6d", "#43aa8b", "#4d908e", "#577590"]);
@@ -122,8 +122,8 @@ const node = svg.append("g")
     .on("mouseover", (e, d) => {
         div.style('opacity', 1);
         div.html(d.name)
-            .style('left', event.pageX + 10 + 'px')
-            .style('top', event.pageY - 15 + 'px');
+            .style('left', e.pageX + 10 + 'px')
+            .style('top', e.pageY - 15 + 'px');
         if (is_clicked) return;
         node
             .transition().duration(200)

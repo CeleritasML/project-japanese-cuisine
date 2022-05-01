@@ -115,15 +115,19 @@ blockquote p {
     margin-bottom: 0.8em;
 }
 
-.embed-container {
+.iframe-container {
     width: 100%;
+    /* width: 1440px; */
     height: 100vh;
+    /* height: 810px; */
     border: 0;
 }
 
 .map-container {
     width: 100%;
+    /* width: 1440px; */
     height: 100vh;
+    /* height: 810px; */
     border: 0;
     max-height: 100%;
 }

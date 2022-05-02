@@ -1,6 +1,6 @@
 # ANLY 503 Project: Interactive, Data-driven Visual Narrative
 
-![thumbnail](writeup/final/thumbnail.png)
+![thumbnail](thumbnail.png)
 
 ## Project Overview and Objective
 

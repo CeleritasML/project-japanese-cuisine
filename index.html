@@ -49,14 +49,21 @@
                     Please use Chrome or Firefox to view this project, there is a known bug of Safari font rendering in
                     <code>leaflet.container</code>.
                 </blockquote>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                    aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-                    dolore eu
-                    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-                    deserunt mollit anim id est laborum.</p>
+                <p>Japanese food has become trendy in the US. The number of Japanese restaurants in the US has been
+                    growing consistently each year, and with them come swarms of unauthentic representations of Japanese
+                    cuisine. The modern Japanese cuisine, in its authentic form is informed by two things: a rich
+                    national heritage and a long history of cultural exchanges with the outside world. Our
+                    visualizations hope to demonstrate using data science why this statement is true, and why it is the
+                    key to achieving an authentic Japanese flavor.</p>
+                <p>Our main dataset is a web-scraped corpus of authentic Japanese recipes from <b><em><a
+                                href="https://www.justonecookbook.com/about/">Just One Cookbook</a></em></b>, a food
+                    blog
+                    created by
+                    Chef Namiko Hirasawa Chen (Nami) in 2011 with a focus on authentic and modern Japanese recipes.
+                    Supplementary datasets are added on-demand whenever additional information is needed for a
+                    particular data visualization. Through this dataset, we hope reveal what makes a Japanese dish
+                    authentic and present non-static visualizations that a user may interact with for their own personal
+                    inquiry.</p>
             </section>
         </div>
     </div>
@@ -64,16 +71,18 @@
     <div class="page-container page-container-grid-right">
         <div class="narrative">
             <section>
-                <h1>What are the most important Japanese ingredients that fly under the radar in public awareness in the
-                    United States?</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                    aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-                    dolore eu
-                    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-                    deserunt mollit anim id est laborum.</p>
+                <h1>What are the most essential Japanese ingredients, and how much do people know about them in the
+                    US?
+                </h1>
+                <p>Authentic flavors are impossible to achieve without authentic ingredients. Our first visualization is
+                    a compound barplot and boxplot that shows the most frequently used ingredients in Japanese recipes
+                    as well as how popular these ingredients are in US-based Google searches. What is clearly revealed
+                    is that many of the top-40 most used ingredients in Japanese dishes are Japanese exclusive
+                    ingredients and among them, these ingredients have very little public awareness: mirin, dashi,
+                    daikon radish, shiso leaves, katsuobushi, shichimi togarashi, and Tokyo negi. So if you happen to be
+                    a Japanese food connoisseur and you believe that the Japanese dish you are having at a US restaurant
+                    is not authentic, it is very likely that the dish neglected having one of these essential Japanese
+                    ingredients.</p>
             </section>
         </div>
         <iframe class="iframe-container" src="data_for_viz/05-barplot/05-barplot-mod.html"></iframe>
@@ -83,15 +92,13 @@
         <iframe class="iframe-container" src="data_for_viz/01-network/01-network.html"></iframe>
         <div class="narrative">
             <section>
-                <h1>How do ingredients and recipes connect and provide the Japanese flavor?</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                    aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-                    dolore eu
-                    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-                    deserunt mollit anim id est laborum.</p>
+                <h1>How would a Japanese chef use these most essential Japanese ingredients?</h1>
+                <p><em>Just One Cookbook</em> offers over 800 authentic Japanese. Across these recipes, there are 250
+                    main ingredients. We grouped the recipes and the ingredients into their own subcategories (see
+                    legends both left and right) and connected each recipes with ingredients that they contain.</p>
+                <p>This is meant to be a visualization that allows for open-ended inquiry. Hover over or click on an
+                    ingredient, a recipe, or a legend (either left or right) to explore the relationship between recipes
+                    and ingredients in authentic Japanese cuisine.</p>
             </section>
         </div>
     </div>
@@ -99,23 +106,21 @@
     <div class="page-container page-container-grid-right">
         <div class="narrative">
             <section>
-                <h1>How are ingredients arranged for each type of Japanese dishes (e.g. appetizer, entree, etc.)?</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                    aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-                    dolore eu
-                    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-                    deserunt mollit anim id est laborum.</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                    aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-                    dolore eu
-                    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-                    deserunt mollit anim id est laborum.</p>
+                <h1>How do nutrition values of Japanese dishes compare to daily guidance?
+                </h1>
+                <p>Eating a high-protein diet to gain muscles? Eating a low-calory diet to lost weight? Eating a
+                    low-sodium diet for cardiovascular health? Trying to increase potassium or calcium intake? We have
+                    just the visualization for you.</p>
+                <p>
+                    Each node represents a Japanese dish, and the vertical position of each node is relative to the
+                    daily recommended value for the nutritional value specified on the x-axis. We've connected nodes of
+                    same recipe to help you keep track of nutritional values across different types of nutrition.
+                </p>
+                <p>
+                    This is meant to be a visualization that allows for open-ended inquiry. Hover over or click on an
+                    ingredient, a recipe, or a legend (top right) to explore nutritional values for each dish. Clicking
+                    on a recipe will reveal the table of nutritional values for that dish, as well as a thumbnail
+                    picture displayed on the top left.</p>
             </section>
         </div>
         <iframe class="iframe-container" src="data_for_viz/04-beeswarm/04-beeswarm.html"></iframe>
@@ -125,23 +130,20 @@
         <iframe class="iframe-container" src="data_for_viz/03-radar/03-radar.html"></iframe>
         <div class="narrative">
             <section>
-                <h1>What are some nutritional patterns of Japanese cuisine, if any?</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                    aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-                    dolore eu
-                    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-                    deserunt mollit anim id est laborum.</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                    aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-                    dolore eu
-                    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-                    deserunt mollit anim id est laborum.</p>
+                <h1>How are ingredients combined for each type of Japanese dishes (e.g. appetizer, entree, etc.)?
+                </h1>
+                <p>This plot reveals how frequently each category of ingredients is used for each recipe category. Some
+                    insights from this plot include:</p>
+                <ul>
+                    <li>Japanese appetizers like to directly use processed ingredients to minimize cooking time and
+                        effort.</li>
+                    <li>Japanese soups and stews use mushrooms and fungus more frequently than proteins to produce the
+                        base stock. This is pretty unique because for example, American cuisine most frequently use
+                        protein such as chicken or beef to produce stock.</li>
+                    <li>Unlikely American desserts which feature frequent use of processed foods, Japanese desserts use
+                        very little processed ingredients. The base for tart and sweetness come from fruits and
+                        condiments.</li>
+                </ul>
             </section>
         </div>
     </div>
@@ -149,28 +151,52 @@
     <div class="page-container page-container-grid-right">
         <div class="narrative">
             <section>
-                <p>Japanese cuisine is known to be frequently inspired by foreign cuisines.</p>
                 <h1>Where do these sources of
                     inspiration come from?</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                    aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-                    dolore eu
-                    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-                    deserunt mollit anim id est laborum.</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                    aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-                    dolore eu
-                    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-                    deserunt mollit anim id est laborum.</p>
+                <p>Japan's culinary culture is informed by both its rich national heritage and a long history of
+                    cultural exchanges with the outside world. Many only know about the former and indeed, obedience to
+                    heritage and tradition is exemplified in visualizations above. Nevertheless, the cultural openness
+                    of the Japanese culinary tradition can be clearly seen in this choropleth. Our analysis reveals that
+                    <b>almost one out of seven</b> of the collected modern Japanese recipes find its origin in a foreign
+                    country. The top 3 most influential foreign origins are the United States, China, and France.
+                </p>
+                <p>At the same time, this map is an underestimation for the true number of Japanese dishes with foreign
+                    origins. Chef Nami, the author of our dataset made the choice of denoting the foreign origins of a
+                    Japanese dish only if the dish is imported to Japan after World War II, and our visualization is in
+                    accordance with Chef Nami's choice. If a longer period of history is put into consideration, one
+                    would find that many dishes without notes of foreign origin still find their origins abroad. An
+                    example of this is <em><a href="https://en.wikipedia.org/wiki/Tempura#Origins">tempura</a></em>.
+                    This battered and deep-fried vegetarian dish was
+                    introduced to Japan by Portuguese Catholic missionaries in the 16th century, despite the disguise of
+                    a Japanese name and being widely assumed as a native Japanese. We have to give credit to the
+                    Japanese people for their extraordinary history of learning from and internalizing the merits of
+                    foreign cultures. The cultural agility to learn from others isn't just seen in Japan's culinary
+                    traditions, but also in its cultural and political history (see <em><a
+                            href="https://en.wikipedia.org/wiki/Kanji">Chinese characters in
+                            Japanese writing</a></em>, the <em><a
+                            href="https://en.wikipedia.org/wiki/Meiji_Restoration">Meiji Restoration</a></em> which
+                    westernized
+                    Japan's legal system).</p>
             </section>
         </div>
         <iframe class="map-container" src="data_for_viz/02-map/02-map.html"></iframe>
+    </div>
+
+    <div class="page-container page-container-grid-right">
+        <div></div>
+        <div class="narrative">
+            <section>
+                <h1>Outro</h1>
+                <p>As creators of these visualizations, we hope that they help users discover something about Japanese
+                    cuisine that they never knew before. No matter the end user is a food critic or just a curious
+                    reader, we hope that the interactive features also lead you to inquiries and use cases that are
+                    beyond our original design intentions. Lastly, we hope that these data visualizations open for you
+                    an avenue to further inquiry of and appreciation for the richness and complexity in Japan's culinary
+                    traditions. Enjoy!
+                </p>
+                <cite> -- Jingsong, Yu, Chao, Ercong & Rui</cite>
+            </section>
+        </div>
     </div>
 
 </body>

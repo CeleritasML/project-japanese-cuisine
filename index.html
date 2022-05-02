@@ -85,11 +85,17 @@
                     ingredients.</p>
             </section>
         </div>
-        <iframe class="iframe-container" src="data_for_viz/05-barplot/05-barplot-mod.html"></iframe>
+        <figure>
+            <iframe class="iframe-container" src="data_for_viz/05-barplot/05-barplot-mod.html"></iframe>
+            <figurecaption>Figure 1: A comparison - most recurring ingredients in Japanese recipes vs Google search rates</figurecaption>
+        </figure>
     </div>
 
     <div class="page-container page-container-grid-left">
-        <iframe class="iframe-container" src="data_for_viz/01-network/01-network.html"></iframe>
+        <figure>
+            <iframe class="iframe-container" src="data_for_viz/01-network/01-network.html"></iframe>
+            <figurecaption>Figure 2: A network visualization of the relationship between recipes and ingredients in Japanese Dishes</figurecaption>
+        </figure>
         <div class="narrative">
             <section>
                 <h1>How would a Japanese chef use these most essential Japanese ingredients?</h1>
@@ -123,11 +129,17 @@
                     picture displayed on the top left.</p>
             </section>
         </div>
-        <iframe class="iframe-container" src="data_for_viz/04-beeswarm/04-beeswarm.html"></iframe>
+        <figure>
+            <iframe class="iframe-container" src="data_for_viz/04-beeswarm/04-beeswarm.html"></iframe>
+            <figurecaption>Figure 3: A beeswarm plot of common nutrients in Japanese Dishes</figurecaption>
+        </figure>
     </div>
 
     <div class="page-container page-container-grid-left">
-        <iframe class="iframe-container" src="data_for_viz/03-radar/03-radar.html"></iframe>
+        <figure>
+            <iframe class="iframe-container" src="data_for_viz/03-radar/03-radar.html"></iframe>
+            <figurecaption>Figure 4: A radar plot of ingredient usage in Japanese Dishes</figurecaption>
+        </figure>
         <div class="narrative">
             <section>
                 <h1>How are ingredients combined for each type of Japanese dishes (e.g. appetizer, entree, etc.)?
@@ -179,7 +191,10 @@
                     Japan's legal system).</p>
             </section>
         </div>
-        <iframe class="map-container" src="data_for_viz/02-map/02-map.html"></iframe>
+        <figure>
+            <iframe class="map-container" src="data_for_viz/02-map/02-map.html"></iframe>
+            <figurecaption>Figure 5: A choropleth showing foreign origins of Japanese Dishes</figurecaption>
+        </figure>
     </div>
 
     <div class="page-container page-container-grid-right">
@@ -203,11 +218,16 @@
         <div class="narrative">
             <section>
                 <h1>Appendix</h1>
+                <p onclick="revealSBSection()">Click here to reveal method section.</p>
             </section>
         </div>
-        <iframe class="map-container" src="writeup/final.html"></iframe>
+        <iframe class="sb-container" id="sb_section"></iframe>
     </div>
-
+    <script>
+        function revealSBSection() {
+            document.getElementById("sb_section").src = "writeup/final.html";
+        }
+    </script>
 </body>
 
 </html>

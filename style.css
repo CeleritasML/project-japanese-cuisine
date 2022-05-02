@@ -116,20 +116,30 @@ blockquote p {
 }
 
 .iframe-container {
+    background: url(loader.gif) center center no-repeat;
     width: 100%;
     /* width: 1440px; */
-    height: 100vh;
+    height: 95vh;
     /* height: 810px; */
     border: 0;
 }
 
 .map-container {
+    background: url(loader.gif) center center no-repeat;
     width: 100%;
     /* width: 1440px; */
     height: 100vh;
     /* height: 810px; */
     border: 0;
     max-height: 100%;
+}
+
+.sb-container {
+    width: 100%;
+    /* width: 1440px; */
+    height: 100vh;
+    /* height: 810px; */
+    border: 0;
 }
 
 .leaflet-container {

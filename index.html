@@ -225,7 +225,9 @@
     </div>
     <script>
         function revealSBSection() {
-            document.getElementById("sb_section").src = "writeup_archive/final.html";
+            const el = document.getElementById("sb_section");
+            el.style.background = "url(loader.gif) center center no-repeat";
+            el.src = "writeup_archive/final.html";
         }
     </script>
 </body>
